@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.3_0_d898d4e" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>'''Android''' is a [[Linux]]-based operating system for mobile phones and other mobile devices.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20151205T131039Z" creationid="miurahr" creationdate="20151205T131039Z">
+        <seg>'''Android'''は、携帯電話やモバイル機器の[[Linux]]ベースの操作環境です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For general information, see [[Wikipedia:Android_(operating_system)|Wikipedia's page on Android]] or [https://android.com/ android.com].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20151205T131301Z" creationid="miurahr" creationdate="20151205T131301Z">
+        <seg>全般的な情報については、 [[Wikipedia:Android_(operating_system)|WikipediaのAndroidの項]] や [https://android.com/ android.com]を参照してください。</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

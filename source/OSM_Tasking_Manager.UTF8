@@ -1,0 +1,96 @@
+{{Languages}}
+[[File:HOT Tasking Server Job.png|200px|thumb|right|Job in progress on OSM Tasking Manager]]The [http://tasks.hotosm.org/ OSM Tasking Manager] is a mapping tool designed and built for the [[Humanitarian OSM Team]] collaborative mapping. The purpose of the tool is to divide up a mapping job into smaller tasks that can be completed rapidly. It shows which areas need to be mapped and which areas need the mapping validated.
+This approach facilitates the distribution of tasks to the various mappers in a context of emergency. It also permits to control the progress and the homogeinity of the work done (ie. Elements to cover, specific tags to use, etc.).<br>
+<br>
+'''Please see [http://learnosm.org/en/coordination/tasking-manager/ Tasking Manager at LearnOSM]'''  Many sections of this wiki entry are now out of date, and the entry at LearnOSM is more recent & should be referred to.
+<br>
+===Setting up your editor===
+
+To use the Tasking Manager efficiently you may need to setup your editor when you start a new job. 
+
+====iD Editor====
+The task bounding box should display automatically in iD.
+====JOSM  - Setup and Offset DB====
+* [[OSM Tasking Manager/Setting up JOSM|Setting up JOSM]] shows how to enable Remote Control and add new Imagery
+* [[OSM Tasking Manager/Offset_db]] explains how to use the imagery offset database
+* The [[JOSM/Plugins/BuildingsTools|Building Tools]] plugin is recommended when tracing many rectangular buildings.
+
+====Potlatch 2 - Adding Grid Square====
+[[File:Open_vector_p2.png|200px|right]] [[File:Grid in p2.png|400px|right]]
+Potlatch will not automatically display the task bounding box, but you can do so by following this procedure:
+
+# In the Tasking Manager, select a square and click '''Start Mapping''' to lock it
+# In the Tasking Manager, select '''Edit with JOSM''' (if a window appears saying "JOSM remote control did not respond..." just click OK).
+# Below the Edit with JOSM button, text will say "Tip: Download the following .gpx file...". '''Download the .gpx file''', and note where it is saved.
+# In the Tasking Manager, change from Edit with JOSM to '''Edit with Potlatch 2'''. Potlatch should open in a new tab.
+# In Potlatch, select '''Background''', then '''Vector File...'''
+# In the Load Vector File window, at the bottom next to File, click '''Open''', and navigate to the .gpx file you just downloaded
+# In the Load Vector File window, make sure the box is checked in the Show column for the .gpx file, then close the window
+# Potlatch should now display the boundary as a square (probably cyan). Note that Potlatch will still load data outside the boundary.
+
+[[file:TM_myprojects.png|right|500px]]
+
+===Feedback from the validator===
+
+To see only the projects you have already worked on, tick the 'Your projects' box.<br clear=all>
+
+====Locating just the squares (Tasks) you have completed====
+[[file:TM_myprojects_1.png|right|800px]]
+Click on the heading for one of the projects you have completed a square(s) for , then click on the Stats tab, and scroll down until you can see the users that have worked on this project, locate your user name in the list, and hover the mouse pointer (don't click, just put the cursor over) over your username. All of the squares that have been completed will fade, leaving only your squares visible. Move the mouse over the the square you completed, then click on the square & you can see all the comments relating to that square.
+If the square is green, it has been validated & the validators comments / feedback are visible to you. There may be links for you to follow if any feedback is being given.
+
+===Validating a task===
+Please see [[OSM_Tasking_Manager/Validating_data]]
+
+==Further Help==
+[[File:HOT Tasking Server Job.png|200px|thumb|right|Job in progress on OSM Tasking Manager]]
+If you need further help on mapping an area see:
+* [http://www.learnosm.org LearnOSM] 
+* [[Map_Features]]
+
+==Beginners Guides to mapping with H.O.T==
+[[File:LearnOSM.png|800px]]<br>
+<br>
+[http://learnosm.org/en/ LearnOSM] is the principle guide recommended by HOT. As well as overviews of the process there are specific sections on;
+* [http://learnosm.org/en/beginner/start-josm/ Getting Started with JOSM],
+* [http://learnosm.org/en/beginner/more-about-josm/ The JOSM editing process],
+* [http://learnosm.org/en/editing/id-editor/ iD Editor] ''(There is also a demonstration of using iD at [http://mapgive.state.gov/ MapGive] If you use this, please note that highways & paths should physically join together / share a common node - the demonstration in the website does not make this clear)'' 
+* [http://learnosm.org/en/beginner/using-gps/ Surveying with a GPS],
+* [http://learnosm.org/en/beginner/field-papers/ Field Papers],
+* [http://learnosm.org/en/beginner/editing-with-josm/ Editing with JOSM using the Field Papers imagery], 
+* [http://learnosm.org/en/coordination/tasking-manager/ HOT Tasking Manager].
+* several 'more advanced' subjects relating to editing & using the data, and
+* resources for teachers, lecturers and those organizing a workshop.
+
+
+In development & mainly dealing with JOSM, but also includes information which will be useful when using the iD editor, guide in development. Use with caution - this is still in the 'construction phase', but it may help you if you are just starting to learn to map for H.O.T. Work in progress can be found at [[User:Tallguy/Thoughts_%26_ideas/Beginners_guide]]
+
+== Development ==
+The tasking manager was designed and built for the [[Humanitarian OpenStreetMap Team]] and is still under active development.
+
+The main developer is [[User:Pgiraud]]
+
+Source code (Python) is on github: https://github.com/hotosm/osm-tasking-manager2
+
+Issues & bugs area also managed on github: https://github.com/hotosm/osm-tasking-manager2/issues
+
+A dev/testing instance of the task manager is running here: http://tasks-dev.hotosm.org  Sometimes this is with a later version of the code  (Note. Don't use the jobs/tasks on here to track actual mapping. It's a separate test database)
+
+== Operational installations of the Tasking Manager ==
+
+note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Tasking Manager v2]; others are still under [https://github.com/hotosm/osm-tasking-manager Tasking Manager v1].
+* [http://tasks.hotosm.org Humanitarian OSM Team]
+* [http://tasks.openstreetmap.us OSM US]
+* [http://tasks.openstreetmap.se/ OSM Sweden]
+* [http://tasks.osmcanada.ca OSM Canada]
+* [http://tareas.openstreetmap.co/  OSM Colombia]
+* [http://tasks.poole.ch/ poole.ch]
+* [http://gt.osmqc.ca OSM Quebec]
+* [http://ijjarvin.kapsi.fi/osmtm OSM Finland]
+* [http://tasks.openstreetmap.in/ OSM India]
+* [http://tasks.openstreetmap.id/ OSM Indonesia]
+
+[[Category:Humanitarian OSM Team]]
+[[Category:Quality Assurance]]
+[[Category:Collaborative software]]
+[[Category:Python]]
