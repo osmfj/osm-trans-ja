@@ -1,0 +1,386 @@
+{{Languages|Wiki Translation}}
+{{:Wiki/Tabs}}
+[[File:Chart_of_world_writing_systems.svg|250px|right]]
+'''Wiki Translation''' can be a good way to help develop the project across the world. The wiki holds a lot of important help content and documentation. We'd like to make at least some of this available in other languages. Note that [[translation]] efforts in other areas of the project are equally important if not more so (they usually happen on [[Translatewiki.net]]).
+
+== Community cohesion ==
+Unlike Wikipedia, we are not aiming to capture vast amounts of knowledge in the wiki. Wikipedia decided that the best way to build their encyclopaedia was to split the communities up by language, and run them as almost entirely separate projects. The situation here is ''entirely'' different. The wiki is not the project. Translating wiki pages should be an exercise in improving community cohesion, helping everyone to understand each other, and ultimately helping to build the maps!
+
+With this in mind we haven't deployed exactly the same [[wiki]] technology to support translations. We want the small fledging groups of people who do not speak English to feel welcome, and to have all the information they need, but we also want the community as a whole to stay together and stay focussed.
+
+== Wiki translation progress ==
+Wiki translation is taking place on a somewhat ad-hoc basis, and you are encouraged to join in, but we also need to try and get more organised about this.
+
+Translation efforts are still in very early stages in many languages. There are some wiki pages which are more important than others, so concentrate on these pages first.
+
+== How to translate ==
+=== Single page ===
+* Find the English version of a page in the main namespace.
+*: If there is no English version, create one, for example by starting a new page from a search: 
+*: Type the name of the page you want (say ''English page name'') in the Search box, and start the search.
+*: The search results will say that no such page exists, but it will also include a (red) link to the (non-existing) page. The message (and the tooltip when hovering this red link) will say (in the language defined in your preferences for this wiki):
+*:: '''Create the page "<u style="color:#F00">''English page name''</u>" on this wiki!'''
+*::::::: <sup style="font-size:120%">'''⬉'''</sup> <small style="background:#FFE;border:1px solid #AAA;box-shadow:#AAA 2px 2px 4px;color:#333;padding:1px 0.2em">''English page name'' (page does not exist)</small>
+*: Click on this red link and you will be starting to create the new page, in edit mode.
+* When you are reading the English version of the page, switch to edit mode.
+*: In order to have the languages tool bar displayed at the top (as you see on ''this'' page for example), be sure that the template {{tl|Languages}} is present near the beginning of the page, otherwise insert the following wiki text in edit mode: 
+*:: <code><nowiki>{{Languages|</nowiki>English page name<nowiki>}}</nowiki></code>
+*: While you're in edit mode, '''copy the wiki text of the entire page to your clipboard'''.  Save this English version with the Languages template added.
+* Where it says 'other languages', click 'show' and follow a red link to the language you want and begin creating the new wiki page. You will see that the new page will have the same title, but a language code prefix added.
+* '''Paste in''' the English text from your clipboard and now '''start translating''' it into your language and save the new translated page.
+* Finally, you ''may'' rename the new translated page with a translated title, but keep the language code prefix in the new name!
+*: Don't delete the redirecting page which is still needed for the interlanguage navigation bar to work properly.
+*: If you renamed a page that has subpages, you should also translate and rename the subpages the same way, using a consistent base page name for all subpages.
+
+<div style="font-size:smaller">
+'''Technical notes:'''
+* Before saving the new page, your language is shown as a missing language in the preview. However, after you have saved it, your language may still be shown in the missing language box with black colour and bold type. This strange thing is caused by a template cache. [https://www.mediawiki.org/wiki/Manual:FAQ#How_do_I_purge_a_cached_page.3F Purge cache] to rescan the available languages. Your language will be shown as available. The languages navigation bar at top of translated pages includes now the {{purge}} link to do that in one click.
+</div>
+
+'''Additional steps:'''
+* Some templates transcluded in your translated page may need to be adapted: in some cases these are different templates rewritten in your language (also named with a language code prefix), but many templates now can autodetect the language they should display by internally using {{Tl|Langcode}} which returns the lowercase language code of the current page transcluding it, provided that this current page uses the correct language code prefix.
+* Categories listed at end of your page should to be converted to use the translated categories when they exist (see below for details about how to create them), instead of remaining in the English categories.
+
+See also [[Wiki Help]].
+
+=== Category ===
+* Use "Category:&lt;languagecode&gt;:&lt;Adapted title&gt;" convention.
+* Use <code><nowiki>{{Languages|Category:Original English title}}</nowiki></code> at top of your localized version in order to display the interlanguage navigation bar.
+* You need to keep "Category:&lt;languagecode&gt;:&lt;Original English title&gt;" as a redirecting page (example: [[:Category:Beginners' guide|category in English]], [{{FULLURL:Category:JA:Beginners' guide|redirect=no}} redirect in Japanese], [[:Category:JA:初心者ガイド|actual category in Japanese]]) so that the interlanguage navigation bar works.
+* In the redirecting category (still named in English), please also add <code><nowiki>{{Category redirect|&lt;languagecode&gt;:&lt;Adapted title&gt;}}</nowiki></code> so that any page that would still be categorized with the English title will be listed in that category visible as a subcategory of the translated category and not left in an orphaned category: it will ease the maintenance of those pages whose categorisation should be edited to use the adapted title.
+* Don't delete the redirecting category named in English, even if it is empty (and it should remain empty)! It is needed for links shown in the interlanguage navigation bar (which cannot guess the translated titles).
+
+== Translated pages with a title in a non-English language ==
+If you want that a page translated to a national language have the title translated also, it is necessary to maintain anyway a page with English title preceded by language code and colon. This page would be a simply redirect to the actual page with title in national language.
+
+Let's suppose that the English page name is "''English_page_name''", and you already have got a translated page with the title "''XX:English_page_name''" (where XX is the target language code like Ar, Ca, DE, IT, Zh-hant, ...). Now you want the translated page to get a translated title "''XX:Translated_page_name''" too. Do the following steps:
+
+# Go to the edit-view of the translated version (''XX:English_page_name'') and find the code-piece like ''<nowiki>{{Language}}</nowiki>''
+# Change this code-piece to the following: ''<nowiki>{{Language|English_page_name}}</nowiki>''. That is necessary to keep the language bar working after we moved the page.
+# Use the move function of the wiki to create a new translated title for the page: Click the small arrow next to the search bar, top right of the page, then ''move''.
+# On the upcoming page, use the form like this:
+#: ''To new title'': type the translated title;
+#: Check the ''Move associated talk page'' box;
+#: Click the ''Move page'' button.
+
+Now the content is moved to a page with the new translated page name "''XX:Translated_page_name''". And also, a redirect is automatically established, so all old links to ''XX:English_page_name'' will be redirected to the new translated page.
+
+Sometimes there are already some pages redirecting to the old English named page (our new redirecting page). Then there would occur a double redirection, and that causes problems because the Wiki-System will stop the second redirection (see [[Special:DoubleRedirects]]). To prevent this from happening:
+
+# Open again the ''XX:English_page_name'' - Oh yeah, you can't open it because you will be redirected. Just use the link in the upper left corner: ''(Redirected from XX:English_page_name)''
+# Now we opened the old page title which is now just a redirecting page
+# Open the link ''What links here'' in the left menu.
+# Check if there are any pages where is written ''(redirect page)'' in black color.
+# Open this page, edit them and change the redirect directly to ''XX:Translated_page_name''
+
+This would fix the double redirect problem and you have done a clean fresh title translation.
+
+== Instructions for the Languages template ==
+
+[[Template:Languages]] lists all languages available. It is based on [[wikipedia:Help:Parser_function|parser functions]] from MediaWiki and the [[w:IETF language tag|IETF language tags]] (as defined in the '''BCP 47''' standard, based on [[w:ISO 639-1|ISO 639-1]] with a few exclusions, and extensions partly borrowed from other standards). See below for a partial list.<br />
+This automatically generates a language menu consisting of links to the original page (in English) and all translated pages. The links are written in their respective natime names: "Deutsch", "English", "français", etc. The list of languages is sorted alphabetically, grouped by scripts, with RTL scripts after LTR scripts.
+
+The complete syntax is:
+: <nowiki>{{Languages|NameSpace:English page name}}</nowiki>
+The parameter ''Page name'' is not necessary if the title of current page is equal to English page title, because his default value is assumed to be exactly the title of current page (however it is recommended to keep it to ease the translation of English pages and then renaming them in the actual target language).<br />
+Note: Now the parameter "ns=" is no required to specify a leading namespace such as Template or Category, which can be merged into the first parameter (see [[WikiProject Cleanup#Pages with ns argument to the languages template|see here]]). But don't use any language code prefix or namespace in that parameter, just specify the full page name of the English page.
+
+Example for actually implemented namespaces and languages: 
+ Page_name ''(should be in English)''
+ Ar:Page_name ''(Arabic)''
+ Cs:Page_name ''(Czech)''
+ DE:Page_name ''(German: capitalized namespace)''
+ ES:Page_name ''(Spanish: capitalized namespace)''
+ FR:Page_name ''(French: capitalized namespace)''
+ IT:Page_name ''(Italian: capitalized namespace)''
+ JA:Page_name ''(Japanese: capitalized namespace)''
+ NL:Page_name ''(Dutch: capitalized namespace)''
+ Pl:Page_name ''(Polish)''
+ Pt:Page_name ''(Portuguese)''
+ RU:Page_name ''(Russian: capitalized namespace)''
+ Uk:Page_name ''(Ukrainian, not United Kingdom!!!)''
+ Zh-hans:Page_name ''(Simplified Chinese)''
+ Zh-hant:Page_name ''(Traditional Chinese)''
+
+=== Brief instruction ===
+# For correct work of the template all page names are in English.<br /> Every translated page needs a page name with a language code as a prefix, followed by a colon and the English page name.
+#* If the "plain" English page name content is written in English, the English page name does not have a prefix in the file name.<br>Example: <tt>Page_name</tt> (English content) - <tt>FR:Page_name</tt> - <tt>DE:Page_name</tt>
+#* If the "plain" English page name should be a redirect to a page in some other language, the English translated page does need a prefix of "EN".<br>Example: <tt>Page_name</tt> (redirect to non-English page) - <tt>EN:Page_name</tt> - <tt>FR:Page-name</tt> - <tt>DE:Page_name</tt>
+# The following has to be included in each page: <tt><nowiki>{{Languages|English page name}}</nowiki></tt>.
+
+If you click on "missing languages", and then you click on a red link, it automatically opens a new page with the right prefix and the right page name. Copy the original text to this page and translate it. In the first line you put <tt><nowiki>{{Languages|English page name}}</nowiki></tt>.
+
+'''If you want to translate the title then make sure that the page name in English with the additional language prefix is redirected to a localized article name with its language code.'''
+# First create the localized page (or category) with the same name as in English, using only a different language prefix (language prefixes for categories are ''after'' the namespace "Category:", e.g. "Category:FR:Maps")
+# Then move that page to its new translated name (e.g. "Category:FR:Cartes"). Keep the generated redirect which is needed for interlanguage navigation!
+# Make sure that the new page (or category) indicates the correct full English page name (including its namespace) in {{Tl|Languages|''Full page name''}} (e.g. {{Tl|Languages|Category:Maps}} without any language prefix)
+# Check the sortkey for the translated title so that they sort correctly in categories for in your language: in most languages on this wiki, the default sort key includes the language code prefix which is part of the title and not part of a separate namespace: at least you should copy in the DEFAULTSORTKEY the page title without the language code prefix, and the sortkey may need to be transliterated (e.g. in Japanese for sorting using Kanas instead of the Kanjis present in the translated title). Specific categories also use shortened keys (exclusing terms shared by most or all pages in that category, or excluding leading articles not used in all titles of pages sorted in that category: this shortened sortkey should be adapted too (just like the DEFAULTSORTKEY used by the listed categories not using shortened keys).
+
+'''If you moved a category at step 2 above'''
+# Edit the generated redirect category to add {{Tl|Category redirect|''Language code'':''New translated name''}} just after the generated <tt><nowiki>#REDIRECT [[:Category:...]]</nowiki></tt> line: it will help tracking redirected categories still containing pages.
+# Edit the pages or subcategories that are still listed in the redirected category, in order to specify the new translated category name.
+
+=== Language prefixes and namespaces ===
+Many languages are supported merely as a wiki page naming convention, while some of the more widely used ones are set up as proper namespaces within the wiki software, allowing features like tickboxes on the [[Special:Search|advanced search]]. Pages can be listed by prefix (for any language) using [[Special:PrefixIndex]].
+
+Note that only a few languages (for which there are ample contents on this wiki and enough maintainers) have a dedicated namespace on this wiki (for historic reasons, these namespaces are using capital letters). These namespaces allow to perform searches in the many pages created in those languages. Most languages won't have this dedicated namespace. This wiki should progressively be updated to use autotranslatable templates (in a way similar to Wikimedia Commons), instead of having to maintaining a lot of separate pages for each language, for contents that can be maintained in one place independently of the language displayed.
+
+All other translated pages are stored in the main namespace, using a language-code prefix that should be written in lowercase (only the first letter of the prefix will be automatically uppercased, but this letter case is not significant). This wiki may still contain a few languages for which the language code was uppercased. But to ease the maintenance of links be consistent with the letter case of codes already used in the Languages template shown at the top of translated pages.
+
+Note that most language codes used in prefixes are using lowercase letters. But for legacy reasons on this wiki, some languages have their own dedicated article namespaces that are named using capital letters (for translated articles in the following 7 namespaces: DE, ES, FR, IT, JA, NL, RU). The letter case is significant for prefixes that are not declared on this wiki with a dedicated namespace. But the lettercase of recognized namespace names is not significant, so '''you can safely use lowercase letters everywhere for all language codes''' (this will simplify maintenance tasks for links, notably by avoiding the creation of additional redirects on this wiki).
+
+The letter case of language code prefixes however remains significant outside article namespaces and their associated talk pages (such as Template: or Category:), because the language code prefix after the namespace prefix is an actual part of the page title. For reasons of coherence and to help reduce the number of needed redirects and their maintenance, languages prefixes for pages in those namespaces should be lowercase everywhere except for the 7 languages listed above which should have their prefix capitalized (e.g. with "Category:Categories"; "Category:FR:Categories" soft-redirecting to "Category:FR:Catégories"; "Category:DE:Categories" soft-redirecting to "Category:DE:Kategorien"; "Category:Cs:Categories". But not "Category:Fr:Category", or "Category:CS:Categories"; the same applies to templates).
+
+In a few cases, the original article was actually not written in English, but an English version (generally limited as a stub or partly translated) can use temporarily the capitalized prefix "EN:". However the interlanguage navigation bar does not work well in this case because it cannot properly detect that the unprefixed page name is not in English. To allow interlanguage navigation, the original page in other language than English should also use its own language code prefix, so that its translation to English could have its "EN:" prefix removed. The interlanguage navigation bar will link to the English page using the "EN:" prefix only where it exists, otherwise it will use the unprefixed page name (assuming that this unprefixed page name is in English).
+
+Note also that categories cannot be simply hard-redirected (unlike articles, talk pages or templates). When a translated category with an English title (but a language code prefix) is renamed with a translated title (keeping its language code prefix), the category with the untranslated title becomes a hard redirect. If any page is categorized in a redirected category, the categories listed at bottom of these pages will be ''italicized'': clicking on this category will redirect to the renamed category that will not list that page, listed only in the English-named category (this is an old limitation/bug of the MediaWiki software). To help diagnose those cases, an additional template should be added immediately after this renaming, so that the English-named category be listed within the translated category as long as the English-named category is populated.
+
+For new language, '''please''' use language codes conforming to the '''BCP 47''' standard — ''check the [http://www.iana.org/assignments/language-subtag-registry Registry of language subtags on the IANA.org site] (according to the BCP 47 standard, currently in RFC 5646): generally this means using the ISO 649-1 two-letter code where it exists, otherwise the two-letter technical ISO 646-2 language code, otherwise the three-letter ISO 649-3 code; avoid using obsolete language codes that are marked in this registry as being replaced by another one, or deprecated and splitted into several more precise ones; for some languages, the language code may be followed by a ISO 15924 script code; it may also be followed by a ISO 3166-1 country/region code (or a numeric continental or subcontinal region code from the UN-M.49 statistics standard), but this usage is no longer recommended for coding a language variant, and this wiki will prefer to be really international and edited in a way acceptable in all regions where the same language is written. If for some language variants you need region/script subtags after a main language subtag, please write them in lowercase, even if BCP 47 preferably lists them with uppercase letters, but remember that letter case in BCP 47 language tags are not significant but only suggested. BCP 47 also allows registered subtags for encoding historic linguistic variants by date or usage with specific terminologies, but they should not be needed on this wiki written in the most common modern variant for general use.''
+
+Note also that a few language codes used for Wikipedia editions (and in ''interwiki'' links) do not apply to this scheme, for historical reasons, and have still not been converted or redirected to use the recommended BCP 47 codes (which is the universal standard for the web). Also some languages used on this wiki do not have an exact match with a linguistic edition of Wikipedia or this OSM wiki still makes distinctions which are no longer relevant in Wikipedia (such as script variants, because Wikipedia natively supports transliterators between those variants when this wiki still does not have this support). These exceptions are highlighted in the table below.
+
+{|class="sortable wikitable" border="1"
+|-
+!scope="col"| OSM wiki
+!scope="col"| Wikipedia
+!scope="col"| BCP 47<br /> (RFC 5646 or later)
+!scope="col"| name<br /> (native)
+!scope="col"| name<br /> (in English)
+!scope="col"| wiki<br /> namespace
+!scope="col"| major<br /> (tested)
+!scope="col"| right-to-left
+|-
+| [[Special:PrefixIndex/af:|af]] || [[wikipedia:af:Main Page|af]] || [[wikipedia:Afrikaans language|af]] || {{#language:af}} || Afrikaans || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/am:|am]] || [[wikipedia:am:Main Page|am]] || [[wikipedia:Amharic language|am]] || {{#language:am}} || Amharic || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/as:|as]] || [[wikipedia:as:Main Page|as]] || [[wikipedia:Assamese language|as]] || {{#language:as}} || Assamese || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/ar:|ar]] || [[wikipedia:ar:Main Page|ar]] || [[wikipedia:Arabic language|ar]] ||dir="rtl"| {{#language:ar}} || Arabic || {{no}} || {{yes}} || {{yes}}
+|-
+| [[Special:PrefixIndex/ast:|ast]] || [[wikipedia:ast:Main Page|ast]] || [[wikipedia:Asturian language|ast]] || {{#language:ast}} || Asturian || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/az:|az]] || [[wikipedia:az:Main Page|az]] || [[wikipedia:Azerbaijan language|az]] || {{#language:az}} || Azerbaijan || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/bg:|bg]] || [[wikipedia:bg:Main Page|bg]] || [[wikipedia:Bulgarian language|bg]] || {{#language:bg}} || Bulgarian || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/bn:|bn]] || [[wikipedia:bn:Main Page|bn]] || [[wikipedia:Bengali language|bn]] || {{#language:bn}} || Bengali || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/br:|br]] || [[wikipedia:br:Main Page|br]] || [[wikipedia:Breton language|br]] || {{#language:br}} || Breton || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/bs:|bs]] || [[wikipedia:bs:Main Page|bs]] || [[wikipedia:Bosnian language|bs]] || {{#language:bs}} || Bosnian || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/ca:|ca]] || [[wikipedia:ca:Main Page|ca]] || [[wikipedia:Catalan language|ca]] || {{#language:ca}} || Catalan (Valencian) || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/co:|co]] || [[wikipedia:co:Main Page|co]] || [[wikipedia:Corsican language|co]] || {{#language:co}} || Corsican || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/cs:|cs]] || [[wikipedia:cs:Main Page|cs]] || [[wikipedia:Czech language|cs]] || {{#language:cs}} || Czech || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/da:|da]] || [[wikipedia:da:Main Page|da]] || [[wikipedia:Danish language|da]] || {{#language:da}} || Danish || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/DE:|DE]] || [[wikipedia:de:Main Page|de]] || [[wikipedia:German language|de]] || {{#language:de}} || German || {{yes}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/diq:|diq]] || [[wikipedia:diq:Main Page|diq]] || [[wikipedia:Zazaki language|diq]] || {{#language:diq}} || Zazaki || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/dv:|dv]] || [[wikipedia:dv:Main Page|dv]] || [[wikipedia:Maldivian language|dv]] ||dir="rtl"| {{#language:dv}} || Maldivian || {{no}} || {{no}} || {{yes}}
+|-
+| [[Special:PrefixIndex/el:|el]] || [[wikipedia:el:Main Page|el]] || [[wikipedia:Greek language|el]] || {{#language:el}} || Greek || {{no}} || {{yes}} || {{no}}
+|-
+|style="background:red"| [[Special:PrefixIndex/EN:|''none'']] || [[wikipedia:en:Main Page|en]] || [[wikipedia:English language|en]] || {{#language:en}} || English ||style="background:white;text-align:center;"| No ''(default namespace)'' || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/eo:|eo]] || [[wikipedia:eo:Main Page|eo]] || [[wikipedia:Esperanto|eo]] || {{#language:eo}} || Esperanto || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/ES:|ES]] || [[wikipedia:es:Main Page|es]] || [[wikipedia:Spanish language|es]] || {{#language:es}} || Spanish || {{yes}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/et:|et]] || [[wikipedia:et:Main Page|et]] || [[wikipedia:Estonian language|et]] || {{#language:et}} || Estonian || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/eu:|eu]] || [[wikipedia:eu:Main Page|eu]] || [[wikipedia:Basque language|eu]] || {{#language:eu}} || Basque || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/fa:|fa]] || [[wikipedia:fa:Main Page|fa]] || [[wikipedia:Farsi language|fa]] ||dir="rtl"| {{#language:fa}} || Farsi (Persian) || {{no}} || {{yes}} || {{yes}}
+|-
+| [[Special:PrefixIndex/fi:|fi]] || [[wikipedia:fi:Main Page|fi]] || [[wikipedia:Finnish language|fi]] || {{#language:fi}} || Finnish || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/FR:|FR]] || [[wikipedia:fr:Main Page|fr]] || [[wikipedia:French language|fr]] || {{#language:fr}} || French || {{yes}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/fy:|fy]] || [[wikipedia:fy:Main Page|fy]] || [[wikipedia:West Frisian language|fy]] || {{#language:fy}} || Western Frisian || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/ga:|ga]] || [[wikipedia:ga:Main Page|ga]] || [[wikipedia:Irish language|ga]] || {{#language:ga}} || Irish Gaelic || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/gd:|gd]] || [[wikipedia:gd:Main Page|gd]] || [[wikipedia: Scottish Gaelic language|gd]] || {{#language:gd}} || Scottish Gaelic || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/gl:|gl]] || [[wikipedia:gl:Main Page|gl]] || [[wikipedia:Galician language|gl]] || {{#language:gl}} || Galician || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/gcf:|gcf]] ||style="background:red"| ''none'' || [[wikipedia:Antillean Creole|gcf]] || Kréyòl gwadloupéyen || Guadeloupean Creole French || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/gsw:|gsw]] || [[wikipedia:gsw:Main Page|gsw]] || [[wikipedia:Alemannic language|gsw]] || {{#language:gsw}} || Alemannic / Alsatian || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/gu:|gu]] || [[wikipedia:gu:Main Page|gu]] || [[wikipedia:Gujarati language|gu]] || {{#language:gu}} || Gujarati || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/ha:|ha]] || [[wikipedia:ha:Main Page|ha]] || [[wikipedia:Hausa language|ha]] || {{#language:ha}} || Hausa || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/he:|he]] || [[wikipedia:he:Main Page|he]] || [[wikipedia:Hebrew language|he]] ||dir="rtl"| {{#language:he}} || Hebrew || {{no}} || {{yes}} || {{yes}}
+|-
+| [[Special:PrefixIndex/hi:|hi]] || [[wikipedia:hi:Main Page|hi]] || [[wikipedia:Hindi language|hi]] || {{#language:hi}} || Hindi || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/hr:|hr]] || [[wikipedia:hr:Main Page|hr]] || [[wikipedia:Croatian language|hr]] || {{#language:hr}} || Croatian || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/ht:|ht]] || [[wikipedia:ht:Main Page|ht]] || [[wikipedia:Haitian Creole|ht]] || {{#language:ht}} || Haitian Creole || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/hu:|hu]] || [[wikipedia:hu:Main Page|hu]] || [[wikipedia:Hungarian language|hu]] || {{#language:hu}} || Hungarian || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/hu:|hy]] || [[wikipedia:hy:Main Page|hy]] || [[wikipedia:Armenian language|hy]] || {{#language:hy}} || Armenian || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/ia:|ia]] || [[wikipedia:ia:Main Page|ia]] || [[wikipedia:Interlingua|ia]] || {{#language:ia}} || Interlingua || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/id:|id]] || [[wikipedia:id:Main Page|id]] || [[wikipedia:Indonesian language|id]] || {{#language:id}} || Indonesian || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/ig:|ig]] || [[wikipedia:ig:Main Page|ig]] || [[wikipedia:Igbo language|ig]] || {{#language:ig}} || Igbo || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/is:|is]] || [[wikipedia:is:Main Page|is]] || [[wikipedia:Icelandic language|is]] || {{#language:is}} || Icelandic || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/IT:|IT]] || [[wikipedia:it:Main Page|it]] || [[wikipedia:Italian language|it]] || {{#language:it}} || Italian || {{yes}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/JA:|JA]] || [[wikipedia:ja:Main Page|ja]] || [[wikipedia:Japanese language|ja]] || {{#language:ja}} || Japanese || {{yes}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/jv:|jv]] || [[wikipedia:jv:Main Page|jv]] || [[wikipedia:Javanese language|jv]] || {{#language:jv}} || Javanese || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/ka:|ka]] || [[wikipedia:ka:Main Page|ka]] || [[wikipedia:Georgian language|ka]] || {{#language:ka}} || Georgian || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/kk:|kk]] || [[wikipedia:kk:Main Page|kk]] || [[wikipedia:Kazakh language|kk]] || {{#language:kk}} || Kazakh || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/km:|km]] || [[wikipedia:km:Main Page|km]] || [[wikipedia:Khmer language|km]] || {{#language:km}} || Khmer (Cambodian) || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/kn:|kn]] || [[wikipedia:kn:Main Page|kn]] || [[wikipedia:Kannada language|kn]] || {{#language:kn}} || Kannada || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/ko:|ko]] || [[wikipedia:ko:Main Page|ko]] || [[wikipedia:Korean language|ko]] || {{#language:ko}} || Korean || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/ku:|ku]] || [[wikipedia:ku:Main Page|ku]] || [[wikipedia:Kurdish language|ku]] || {{#language:ku}} || Kurdish || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/lb:|lb]] || [[wikipedia:lb:Main Page|lb]] || [[wikipedia:Luxembourgish language|lb]] || {{#language:lb}} || Luxembourgish || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/lo:|lo]] || [[wikipedia:lo:Main Page|lo]] || [[wikipedia:Laotian language|lo]] || {{#language:lo}} || Laotian || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/lt:|lt]] || [[wikipedia:lt:Main Page|lt]] || [[wikipedia:Lithuanian language|lt]] || {{#language:lt}} || Lithuanian || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/lv:|lv]] || [[wikipedia:lv:Main Page|lv]] || [[wikipedia:Latvian language|lv]] || {{#language:lv}} || Latvian || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/mg:|mg]] || [[wikipedia:mg:Main Page|mg]] || [[wikipedia:Malagasy language|mg]] || {{#language:mg}} || Malagasy || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/min:|min]] || [[wikipedia:min:Main Page|min]] || [[wikipedia:Baso Minangkabau|min]] || {{#language:min}} || Baso Minangkabau || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/mk:|mk]] || [[wikipedia:mk:Main Page|mk]] || [[wikipedia:Macedonian language|mk]] || {{#language:mk}} || Macedonian || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/ml:|ml]] || [[wikipedia:ml:Main Page|ml]] || [[wikipedia:Malayalam language|ml]] || {{#language:ml}} || Malayalam || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/mn:|mn]] || [[wikipedia:mn:Main Page|mn]] || [[wikipedia:Mongolian language|mn]] || {{#language:mn}} || Mongolian || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/mr:|mr]] || [[wikipedia:mr:Main Page|mr]] || [[wikipedia:Marathi language|mr]] || {{#language:mr}} || Marathi || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/ms:|ms]] || [[wikipedia:ms:Main Page|ms]] || [[wikipedia:Malaysian language|ms]] || {{#language:ms}} || Malaysian || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/mt:|mt]] || [[wikipedia:mt:Main Page|mt]] || [[wikipedia:Maltese language|mt]] || {{#language:mt}} || Maltese || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/my:|my]] || [[wikipedia:my:Main Page|my]] || [[wikipedia:Myanmarese language|my]] || {{#language:my}} || Myanmarese (Burmese) || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/nan:|nan]] || [[wikipedia:nds:Main Page|nan]] || [[wikipedia:Min Nan language|nan]] || {{#language:nan}} || Min Nan || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/nds:|nds]] || [[wikipedia:nds:Main Page|nds]] || [[wikipedia:Low German language|nds]] || {{#language:nds}} || Low German || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/nds-nl:|nds-nl]] || [[wikipedia:nds-nl:Main Page|nds-nl]] || [[wikipedia:Low Saxon language|nds-NL]] || {{#language:nds-nl}} || Low Saxon || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/ne:|ne]] || [[wikipedia:ne:Main Page|ne]] || [[wikipedia:Nepalese language|ne]] || {{#language:ne}} || Nepalese || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/NL:|NL]] || [[wikipedia:nl:Main Page|nl]] || [[wikipedia:Dutch language|nl]] || {{#language:nl}} || Dutch/Flemish || {{yes}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/nn:|nn]] || [[wikipedia:nn:Main Page|nn]] || [[wikipedia:Nynorsk|nn]] || {{#language:nn}} || Norwegian (Nynorsk) || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/no:|no]] || [[wikipedia:no:Main Page|no]] || [[wikipedia:Norwegian language|no]] || {{#language:no}} || Norwegian (Bokmal) || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/oc:|oc]] || [[wikipedia:oc:Main Page|oc]] || [[wikipedia:Occitan language|oc]] || {{#language:oc}} || Occitan || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/om:|om]] || [[wikipedia:om:Main Page|om]] || [[wikipedia:Oromo language|om]] || {{#language:om}} || Oromo || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/or:|or]] || [[wikipedia:or:Main Page|or]] || [[wikipedia:Oriya language|or]] || {{#language:or}} || Oriya || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/pa:|pa]] || [[wikipedia:pa:Main Page|pa]] || [[wikipedia:Panjabi language|pa]] || {{#language:pa}} || Panjabi || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/pl:|pl]] || [[wikipedia:pl:Main Page|pl]] || [[wikipedia:Polish language|pl]] || {{#language:pl}} || Polish || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/ps:|ps]] || [[wikipedia:ps:Main Page|ps]] || [[wikipedia:Pushto language|ps]] ||dir="rtl"| {{#language:ps}} || Pushto || {{no}} || {{no}} || {{yes}}
+|-
+| [[Special:PrefixIndex/pt:|pt]] || [[wikipedia:pt:Main Page|pt]] || [[wikipedia:Portuguese language|pt]] || {{#language:pt}} || Portuguese || {{no}} || {{yes}}|| {{no}}
+|-
+| [[Special:PrefixIndex/pt-br:|pt-br]] ||style="background:yellow"| ''none, see'' [[wikipedia:pt:Main Page|pt]] || [[wikipedia:Brazilian Portuguese|pt-BR]] || {{#language:pt-br}} || Brazilian Portuguese || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/ro:|ro]] || [[wikipedia:ro:Main Page|ro]] || [[wikipedia:Romanian language|ro]] || {{#language:ro}} || Romanian || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/RU:|RU]] || [[wikipedia:ru:Main Page|ru]] || [[wikipedia:Russian language|ru]] || {{#language:ru}} || Russian || {{yes}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/sd:|sd]] || [[wikipedia:sd:Main Page|sd]] || [[wikipedia:Sindhi language|sd]] ||dir="rtl"| {{#language:sd}} || Sindhi || {{no}} || {{no}} || {{yes}}
+|-
+| [[Special:PrefixIndex/si:|si]] || [[wikipedia:si:Main Page|si]] || [[wikipedia:Sinhalese language|si]] || {{#language:si}} || Sinhalese || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/sk:|sk]] || [[wikipedia:sk:Main Page|sk]] || [[wikipedia:Slovak language|sk]] || {{#language:sk}} || Slovak || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/sl:|sl]] || [[wikipedia:sl:Main Page|sl]] || [[wikipedia:Slovene language|sl]] || {{#language:sl}} || Slovenian || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/so:|so]] || [[wikipedia:so:Main Page|so]] || [[wikipedia:Somali language|so]] || {{#language:so}} || Somali || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/sq:|sq]] || [[wikipedia:sq:Main Page|sq]] || [[wikipedia:Albanian language|sq]] || {{#language:sq}} || Albanian || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/sr:|sr]] || [[wikipedia:sr:Main Page|sr]] || [[wikipedia:Serbian language|sr]] || {{#language:sr}} || Serbian || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/sv:|sv]] || [[wikipedia:sv:Main Page|sv]] || [[wikipedia:Swedish language|sv]] || {{#language:sv}} || Swedish || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/sw:|sw]] || [[wikipedia:sw:Main Page|sw]] || [[wikipedia:Swahili language|sw]] || {{#language:sw}} || Swahili || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/ta:|ta]] || [[wikipedia:ta:Main Page|ta]] || [[wikipedia:Tamil language|ta]] || {{#language:ta}} || Tamil || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/te:|te]] || [[wikipedia:te:Main Page|te]] || [[wikipedia:Telugu language|te]] || {{#language:te}} || Telugu || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/tg:|tg]] || [[wikipedia:tg:Main Page|tg]] || [[wikipedia:Tajik language|tg]] || {{#language:tg}} || Tajik || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/th:|th]] || [[wikipedia:th:Main Page|th]] || [[wikipedia:Thai language|th]] || {{#language:th}} || Thai || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/tm:|tm]] || [[wikipedia:tm:Main Page|tm]] || [[wikipedia:Turkmen language|tm]] || {{#language:tm}} || Turkmen || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/tr:|tr]] || [[wikipedia:tr:Main Page|tr]] || [[wikipedia:Turkish language|tr]] || {{#language:tr}} || Turkish || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/uk:|uk]] || [[wikipedia:uk:Main Page|uk]] || [[wikipedia:Ukrainian language|uk]] || {{#language:uk}} || Ukrainian || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/ur:|ur]] || [[wikipedia:ur:Main Page|ur]] || [[wikipedia:Urdu language|ur]] ||dir="rtl"| {{#language:ur}} || Urdu || {{no}} || {{yes}} || {{yes}}
+|-
+| [[Special:PrefixIndex/uz:|uz]] || [[wikipedia:uz:Main Page|uz]] || [[wikipedia:Uzbek language|uz]] || {{#language:uz}} || Uzbek || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/vi:|vi]] || [[wikipedia:vi:Main Page|vi]] || [[wikipedia:Vietnamese language|vi]] || {{#language:vi}} || Vietnamese || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/wo:|wo]] || [[wikipedia:wo:Main Page|wo]] || [[wikipedia:Wolof language|wo]] || {{#language:wo}} || Wolof || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/wuu:|wuu]] || [[wikipedia:wuu:Main Page|wuu]] || [[wikipedia:Wu language|wuu]] || {{#language:wuu}} || Wu || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/xh:|xh]] || [[wikipedia:xh:Main Page|xh]] || [[wikipedia:Xhosa language|xh]] || {{#language:xh}} || Xhosa || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/yi:|yi]] || [[wikipedia:yi:Main Page|yi]] || [[wikipedia:Yiddish language|yi]] ||dir="rtl"| {{#language:yi}} || Yiddish || {{no}} || {{no}} || {{yes}}
+|-
+| [[Special:PrefixIndex/yo:|yo]] || [[wikipedia:yo:Main Page|yo]] || [[wikipedia:Yoruba language|yo]] || {{#language:yo}} || Yoruba || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/yue:|yue]] || [[wikipedia:yue:Main Page|yue]] || [[wikipedia:Cantonese language|yue]] || {{#language:yue}} || Cantonese || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/za:|za]] || [[wikipedia:za:Main Page|za]] || [[wikipedia:Zhuang language|za]] || {{#language:za}} || Zhuang || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/zh-hans:|zh-hans]] ||style="background:yellow"| ''none, see'' [[wikipedia:zh:Main Page|zh]] || [[wikipedia:Chinese language|zh]]-[[wikipedia:Simplified Chinese characters|Hans]] || {{#language:zh-hans}} || Simplified Chinese || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/zh-hant:|zh-hant]] ||style="background:yellow"| ''none, see'' [[wikipedia:zh:Main Page|zh]] || [[wikipedia:Chinese language|zh]]-[[wikipedia:Traditional Chinese characters|Hant]] || {{#language:zh-hant}} || Traditional Chinese || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/zu:|zu]] || [[wikipedia:zu:Main Page|zu]] || [[wikipedia:Zulu language|zu]] || {{#language:zu}} || Zulu || {{no}} || {{no}} || {{no}}
+|}
+
+Notes:
+* The Min Nan language spoken in Taiwan ("zh-min-nan-TW" in the old RFC 3066, or better now "nan-TW" or just "nan", see BCP 47) is normally written in the Latin script (rather than the simplified Han script, for which it is almost impossible to differentiate from Chinese written with the Simplified Han orthography), and has its own distinctive language code "nan". Taiwanese Chinese (zh-TW) is completely unrelated to Min Nan; the use of zh-TW is deprecated, use Traditional Chinese ("zh-Hant") instead. Feel free to create pages translated in Min Nan, if you need, using the standard "nan" language code.
+* See [[wikipedia:Chinese_Wikipedia#Automatic conversion between Traditional and Simplified Chinese|Chinese Wikipedia]] for information about Chinese languages on WP ! If the transcoder is implemented here on this wiki, we would no longer need to maintain separate pages with orthographic differences between "zh-Hans" (essentially the same for the P.R. of China mainland, and Singapore) and "zh-Hant" (essentially the same for Taiwan, Hong Kong SAR, and Macau SAR)
+* Since Moldavian "ro-md"/"mo"" is not needed and should be removed! See [http://meta.wikimedia.org/wiki/Proposals_for_closing_projects/Closure_of_Moldovan_Wikipedia Closure of Moldovan Wikipedia] ! The only remaining difference of Moldovan was when the Romanian language was written in the Cyrillic script by people living in Moldova before its independence from USSR. The Russian minority living in the cessessionist Eastern part of Moldova, use the Russian language written in the Cyrillic script, not Moldovan/Romanian, but the other Moldovans do speak Romanian (with just minor vocabulary differences that have been developed when Moldova was occupied by USSR, differences that are now disappearing fast with the increased exchanges with Romanian medias and the return to the use of the Latin alphabet, and with which people of both countries can coexist with an excellent and evident mutual understanding.
+* The column "major (tested)" indicates which languages are automatically tested for looking for translated pages that are transcluding [[Template:Languages]] at top of pages. This navigation template will automatically detect the existence of translated pages and will avoid showing red links. But such detection is limited to about 50 languages, for technical reasons in this wiki. All other languages are only listed as "Other languages" in this navigation box, in a list with many red links hidden by default. For this reason, only major languages (or regional languages for which this wiki has significant contents content to show) will be part of the tested language list which is not hidden by default.
+* Many other languages may be referenced for the translations of toponyms and POIs in the OSM database (for example for {{Tag|name}}, using BCP47 language codes as suffixes), but most of these languages are not used for translations in this documentation wiki (they will probably never appear as "major (tested)" in the list above).
+
+[[Category:Wiki Translation| ]]
+[[Category:Using-language-postfix]]

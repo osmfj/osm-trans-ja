@@ -1,0 +1,740 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="TMPotter" o-tmf="tmpotter TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="0.8_5_" segtype="sentence" srclang="EN">
+      <prop type="sourceLang">EN</prop>
+      <prop type="targetLang">JA</prop>
+</header>
+  <body>
+    <tu>
+      <tuv lang="EN">
+        <seg>{{Languages|Wiki Translation}} {{:Wiki/Tabs}} [[File:Chart_of_world_writing_systems.svg|250px|right]] '''Wiki Translation''' can be a good way to help develop the project across the world.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>{{Languages|Wiki Translation}} {{JA:Wiki/Tabs}} {{Translation not complete|art=Wiki Translation}} [[File:Chart_of_world_writing_systems.svg|250px|right]] '''ウィキの翻訳'''は、世界をまたぐプロジェクトの開発を助ける良い方法になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The wiki holds a lot of important help content and documentation.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>このウィキは、たくさん重要なヘルプや文章を持ってます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We'd like to make at least some of this available in other languages.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>私たちは、いくつかの英語以外の言語でこれら文章が読めるようにしたいのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that [[translation]] efforts in other areas of the project are equally important if not more so (they usually happen on [[Translatewiki.net]]).</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>なお、[[JA:翻訳|翻訳のページ]]にも、同じくらい重要な翻訳プロジェクトが列挙してあります（多くは [[Translatewiki.net]] にあります）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>== Community cohesion == Unlike Wikipedia, we are not aiming to capture vast amounts of knowledge in the wiki.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>== コミュニティの団結 == ウィキペディアとは異なり、我々は、ウィキに膨大な量の知識を集めようとしているわけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wikipedia decided that the best way to build their encyclopaedia was to split the communities up by language, and run them as almost entirely separate projects.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ウィキペディアは、百科事典を構築する最良の手段として、言語別にコミュニティを分け、それらを完全に別なプロジェクトとして運営しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The situation here is ''entirely'' different.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ここでの状況は、''完全に''違います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The wiki is not the project.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>このウィキはプロジェクトではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translating wiki pages should be an exercise in improving community cohesion, helping everyone to understand each other, and ultimately helping to build the maps!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ウィキページを翻訳することは、コミュニティの団結を促進し、それぞれが互いに理解することの助けとなり、究極的には地図を作る助けとなるための試みであるべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With this in mind we haven't deployed exactly the same [[wiki]] technology to support translations.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>これを考慮して、私たちは翻訳を支援する全く同じ[[JA:ウィキ|ウィキ]]技術を提供していません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We want the small fledging groups of people who do not speak English to feel welcome, and to have all the information they need, but we also want the community as a whole to stay together and stay focussed.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>英語を話さない人々の駆け出しの小さなグループが、参加しやすく、彼らが必要とするすべての情報を受け取ってほしいのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>== Wiki translation progress == Wiki translation is taking place on a somewhat ad-hoc basis, and you are encouraged to join in, but we also need to try and get more organised about this.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>しかし、私たち自身もまた、一つのコミュニティとして、一丸となってまとまっていたいのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation efforts are still in very early stages in many languages.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>== ウィキの翻訳の進捗 == ウィキの翻訳は、いくらか場当たり的に行われており、参加することが奨励されていますが、私たちも組織だって実行してもらうようにしなければいけません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are some wiki pages which are more important than others, so concentrate on these pages first.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>翻訳の成果は、ほとんどの言語でまだ初期段階です。 ウィキページの中には、より重要なページもあります。 まずはこういったところに注力しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>== How to translate == === Single page === * Find the English version of a page in the main namespace.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>== 翻訳の仕方 == === 単一ページ === * 標準の名前空間で英語版のページを探してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>*: If there is no English version, create one, for example by starting a new page from a search: *: Type the name of the page you want (say ''English page name'') in the Search box, and start the search.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>: 英語版がない場合は作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>*: The search results will say that no such page exists, but it will also include a (red) link to the (non-existing) page.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>例えば、検索から新しいページを始める場合は…… : 希望するページの名前（つまり「英語ページ名」）を検索ボックスに入力し、検索を開始してください。 : 検索結果にはそのようなページはないと表示されますが、（存在しない）ページへの（赤い）リンクも表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The message (and the tooltip when hovering this red link) will say (in the language defined in your preferences for this wiki): *:: '''Create the page "&lt;u style="color:#F00">''English page name''&lt;/u>" on this wiki!''' *::::::: &lt;sup style="font-size:120%">'''⬉'''&lt;/sup> &lt;small style="background:#FFE;border:1px solid #AAA;box-shadow:#AAA 2px 2px 4px;color:#333;padding:1px 0.2em">''English page name'' (page does not exist)&lt;/small> *: Click on this red link and you will be starting to create the new page, in edit mode.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>メッセージには次のように書かれているでしょう。 :: このウィキでページ「&lt;u>英語ページ名&lt;/u>」を新規作成する : リンクをクリックすると、編集モードで新しいページの作成を始められます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* When you are reading the English version of the page, switch to edit mode.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>* 英語版のページを見ている時は、編集モードに切り替えてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>*: In order to have the languages tool bar displayed at the top (as you see on ''this'' page for example), be sure that the template {{tl|Languages}} is present near the beginning of the page, otherwise insert the following wiki text in edit mode: *:: &lt;code>&lt;nowiki>{{Languages|&lt;/nowiki>English page name&lt;nowiki>}}&lt;/nowiki>&lt;/code> *: While you're in edit mode, '''copy the wiki text of the entire page to your clipboard'''.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>: 先頭に言語ツールバーを表示されるようにするために（たとえば、''この''ページに見られるように）、 {{tl|Languages}} テンプレートがページの先頭付近にあるかを確認し、そうでなければ、編集モードで次のウィキ文字列を挿入してください。 ::&lt;code>&lt;nowiki>{{Languages|&lt;/nowiki>&lt;u>英語ページ名&lt;/u>&lt;nowiki>}}&lt;/nowiki>&lt;/code> * 編集モードにいる間に、'''ページ全体のウィキ文書をクリップボードにコピーしてください'''。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save this English version with the Languages template added.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>そして Languages テンプレートを追加したこの英語版を「保存」してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Where it says 'other languages', click 'show' and follow a red link to the language you want and begin creating the new wiki page.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>* 「Other languages」と書かれている所の「show」をクリックして、新しいウィキページを作成したい言語の赤いリンクをクリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will see that the new page will have the same title, but a language code prefix added.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>新しいページが言語接頭辞が付いた同じ題名で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* '''Paste in''' the English text from your clipboard and now '''start translating''' it into your language and save the new translated page.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>* 英語の文書をクリップボードから'''貼り付け'''して、これであなたの言語に'''翻訳しはじめます'''。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Finally, you ''may'' rename the new translated page with a translated title, but keep the language code prefix in the new name!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>* 最後に、新しい翻訳ページを翻訳した題名に変更する''ことができます''が、新しい名称にも言語コード接頭辞を付けてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>*: Don't delete the redirecting page which is still needed for the interlanguage navigation bar to work properly.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>* リダイレクトページは言語間ナビゲーションが正しく動作する上で必要なので、削除しないでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>*: If you renamed a page that has subpages, you should also translate and rename the subpages the same way, using a consistent base page name for all subpages.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>* 題名を変更したページにサブページがあった場合、同じ方法でサブページも翻訳したり題名を変更したりして、すべてのサブページの基本ページ名が一貫したものになるようにしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;div style="font-size:smaller"> '''Technical notes:''' * Before saving the new page, your language is shown as a missing language in the preview.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>&lt;div style="font-size:smaller"> '''技術的なメモ:''' * 新しいページを保存する前のプレビューでは、その言語が存在しないように表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, after you have saved it, your language may still be shown in the missing language box with black colour and bold type.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>しかし、保存した後でも、未翻訳の言語のボックスに黒い太字で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This strange thing is caused by a template cache.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>この奇妙な動作は、テンプレートのキャッシュによるものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[https://www.mediawiki.org/wiki/Manual:FAQ#How_do_I_purge_a_cached_page.3F Purge cache] to rescan the available languages.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>利用可能な言語を再構築するために、[http://www.mediawiki.org/wiki/Manual:FAQ#How_do_I_purge_a_cached_page.3F キャッシュを更新]してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your language will be shown as available.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>言語が存在するものとして表示されるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The languages navigation bar at top of translated pages includes now the {{purge}} link to do that in one click.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>* 技術的な理由で（このウィキを表示している MediaWiki で定義されている''パーサー関数''の制約で）、翻訳が存在するすべてのページが利用できる言語の一覧にデフォルトで表示されるわけではなく、世界で有名な言語のみが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/div> '''Additional steps:''' * Some templates transcluded in your translated page may need to be adapted: in some cases these are different templates rewritten in your language (also named with a language code prefix), but many templates now can autodetect the language they should display by internally using {{Tl|Langcode}} which returns the lowercase language code of the current page transcluding it, provided that this current page uses the correct language code prefix.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>多くの他の言語は、存在するかどうか検査されずに「その他の言語」の一覧の方に表示されるので、この一覧には赤いリンク（存在しない有名またはマイナーな言語）と、青いリンク（存在するマイナーな言語）の両方が表示されます。 この同様に表示されない問題は、「コストの高い」パーサー関数を使わない解決方法を開発・テストしているところです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See also [[Wiki Help]].</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>[[Ja:Wiki Help|ウィキのヘルプ]]も参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>=== Category === * Use "Category:&amp;lt;languagecode&amp;gt;:&amp;lt;Adapted title&amp;gt;" convention.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>=== カテゴリ === * "Category:&lt;言語コード>:&lt;翻訳した題名>" の命名規則を使ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Use &lt;code>&lt;nowiki>{{Languages|Category:Original English title}}&lt;/nowiki>&lt;/code> at top of your localized version in order to display the interlanguage navigation bar.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>* 言語間ナビゲーションバーを表示するために、翻訳の先頭に &lt;nowiki>{{languages|ns=Category:|元の英語の題名}}&lt;/nowiki> を使ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* You need to keep "Category:&amp;lt;languagecode&amp;gt;:&amp;lt;Original English title&amp;gt;" as a redirecting page (example: [[:Category:Beginners' guide|category in English]], [{{FULLURL:Category:JA:Beginners' guide|redirect=no}} redirect in Japanese], [[:Category:JA:初心者ガイド|actual category in Japanese]]) so that the interlanguage navigation bar works.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>* "Category:言語コード:元の題名" の名称でリダイレクトページを保持する必要があります（例: [[:Category:Beginners' guide|英語でのカテゴリ]], [{{FULLURL:Category:JA:Beginners' guide|redirect=no}} 日本語でのリダイレクト], [[:Category:JA:初心者ガイド|実際の日本語でのカテゴリ]]）。 そうすれば、言語間ナビゲーションバーが動作します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>== Translated pages with a title in a non-English language == If you want that a page translated to a national language have the title translated also, it is necessary to maintain anyway a page with English title preceded by language code and colon.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>== 英語以外の言語による題名を持つ翻訳ページ == 各言語のページに翻訳された題名を付ける場合は、言語コードとコロンで始まる英語の題名のページを修正する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This page would be a simply redirect to the actual page with title in national language.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>このページは各言語の題名を持つページへの単なるリダイレクトになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Let's suppose that the English page name is "''English_page_name''", and you already have got a translated page with the title "''XX:English_page_name''" (where XX is the target language code like Ar, Ca, DE, IT, Zh-hant, ...).</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>英語ページ名が「''english_page_name''」であり、すでに翻訳ページとして「''XX:english_page_name''」（XXは対象となる言語コード、例えばJAやDEやITなど）を作成してあるとしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now you want the translated page to get a translated title "''XX:Translated_page_name''" too.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>そして、翻訳ページで翻訳した題名「''XX:翻訳ページ名''」も使えるようにするとしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do the following steps: # Go to the edit-view of the translated version (''XX:English_page_name'') and find the code-piece like ''&lt;nowiki>{{Language}}&lt;/nowiki>'' # Change this code-piece to the following: ''&lt;nowiki>{{Language|English_page_name}}&lt;/nowiki>''.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>次のように操作してください。 :1. 翻訳版（''XX:english_page_name''）の編集ビューに移動し、''&lt;nowiki>{{Language}}&lt;/nowiki>''という部分を探してください。 :2. この部分を、''&lt;nowiki>{{Language|english_page_name}}&lt;/nowiki>''という形に変更してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That is necessary to keep the language bar working after we moved the page.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>これは、ページ名を変更した後で言語バーが正しく機能するために必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># Use the move function of the wiki to create a new translated title for the page: Click the small arrow next to the search bar, top right of the page, then ''move''.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>:3. ページに新しい翻訳された題名をつけるために、ウィキの移動機能を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># On the upcoming page, use the form like this: #: ''To new title'': type the translated title; #: Check the ''Move associated talk page'' box; #: Click the ''Move page'' button.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ページ上部の右側にある検索バーの隣の小さな▼をクリックし、「移動」を実行してください。 :4. 新しく現れるページで、次のようにフォームを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now the content is moved to a page with the new translated page name "''XX:Translated_page_name''".</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>::''新しいページ名'': 翻訳した題名 ::''付随するトークページも移動'': チェックしてください ::''ページを移動''をクリックしてください これでコンテンツは新しい翻訳したページ名を持つページ「''XX:翻訳ページ名''」に移動しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>And also, a redirect is automatically established, so all old links to ''XX:English_page_name'' will be redirected to the new translated page.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>そして、リダイレクトが自動的に設定され、古い''XX:english_page_name''へのリンクはすべて新しい翻訳ページにリダイレクトされるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sometimes there are already some pages redirecting to the old English named page (our new redirecting page).</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>しかし、問題が一つ残っています。 すでに古い英語名のページ（新しいリダイレクトページ）にリダイレクトしているページがある場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then there would occur a double redirection, and that causes problems because the Wiki-System will stop the second redirection (see [[Special:DoubleRedirects]]).</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>そうすると、これは二重リダイレクトを引き起こし、Wikiシステムが2回目のリダイレクトで停止してしまうという問題を引き起こす可能性があります。 （https://wiki.openstreetmap.org/wiki/Special:DoubleRedirects を参照）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To prevent this from happening: # Open again the ''XX:English_page_name'' - Oh yeah, you can't open it because you will be redirected.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>これが起こることを防ぐためには…… :5. ''XX:english_page_name''を再び開きます。 ―― このページはリダイレクトになっているので開けません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Just use the link in the upper left corner: ''(Redirected from XX:English_page_name)'' # Now we opened the old page title which is now just a redirecting page # Open the link ''What links here'' in the left menu.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>左上隅の''（XX:english_page_nameから転送）''というリンクを使用してください。 :6. これで、単なるリダイレクトページとなった古い題名のページが開きます。 :7. 左側のメニューの''リンク元''のリンクを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># Check if there are any pages where is written ''(redirect page)'' in black color.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>:8. 黒で''(転送ページ)''と書かれているページがあるかどうかをチェックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># Open this page, edit them and change the redirect directly to ''XX:Translated_page_name'' This would fix the double redirect problem and you have done a clean fresh title translation.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>:9. このページを開き、編集してリダイレクトを直接''XX:翻訳ページ名''に変更します。 これで二重リダイレクトの問題が修正され、きれいな状態の翻訳題名が完成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>== Instructions for the Languages template == [[Template:Languages]] lists all languages available.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>== Languages テンプレートの説明 == [[Template:Languages]]は、利用可能な言語すべてを一覧表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is based on [[wikipedia:Help:Parser_function|parser functions]] from MediaWiki and the [[w:IETF language tag|IETF language tags]] (as defined in the '''BCP 47''' standard, based on [[w:ISO 639-1|ISO 639-1]] with a few exclusions, and extensions partly borrowed from other standards).</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>MediaWiki の[[wikipedia:Help:Parser_function|パーサー関数]]と [[w:ja:IETF言語タグ|IETF 言語タグ]]（'''BCP 47''' で定義され、 [[w:ja:ISO 639-1|ISO 639-1]] から若干を除外し、他の標準から部分的に拡張したものに基づく） に基づいています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See below for a partial list.&lt;br /> This automatically generates a language menu consisting of links to the original page (in English) and all translated pages.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>リストの一部は以下を参照してください。 &lt;br /> これは元のページ（英語版）とすべての翻訳ページへのリンクを含む言語メニューを生成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The links are written in their respective natime names: "Deutsch", "English", "français", etc.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>リンクは "Deutsch", "English", "français", "日本語" などように、各国語で書かれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The list of languages is sorted alphabetically, grouped by scripts, with RTL scripts after LTR scripts.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>言語の一覧は文字の種類や各方向によってグループ化され、アルファベット順で並べられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The complete syntax is: : &lt;nowiki>{{Languages|NameSpace:English page name}}&lt;/nowiki> The parameter ''Page name'' is not necessary if the title of current page is equal to English page title, because his default value is assumed to be exactly the title of current page (however it is recommended to keep it to ease the translation of English pages and then renaming them in the actual target language).&lt;br /> Note: Now the parameter "ns=" is no required to specify a leading namespace such as Template or Category, which can be merged into the first parameter (see [[WikiProject Cleanup#Pages with ns argument to the languages template|see here]]).</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>全体の文法は次の通りです。 :&lt;nowiki>{{Languages|ns=名前空間:|英語ページ名}}&lt;/nowiki> 引数''英語ページ名''は、現在のページの題名が英語ページの題名と同じであれば、必要ありません。 既定値が現在のページの題名と同じだと仮定されるからです（しかし、英語ページを翻訳して実際の翻訳先言語にページ名を変更しやすいように、入れておくことをお勧めします）。 &lt;br/> 引数 ''ns='' は翻訳ページ（または参照ページ）が現在のページと異なる名前空間にある場合にのみ必要です（これは基本的に、下記の表にある専用の名前空間を持つ一部の言語に翻訳されたページや、異なる名前空間にあるページにウィキリンクを貼る場合に関係がありました）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But don't use any language code prefix or namespace in that parameter, just specify the full page name of the English page.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>いずれにせよ、既定値は空欄であり、これは標準名前空間を表します。 現在は、この引数は標準記事空間の外のページや、専用の名前空間を持つ記事にのみ必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example for actually implemented namespaces and languages: Page_name ''(should be in English)'' Ar:Page_name ''(Arabic)'' Cs:Page_name ''(Czech)'' DE:Page_name ''(German: capitalized namespace)'' ES:Page_name ''(Spanish: capitalized namespace)'' FR:Page_name ''(French: capitalized namespace)'' IT:Page_name ''(Italian: capitalized namespace)'' JA:Page_name ''(Japanese: capitalized namespace)'' NL:Page_name ''(Dutch: capitalized namespace)'' Pl:Page_name ''(Polish)'' Pt:Page_name ''(Portuguese)'' RU:Page_name ''(Russian: capitalized namespace)'' Uk:Page_name ''(Ukrainian, not United Kingdom!!!)'' Zh-hans:Page_name ''(Simplified Chinese)'' Zh-hant:Page_name ''(Traditional Chinese)'' === Brief instruction === # For correct work of the template all page names are in English.&lt;br /> Every translated page needs a page name with a language code as a prefix, followed by a colon and the English page name.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>実装されている名前空間と言語の例: Page_name ''(できれば英語)'' Cs:Page_name ''(チェコ語)'' DE:Page_name ''(ドイツ語)'' ES:Page_name ''(スペイン語)'' FR:Page_name ''(フランス語)'' IT:Page_name ''(イタリア語)'' JA:Page_name ''(日本語)'' NL:Page_name ''(オランダ語)'' RU:Page_name ''(ロシア語)'' Uk:Page_name ''(ウクライナ語、イギリスではありません!!!)'' === 短い解説 === # テンプレートが正しく動作するように、すべてのページ名は英語にします。 &lt;br>各翻訳ページは、言語コードを接頭辞とし、コロンで接続して英語ページ名をページ名にする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>#* If the "plain" English page name content is written in English, the English page name does not have a prefix in the file name.&lt;br>Example: &lt;tt>Page_name&lt;/tt> (English content) - &lt;tt>FR:Page_name&lt;/tt> - &lt;tt>DE:Page_name&lt;/tt> #* If the "plain" English page name should be a redirect to a page in some other language, the English translated page does need a prefix of "EN".&lt;br>Example: &lt;tt>Page_name&lt;/tt> (redirect to non-English page) - &lt;tt>EN:Page_name&lt;/tt> - &lt;tt>FR:Page-name&lt;/tt> - &lt;tt>DE:Page_name&lt;/tt> # The following has to be included in each page: &lt;tt>&lt;nowiki>{{Languages|English page name}}&lt;/nowiki>&lt;/tt>.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>## 「生の」英語名のページが英語で書かれている場合は、英語のページはファイル名に接頭辞を付けません。 &lt;br>例: &lt;tt>Page_name&lt;/tt>（英語ページ） - &lt;tt>JA:Page_name&lt;/tt> - &lt;tt>DE:Page_name&lt;/tt> ## 「生の」英語名のページが他の言語にリダイレクトされるべきである場合、英語の翻訳ページは「EN」の接頭辞が必要になります。 &lt;br>例: &lt;tt>Page_name&lt;/tt> （英語以外のページにリダイレクト） - &lt;tt>EN:Page_name&lt;/tt> - &lt;tt>JA:Page-name&lt;/tt> - &lt;tt>DE:Page_name&lt;/tt> # 各ページに次のものを含める必要があります。 &lt;tt>&lt;nowiki>{{Languages|Page_name}}&lt;/nowiki>&lt;/tt></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you click on "missing languages", and then you click on a red link, it automatically opens a new page with the right prefix and the right page name.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>もし「その他の言語」をクリックし、赤いリンクをクリックすると、自動的に正しい接頭辞とページ名がついた新しいページが開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy the original text to this page and translate it.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>元の文書をコピーして翻訳してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the first line you put &lt;tt>&lt;nowiki>{{Languages|English page name}}&lt;/nowiki>&lt;/tt>.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>先頭行に&lt;tt>&lt;nowiki>{{Languages|Page_name}}&lt;/nowiki>&lt;/tt>があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>'''If you want to translate the title then make sure that the page name in English with the additional language prefix is redirected to a localized article name with its language code.''' # First create the localized page (or category) with the same name as in English, using only a different language prefix (language prefixes for categories are ''after'' the namespace "Category:", e.g. "Category:FR:Maps") # Then move that page to its new translated name (e.g. "Category:FR:Cartes").</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>'''もし題名を翻訳したい場合は、言語の接頭辞がついた英語名のページが、翻訳名のページにリダイレクトされるようにしてください。 ''' # 最初に言語の接頭辞だけを変えた英語と同じ名前の翻訳ページ（またはカテゴリ）を作成してください（カテゴリの言語接頭辞は、 Category:JA:Maps のように "Category:" 名前空間の''後に''つけてください） # それから、ページを翻訳名（例えば「Category:JA:地図」）に変更してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep the generated redirect which is needed for interlanguage navigation!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>作成したリダイレクトは言語間ナビゲーションに必要なので、そのままにしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>=== Language prefixes and namespaces === Many languages are supported merely as a wiki page naming convention, while some of the more widely used ones are set up as proper namespaces within the wiki software, allowing features like tickboxes on the [[Special:Search|advanced search]].</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>=== 言語接頭辞と名前空間 === 多くの言語は単にwikiページの命名規則として扱われるだけにとどまっていますが、一方でより広く使われているいくつかの言語はwikiソフトの中で明確な名前空間として設定されており、[[Special:Search|advanced search]]でのボックスのような機能を利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pages can be listed by prefix (for any language) using [[Special:PrefixIndex]].</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>すべての言語で接頭辞による一覧を表示するには、[[Special:PrefixIndex]]を使用してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that only a few languages (for which there are ample contents on this wiki and enough maintainers) have a dedicated namespace on this wiki (for historic reasons, these namespaces are using capital letters).</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>なお、一部の言語（このウィキに多くのコンテンツがあり十分な管理者がいるもの）のみが、このウィキで専用の名前空間を持っています（経緯上、これらの名前空間は大文字を使用しています）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These namespaces allow to perform searches in the many pages created in those languages.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>これらの名前空間により、その言語で作成されたたくさんのページを効率的に検索できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most languages won't have this dedicated namespace.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>多くの言語は専用の名前空間を持っていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This wiki should progressively be updated to use autotranslatable templates (in a way similar to Wikimedia Commons), instead of having to maintaining a lot of separate pages for each language, for contents that can be maintained in one place independently of the language displayed.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>This wiki should progressively be updated to use autotranslatable templates (in a way similar to Wikimedia Commons), instead of having to maintaining a lot of separate pages for each language, for contents that can be maintained in one place independently of the language displayed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that most language codes used in prefixes are using lowercase letters.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>なお、接頭辞で使用される多くの言語コードには小文字が使われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But for legacy reasons on this wiki, some languages have their own dedicated article namespaces that are named using capital letters (for translated articles in the following 7 namespaces: DE, ES, FR, IT, JA, NL, RU).</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>しかし、このウィキの経緯上、一部の言語は（DE, ES, FR, IT, JA, NL, RU の7つの名前空間における翻訳記事では）大文字を使用した独自の名前空間を持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Taiwanese Chinese (zh-TW) is completely unrelated to Min Nan; the use of zh-TW is deprecated, use Traditional Chinese ("zh-Hant") instead.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Feel free to create pages translated in Min Nan, if you need, using the standard "nan" language code.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* See [[wikipedia:Chinese_Wikipedia#Automatic conversion between Traditional and Simplified Chinese|Chinese Wikipedia]] for information about Chinese languages on WP !</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the transcoder is implemented here on this wiki, we would no longer need to maintain separate pages with orthographic differences between "zh-Hans" (essentially the same for the P.R.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>of China mainland, and Singapore) and "zh-Hant" (essentially the same for Taiwan, Hong Kong SAR, and Macau SAR)
+* Since Moldavian "ro-md"/"mo"" is not needed and should be removed!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See [http://meta.wikimedia.org/wiki/Proposals_for_closing_projects/Closure_of_Moldovan_Wikipedia Closure of Moldovan Wikipedia] !</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The only remaining difference of Moldovan was when the Romanian language was written in the Cyrillic script by people living in Moldova before its independence from USSR.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Russian minority living in the cessessionist Eastern part of Moldova, use the Russian language written in the Cyrillic script, not Moldovan/Romanian, but the other Moldovans do speak Romanian (with just minor vocabulary differences that have been developed when Moldova was occupied by USSR, differences that are now disappearing fast with the increased exchanges with Romanian medias and the return to the use of the Latin alphabet, and with which people of both countries can coexist with an excellent and evident mutual understanding.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* The column "major (tested)" indicates which languages are automatically tested for looking for translated pages that are transcluding [[Template:Languages]] at top of pages.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This navigation template will automatically detect the existence of translated pages and will avoid showing red links.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But such detection is limited to about 50 languages, for technical reasons in this wiki.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All other languages are only listed as "Other languages" in this navigation box, in a list with many red links hidden by default.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For this reason, only major languages (or regional languages for which this wiki has significant contents content to show) will be part of the tested language list which is not hidden by default.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Many other languages may be referenced for the translations of toponyms and POIs in the OSM database (for example for {{Tag|name}}, using BCP47 language codes as suffixes), but most of these languages are not used for translations in this documentation wiki (they will probably never appear as "major (tested)" in the list above).</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[[Category:Wiki Translation| ]]
+[[Category:Using-language-postfix]]</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg></seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
