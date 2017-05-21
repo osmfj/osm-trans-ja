@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.3_0_d898d4e" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.1_0_841c786" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14,10 +14,189 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* When you are reading the English version of the page, switch to edit mode.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170521T222632Z" creationid="miurahr" creationdate="20170521T222632Z">
+        <seg>* 英語版のページを見ている時は、編集モードに切り替えてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*: If there is no English version, create one, for example by starting a new page from a search: 
+*: Type the name of the page you want (say ''English page name'') in the Search box, and start the search.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170521T222140Z" creationid="miurahr" creationdate="20170521T222019Z">
+        <seg>*: 英語版がない場合は作成します。例えば、検索から新しいページを始める場合は…… :
+*: 希望するページの名前（つまり「英語ページ名」）を検索ボックスに入力し、検索を開始してください。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*: In order to have the languages tool bar displayed at the top (as you see on ''this'' page for example), be sure that the template {{tl|Languages}} is present near the beginning of the page, otherwise insert the following wiki text in edit mode: 
+*:: &lt;code&gt;&lt;nowiki&gt;{{Languages|&lt;/nowiki&gt;English page name&lt;nowiki&gt;}}&lt;/nowiki&gt;&lt;/code&gt;
+*: While you're in edit mode, '''copy the wiki text of the entire page to your clipboard'''.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170521T222648Z" creationid="miurahr" creationdate="20170521T222648Z">
+        <seg>: 先頭に言語ツールバーを表示されるようにするために（たとえば、''この''ページに見られるように）、 {{tl|Languages}} テンプレートがページの先頭付近にあるかを確認し、そうでなければ、編集モードで次のウィキ文字列を挿入してください。 ::&lt;code&gt;&lt;nowiki&gt;{{Languages|&lt;/nowiki&gt;&lt;u&gt;英語ページ名&lt;/u&gt;&lt;nowiki&gt;}}&lt;/nowiki&gt;&lt;/code&gt; * 編集モードにいる間に、'''ページ全体のウィキ文書をクリップボードにコピーしてください'''。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*: The search results will say that no such page exists, but it will also include a (red) link to the (non-existing) page.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170521T222152Z" creationid="miurahr" creationdate="20170521T222058Z">
+        <seg>*: 検索結果にはそのようなページはないと表示されますが、（存在しない）ページへの（赤い）リンクも表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>== Community cohesion ==
+Unlike Wikipedia, we are not aiming to capture vast amounts of knowledge in the wiki.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170521T221907Z" creationid="miurahr" creationdate="20170521T221907Z">
+        <seg>== コミュニティの団結 == ウィキペディアとは異なり、我々は、ウィキに膨大な量の知識を集めようとしているわけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>== How to translate ==
+=== Single page ===
+* Find the English version of a page in the main namespace.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170521T222002Z" creationid="miurahr" creationdate="20170521T221943Z">
+        <seg>== 翻訳の仕方 ==
+=== 単一ページ ===
+* 標準の名前空間で英語版のページを探してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>== Wiki translation progress ==
+Wiki translation is taking place on a somewhat ad-hoc basis, and you are encouraged to join in, but we also need to try and get more organised about this.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170521T221940Z" creationid="miurahr" creationdate="20170521T221940Z">
+        <seg>しかし、私たち自身もまた、一つのコミュニティとして、一丸となってまとまっていたいのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For general information, see [[Wikipedia:Android_(operating_system)|Wikipedia's page on Android]] or [https://android.com/ android.com].</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20151205T131301Z" creationid="miurahr" creationdate="20151205T131301Z">
         <seg>全般的な情報については、 [[Wikipedia:Android_(operating_system)|WikipediaのAndroidの項]] や [https://android.com/ android.com]を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that [[translation]] efforts in other areas of the project are equally important if not more so (they usually happen on [[Translatewiki.net]]).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170521T221905Z" creationid="miurahr" creationdate="20170521T221905Z">
+        <seg>なお、[[JA:翻訳|翻訳のページ]]にも、同じくらい重要な翻訳プロジェクトが列挙してあります（多くは [[Translatewiki.net]] にあります）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The message (and the tooltip when hovering this red link) will say (in the language defined in your preferences for this wiki):
+*:: '''Create the page "&lt;u style="color:#F00"&gt;''English page name''&lt;/u&gt;" on this wiki!'''
+*::::::: &lt;sup style="font-size:120%"&gt;'''⬉'''&lt;/sup&gt; &lt;small style="background:#FFE;border:1px solid #AAA;box-shadow:#AAA 2px 2px 4px;color:#333;padding:1px 0.2em"&gt;''English page name'' (page does not exist)&lt;/small&gt;
+*: Click on this red link and you will be starting to create the new page, in edit mode.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170521T222624Z" creationid="miurahr" creationdate="20170521T222624Z">
+        <seg>メッセージ (および赤いリンクをマウスでかざした時に表示されるヒント)には(Wiki設定で定義した言語で)次のように書かれているでしょう:
+*:: '''このウィキでページ「&lt;u style="color:#F00"&gt;英語ページ名&lt;/u&gt;」を新規作成する'''
+*::::::: &lt;sup style="font-size:120%"&gt;'''⬉'''&lt;/sup&gt; &lt;small style="background:#FFE;border:1px solid #AAA;box-shadow:#AAA 2px 2px 4px;color:#333;padding:1px 0.2em"&gt;''English page name'' (page does not exist)&lt;/small&gt;
+*: リンクをクリックすると、編集モードで新しいページの作成を始められます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The situation here is ''entirely'' different.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170521T221916Z" creationid="miurahr" creationdate="20170521T221916Z">
+        <seg>ここでの状況は、''完全に''違います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The wiki holds a lot of important help content and documentation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170521T221859Z" creationid="miurahr" creationdate="20170521T221859Z">
+        <seg>このウィキは、たくさん重要なヘルプや文章を持ってます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The wiki is not the project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170521T221918Z" creationid="miurahr" creationdate="20170521T221918Z">
+        <seg>このウィキはプロジェクトではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are some wiki pages which are more important than others, so concentrate on these pages first.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170521T221942Z" creationid="miurahr" creationdate="20170521T221942Z">
+        <seg>翻訳の成果は、ほとんどの言語でまだ初期段階です。 ウィキページの中には、より重要なページもあります。 まずはこういったところに注力しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Translating wiki pages should be an exercise in improving community cohesion, helping everyone to understand each other, and ultimately helping to build the maps!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170521T221926Z" creationid="miurahr" creationdate="20170521T221926Z">
+        <seg>ウィキページを翻訳することは、コミュニティの団結を促進し、それぞれが互いに理解することの助けとなり、究極的には地図を作る助けとなるための試みであるべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Translation efforts are still in very early stages in many languages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170521T221941Z" creationid="miurahr" creationdate="20170521T221941Z">
+        <seg>== ウィキの翻訳の進捗 == ウィキの翻訳は、いくらか場当たり的に行われており、参加することが奨励されていますが、私たちも組織だって実行してもらうようにしなければいけません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We want the small fledging groups of people who do not speak English to feel welcome, and to have all the information they need, but we also want the community as a whole to stay together and stay focussed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170521T221938Z" creationid="miurahr" creationdate="20170521T221938Z">
+        <seg>英語を話さない人々の駆け出しの小さなグループが、参加しやすく、彼らが必要とするすべての情報を受け取ってほしいのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We'd like to make at least some of this available in other languages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170521T221901Z" creationid="miurahr" creationdate="20170521T221901Z">
+        <seg>私たちは、いくつかの英語以外の言語でこれら文章が読めるようにしたいのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wikipedia decided that the best way to build their encyclopaedia was to split the communities up by language, and run them as almost entirely separate projects.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170521T221912Z" creationid="miurahr" creationdate="20170521T221912Z">
+        <seg>ウィキペディアは、百科事典を構築する最良の手段として、言語別にコミュニティを分け、それらを完全に別なプロジェクトとして運営しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With this in mind we haven't deployed exactly the same [[wiki]] technology to support translations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170521T221928Z" creationid="miurahr" creationdate="20170521T221928Z">
+        <seg>これを考慮して、私たちは翻訳を支援する全く同じ[[JA:ウィキ|ウィキ]]技術を提供していません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{{Languages|Wiki Translation}}
+{{:Wiki/Tabs}}
+[[File:Chart_of_world_writing_systems.svg|250px|right]]
+'''Wiki Translation''' can be a good way to help develop the project across the world.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170521T221856Z" creationid="miurahr" creationdate="20170521T221856Z">
+        <seg>{{Languages|Wiki Translation}} {{JA:Wiki/Tabs}} {{Translation not complete|art=Wiki Translation}} [[File:Chart_of_world_writing_systems.svg|250px|right]] '''ウィキの翻訳'''は、世界をまたぐプロジェクトの開発を助ける良い方法になります。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
