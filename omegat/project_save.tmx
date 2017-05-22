@@ -6,10 +6,60 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>'''Additional steps:'''
+* Some templates transcluded in your translated page may need to be adapted: in some cases these are different templates rewritten in your language (also named with a language code prefix), but many templates now can autodetect the language they should display by internally using {{Tl|Langcode}} which returns the lowercase language code of the current page transcluding it, provided that this current page uses the correct language code prefix.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170521T235955Z" creationid="miurahr" creationdate="20170521T235955Z">
+        <seg>'''追加ステップ:'''
+翻訳ページに自動挿入される一部のテンプレートは、適合させる必要がある。(言語コードプレフィックスを含め)対象言語に書き直されたテンプレートが一部あるが、多くのテンプレートでは、近年は言語を自動検出して、現在のページが翻訳されている言語の小文字言語コードをかえす {{Tl|Langcode}} を内部的に用いて表示され、正しい言語コードを自動的に使えるようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>'''Android''' is a [[Linux]]-based operating system for mobile phones and other mobile devices.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20151205T131039Z" creationid="miurahr" creationdate="20151205T131039Z">
         <seg>'''Android'''は、携帯電話やモバイル機器の[[Linux]]ベースの操作環境です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* '''Paste in''' the English text from your clipboard and now '''start translating''' it into your language and save the new translated page.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170521T234937Z" creationid="miurahr" creationdate="20170521T234937Z">
+        <seg>* 英語の文書をクリップボードから'''貼り付け'''して、これであなたの言語に'''翻訳しはじめます'''。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* Don't delete the redirecting category named in English, even if it is empty (and it should remain empty)!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170522T121424Z" creationid="miurahr" creationdate="20170522T121424Z">
+        <seg>*例えからであっても(それは空のままであるべきである)、英語で名前を指定されたリダイレクトするカテゴリを削除しないでください！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* Finally, you ''may'' rename the new translated page with a translated title, but keep the language code prefix in the new name!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170521T234937Z" creationid="miurahr" creationdate="20170521T234937Z">
+        <seg>* 最後に、新しい翻訳ページを翻訳した題名に変更する''ことができます''が、新しい名称にも言語コード接頭辞を付けてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* In the redirecting category (still named in English), please also add &lt;code&gt;&lt;nowiki&gt;{{Category redirect|&amp;lt;languagecode&amp;gt;:&amp;lt;Adapted title&amp;gt;}}&lt;/nowiki&gt;&lt;/code&gt; so that any page that would still be categorized with the English title will be listed in that category visible as a subcategory of the translated category and not left in an orphaned category: it will ease the maintenance of those pages whose categorisation should be edited to use the adapted title.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170522T121333Z" creationid="miurahr" creationdate="20170522T121333Z">
+        <seg>* りダイレクトされるカテゴリで（英語での名前で）、&lt;code&gt;&lt;nowiki&gt;{{Category redirect|&lt;languagecode&gt;:&lt;Adapted title&gt;}}&lt;/nowiki&gt;&lt;/code&gt;を追加してください。そうすることで、英語タイトルをもつカテゴリーのすべてのページが、翻訳されたカテゴリのサブカテゴリとして見えるようになります:これによって、これらのページの管理が容易になり、適切なタイトルに編集されるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* Use &lt;code&gt;&lt;nowiki&gt;{{Languages|Category:Original English title}}&lt;/nowiki&gt;&lt;/code&gt; at top of your localized version in order to display the interlanguage navigation bar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170522T000058Z" creationid="miurahr" creationdate="20170522T000058Z">
+        <seg>* 言語間ナビゲーションバーを表示するために、翻訳の先頭に&lt;code&gt; &lt;nowiki&gt;{{languages|ns=Category:|元の英語の題名}}&lt;/nowiki&gt;&lt;/code&gt; を使ってください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22,12 +72,44 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* Where it says 'other languages', click 'show' and follow a red link to the language you want and begin creating the new wiki page.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170521T234935Z" creationid="miurahr" creationdate="20170521T234935Z">
+        <seg>* 「Other languages」と書かれている所の「show」をクリックして、新しいウィキページを作成したい言語の赤いリンクをクリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* You need to keep "Category:&amp;lt;languagecode&amp;gt;:&amp;lt;Original English title&amp;gt;" as a redirecting page (example: [[:Category:Beginners' guide|category in English]], [{{FULLURL:Category:JA:Beginners' guide|redirect=no}} redirect in Japanese], [[:Category:JA:初心者ガイド|actual category in Japanese]]) so that the interlanguage navigation bar works.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170522T034921Z" creationid="miurahr" creationdate="20170522T034921Z">
+        <seg>* "Category:言語コード:元の題名" の名称でリダイレクトページを保持する必要があります（例: [[:Category:Beginners' guide|英語でのカテゴリ]], [{{FULLURL:Category:JA:Beginners' guide|redirect=no}} 日本語でのリダイレクト], [[:Category:JA:初心者ガイド|実際の日本語でのカテゴリ]]）。 そうすれば、言語間ナビゲーションバーが動作します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*: Don't delete the redirecting page which is still needed for the interlanguage navigation bar to work properly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170521T235009Z" creationid="miurahr" creationdate="20170521T234938Z">
+        <seg>*: リダイレクトページは言語間ナビゲーションが正しく動作する上で必要なので、削除しないでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>*: If there is no English version, create one, for example by starting a new page from a search: 
 *: Type the name of the page you want (say ''English page name'') in the Search box, and start the search.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20170521T222140Z" creationid="miurahr" creationdate="20170521T222019Z">
         <seg>*: 英語版がない場合は作成します。例えば、検索から新しいページを始める場合は…… :
 *: 希望するページの名前（つまり「英語ページ名」）を検索ボックスに入力し、検索を開始してください。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*: If you renamed a page that has subpages, you should also translate and rename the subpages the same way, using a consistent base page name for all subpages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170521T234959Z" creationid="miurahr" creationdate="20170521T234959Z">
+        <seg>*: 題名を変更したページにサブページがあった場合、同じ方法でサブページも翻訳したり題名を変更したりして、すべてのサブページの基本ページ名が一貫したものになるようにしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46,6 +128,18 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20170521T222152Z" creationid="miurahr" creationdate="20170521T222058Z">
         <seg>*: 検索結果にはそのようなページはないと表示されますが、（存在しない）ページへの（赤い）リンクも表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;div style="font-size:smaller"&gt;
+'''Technical notes:'''
+* Before saving the new page, your language is shown as a missing language in the preview.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170521T235047Z" creationid="miurahr" creationdate="20170521T235033Z">
+        <seg>&lt;div style="font-size:smaller"&gt; 
+'''技術的なメモ:'''
+* 新しいページを保存する前のプレビューでは、その言語が存在しないように表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71,11 +165,31 @@ Unlike Wikipedia, we are not aiming to capture vast amounts of knowledge in the 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>== Translated pages with a title in a non-English language ==
+If you want that a page translated to a national language have the title translated also, it is necessary to maintain anyway a page with English title preceded by language code and colon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170522T121556Z" creationid="miurahr" creationdate="20170522T121556Z">
+        <seg>== 英語以外の言語による題名を持つ翻訳ページ == 
+各言語のページに翻訳された題名を付ける場合は、言語コードとコロンで始まる英語の題名のページを修正する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>== Wiki translation progress ==
 Wiki translation is taking place on a somewhat ad-hoc basis, and you are encouraged to join in, but we also need to try and get more organised about this.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20170521T221940Z" creationid="miurahr" creationdate="20170521T221940Z">
         <seg>しかし、私たち自身もまた、一つのコミュニティとして、一丸となってまとまっていたいのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>=== Category ===
+* Use "Category:&amp;lt;languagecode&amp;gt;:&amp;lt;Adapted title&amp;gt;" convention.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170522T000032Z" creationid="miurahr" creationdate="20170522T000023Z">
+        <seg>=== カテゴリ === 
+* "Category:&lt;言語コード&gt;:&lt;翻訳した題名&gt;" の命名規則を使ってください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -88,10 +202,50 @@ Wiki translation is taking place on a somewhat ad-hoc basis, and you are encoura
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, after you have saved it, your language may still be shown in the missing language box with black colour and bold type.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170521T235057Z" creationid="miurahr" creationdate="20170521T235057Z">
+        <seg>しかし、保存した後でも、未翻訳の言語のボックスに黒い太字で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is needed for links shown in the interlanguage navigation bar (which cannot guess the translated titles).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170522T121528Z" creationid="miurahr" creationdate="20170522T121528Z">
+        <seg>これは、言語間ナビゲーションバー（訳されたタイトルが推測できない）リンクに必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that [[translation]] efforts in other areas of the project are equally important if not more so (they usually happen on [[Translatewiki.net]]).</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20170521T221905Z" creationid="miurahr" creationdate="20170521T221905Z">
         <seg>なお、[[JA:翻訳|翻訳のページ]]にも、同じくらい重要な翻訳プロジェクトが列挙してあります（多くは [[Translatewiki.net]] にあります）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save this English version with the Languages template added.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170521T234933Z" creationid="miurahr" creationdate="20170521T234933Z">
+        <seg>そして Languages テンプレートを追加したこの英語版を「保存」してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See also [[Wiki Help]].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170522T000004Z" creationid="miurahr" creationdate="20170522T000004Z">
+        <seg>[[Ja:Wiki Help|ウィキのヘルプ]]も参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The languages navigation bar at top of translated pages includes now the {{purge}} link to do that in one click.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170521T235230Z" creationid="miurahr" creationdate="20170521T235230Z">
+        <seg>変換されたページの最上部にある言語のナビゲーションバーにはワンクリックで{{Purge}}リンクが追加されました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -142,6 +296,22 @@ Wiki translation is taking place on a somewhat ad-hoc basis, and you are encoura
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This page would be a simply redirect to the actual page with title in national language.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170522T121605Z" creationid="miurahr" creationdate="20170522T121605Z">
+        <seg>このページは各言語の題名を持つページへの単なるリダイレクトになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This strange thing is caused by a template cache.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170521T235100Z" creationid="miurahr" creationdate="20170521T235100Z">
+        <seg>この奇妙な動作は、テンプレートのキャッシュによるものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Translating wiki pages should be an exercise in improving community cohesion, helping everyone to understand each other, and ultimately helping to build the maps!</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20170521T221926Z" creationid="miurahr" creationdate="20170521T221926Z">
@@ -186,6 +356,30 @@ Wiki translation is taking place on a somewhat ad-hoc basis, and you are encoura
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20170521T221928Z" creationid="miurahr" creationdate="20170521T221928Z">
         <seg>これを考慮して、私たちは翻訳を支援する全く同じ[[JA:ウィキ|ウィキ]]技術を提供していません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will see that the new page will have the same title, but a language code prefix added.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170521T234936Z" creationid="miurahr" creationdate="20170521T234936Z">
+        <seg>新しいページが言語接頭辞が付いた同じ題名で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your language will be shown as available.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170521T235109Z" creationid="miurahr" creationdate="20170521T235109Z">
+        <seg>言語が存在するものとして表示されるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[https://www.mediawiki.org/wiki/Manual:FAQ#How_do_I_purge_a_cached_page.3F Purge cache] to rescan the available languages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170521T235107Z" creationid="miurahr" creationdate="20170521T235107Z">
+        <seg>利用可能な言語を再構築するために、[http://www.mediawiki.org/wiki/Manual:FAQ#How_do_I_purge_a_cached_page.3F キャッシュを更新]してください。</seg>
       </tuv>
     </tu>
     <tu>
