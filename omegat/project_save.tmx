@@ -6,6 +6,47 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg># Go to the edit-view of the translated version (''XX:English_page_name'') and find the code-piece like ''&lt;nowiki&gt;{{Language}}&lt;/nowiki&gt;''
+# Change this code-piece to the following: ''&lt;nowiki&gt;{{Language|English_page_name}}&lt;/nowiki&gt;''.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170522T121719Z" creationid="miurahr" creationdate="20170522T121651Z">
+        <seg>#  翻訳版（''XX:english_page_name''）の編集ビューに移動し、''&lt;nowiki&gt;{{Language}}&lt;/nowiki&gt;''という部分を探してください。
+# この部分を、''&lt;nowiki&gt;{{Language|english_page_name}}&lt;/nowiki&gt;''という形に変更してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg># On the upcoming page, use the form like this:
+#: ''To new title'': type the translated title;
+#: Check the ''Move associated talk page'' box;
+#: Click the ''Move page'' button.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170522T122018Z" creationid="miurahr" creationdate="20170522T122018Z">
+        <seg># 次のページで次の操作を行います。
+# 「新しいタイトル」：翻訳したタイトルを入力
+# 「関連する議論ページを移動」ボックスをクリック
+# 「ページ移動」ボタンをクリック
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg># Open again the ''XX:English_page_name'' - Oh yeah, you can't open it because you will be redirected.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170522T122255Z" creationid="miurahr" creationdate="20170522T122255Z">
+        <seg>#. ''XX:english_page_name''を再び開きます。 ―― このページはリダイレクトになっているので開けません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg># Use the move function of the wiki to create a new translated title for the page: Click the small arrow next to the search bar, top right of the page, then ''move''.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170522T121732Z" creationid="miurahr" creationdate="20170522T121732Z">
+        <seg># ページに新しい翻訳された題名をつけるために、ウィキの移動機能を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>'''Additional steps:'''
 * Some templates transcluded in your translated page may need to be adapted: in some cases these are different templates rewritten in your language (also named with a language code prefix), but many templates now can autodetect the language they should display by internally using {{Tl|Langcode}} which returns the lowercase language code of the current page transcluding it, provided that this current page uses the correct language code prefix.</seg>
       </tuv>
@@ -194,6 +235,22 @@ Wiki translation is taking place on a somewhat ad-hoc basis, and you are encoura
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And also, a redirect is automatically established, so all old links to ''XX:English_page_name'' will be redirected to the new translated page.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170522T122126Z" creationid="miurahr" creationdate="20170522T122126Z">
+        <seg>そして、リダイレクトが自動的に設定され、古い''XX:english_page_name''へのリンクはすべて新しい翻訳ページにリダイレクトされるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do the following steps:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170522T121653Z" creationid="miurahr" creationdate="20170522T121636Z">
+        <seg>次のように操作してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For general information, see [[Wikipedia:Android_(operating_system)|Wikipedia's page on Android]] or [https://android.com/ android.com].</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20151205T131301Z" creationid="miurahr" creationdate="20151205T131301Z">
@@ -218,10 +275,34 @@ Wiki translation is taking place on a somewhat ad-hoc basis, and you are encoura
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Let's suppose that the English page name is "''English_page_name''", and you already have got a translated page with the title "''XX:English_page_name''" (where XX is the target language code like Ar, Ca, DE, IT, Zh-hant, ...).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170522T121623Z" creationid="miurahr" creationdate="20170522T121623Z">
+        <seg>英語ページ名が「''english_page_name''」であり、すでに翻訳ページとして「''XX:english_page_name''」（XXは対象となる言語コード、例えばJAやDEやITなど）を作成してあるとしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that [[translation]] efforts in other areas of the project are equally important if not more so (they usually happen on [[Translatewiki.net]]).</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20170521T221905Z" creationid="miurahr" creationdate="20170521T221905Z">
         <seg>なお、[[JA:翻訳|翻訳のページ]]にも、同じくらい重要な翻訳プロジェクトが列挙してあります（多くは [[Translatewiki.net]] にあります）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now the content is moved to a page with the new translated page name "''XX:Translated_page_name''".</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170522T122110Z" creationid="miurahr" creationdate="20170522T122110Z">
+        <seg>新しいコンテンツが、「XX：翻訳されたページ名」という翻訳されたページに移動されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now you want the translated page to get a translated title "''XX:Translated_page_name''" too.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170522T121627Z" creationid="miurahr" creationdate="20170522T121627Z">
+        <seg>そして、翻訳ページで翻訳した題名「''XX:翻訳ページ名''」も使えるようにするとしましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -238,6 +319,22 @@ Wiki translation is taking place on a somewhat ad-hoc basis, and you are encoura
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20170522T000004Z" creationid="miurahr" creationdate="20170522T000004Z">
         <seg>[[Ja:Wiki Help|ウィキのヘルプ]]も参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sometimes there are already some pages redirecting to the old English named page (our new redirecting page).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170522T122151Z" creationid="miurahr" creationdate="20170522T122144Z">
+        <seg>しかし、問題が一つ残っています。 すでに古い英語名のページ（新しいリダイレクトページ）にリダイレクトしているページがある場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That is necessary to keep the language bar working after we moved the page.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170522T121722Z" creationid="miurahr" creationdate="20170522T121722Z">
+        <seg>これは、ページ名を変更した後で言語バーが正しく機能するために必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -288,6 +385,14 @@ Wiki translation is taking place on a somewhat ad-hoc basis, and you are encoura
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then there would occur a double redirection, and that causes problems because the Wiki-System will stop the second redirection (see [[Special:DoubleRedirects]]).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170522T122228Z" creationid="miurahr" creationdate="20170522T122202Z">
+        <seg>そうすると、これは二重リダイレクトを引き起こし、Wikiシステムが2回目のリダイレクトで停止してしまうという問題を引き起こす可能性があります。 （[[Special:DoubleRedirects]] を参照）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are some wiki pages which are more important than others, so concentrate on these pages first.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20170521T221942Z" creationid="miurahr" creationdate="20170521T221942Z">
@@ -308,6 +413,14 @@ Wiki translation is taking place on a somewhat ad-hoc basis, and you are encoura
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20170521T235100Z" creationid="miurahr" creationdate="20170521T235100Z">
         <seg>この奇妙な動作は、テンプレートのキャッシュによるものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To prevent this from happening:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170522T122236Z" creationid="miurahr" creationdate="20170522T122236Z">
+        <seg>発生を防ぐには：</seg>
       </tuv>
     </tu>
     <tu>
