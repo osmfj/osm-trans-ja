@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg># Check if there are any pages where is written ''(redirect page)'' in black color.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170523T122957Z" creationid="miurahr" creationdate="20170523T122957Z">
+        <seg># 黒で''(転送ページ)''と書かれているページがあるかどうかをチェックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg># Go to the edit-view of the translated version (''XX:English_page_name'') and find the code-piece like ''&lt;nowiki&gt;{{Language}}&lt;/nowiki&gt;''
 # Change this code-piece to the following: ''&lt;nowiki&gt;{{Language|English_page_name}}&lt;/nowiki&gt;''.</seg>
       </tuv>
@@ -35,6 +43,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20170522T122255Z" creationid="miurahr" creationdate="20170522T122255Z">
         <seg>#. ''XX:english_page_name''を再び開きます。 ―― このページはリダイレクトになっているので開けません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg># Open this page, edit them and change the redirect directly to ''XX:Translated_page_name''</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170523T123004Z" creationid="miurahr" creationdate="20170523T123004Z">
+        <seg>#このページを開き、編集してリダイレクトを直接''XX:翻訳ページ名''に変更します。 これで二重リダイレクトの問題が修正され、きれいな状態の翻訳題名が完成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -206,6 +222,15 @@ Unlike Wikipedia, we are not aiming to capture vast amounts of knowledge in the 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>== Instructions for the Languages template ==</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170523T123020Z" creationid="miurahr" creationdate="20170523T123020Z">
+        <seg>== Languages テンプレートの説明 ==
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>== Translated pages with a title in a non-English language ==
 If you want that a page translated to a national language have the title translated also, it is necessary to maintain anyway a page with English title preceded by language code and colon.</seg>
       </tuv>
@@ -267,10 +292,28 @@ Wiki translation is taking place on a somewhat ad-hoc basis, and you are encoura
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is based on [[wikipedia:Help:Parser_function|parser functions]] from MediaWiki and the [[w:IETF language tag|IETF language tags]] (as defined in the '''BCP 47''' standard, based on [[w:ISO 639-1|ISO 639-1]] with a few exclusions, and extensions partly borrowed from other standards).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170523T123042Z" creationid="miurahr" creationdate="20170523T123042Z">
+        <seg>MediaWiki の[[wikipedia:Help:Parser_function|パーサー関数]]と [[w:ja:IETF言語タグ|IETF 言語タグ]]（'''BCP 47''' で定義され、 [[w:ja:ISO 639-1|ISO 639-1]] から若干を除外し、他の標準から部分的に拡張したものに基づく） に基づいています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is needed for links shown in the interlanguage navigation bar (which cannot guess the translated titles).</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20170522T121528Z" creationid="miurahr" creationdate="20170522T121528Z">
         <seg>これは、言語間ナビゲーションバー（訳されたタイトルが推測できない）リンクに必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Just use the link in the upper left corner: ''(Redirected from XX:English_page_name)''
+# Now we opened the old page title which is now just a redirecting page
+# Open the link ''What links here'' in the left menu.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170523T122943Z" creationid="miurahr" creationdate="20170523T122943Z">
+        <seg>左上隅の''（XX:english_page_nameから転送）''というリンクを使用してください。 :6. これで、単なるリダイレクトページとなった古い題名のページが開きます。 :7. 左側のメニューの''リンク元''のリンクを開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -323,6 +366,15 @@ Wiki translation is taking place on a somewhat ad-hoc basis, and you are encoura
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See below for a partial list.&lt;br /&gt;
+This automatically generates a language menu consisting of links to the original page (in English) and all translated pages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170523T123051Z" creationid="miurahr" creationdate="20170523T123051Z">
+        <seg>リストの一部は以下を参照してください。 &lt;br /&gt; これは元のページ（英語版）とすべての翻訳ページへのリンクを含む言語メニューを生成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sometimes there are already some pages redirecting to the old English named page (our new redirecting page).</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20170522T122151Z" creationid="miurahr" creationdate="20170522T122144Z">
@@ -339,10 +391,37 @@ Wiki translation is taking place on a somewhat ad-hoc basis, and you are encoura
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The complete syntax is:
+: &lt;nowiki&gt;{{Languages|NameSpace:English page name}}&lt;/nowiki&gt;
+The parameter ''Page name'' is not necessary if the title of current page is equal to English page title, because his default value is assumed to be exactly the title of current page (however it is recommended to keep it to ease the translation of English pages and then renaming them in the actual target language).&lt;br /&gt;
+Note: Now the parameter "ns=" is no required to specify a leading namespace such as Template or Category, which can be merged into the first parameter (see [[WikiProject Cleanup#Pages with ns argument to the languages template|see here]]).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170523T123115Z" creationid="miurahr" creationdate="20170523T123115Z">
+        <seg>全体の文法は次の通りです。 :&lt;nowiki&gt;{{Languages|ns=名前空間:|英語ページ名}}&lt;/nowiki&gt; 引数''英語ページ名''は、現在のページの題名が英語ページの題名と同じであれば、必要ありません。 既定値が現在のページの題名と同じだと仮定されるからです（しかし、英語ページを翻訳して実際の翻訳先言語にページ名を変更しやすいように、入れておくことをお勧めします）。 &lt;br/&gt; 引数 ''ns='' は翻訳ページ（または参照ページ）が現在のページと異なる名前空間にある場合にのみ必要です（これは基本的に、下記の表にある専用の名前空間を持つ一部の言語に翻訳されたページや、異なる名前空間にあるページにウィキリンクを貼る場合に関係がありました）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The languages navigation bar at top of translated pages includes now the {{purge}} link to do that in one click.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20170521T235230Z" creationid="miurahr" creationdate="20170521T235230Z">
         <seg>変換されたページの最上部にある言語のナビゲーションバーにはワンクリックで{{Purge}}リンクが追加されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The links are written in their respective natime names: "Deutsch", "English", "français", etc.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170523T123058Z" creationid="miurahr" creationdate="20170523T123058Z">
+        <seg>リンクは "Deutsch", "English", "français", "日本語" などように、各国語で書かれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The list of languages is sorted alphabetically, grouped by scripts, with RTL scripts after LTR scripts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170523T123102Z" creationid="miurahr" creationdate="20170523T123102Z">
+        <seg>言語の一覧は文字の種類や各方向によってグループ化され、アルファベット順で並べられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -489,6 +568,14 @@ Wiki translation is taking place on a somewhat ad-hoc basis, and you are encoura
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[[Template:Languages]] lists all languages available.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170523T123023Z" creationid="miurahr" creationdate="20170523T123023Z">
+        <seg> [[Template:Languages]]は、利用可能な言語すべてを一覧表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[https://www.mediawiki.org/wiki/Manual:FAQ#How_do_I_purge_a_cached_page.3F Purge cache] to rescan the available languages.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20170521T235107Z" creationid="miurahr" creationdate="20170521T235107Z">
@@ -504,6 +591,248 @@ Wiki translation is taking place on a somewhat ad-hoc basis, and you are encoura
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20170521T221856Z" creationid="miurahr" creationdate="20170521T221856Z">
         <seg>{{Languages|Wiki Translation}} {{JA:Wiki/Tabs}} {{Translation not complete|art=Wiki Translation}} [[File:Chart_of_world_writing_systems.svg|250px|right]] '''ウィキの翻訳'''は、世界をまたぐプロジェクトの開発を助ける良い方法になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{|class="sortable wikitable" border="1"
+|-
+!scope="col"| OSM wiki
+!scope="col"| Wikipedia
+!scope="col"| BCP 47&lt;br /&gt; (RFC 5646 or later)
+!scope="col"| name&lt;br /&gt; (native)
+!scope="col"| name&lt;br /&gt; (in English)
+!scope="col"| wiki&lt;br /&gt; namespace
+!scope="col"| major&lt;br /&gt; (tested)
+!scope="col"| right-to-left
+|-
+| [[Special:PrefixIndex/af:|af]] || [[wikipedia:af:Main Page|af]] || [[wikipedia:Afrikaans language|af]] || {{#language:af}} || Afrikaans || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/am:|am]] || [[wikipedia:am:Main Page|am]] || [[wikipedia:Amharic language|am]] || {{#language:am}} || Amharic || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/as:|as]] || [[wikipedia:as:Main Page|as]] || [[wikipedia:Assamese language|as]] || {{#language:as}} || Assamese || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/ar:|ar]] || [[wikipedia:ar:Main Page|ar]] || [[wikipedia:Arabic language|ar]] ||dir="rtl"| {{#language:ar}} || Arabic || {{no}} || {{yes}} || {{yes}}
+|-
+| [[Special:PrefixIndex/ast:|ast]] || [[wikipedia:ast:Main Page|ast]] || [[wikipedia:Asturian language|ast]] || {{#language:ast}} || Asturian || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/az:|az]] || [[wikipedia:az:Main Page|az]] || [[wikipedia:Azerbaijan language|az]] || {{#language:az}} || Azerbaijan || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/bg:|bg]] || [[wikipedia:bg:Main Page|bg]] || [[wikipedia:Bulgarian language|bg]] || {{#language:bg}} || Bulgarian || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/bn:|bn]] || [[wikipedia:bn:Main Page|bn]] || [[wikipedia:Bengali language|bn]] || {{#language:bn}} || Bengali || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/br:|br]] || [[wikipedia:br:Main Page|br]] || [[wikipedia:Breton language|br]] || {{#language:br}} || Breton || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/bs:|bs]] || [[wikipedia:bs:Main Page|bs]] || [[wikipedia:Bosnian language|bs]] || {{#language:bs}} || Bosnian || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/ca:|ca]] || [[wikipedia:ca:Main Page|ca]] || [[wikipedia:Catalan language|ca]] || {{#language:ca}} || Catalan (Valencian) || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/co:|co]] || [[wikipedia:co:Main Page|co]] || [[wikipedia:Corsican language|co]] || {{#language:co}} || Corsican || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/cs:|cs]] || [[wikipedia:cs:Main Page|cs]] || [[wikipedia:Czech language|cs]] || {{#language:cs}} || Czech || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/da:|da]] || [[wikipedia:da:Main Page|da]] || [[wikipedia:Danish language|da]] || {{#language:da}} || Danish || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/DE:|DE]] || [[wikipedia:de:Main Page|de]] || [[wikipedia:German language|de]] || {{#language:de}} || German || {{yes}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/diq:|diq]] || [[wikipedia:diq:Main Page|diq]] || [[wikipedia:Zazaki language|diq]] || {{#language:diq}} || Zazaki || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/dv:|dv]] || [[wikipedia:dv:Main Page|dv]] || [[wikipedia:Maldivian language|dv]] ||dir="rtl"| {{#language:dv}} || Maldivian || {{no}} || {{no}} || {{yes}}
+|-
+| [[Special:PrefixIndex/el:|el]] || [[wikipedia:el:Main Page|el]] || [[wikipedia:Greek language|el]] || {{#language:el}} || Greek || {{no}} || {{yes}} || {{no}}
+|-
+|style="background:red"| [[Special:PrefixIndex/EN:|''none'']] || [[wikipedia:en:Main Page|en]] || [[wikipedia:English language|en]] || {{#language:en}} || English ||style="background:white;text-align:center;"| No ''(default namespace)'' || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/eo:|eo]] || [[wikipedia:eo:Main Page|eo]] || [[wikipedia:Esperanto|eo]] || {{#language:eo}} || Esperanto || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/ES:|ES]] || [[wikipedia:es:Main Page|es]] || [[wikipedia:Spanish language|es]] || {{#language:es}} || Spanish || {{yes}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/et:|et]] || [[wikipedia:et:Main Page|et]] || [[wikipedia:Estonian language|et]] || {{#language:et}} || Estonian || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/eu:|eu]] || [[wikipedia:eu:Main Page|eu]] || [[wikipedia:Basque language|eu]] || {{#language:eu}} || Basque || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/fa:|fa]] || [[wikipedia:fa:Main Page|fa]] || [[wikipedia:Farsi language|fa]] ||dir="rtl"| {{#language:fa}} || Farsi (Persian) || {{no}} || {{yes}} || {{yes}}
+|-
+| [[Special:PrefixIndex/fi:|fi]] || [[wikipedia:fi:Main Page|fi]] || [[wikipedia:Finnish language|fi]] || {{#language:fi}} || Finnish || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/FR:|FR]] || [[wikipedia:fr:Main Page|fr]] || [[wikipedia:French language|fr]] || {{#language:fr}} || French || {{yes}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/fy:|fy]] || [[wikipedia:fy:Main Page|fy]] || [[wikipedia:West Frisian language|fy]] || {{#language:fy}} || Western Frisian || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/ga:|ga]] || [[wikipedia:ga:Main Page|ga]] || [[wikipedia:Irish language|ga]] || {{#language:ga}} || Irish Gaelic || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/gd:|gd]] || [[wikipedia:gd:Main Page|gd]] || [[wikipedia: Scottish Gaelic language|gd]] || {{#language:gd}} || Scottish Gaelic || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/gl:|gl]] || [[wikipedia:gl:Main Page|gl]] || [[wikipedia:Galician language|gl]] || {{#language:gl}} || Galician || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/gcf:|gcf]] ||style="background:red"| ''none'' || [[wikipedia:Antillean Creole|gcf]] || Kréyòl gwadloupéyen || Guadeloupean Creole French || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/gsw:|gsw]] || [[wikipedia:gsw:Main Page|gsw]] || [[wikipedia:Alemannic language|gsw]] || {{#language:gsw}} || Alemannic / Alsatian || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/gu:|gu]] || [[wikipedia:gu:Main Page|gu]] || [[wikipedia:Gujarati language|gu]] || {{#language:gu}} || Gujarati || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/ha:|ha]] || [[wikipedia:ha:Main Page|ha]] || [[wikipedia:Hausa language|ha]] || {{#language:ha}} || Hausa || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/he:|he]] || [[wikipedia:he:Main Page|he]] || [[wikipedia:Hebrew language|he]] ||dir="rtl"| {{#language:he}} || Hebrew || {{no}} || {{yes}} || {{yes}}
+|-
+| [[Special:PrefixIndex/hi:|hi]] || [[wikipedia:hi:Main Page|hi]] || [[wikipedia:Hindi language|hi]] || {{#language:hi}} || Hindi || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/hr:|hr]] || [[wikipedia:hr:Main Page|hr]] || [[wikipedia:Croatian language|hr]] || {{#language:hr}} || Croatian || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/ht:|ht]] || [[wikipedia:ht:Main Page|ht]] || [[wikipedia:Haitian Creole|ht]] || {{#language:ht}} || Haitian Creole || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/hu:|hu]] || [[wikipedia:hu:Main Page|hu]] || [[wikipedia:Hungarian language|hu]] || {{#language:hu}} || Hungarian || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/hu:|hy]] || [[wikipedia:hy:Main Page|hy]] || [[wikipedia:Armenian language|hy]] || {{#language:hy}} || Armenian || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/ia:|ia]] || [[wikipedia:ia:Main Page|ia]] || [[wikipedia:Interlingua|ia]] || {{#language:ia}} || Interlingua || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/id:|id]] || [[wikipedia:id:Main Page|id]] || [[wikipedia:Indonesian language|id]] || {{#language:id}} || Indonesian || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/ig:|ig]] || [[wikipedia:ig:Main Page|ig]] || [[wikipedia:Igbo language|ig]] || {{#language:ig}} || Igbo || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/is:|is]] || [[wikipedia:is:Main Page|is]] || [[wikipedia:Icelandic language|is]] || {{#language:is}} || Icelandic || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/IT:|IT]] || [[wikipedia:it:Main Page|it]] || [[wikipedia:Italian language|it]] || {{#language:it}} || Italian || {{yes}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/JA:|JA]] || [[wikipedia:ja:Main Page|ja]] || [[wikipedia:Japanese language|ja]] || {{#language:ja}} || Japanese || {{yes}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/jv:|jv]] || [[wikipedia:jv:Main Page|jv]] || [[wikipedia:Javanese language|jv]] || {{#language:jv}} || Javanese || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/ka:|ka]] || [[wikipedia:ka:Main Page|ka]] || [[wikipedia:Georgian language|ka]] || {{#language:ka}} || Georgian || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/kk:|kk]] || [[wikipedia:kk:Main Page|kk]] || [[wikipedia:Kazakh language|kk]] || {{#language:kk}} || Kazakh || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/km:|km]] || [[wikipedia:km:Main Page|km]] || [[wikipedia:Khmer language|km]] || {{#language:km}} || Khmer (Cambodian) || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/kn:|kn]] || [[wikipedia:kn:Main Page|kn]] || [[wikipedia:Kannada language|kn]] || {{#language:kn}} || Kannada || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/ko:|ko]] || [[wikipedia:ko:Main Page|ko]] || [[wikipedia:Korean language|ko]] || {{#language:ko}} || Korean || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/ku:|ku]] || [[wikipedia:ku:Main Page|ku]] || [[wikipedia:Kurdish language|ku]] || {{#language:ku}} || Kurdish || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/lb:|lb]] || [[wikipedia:lb:Main Page|lb]] || [[wikipedia:Luxembourgish language|lb]] || {{#language:lb}} || Luxembourgish || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/lo:|lo]] || [[wikipedia:lo:Main Page|lo]] || [[wikipedia:Laotian language|lo]] || {{#language:lo}} || Laotian || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/lt:|lt]] || [[wikipedia:lt:Main Page|lt]] || [[wikipedia:Lithuanian language|lt]] || {{#language:lt}} || Lithuanian || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/lv:|lv]] || [[wikipedia:lv:Main Page|lv]] || [[wikipedia:Latvian language|lv]] || {{#language:lv}} || Latvian || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/mg:|mg]] || [[wikipedia:mg:Main Page|mg]] || [[wikipedia:Malagasy language|mg]] || {{#language:mg}} || Malagasy || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/min:|min]] || [[wikipedia:min:Main Page|min]] || [[wikipedia:Baso Minangkabau|min]] || {{#language:min}} || Baso Minangkabau || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/mk:|mk]] || [[wikipedia:mk:Main Page|mk]] || [[wikipedia:Macedonian language|mk]] || {{#language:mk}} || Macedonian || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/ml:|ml]] || [[wikipedia:ml:Main Page|ml]] || [[wikipedia:Malayalam language|ml]] || {{#language:ml}} || Malayalam || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/mn:|mn]] || [[wikipedia:mn:Main Page|mn]] || [[wikipedia:Mongolian language|mn]] || {{#language:mn}} || Mongolian || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/mr:|mr]] || [[wikipedia:mr:Main Page|mr]] || [[wikipedia:Marathi language|mr]] || {{#language:mr}} || Marathi || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/ms:|ms]] || [[wikipedia:ms:Main Page|ms]] || [[wikipedia:Malaysian language|ms]] || {{#language:ms}} || Malaysian || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/mt:|mt]] || [[wikipedia:mt:Main Page|mt]] || [[wikipedia:Maltese language|mt]] || {{#language:mt}} || Maltese || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/my:|my]] || [[wikipedia:my:Main Page|my]] || [[wikipedia:Myanmarese language|my]] || {{#language:my}} || Myanmarese (Burmese) || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/nan:|nan]] || [[wikipedia:nds:Main Page|nan]] || [[wikipedia:Min Nan language|nan]] || {{#language:nan}} || Min Nan || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/nds:|nds]] || [[wikipedia:nds:Main Page|nds]] || [[wikipedia:Low German language|nds]] || {{#language:nds}} || Low German || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/nds-nl:|nds-nl]] || [[wikipedia:nds-nl:Main Page|nds-nl]] || [[wikipedia:Low Saxon language|nds-NL]] || {{#language:nds-nl}} || Low Saxon || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/ne:|ne]] || [[wikipedia:ne:Main Page|ne]] || [[wikipedia:Nepalese language|ne]] || {{#language:ne}} || Nepalese || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/NL:|NL]] || [[wikipedia:nl:Main Page|nl]] || [[wikipedia:Dutch language|nl]] || {{#language:nl}} || Dutch/Flemish || {{yes}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/nn:|nn]] || [[wikipedia:nn:Main Page|nn]] || [[wikipedia:Nynorsk|nn]] || {{#language:nn}} || Norwegian (Nynorsk) || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/no:|no]] || [[wikipedia:no:Main Page|no]] || [[wikipedia:Norwegian language|no]] || {{#language:no}} || Norwegian (Bokmal) || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/oc:|oc]] || [[wikipedia:oc:Main Page|oc]] || [[wikipedia:Occitan language|oc]] || {{#language:oc}} || Occitan || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/om:|om]] || [[wikipedia:om:Main Page|om]] || [[wikipedia:Oromo language|om]] || {{#language:om}} || Oromo || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/or:|or]] || [[wikipedia:or:Main Page|or]] || [[wikipedia:Oriya language|or]] || {{#language:or}} || Oriya || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/pa:|pa]] || [[wikipedia:pa:Main Page|pa]] || [[wikipedia:Panjabi language|pa]] || {{#language:pa}} || Panjabi || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/pl:|pl]] || [[wikipedia:pl:Main Page|pl]] || [[wikipedia:Polish language|pl]] || {{#language:pl}} || Polish || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/ps:|ps]] || [[wikipedia:ps:Main Page|ps]] || [[wikipedia:Pushto language|ps]] ||dir="rtl"| {{#language:ps}} || Pushto || {{no}} || {{no}} || {{yes}}
+|-
+| [[Special:PrefixIndex/pt:|pt]] || [[wikipedia:pt:Main Page|pt]] || [[wikipedia:Portuguese language|pt]] || {{#language:pt}} || Portuguese || {{no}} || {{yes}}|| {{no}}
+|-
+| [[Special:PrefixIndex/pt-br:|pt-br]] ||style="background:yellow"| ''none, see'' [[wikipedia:pt:Main Page|pt]] || [[wikipedia:Brazilian Portuguese|pt-BR]] || {{#language:pt-br}} || Brazilian Portuguese || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/ro:|ro]] || [[wikipedia:ro:Main Page|ro]] || [[wikipedia:Romanian language|ro]] || {{#language:ro}} || Romanian || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/RU:|RU]] || [[wikipedia:ru:Main Page|ru]] || [[wikipedia:Russian language|ru]] || {{#language:ru}} || Russian || {{yes}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/sd:|sd]] || [[wikipedia:sd:Main Page|sd]] || [[wikipedia:Sindhi language|sd]] ||dir="rtl"| {{#language:sd}} || Sindhi || {{no}} || {{no}} || {{yes}}
+|-
+| [[Special:PrefixIndex/si:|si]] || [[wikipedia:si:Main Page|si]] || [[wikipedia:Sinhalese language|si]] || {{#language:si}} || Sinhalese || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/sk:|sk]] || [[wikipedia:sk:Main Page|sk]] || [[wikipedia:Slovak language|sk]] || {{#language:sk}} || Slovak || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/sl:|sl]] || [[wikipedia:sl:Main Page|sl]] || [[wikipedia:Slovene language|sl]] || {{#language:sl}} || Slovenian || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/so:|so]] || [[wikipedia:so:Main Page|so]] || [[wikipedia:Somali language|so]] || {{#language:so}} || Somali || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/sq:|sq]] || [[wikipedia:sq:Main Page|sq]] || [[wikipedia:Albanian language|sq]] || {{#language:sq}} || Albanian || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/sr:|sr]] || [[wikipedia:sr:Main Page|sr]] || [[wikipedia:Serbian language|sr]] || {{#language:sr}} || Serbian || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/sv:|sv]] || [[wikipedia:sv:Main Page|sv]] || [[wikipedia:Swedish language|sv]] || {{#language:sv}} || Swedish || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/sw:|sw]] || [[wikipedia:sw:Main Page|sw]] || [[wikipedia:Swahili language|sw]] || {{#language:sw}} || Swahili || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/ta:|ta]] || [[wikipedia:ta:Main Page|ta]] || [[wikipedia:Tamil language|ta]] || {{#language:ta}} || Tamil || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/te:|te]] || [[wikipedia:te:Main Page|te]] || [[wikipedia:Telugu language|te]] || {{#language:te}} || Telugu || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/tg:|tg]] || [[wikipedia:tg:Main Page|tg]] || [[wikipedia:Tajik language|tg]] || {{#language:tg}} || Tajik || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/th:|th]] || [[wikipedia:th:Main Page|th]] || [[wikipedia:Thai language|th]] || {{#language:th}} || Thai || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/tm:|tm]] || [[wikipedia:tm:Main Page|tm]] || [[wikipedia:Turkmen language|tm]] || {{#language:tm}} || Turkmen || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/tr:|tr]] || [[wikipedia:tr:Main Page|tr]] || [[wikipedia:Turkish language|tr]] || {{#language:tr}} || Turkish || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/uk:|uk]] || [[wikipedia:uk:Main Page|uk]] || [[wikipedia:Ukrainian language|uk]] || {{#language:uk}} || Ukrainian || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/ur:|ur]] || [[wikipedia:ur:Main Page|ur]] || [[wikipedia:Urdu language|ur]] ||dir="rtl"| {{#language:ur}} || Urdu || {{no}} || {{yes}} || {{yes}}
+|-
+| [[Special:PrefixIndex/uz:|uz]] || [[wikipedia:uz:Main Page|uz]] || [[wikipedia:Uzbek language|uz]] || {{#language:uz}} || Uzbek || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/vi:|vi]] || [[wikipedia:vi:Main Page|vi]] || [[wikipedia:Vietnamese language|vi]] || {{#language:vi}} || Vietnamese || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/wo:|wo]] || [[wikipedia:wo:Main Page|wo]] || [[wikipedia:Wolof language|wo]] || {{#language:wo}} || Wolof || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/wuu:|wuu]] || [[wikipedia:wuu:Main Page|wuu]] || [[wikipedia:Wu language|wuu]] || {{#language:wuu}} || Wu || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/xh:|xh]] || [[wikipedia:xh:Main Page|xh]] || [[wikipedia:Xhosa language|xh]] || {{#language:xh}} || Xhosa || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/yi:|yi]] || [[wikipedia:yi:Main Page|yi]] || [[wikipedia:Yiddish language|yi]] ||dir="rtl"| {{#language:yi}} || Yiddish || {{no}} || {{no}} || {{yes}}
+|-
+| [[Special:PrefixIndex/yo:|yo]] || [[wikipedia:yo:Main Page|yo]] || [[wikipedia:Yoruba language|yo]] || {{#language:yo}} || Yoruba || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/yue:|yue]] || [[wikipedia:yue:Main Page|yue]] || [[wikipedia:Cantonese language|yue]] || {{#language:yue}} || Cantonese || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/za:|za]] || [[wikipedia:za:Main Page|za]] || [[wikipedia:Zhuang language|za]] || {{#language:za}} || Zhuang || {{no}} || {{no}} || {{no}}
+|-
+| [[Special:PrefixIndex/zh-hans:|zh-hans]] ||style="background:yellow"| ''none, see'' [[wikipedia:zh:Main Page|zh]] || [[wikipedia:Chinese language|zh]]-[[wikipedia:Simplified Chinese characters|Hans]] || {{#language:zh-hans}} || Simplified Chinese || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/zh-hant:|zh-hant]] ||style="background:yellow"| ''none, see'' [[wikipedia:zh:Main Page|zh]] || [[wikipedia:Chinese language|zh]]-[[wikipedia:Traditional Chinese characters|Hant]] || {{#language:zh-hant}} || Traditional Chinese || {{no}} || {{yes}} || {{no}}
+|-
+| [[Special:PrefixIndex/zu:|zu]] || [[wikipedia:zu:Main Page|zu]] || [[wikipedia:Zulu language|zu]] || {{#language:zu}} || Zulu || {{no}} || {{no}} || {{no}}
+|}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20170523T122840Z" creationid="miurahr" creationdate="20170523T122840Z">
+        <seg>実装されている名前空間と言語の例: Page_name ''(できれば英語)'' Cs:Page_name ''(チェコ語)'' DE:Page_name ''(ドイツ語)'' ES:Page_name ''(スペイン語)'' FR:Page_name ''(フランス語)'' IT:Page_name ''(イタリア語)'' JA:Page_name ''(日本語)'' NL:Page_name ''(オランダ語)'' RU:Page_name ''(ロシア語)'' Uk:Page_name ''(ウクライナ語、イギリスではありません!!!)'' === 短い解説 === # テンプレートが正しく動作するように、すべてのページ名は英語にします。 &lt;br&gt;各翻訳ページは、言語コードを接頭辞とし、コロンで接続して英語ページ名をページ名にする必要があります。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
