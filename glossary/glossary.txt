@@ -1,1 +1,14 @@
+Layer	レイヤー
+preference	設定
+relation	リレーション
+helper line	補助線
+session	セッション
+direction	方向
+way	ウェイ
+object	オブジェクト
+dataset	データセット
+validation	妥当性
+validation	妥当性検査
+Validating	検証中
+Viewport	ビューポート
 workspace	作業フォルダ
