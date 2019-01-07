@@ -13,3 +13,5 @@ Validating	検証中
 Viewport	ビューポート
 workspace	作業フォルダ
 combined	結合
+bounding box	境界ボックス
+changesets	変更セット
