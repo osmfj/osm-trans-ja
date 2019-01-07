@@ -2306,6 +2306,14 @@ Wiki translation is taking place on a somewhat ad-hoc basis, and you are encoura
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A background upload is already in progress.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T221920Z" creationid="miurahr" creationdate="20190107T221920Z">
+        <seg>バックグラウンドアップロードは既に進行中です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A board with a map.</seg>
       </tuv>
       <tuv lang="JA">
@@ -5650,6 +5658,22 @@ Wiki translation is taking place on a somewhat ad-hoc basis, and you are encoura
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Authenticating at the OSM API ''{0}'' failed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T222030Z" creationid="miurahr" creationdate="20190107T222030Z">
+        <seg>OSM API ''{0}'' の認証が失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Authenticating at the host ''{0}'' failed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T222140Z" creationid="miurahr" creationdate="20190107T222140Z">
+        <seg>ホスト ''{0}'' の認証が失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Authenticating the session for user ''{0}''...</seg>
       </tuv>
       <tuv lang="JA">
@@ -8198,6 +8222,14 @@ Wiki translation is taking place on a somewhat ad-hoc basis, and you are encoura
       </tuv>
       <tuv lang="JA">
         <seg>家畜脱出防止溝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Caught security exception.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T221958Z" creationid="miurahr" creationdate="20190107T221958Z">
+        <seg>セキュリティ例外がキャッチされました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20134,6 +20166,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Failed to put Credential Dialog always on top.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T221942Z" creationid="miurahr" creationdate="20190107T221942Z">
+        <seg>認証情報ダイアログを常に上に配置できませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Failed to read CSS file ''help-browser.css''.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20190107T214544Z" creationid="miurahr" creationdate="20190107T214544Z">
@@ -25872,6 +25912,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="JA">
         <seg>幼稚園</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kindly wait for it to finish before uploading new changes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T221932Z" creationid="miurahr" creationdate="20190107T221932Z">
+        <seg>新しい変更をアップロードする前に、完了するまでお待ちください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34980,6 +35028,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="JA">
         <seg>有効なユーザーIDを入力してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please enter a valid username and a valid password.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T222041Z" creationid="miurahr" creationdate="20190107T222041Z">
+        <seg>有効なユーザー名と有効なパスワードを入力してください。</seg>
       </tuv>
     </tu>
     <tu>
