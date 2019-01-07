@@ -5658,6 +5658,14 @@ Wiki translation is taking place on a somewhat ad-hoc basis, and you are encoura
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Authenticating at the HTTP proxy ''{0}'' failed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T222200Z" creationid="miurahr" creationdate="20190107T222200Z">
+        <seg>HTTPプロキシ「{0}"での認証が失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Authenticating at the OSM API ''{0}'' failed.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20190107T222030Z" creationid="miurahr" creationdate="20190107T222030Z">
@@ -7830,6 +7838,14 @@ Wiki translation is taking place on a somewhat ad-hoc basis, and you are encoura
       </tuv>
       <tuv lang="JA">
         <seg>選択されたノードの中心が特定できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot download file ''{0}''.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T222541Z" creationid="miurahr" creationdate="20190107T222213Z">
+        <seg>ファイル''{0}'' をダウンロードできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14162,6 +14178,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete layers without saving.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T222637Z" creationid="miurahr" creationdate="20190107T222637Z">
+        <seg>保存せずにレイヤーを削除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete node {0}</seg>
       </tuv>
       <tuv lang="JA">
@@ -19446,6 +19470,22 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exit JOSM with saving.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T222701Z" creationid="miurahr" creationdate="20190107T222701Z">
+        <seg>保存してJOSMを終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exit JOSM without saving.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T222616Z" creationid="miurahr" creationdate="20190107T222616Z">
+        <seg>保存せずにJOSMを終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exit now!</seg>
       </tuv>
       <tuv lang="JA">
@@ -20206,6 +20246,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Failed to retrieve user infos for the current JOSM user.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T222405Z" creationid="miurahr" creationdate="20190107T222405Z">
+        <seg>現在のJOSMユーザーのユーザー情報の取得に失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Failed to save OSM credentials to credential manager.</seg>
       </tuv>
       <tuv lang="JA">
@@ -20570,6 +20618,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="JA">
         <seg>ファイル ''{0}'' はありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File ''{0}'' is not writable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T222529Z" creationid="miurahr" creationdate="20190107T222438Z">
+        <seg>ファイル''{0}'' は書き込み可能ではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23600,6 +23656,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ignoring caught exception because upload is canceled.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T223423Z" creationid="miurahr" creationdate="20190107T223423Z">
+        <seg>アップロードがキャンセルされるため、キャッチされた例外を無視します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ignoring elements</seg>
       </tuv>
       <tuv lang="JA">
@@ -25334,6 +25398,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="JA">
         <seg>繰り返し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Its download link ''{1}'' is not a valid URL.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T222557Z" creationid="miurahr" creationdate="20190107T222242Z">
+        <seg>ダウンロードリンク''{1}'' は有効なURLではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31126,6 +31198,14 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Node ''{0}'' is already deleted.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T223320Z" creationid="miurahr" creationdate="20190107T223320Z">
+        <seg>ノード''{0}''は既に削除されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Node belongs to way(s), cannot replace.</seg>
       </tuv>
       <tuv lang="JA">
@@ -31930,6 +32010,22 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="JA">
         <seg>オブジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Object ''{0}'' is already deleted on the server.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T222753Z" creationid="miurahr" creationdate="20190107T222753Z">
+        <seg>オブジェクト''{0}''は、サーバ上で既に削除されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Object ''{0}'' is already deleted.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T223417Z" creationid="miurahr" creationdate="20190107T223417Z">
+        <seg>オブジェクト''{0}''は既に削除されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34840,6 +34936,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please &lt;a href="urn:advanced-configuration"&gt;configure&lt;/a&gt; how to proceed with &lt;strong&gt;multiple changesets&lt;/strong&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T223211Z" creationid="miurahr" creationdate="20190107T223211Z">
+        <seg>どのように &lt;strong&gt;複数変更セット&lt;/strong&gt;を処理するか &lt;a href="urn:advanced-configuration"&gt;設定&lt;/a&gt; してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please abort if you are not sure</seg>
       </tuv>
       <tuv lang="JA">
@@ -35076,6 +35180,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="JA">
         <seg>1以上の整数を入力してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please enter another file name.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T222612Z" creationid="miurahr" creationdate="20190107T222612Z">
+        <seg>別のファイル名を入力してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38446,6 +38558,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Relation ''{0}'' is already deleted.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T223412Z" creationid="miurahr" creationdate="20190107T223412Z">
+        <seg>リレーション''{0}''は既に削除されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Relation ...</seg>
       </tuv>
       <tuv lang="JA">
@@ -40006,6 +40126,22 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Restart JOSM with saving.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T222717Z" creationid="miurahr" creationdate="20190107T222717Z">
+        <seg>保存してJOSMを再起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restart JOSM without saving.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T222626Z" creationid="miurahr" creationdate="20190107T222626Z">
+        <seg>保存せずにJOSMを再起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Restart now!</seg>
       </tuv>
       <tuv lang="JA">
@@ -41442,6 +41578,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="JA">
         <seg>保存...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save/Upload layers before deleting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T222727Z" creationid="miurahr" creationdate="20190107T222727Z">
+        <seg>削除する前にレイヤを保存/アップロードします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44657,6 +44801,30 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="JA">
         <seg>抜けている高さ (m)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skipping download.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T222255Z" creationid="miurahr" creationdate="20190107T222255Z">
+        <seg>ダウンロードをスキップしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skipping object in upload.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T223338Z" creationid="miurahr" creationdate="20190107T223338Z">
+        <seg>アップロード中にオブジェクトをスキップします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skipping this object and retrying to upload.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T222801Z" creationid="miurahr" creationdate="20190107T222801Z">
+        <seg>このオブジェクトをスキップしてアップロードしようとしました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48056,6 +48224,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The server reported that the current changeset was closed.&lt;br&gt;This is most likely because the changesets size exceeded the max.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T223235Z" creationid="miurahr" creationdate="20190107T223235Z">
+        <seg>サーバは、現在の変更セットが閉じられたことを報告しました。&lt;br&gt;これは、変更セットのサイズが最大値を超えた可能性が高いためです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The situation here is ''entirely'' different.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20170521T221916Z" creationid="miurahr" creationdate="20170521T221916Z">
@@ -51448,6 +51624,30 @@ or action canceled</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unsaved changes are lost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T222619Z" creationid="miurahr" creationdate="20190107T222619Z">
+        <seg>保存されていない変更は失われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unsaved changes are not lost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T222737Z" creationid="miurahr" creationdate="20190107T222737Z">
+        <seg>保存されていない変更は失われません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unsaved changes are uploaded and/or saved.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T222712Z" creationid="miurahr" creationdate="20190107T222712Z">
+        <seg>保存されていない変更はアップロードされ、保存されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unsaved data and conflicts</seg>
       </tuv>
       <tuv lang="JA">
@@ -52021,6 +52221,14 @@ Create a new one.</seg>
       </tuv>
       <tuv lang="JA">
         <seg>データをアップロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upload data in chunks of objects.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T224206Z" creationid="miurahr" creationdate="20190107T224206Z">
+        <seg>オブジェクトのチャンク中のデータをアップロードします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53841,6 +54049,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20190107T122031Z" creationid="miurahr" creationdate="20190107T122031Z">
         <seg>ウェイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Way ''{0}'' is already deleted.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T223405Z" creationid="miurahr" creationdate="20190107T223405Z">
+        <seg>ウェイ''{0}''は既に削除されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55786,6 +56002,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="JA">
         <seg>市民農園</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>allowed {1} objects in a changeset on the server ''{2}''.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T222947Z" creationid="miurahr" creationdate="20190107T222947Z">
+        <seg>サーバ''{2}''上では、変更セット内の許可されるオブジェクト数は{1}です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63054,6 +63278,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>size&lt;br&gt;of {0} objects on the server ''{1}''.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T223313Z" creationid="miurahr" creationdate="20190107T223313Z">
+        <seg>サーバ''{1}''上のオブジェクトのサイズは{0}&lt;br&gt;です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>skateboard</seg>
       </tuv>
       <tuv lang="JA">
@@ -65797,6 +66029,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="JA">
         <seg>変更するオブジェクト{0}件:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} objects exceed the max.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T222847Z" creationid="miurahr" creationdate="20190107T222847Z">
+        <seg>オブジェクト数{0}が最大値を超えています。</seg>
       </tuv>
     </tu>
     <tu>
