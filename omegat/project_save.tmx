@@ -1759,6 +1759,14 @@ no_more_mappingを外してください)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;html&gt;The current URL &lt;tt&gt;{0}&lt;/tt&gt;&lt;br&gt;is an external URL.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T214637Z" creationid="miurahr" creationdate="20190107T214637Z">
+        <seg>&lt;html&gt;現在の URL &lt;tt&gt;{0}&lt;/tt&gt;&lt;br&gt;iは、外部 URL.です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;html&gt;The data in the GPX layer ''{0}'' has been downloaded from the server.&lt;br&gt;Because its way points do not include a timestamp we cannot correlate them with audio data.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="JA">
@@ -6078,6 +6086,14 @@ Wiki translation is taking place on a somewhat ad-hoc basis, and you are encoura
       </tuv>
       <tuv lang="JA">
         <seg>不正なリクエスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bad location in HTML document.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T214835Z" creationid="miurahr" creationdate="20190107T214835Z">
+        <seg>HTMLドキュメントの位置が正しくありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13418,6 +13434,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Current version {0} not available in history.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T215046Z" creationid="miurahr" creationdate="20190107T215046Z">
+        <seg>現在のバージョン{0}は履歴にありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Current zoom</seg>
       </tuv>
       <tuv lang="JA">
@@ -18020,6 +18044,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Editing is only possible for help topics&lt;br&gt;on the help server &lt;tt&gt;{1}&lt;/tt&gt;.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T214814Z" creationid="miurahr" creationdate="20190107T214814Z">
+        <seg>ヘルプサーバ &lt;tt&gt;{1}&lt;/tt&gt;.の&lt;br&gt;ヘルプトピックのみ編集可能です。&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Editor</seg>
       </tuv>
       <tuv lang="JA">
@@ -19004,6 +19036,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Error occurred with query ''{0}'': ''{1}''</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T214414Z" creationid="miurahr" creationdate="20190107T214414Z">
+        <seg>クエリ ''{0}''でエラーが発生しました: ''{1}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error on file {0}</seg>
       </tuv>
       <tuv lang="JA">
@@ -19314,6 +19354,22 @@ or just retry</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20190107T112250Z" creationid="miurahr" creationdate="20190107T112250Z">
         <seg>ここで４番目に設定されたものを除き、あなたは自分のコンテンツに対して全ての権利、タイトル及び利益を保有します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exception is: {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T214602Z" creationid="miurahr" creationdate="20190107T214602Z">
+        <seg>例外:{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exception was: {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T214839Z" creationid="miurahr" creationdate="20190107T214839Z">
+        <seg>例外:{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -20038,6 +20094,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Failed to open help page.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T214844Z" creationid="miurahr" creationdate="20190107T214844Z">
+        <seg>ヘルプページを開くことができませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Failed to open input stream for resource ''{0}''</seg>
       </tuv>
       <tuv lang="JA">
@@ -20066,6 +20130,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="JA">
         <seg>設定を''{0}''に保存できませんでした</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to read CSS file ''help-browser.css''.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T214544Z" creationid="miurahr" creationdate="20190107T214544Z">
+        <seg>CSS ファイル ''help-browser.css''の読み込みに失敗しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20114,6 +20186,30 @@ or just retry</seg>
       </tuv>
       <tuv lang="JA">
         <seg>メッセージの送信に失敗しました:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to set current primitive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T215012Z" creationid="miurahr" creationdate="20190107T215012Z">
+        <seg>現在のプリミティブを設定できませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to set reference primitive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T214923Z" creationid="miurahr" creationdate="20190107T214923Z">
+        <seg>参照プリミティブの設定に失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to set reference.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T214936Z" creationid="miurahr" creationdate="20190107T214936Z">
+        <seg>参照の設定に失敗しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22924,6 +23020,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="JA">
         <seg>ウェイ {0} の履歴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>History not initialized yet.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T214911Z" creationid="miurahr" creationdate="20190107T214911Z">
+        <seg>履歴はまだ初期化されていません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29862,6 +29966,14 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Name server returned invalid data.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T214424Z" creationid="miurahr" creationdate="20190107T214424Z">
+        <seg>ネームサーバーが無効なデータを返しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Name/Id</seg>
       </tuv>
       <tuv lang="JA">
@@ -35540,6 +35652,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please try again.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T214430Z" creationid="miurahr" creationdate="20190107T214430Z">
+        <seg>もう一度試してみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please, enable auto-sourcing and check cadastre millesime.</seg>
       </tuv>
       <tuv lang="JA">
@@ -38078,6 +38198,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reference ID {0} does not match history ID {1}.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T214948Z" creationid="miurahr" creationdate="20190107T214948Z">
+        <seg>参照ID{0}が履歴ID{1}と一致しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reference REGINE (NO)</seg>
       </tuv>
       <tuv lang="JA">
@@ -38106,6 +38234,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="JA">
         <seg>参照のみ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reference version {0} not available in history.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T215111Z" creationid="miurahr" creationdate="20190107T215003Z">
+        <seg>参照バージョン{0}は履歴にありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47610,8 +47746,8 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       <tuv lang="EN-US">
         <seg>The modifier "i" makes the match case-insensitive</seg>
       </tuv>
-      <tuv lang="JA" changeid="miurahr" changedate="20190107T214224Z" creationid="miurahr" creationdate="20190107T214224Z">
-        <seg> "i" makes the match case-insensitive</seg>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T214321Z" creationid="miurahr" creationdate="20190107T214224Z">
+        <seg>修飾子 "i" をつかうと、大文字と小文字を区別しないマッチを指定できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47884,6 +48020,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="JA">
         <seg>文字列 ''{0}'' は正しいdouble値ではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The target URL is empty.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T214859Z" creationid="miurahr" creationdate="20190107T214859Z">
+        <seg>ターゲットURLが空です。</seg>
       </tuv>
     </tu>
     <tu>
