@@ -12,3 +12,4 @@ validation	妥当性検査
 Validating	検証中
 Viewport	ビューポート
 workspace	作業フォルダ
+combined	結合
