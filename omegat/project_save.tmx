@@ -650,8 +650,16 @@ no_more_mappingを外してください)</seg>
       <tuv lang="EN-US">
         <seg>100 changesets)</seg>
       </tuv>
-      <tuv lang="JA" changeid="miurahr" changedate="20190107T114637Z" creationid="miurahr" creationdate="20190107T114637Z">
-        <seg>100チェンジセット)</seg>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T133140Z" creationid="miurahr" creationdate="20190107T114637Z">
+        <seg>100変更セット)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>100 changesets.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T142108Z" creationid="miurahr" creationdate="20190107T142108Z">
+        <seg>100変更セット。</seg>
       </tuv>
     </tu>
     <tu>
@@ -983,6 +991,14 @@ no_more_mappingを外してください)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;html&gt;&lt;p&gt; Sorry, it is impossible to paste tags from buffer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T122208Z" creationid="miurahr" creationdate="20190107T122208Z">
+        <seg>&lt;html&gt;&lt;p&gt;申し訳ございませんが、バッファからタグを貼り付けることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;html&gt;&lt;strong&gt;Current download area&lt;/strong&gt; (minlon, minlat, maxlon, maxlat): &lt;/html&gt;</seg>
       </tuv>
       <tuv lang="JA">
@@ -1201,8 +1217,16 @@ no_more_mappingを外してください)</seg>
       <tuv lang="EN-US">
         <seg>&lt;html&gt;Download my open changesets&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="JA">
-        <seg>&lt;html&gt;自分のオープン中の変更セットをダウンロード&lt;/html&gt;</seg>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T142155Z">
+        <seg>&lt;html&gt;開いている変更セットをダウンロード&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Download my open changesets&lt;br&gt;&lt;em&gt;Disabled.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T142125Z" creationid="miurahr" creationdate="20190107T142125Z">
+        <seg>&lt;html&gt;開いている変更セットをダウンロード&lt;br&gt;&lt;em&gt;無効にします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1535,6 +1559,14 @@ no_more_mappingを外してください)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;html&gt;Please select one the following &lt;strong&gt;standard queries&lt;/strong&gt;.Select &lt;strong&gt;Download my changesets only&lt;/strong&gt; if you only want to download changesets created by yourself.&lt;br&gt;Note that JOSM will download max.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T142050Z" creationid="miurahr" creationdate="20190107T142050Z">
+        <seg>&lt;html&gt;次の&lt;strong&gt;標準クエリ&lt;/strong&gt;からひとつ選択してください。自分で作成した変更セットのみをダウンロードする場合は、&lt;strong&gt;私の変更セットをダウンロード&lt;/strong&gt;を選択してください。&lt;br&gt;JOSMは大量にダウンロードされることに注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;html&gt;Please select the changesets you want to close&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="JA">
@@ -1755,6 +1787,14 @@ no_more_mappingを外してください)</seg>
       </tuv>
       <tuv lang="JA">
         <seg>&lt;html&gt;変更セットのタグに空のキー／値が存在します。&lt;br&gt;{0}&lt;br&gt;継続しますか？&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;The merged nodes are members in one or more relations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T121854Z" creationid="miurahr" creationdate="20190107T121854Z">
+        <seg>&lt;html&gt;結合したノードは、一つ以上のリレーションのメンバーです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7890,6 +7930,14 @@ Wiki translation is taking place on a somewhat ad-hoc basis, and you are encoura
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot restrict the changeset query to a specific bounding box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T133031Z" creationid="miurahr" creationdate="20190107T133031Z">
+        <seg>変更セットクエリを特定の境界ボックスに限定することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot restrict the changeset query to the user name ''{0}''</seg>
       </tuv>
       <tuv lang="JA">
@@ -8518,6 +8566,14 @@ Wiki translation is taking place on a somewhat ad-hoc basis, and you are encoura
       </tuv>
       <tuv lang="JA">
         <seg>{0}件のオブジェクトを変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Changes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T132907Z" creationid="miurahr" creationdate="20190107T132907Z">
+        <seg>変更</seg>
       </tuv>
     </tu>
     <tu>
@@ -10178,6 +10234,14 @@ Wiki translation is taking place on a somewhat ad-hoc basis, and you are encoura
       </tuv>
       <tuv lang="JA">
         <seg>ダイアログを閉じてJOSMでの編集に戻る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close this panel.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T132842Z" creationid="miurahr" creationdate="20190107T132842Z">
+        <seg>このパネルを閉じます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15556,6 +15620,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you want to paste the data without the incomplete objects?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T122134Z" creationid="miurahr" creationdate="20190107T122134Z">
+        <seg>不完全なオブジェクトを含まないデータを貼り付けますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you want to paste these tags?</seg>
       </tuv>
       <tuv lang="JA">
@@ -16190,8 +16262,8 @@ or just retry</seg>
       <tuv lang="EN-US">
         <seg>Download my changesets from the OSM server (max.</seg>
       </tuv>
-      <tuv lang="JA" changeid="miurahr" changedate="20190107T114632Z" creationid="miurahr" creationdate="20190107T114632Z">
-        <seg>OSMサーバからチェンジセットをダウンロード(最大</seg>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T133126Z" creationid="miurahr" creationdate="20190107T114632Z">
+        <seg>OSMサーバから変更セットをダウンロード(最大</seg>
       </tuv>
     </tu>
     <tu>
@@ -24988,8 +25060,16 @@ Cannot continue.</seg>
       <tuv lang="EN-US">
         <seg>It cannot download&lt;br&gt;your changesets from the OSM server unless you enter your OSM user name&lt;br&gt;in the JOSM preferences.&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="miurahr" changedate="20190107T114830Z" creationid="miurahr" creationdate="20190107T114830Z">
-        <seg>そのため、あなたのチェンジセットをOSMサーバから&lt;br&gt;OSMのユーザ名をJOSMに入力しないかぎり、&lt;br&gt;ダウンロードすることができじません。</seg>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T133159Z" creationid="miurahr" creationdate="20190107T114830Z">
+        <seg>そのため、あなたの変更セットをOSMサーバから&lt;br&gt;OSMのユーザ名をJOSMに入力しないかぎり、&lt;br&gt;ダウンロードすることができじません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It does not contain any JOSM object or suitable text.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T122217Z" creationid="miurahr" creationdate="20190107T122217Z">
+        <seg>JOSMオブジェクトまたは適切なテキストは含まれていません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31982,6 +32062,14 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On/Off</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T132832Z" creationid="miurahr" creationdate="20190107T132832Z">
+        <seg>オン/オフ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One Way</seg>
       </tuv>
       <tuv lang="JA">
@@ -32978,6 +33066,14 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="JA">
         <seg>向き</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Orig.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T122026Z" creationid="miurahr" creationdate="20190107T122026Z">
+        <seg>オリジナル</seg>
       </tuv>
     </tu>
     <tu>
@@ -34584,6 +34680,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please decide whether you want to &lt;strong&gt;keep&lt;/strong&gt; these memberships for the target node or whether you want to &lt;strong&gt;remove&lt;/strong&gt; them.&lt;br&gt;The default is to &lt;strong&gt;keep&lt;/strong&gt; the first node and &lt;strong&gt;remove&lt;/strong&gt; the other nodes that are members of the same relation: the target node will take the place of the original node in the relation.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T122018Z" creationid="miurahr" creationdate="20190107T122018Z">
+        <seg>対象ノードのこれらのメンバーシップを&lt;/strong&gt;維持&lt;/strong&gt;するか、&lt;strong&gt;削除&lt;/strong&gt;するかどうか決定してください。&lt;br&gt;既定は、最初のノードを&lt;strong&gt;維持&lt;/strong&gt;し、同じリレーションにあった他のノードをメンバから削除するというものです。対象ノードは、リレーションのオリジナルのノードにとってかわります。&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please decide which values to keep</seg>
       </tuv>
       <tuv lang="JA">
@@ -34900,6 +35004,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="JA">
         <seg>あなたのOSMユーザー名を入力してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please enter your OSM user name in the preferences first.&lt;/em&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T142138Z" creationid="miurahr" creationdate="20190107T142138Z">
+        <seg>最初に、環境設定でOSMユーザー名を入力してください。&lt;/em&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -47082,6 +47194,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The copied data contains incomplete objects.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T122054Z" creationid="miurahr" creationdate="20190107T122054Z">
+        <seg>コピーされたデータには不完全なオブジェクトが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The current selection cannot be used for splitting - no node is selected.</seg>
       </tuv>
       <tuv lang="JA">
@@ -53405,6 +53525,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Way</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T122031Z" creationid="miurahr" creationdate="20190107T122031Z">
+        <seg>ウェイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Way Download</seg>
       </tuv>
       <tuv lang="JA">
@@ -53808,6 +53936,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="JA">
         <seg>タグの移動時、重複していないことを確認してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When pasting the incomplete objects are removed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T122120Z" creationid="miurahr" creationdate="20190107T122120Z">
+        <seg>貼り付けられた不完全なオブジェクトは削除されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54426,6 +54562,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="JA">
         <seg>ここに動作ログの一覧をコピー＆ペーストできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can reopen it with the buttons in the left toolbar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T132850Z" creationid="miurahr" creationdate="20190107T132850Z">
+        <seg>左ツールバーのボタンをクリックすると、再度開くことができます。</seg>
       </tuv>
     </tu>
     <tu>
