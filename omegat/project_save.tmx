@@ -21544,6 +21544,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GPX layer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T142527Z" creationid="miurahr" creationdate="20190107T142527Z">
+        <seg>GPXレイヤー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GPX track:</seg>
       </tuv>
       <tuv lang="JA">
@@ -25242,6 +25250,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>JOSM is currently run by an anonymous user)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T142305Z" creationid="miurahr" creationdate="20190107T142305Z">
+        <seg>JOSMは現在、匿名ユーザーによって実行されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>JOSM is searching for updates...</seg>
       </tuv>
       <tuv lang="JA">
@@ -28076,6 +28092,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Merge GPX layers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T142357Z" creationid="miurahr" creationdate="20190107T142357Z">
+        <seg>GPXレイヤを結合する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Merge Nearby Nodes Threshold</seg>
       </tuv>
       <tuv lang="JA">
@@ -29250,6 +29274,22 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="JA">
         <seg>フィルターを上に移動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move layer down</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T142501Z" creationid="miurahr" creationdate="20190107T142501Z">
+        <seg>レイヤーを下に移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move layer up</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T142449Z" creationid="miurahr" creationdate="20190107T142441Z">
+        <seg>レイヤーを上に移動</seg>
       </tuv>
     </tu>
     <tu>
@@ -32194,6 +32234,14 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="JA">
         <seg>自分が所有する変更セットのみ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only changesets owned by myself (disabled.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T142255Z" creationid="miurahr" creationdate="20190107T142255Z">
+        <seg>自分が所有する変更セットのみ(無効になっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35384,6 +35432,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="JA">
         <seg>画像レイヤーを選択して下さい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please select the order of the selected layers:&lt;br&gt;Tracks will be cut, when timestamps of higher layers are overlapping.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T142414Z" creationid="miurahr" creationdate="20190107T142414Z">
+        <seg>選択したレイヤの順序を選択してください:&lt;br&gt;トラックは、上位レイヤのタイムスタンプがオーバーラップしている場合は、カットされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39514,6 +39570,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="JA">
         <seg>デフォルトに戻す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resetting to default query.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T142229Z" creationid="miurahr" creationdate="20190107T142229Z">
+        <seg>既定のクエリにリセットされました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47234,6 +47298,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The current value is not a valid user ID.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T142241Z" creationid="miurahr" creationdate="20190107T142241Z">
+        <seg>現在の値は有効なユーザーIDではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The current value isn''t a valid tile address</seg>
       </tuv>
       <tuv lang="JA">
@@ -48524,6 +48596,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="JA">
         <seg>このバージョンのJOSMは、設定されたサーバーと互換性がありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This will change the target layer to "{0}".&lt;br&gt;Would you like to continue?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T142520Z" creationid="miurahr" creationdate="20190107T142520Z">
+        <seg>これにより、ターゲットレイヤーが「{0}」に変更されます。&lt;br&gt;続行しますか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -56094,6 +56174,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>blurred</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T142311Z" creationid="miurahr" creationdate="20190107T142311Z">
+        <seg>ぼやけた</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>boardwalk</seg>
       </tuv>
       <tuv lang="JA">
@@ -59398,6 +59486,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>less</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T142343Z" creationid="miurahr" creationdate="20190107T142343Z">
+        <seg>少ない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>lift</seg>
       </tuv>
       <tuv lang="JA">
@@ -60054,6 +60150,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>more</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T142349Z" creationid="miurahr" creationdate="20190107T142349Z">
+        <seg>おおい</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>mormon</seg>
       </tuv>
       <tuv lang="JA">
@@ -60482,6 +60586,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="JA">
         <seg>ノルディックスキー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>normal</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T142332Z" creationid="miurahr" creationdate="20190107T142313Z">
+        <seg>通常</seg>
       </tuv>
     </tu>
     <tu>
@@ -62498,6 +62610,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="JA">
         <seg>シャクティ派</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>sharp</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T142337Z" creationid="miurahr" creationdate="20190107T142337Z">
+        <seg>シャープ</seg>
       </tuv>
     </tu>
     <tu>
@@ -64959,6 +65079,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="JA">
         <seg>''{1}'' {0}件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} (target layer)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T142531Z" creationid="miurahr" creationdate="20190107T142531Z">
+        <seg>{0}(ターゲット・レイヤ)</seg>
       </tuv>
     </tu>
     <tu>
