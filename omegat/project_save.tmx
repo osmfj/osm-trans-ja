@@ -6226,6 +6226,14 @@ Wiki translation is taking place on a somewhat ad-hoc basis, and you are encoura
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Basic logical operators can be used to create more sophisticated queries.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T213822Z" creationid="miurahr" creationdate="20190107T213822Z">
+        <seg>基本的な論理演算子を使用して、より洗練されたクエリーを作成できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Basin</seg>
       </tuv>
       <tuv lang="JA">
@@ -24584,6 +24592,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instead of "or" - "|", "||" can be used, and instead of "and" - "&amp;", "&amp;&amp;".</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T214058Z" creationid="miurahr" creationdate="20190107T214058Z">
+        <seg>"or" のかわりに "|", "||" が使用できます。また、 "and" のかわりに "&amp;", "&amp;&amp;".が使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Instead of &lt;i&gt;location&lt;/i&gt; any valid place name can be used like address, city, etc.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20190107T113720Z" creationid="miurahr" creationdate="20190107T113720Z">
@@ -38206,6 +38222,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Regular expressions can be provided either as plain strings or with the regex notation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T214205Z" creationid="miurahr" creationdate="20190107T214205Z">
+        <seg>正規表現は、平文文字列またはregex表記のいずれかで指定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reject Conflicts and Save</seg>
       </tuv>
       <tuv lang="JA">
@@ -47580,6 +47604,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="JA">
         <seg>最小値は最大値より小さくなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The modifier "i" makes the match case-insensitive</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190107T214224Z" creationid="miurahr" creationdate="20190107T214224Z">
+        <seg> "i" makes the match case-insensitive</seg>
       </tuv>
     </tu>
     <tu>
