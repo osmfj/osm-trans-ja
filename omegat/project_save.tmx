@@ -2227,6 +2227,26 @@ Wiki translation is taking place on a somewhat ad-hoc basis, and you are encoura
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>=== Execution state ===
+The Overpass QL ''execution state'' consists of:
+* the default ''set'' &lt;code&gt;_&lt;/code&gt; (a single underscore)
+* other named sets, if created by the user
+* a [https://en.wikipedia.org/wiki/Stack_(abstract_data_type) stack], during the execution of Overpass QL ''block statements''
+=== Sets ===
+Overpass QL manipulates ''sets''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200813T122625Z" creationid="miurahr" creationdate="20200813T122625Z">
+        <seg>=== 実行状態 ===
+Overpass QL の実行状態には下記のものがあります。
+* デフォルトの集合（''set''） &lt;code&gt;_&lt;/code&gt; （単一の下線）
+* 名前つき集合（ユーザーが作成する場合）
+*[https://en.wikipedia.org/wiki/Stack_(abstract_data_type)  スタック]： Overpass QLの''ブロックステートメント''の実行中
+=== 集合（set） ===
+Overpass QLは集合を操作します。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>=== Statements ===
 Overpass QL source code is divided into ''statements,'' and every statement ends with a semicolon &lt;code&gt;;&lt;/code&gt;.</seg>
       </tuv>
