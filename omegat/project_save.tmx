@@ -4738,6 +4738,14 @@ Overpass QL のコードは''ステートメント'' からなっており、そ
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Also, some publishers (listed and attributed below) allow their data to be included in OpenStreetMap.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200813T125632Z" creationid="miurahr" creationdate="20200813T125632Z">
+        <seg>また（以下に明示し帰属を表示してある）出版社の中には、自前のデータを OpenStreetMap で使わせてくれるところもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alternative name</seg>
       </tuv>
       <tuv lang="ja">
