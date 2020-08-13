@@ -32437,6 +32437,14 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Once a new result is (implicitly or explicitly) assigned to an existing set, its previous contents will be replaced and are no longer available.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200813T124011Z" creationid="miurahr" creationdate="20200813T124011Z">
+        <seg>（暗黙あるいは明示的に）新たな結果の書き込み先として既存の集合が割り当てられた場合、その集合の元からあった内容は上書きされてしまい、使えなくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>One Way</seg>
       </tuv>
       <tuv lang="ja">
@@ -33705,6 +33713,14 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200813T120705Z" creationid="miurahr" creationdate="20200813T120705Z">
         <seg>Overpass QLは、 [https://en.wikipedia.org/wiki/C_syntax C言語風の文法] を用いた[https://en.wikipedia.org/wiki/Procedural_programming 手順型] または [https://en.wikipedia.org/wiki/Imperative_programming 命令型]プログラミング言語です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overpass QL sets always have global [https://en.wikipedia.org/wiki/Scope_(computer_science) scope (visibility)].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200813T124257Z" creationid="miurahr" creationdate="20200813T124111Z">
+        <seg>Overpass QL集合はつねに大域的に有効な[https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%97) スコープ]をもちます。.</seg>
       </tuv>
     </tu>
     <tu>
