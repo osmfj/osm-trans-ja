@@ -23624,6 +23624,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you are looking for how to attribute OSM, see [[Legal FAQ#I would like to use OpenStreetMap maps.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200813T125657Z" creationid="miurahr" creationdate="20200813T125657Z">
+        <seg>もし OSM の帰属表示の方法をお探しなら、[[JA:Legal FAQ#OpenStreetMap のマップを使いたいのですが、どのようにクレジット表記をしたら良いですか？|法的なよくある質問]]を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you are unsure, please cancel this operation.&lt;br/&gt;If you want to continue, you are shown a dialog to decide how to adapt the relation.&lt;br/&gt;&lt;br/&gt;Do you want to continue?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T115224Z" creationid="miurahr" creationdate="20190107T115224Z">
