@@ -4865,6 +4865,14 @@ Overpass QL のコードは''ステートメント'' からなっており、そ
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An Overpass QL set can contain any combination of (and any number of) OpenStreetMap [[Node|nodes]], [[Way|ways]], [[Relation|relations]], and [[area]] [[elements]].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200813T122950Z" creationid="miurahr" creationdate="20200813T122842Z">
+        <seg>Overpass QL集合は、OSMの [[Node|ノード]、ウェイ、リレーション、エリア、エレメントの任意の組み合わせとすることができ、要素の数も任意です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An empty value deletes the tag.</seg>
       </tuv>
       <tuv lang="ja">
@@ -45800,6 +45808,15 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200813T122414Z" creationid="miurahr" creationdate="20200813T122414Z">
         <seg>ステートメントは、 ''[https://en.wikipedia.org/wiki/Process_(computing) プロセス],''によりシーケンシャルに実行され、各ステートメントはプロセスの''実行状態''を変更します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Statements write their results into sets, and sets are then read by subsequent statements as input.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200813T122643Z" creationid="miurahr" creationdate="20200813T122643Z">
+        <seg>ステートメントは結果を集合に書き込み、集合は後続のステートメントによって入力として読み取られます。 
+</seg>
       </tuv>
     </tu>
     <tu>
