@@ -21368,6 +21368,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, this query:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200813T124630Z" creationid="miurahr" creationdate="20200813T124630Z">
+        <seg>例えば次の文は &lt;code&gt;name=Foo&lt;/code&gt; というタグを持つ全てのノードを &lt;code&gt;a&lt;/code&gt; という名前の集合に書き込みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200813T124317Z" creationid="miurahr" creationdate="20200813T124317Z">
@@ -25390,6 +25398,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170523T123042Z" creationid="miurahr" creationdate="20170523T123042Z">
         <seg>MediaWiki の[[wikipedia:Help:Parser_function|パーサー関数]]と [[w:ja:IETF言語タグ|IETF 言語タグ]]（'''BCP 47''' で定義され、 [[w:ja:ISO 639-1|ISO 639-1]] から若干を除外し、他の標準から部分的に拡張したものに基づく） に基づいています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is equivalent to:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200813T124550Z" creationid="miurahr" creationdate="20200813T124550Z">
+        <seg>従って、次の文と等価となります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43565,6 +43581,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set names may consist of letters, digits, and the underscore; however, they must not start with a digit.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200813T124703Z" creationid="miurahr" creationdate="20200813T124703Z">
+        <seg>集合の名前には、アルファベット、数字、下線を使うことができますが、最初の文字を数字にすることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Set number of recently added tags</seg>
       </tuv>
       <tuv lang="ja">
@@ -49483,6 +49507,14 @@ projections and retry</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T112331Z" creationid="miurahr" creationdate="20190107T112331Z">
         <seg>適用される法により認められる範囲において、あなたはコンテンツを、いかなる種類の保証もなしに、明示的であれ暗示的であれ、商業的価値、特定用途への適合性、その他についていかなる瑕疵や状態の担保責任の制約も無いことを含め、現状有姿のまま提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To write elements to a named set, again use the &lt;code&gt;-&gt;&lt;/code&gt; syntax, followed by the set name.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200813T124614Z" creationid="miurahr" creationdate="20200813T124614Z">
+        <seg>名前つき集合に要素を書き込む場合は、 &lt;code&gt;-&gt;&lt;/code&gt; の書式を使い、集合の名前を指定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57347,6 +57379,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>コンバインドサイクル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>combines the results of two tag queries with a ''union statement'', then sends that result to the default set &lt;code&gt;_&lt;/code&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200813T124532Z" creationid="miurahr" creationdate="20200813T124532Z">
+        <seg>。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65528,6 +65568,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>野生動物観察所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>will write all node elements with the tag &lt;code&gt;name=Foo&lt;/code&gt; into the named set &lt;code&gt;a&lt;/code&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200813T124642Z" creationid="miurahr" creationdate="20200813T124642Z">
+        <seg>。</seg>
       </tuv>
     </tu>
     <tu>
