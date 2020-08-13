@@ -2189,6 +2189,15 @@ Unlike Wikipedia, we are not aiming to capture vast amounts of knowledge in the 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>== Language overview ==</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200813T122054Z" creationid="miurahr" creationdate="20200813T122054Z">
+        <seg>== 概要 ==
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>== Translated pages with a title in a non-English language ==
 If you want that a page translated to a national language have the title translated also, it is necessary to maintain anyway a page with English title preceded by language code and colon.</seg>
       </tuv>
@@ -2214,6 +2223,16 @@ Wiki translation is taking place on a somewhat ad-hoc basis, and you are encoura
       <tuv lang="ja" changeid="miurahr" changedate="20170522T000032Z" creationid="miurahr" creationdate="20170522T000023Z">
         <seg>=== カテゴリ === 
 * "Category:&lt;言語コード&gt;:&lt;翻訳した題名&gt;" の命名規則を使ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>=== Statements ===
+Overpass QL source code is divided into ''statements,'' and every statement ends with a semicolon &lt;code&gt;;&lt;/code&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200813T122201Z" creationid="miurahr" creationdate="20200813T122201Z">
+        <seg>=== ステートメント（文） ===
+Overpass QL のコードは''ステートメント'' からなっており、それぞれのステートメントはセミコロン &lt;code&gt;;&lt;/code&gt; で終わります。ステートメントは逐次処理され、実行状態がそれに応じて変化していきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45753,6 +45772,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>都道府県:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Statements are executed sequentially by a ''[https://en.wikipedia.org/wiki/Process_(computing) process],'' and each statement run changes the process's ''execution state.''</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200813T122414Z" creationid="miurahr" creationdate="20200813T122414Z">
+        <seg>ステートメントは、 ''[https://en.wikipedia.org/wiki/Process_(computing) プロセス],''によりシーケンシャルに実行され、各ステートメントはプロセスの''実行状態''を変更します。</seg>
       </tuv>
     </tu>
     <tu>
