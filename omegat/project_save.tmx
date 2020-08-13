@@ -2537,6 +2537,15 @@ Overpass QL のコードは''ステートメント'' からなっており、そ
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A result can be written to a specific set using the &lt;code&gt;-&gt;&lt;/code&gt; syntax, when that set name is prefixed with &lt;code&gt;.&lt;/code&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200813T124434Z" creationid="miurahr" creationdate="20200813T124434Z">
+        <seg>結果を名前つき集合に書き込む場合は &lt;code&gt;-&gt;&lt;/code&gt; の書式を使い、集合の名称の前に &lt;code&gt;.&lt;/code&gt; をつけます。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A role based relation membership was copied to all new ways.&lt;br&gt;You should verify this and correct it when necessary.</seg>
       </tuv>
       <tuv lang="ja">
@@ -21355,6 +21364,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T111956Z" creationid="miurahr" creationdate="20190107T111956Z">
         <seg>例えば、我々がいかなる投稿データであれ、そのライセンスが我々が使っている（3節と4節を参照）どのライセンスに対してであれ非互換（我々が合法的にそれを配布し続けることができないという点で）であるとの疑念が持たれる場合、我々はそのデータを削除するかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200813T124317Z" creationid="miurahr" creationdate="20200813T124317Z">
+        <seg>例:</seg>
       </tuv>
     </tu>
     <tu>
@@ -44644,6 +44661,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Similarly, this statement:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200813T124503Z" creationid="miurahr" creationdate="20200813T124503Z">
+        <seg>同様に、次の文は2つのタグのクエリの結果を和集合として、デフォルトの集合 &lt;code&gt;_&lt;/code&gt; に書き込みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Simple</seg>
       </tuv>
       <tuv lang="ja">
@@ -48340,6 +48365,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja">
         <seg>bboxの中に、開始位置がありませんでした</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The statement above is thus equivalent to:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200813T124438Z" creationid="miurahr" creationdate="20200813T124438Z">
+        <seg>上の文は次の文と等価になります。</seg>
       </tuv>
     </tu>
     <tu>
