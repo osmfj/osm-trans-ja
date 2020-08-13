@@ -51624,6 +51624,14 @@ or action canceled</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unless you specify a ''named set'' as an input or result, all input is implicitly read from (and all results are written to) the default set named &lt;code&gt;_&lt;/code&gt; (a single underscore).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200813T123927Z" creationid="miurahr" creationdate="20200813T123927Z">
+        <seg>入力や結果として名前つき集合を指定しない場合は、暗黙のうちに、&lt;code&gt;_&lt;/code&gt; (単一の下線) という名前のデフォルトの集合が、入力元や結果の書き込み先になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unnamed junction</seg>
       </tuv>
       <tuv lang="ja">
