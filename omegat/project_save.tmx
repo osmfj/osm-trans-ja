@@ -49024,6 +49024,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This wiki page intends to be a complete reference to the structure of Overpass QL.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200813T121952Z" creationid="miurahr" creationdate="20200813T121952Z">
+        <seg>このWikiは、Overpass QLの構造について完全なリファレンスを提供すべく記載されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This will change the target layer to "{0}".&lt;br&gt;Would you like to continue?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T142520Z" creationid="miurahr" creationdate="20190107T142520Z">
