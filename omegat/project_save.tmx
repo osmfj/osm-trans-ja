@@ -23424,6 +23424,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>How should I credit you?|Legal FAQ]].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200813T125830Z" creationid="miurahr" creationdate="20200813T125830Z">
+        <seg>[[JA:Legal FAQ#OpenStreetMap のマップを使いたいのですが、どのようにクレジット表記をしたら良いですか？|法的なよくある質問]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, after you have saved it, your language may still be shown in the missing language box with black colour and bold type.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170521T235057Z" creationid="miurahr" creationdate="20170521T235057Z">
