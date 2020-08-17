@@ -508,6 +508,14 @@ no_more_mappingを外してください)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* Don't publicly call people out.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T232234Z" creationid="miurahr" creationdate="20200817T232234Z">
+        <seg>* 人前で人をよびつけない。挑戦しない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Finally, you ''may'' rename the new translated page with a translated title, but keep the language code prefix in the new name!</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170521T234937Z" creationid="miurahr" creationdate="20170521T234937Z">
@@ -2294,6 +2302,26 @@ Unlike Wikipedia, we are not aiming to capture vast amounts of knowledge in the 
       <tuv lang="ja" changeid="miurahr" changedate="20200813T122054Z" creationid="miurahr" creationdate="20200813T122054Z">
         <seg>== 概要 ==
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>== Mailing lists ==
+* Assume good faith
+* Stay on topic
+* No grandstanding
+* If you've made your point already, you don't need to tell us all again
+* Nitpicking doesn't help you or anyone else
+* Learn to live with the reply-to setting.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T232016Z" creationid="miurahr" creationdate="20200817T232002Z">
+        <seg>==メーリングリスト==
+* 誠実であることを前提とする
+* 話題に留まる
+* スタンドプレーなし
+* すでに主張しているのであれば、もう一度私たち全員に話す必要はありません。
+* あら探しはあなたや他の誰の助けにもならない
+* 返信先の設定に対応します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54784,6 +54812,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170521T221901Z" creationid="miurahr" creationdate="20170521T221901Z">
         <seg>私たちは、いくつかの英語以外の言語でこれら文章が読めるようにしたいのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We're not changing it, no matter what your opinion is and so on.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T232107Z" creationid="miurahr" creationdate="20200817T232107Z">
+        <seg>あなたの意見などに関わらず、私たちは変更していません。</seg>
       </tuv>
     </tu>
     <tu>
