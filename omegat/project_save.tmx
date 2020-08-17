@@ -257,6 +257,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Moderate people who do not participate, makes extreme actions seem the norm)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T232737Z" creationid="miurahr" creationdate="20200817T232737Z">
+        <seg>(穏健派の人は参加しないことで、極端な行動が当たり前のように見えるようになってしまいます。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(No data)</seg>
       </tuv>
       <tuv lang="ja">
@@ -500,10 +508,18 @@ no_more_mappingを外してください)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* Calmly adding to the discussion can help keep things tame on the mailing list.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T232643Z" creationid="miurahr" creationdate="20200817T232643Z">
+        <seg>* 冷静に議論に加わることで、メーリングリストを穏やかに維持することに貢献できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Communicate with the same respect you would utilize in person.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20200817T232503Z" creationid="miurahr" creationdate="20200817T232503Z">
-        <seg>*あなたが直接会うときと同じ敬意をもって、コミュニケーションをとりましょう。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T232645Z" creationid="miurahr" creationdate="20200817T232503Z">
+        <seg>* あなたが直接会うときと同じ敬意をもって、コミュニケーションをとりましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2389,6 +2405,16 @@ Overpass QLは集合を操作します。 </seg>
       <tuv lang="ja" changeid="miurahr" changedate="20200817T215728Z" creationid="miurahr" creationdate="20200817T215728Z">
         <seg>===履歴===
 *''???'':OpenStreetBugsのアイデアと最初の実装は、[[User:Xav Xav]]によって開発されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>=== Process for moderation ===
+The [[Mailing lists|moderators]] for the mailing lists will follow the guidelines below.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T232805Z" creationid="miurahr" creationdate="20200817T232805Z">
+        <seg>===モデレートのプロセス===
+メーリングリストの [[Mailing lists|moderators]] は以下のガイドラインに従います。</seg>
       </tuv>
     </tu>
     <tu>
