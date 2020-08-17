@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2ee9bd0d3" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_212c4ab4a" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -101,6 +101,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20151205T131039Z" creationid="miurahr" creationdate="20151205T131039Z">
         <seg>'''Android'''は、携帯電話やモバイル機器の[[Linux]]ベースの操作環境です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>'''OpenStreetBugs''' was a database and website for marking errors in the OpenStreetMap ''data''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T214514Z" creationid="miurahr" creationdate="20200817T214514Z">
+        <seg>OpenStreetBugs 地図にエラーの詳細を書き残すことができるとっても簡単なツールです。</seg>
       </tuv>
     </tu>
     <tu>
