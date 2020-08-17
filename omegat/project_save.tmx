@@ -492,6 +492,14 @@ no_more_mappingを外してください)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* And sometimes the best option is to take a break, if we realize it or not.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T231849Z" creationid="miurahr" creationdate="20200817T231849Z">
+        <seg>* 時には、私たちがそれに気づいているかどうかにかかわらず、休憩をとるのが最善の選択です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Don't delete the redirecting category named in English, even if it is empty (and it should remain empty)!</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170522T121424Z" creationid="miurahr" creationdate="20170522T121424Z">
@@ -510,8 +518,8 @@ no_more_mappingを外してください)</seg>
       <tuv lang="en-US">
         <seg>* If our friends don't remind us, those we disagree with might remind us.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20200817T225522Z" creationid="miurahr" creationdate="20200817T225522Z">
-        <seg>*友人たちが私たちに思い出させてくれなければ、私たちが反対している人たちが私たちに思い出させるかもしれません。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T231813Z" creationid="miurahr" creationdate="20200817T225522Z">
+        <seg>* 友人たちが気付かせてくれなければ、私たちが反対している人たちが、気付かせるかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -564,10 +572,18 @@ no_more_mappingを外してください)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* Sometimes a neutral party may arbitrate.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T231810Z" creationid="miurahr" creationdate="20200817T231810Z">
+        <seg>* 中立的な当事者が仲裁することもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* The best use of these guidelines is self governance.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20200817T225416Z" creationid="miurahr" creationdate="20200817T225416Z">
-        <seg>*このガイドラインを最大限に活用するには、自己統治が必要です。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T231817Z" creationid="miurahr" creationdate="20200817T225416Z">
+        <seg>* このガイドラインを最大限に活用するには、自己統治が必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -582,8 +598,8 @@ no_more_mappingを外してください)</seg>
       <tuv lang="en-US">
         <seg>* When we forget ourselves, our friends should remind us.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20200817T231715Z" creationid="miurahr" creationdate="20200817T225454Z">
-        <seg>*自分を見うしなったとき、友人は気付かせるべきです。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T231815Z" creationid="miurahr" creationdate="20200817T225454Z">
+        <seg>* 自分を見うしなったとき、友人は気付かせるべきです。</seg>
       </tuv>
     </tu>
     <tu>
