@@ -2398,6 +2398,16 @@ Unlike Wikipedia, we are not aiming to capture vast amounts of knowledge in the 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>== Solving Disputes ==
+In the event of a disputed tagging, users are first encouraged to communicate directly with other editors in the area, to try and work out a solution.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T234706Z" creationid="miurahr" creationdate="20200817T234706Z">
+        <seg>== 紛争の解決 ==
+タグ付けの紛争が起きたら、ユーザは解決を試み、実現させるために、最初にそのエリアの相手の編集者に直接対話することが推奨されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>== Translated pages with a title in a non-English language ==
 If you want that a page translated to a national language have the title translated also, it is necessary to maintain anyway a page with English title preceded by language code and colon.</seg>
       </tuv>
@@ -5232,6 +5242,15 @@ Overpass QL のコードは''ステートメント'' からなっており、そ
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170522T122126Z" creationid="miurahr" creationdate="20170522T122126Z">
         <seg>そして、リダイレクトが自動的に設定され、古い''XX:english_page_name''へのリンクはすべて新しい翻訳ページにリダイレクトされるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>And contributors are free to make their own versions based on those points of view, such as http://www.freemap.sk/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T234511Z" creationid="miurahr" creationdate="20200817T234511Z">
+        <seg>そして投稿者はこれらのビュー、例えば
+http://www.freemap.sk/ などに基づく自分自身のバージョンを自由に作成できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25900,6 +25919,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>JOSM can show the last editor of any object, and a message sent from that users page on the website.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T234729Z" creationid="miurahr" creationdate="20200817T234729Z">
+        <seg> JOSM ではどのオブジェクトでも最新の編集者、及びウェブサイト上のユーザページから送信されたメッセージを表示できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>JOSM could not find information about the following module:</seg>
       </tuv>
       <tuv lang="ja">
@@ -33700,6 +33727,14 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>OpenStreetMapデータ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenStreetMap is a significant break with past cartography, since the database can accommodate any number of [[Key:name#Localization|localizations]] and points of view.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T234459Z" creationid="miurahr" creationdate="20200817T234459Z">
+        <seg>OpenStreetMap は、データベースが[[JA:Key:name#Localization|多国語化]]とビューの切り替えに何個でも対応できるという点で、過去の地図製作法から大きく飛躍しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45199,6 +45234,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Since the main rendering at https://www.openstreetmap.org/ uses the non-localized version, it does hold some importance.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T234643Z" creationid="miurahr" creationdate="20200817T234643Z">
+        <seg>というのも http://www.openstreetmap.org/ のメインレンダリングは非ローカライズ版を使っているため、これが重要性を持つためです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Single Color (can be customized for named layers)</seg>
       </tuv>
       <tuv lang="ja">
@@ -48273,6 +48316,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja">
         <seg>JOSM の既定のプリセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The disagreement in Cyprus centered on the non-localised tags, particularly "name".</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T234556Z" creationid="miurahr" creationdate="20200817T234529Z">
+        <seg>キプロスでの論争は非ローカライズタグ、特に"name"タグが焦点となりました。</seg>
       </tuv>
     </tu>
     <tu>
