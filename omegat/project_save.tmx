@@ -2307,6 +2307,16 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>== Background ==
+In November 2007, OpenStreetMap had its first edit war in [[WikiProject_Cyprus|Northern Cyprus]], with disagreement over the use of Greek or Turkish names in the Turkish controlled area.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T234333Z" creationid="miurahr" creationdate="20200817T234333Z">
+        <seg>== 背景 ==
+OpenStreetMap では、2007年11月に、[[WikiProject_Cyprus|北部キプロス]]で初めての編集合戦が行われました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>== Best practices ==
 How do these guidelines apply in the OpenStreetMap Community?</seg>
       </tuv>
@@ -15770,6 +15780,22 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Disputes are considered to be a form of [[Vandalism]].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T234231Z" creationid="miurahr" creationdate="20200817T234231Z">
+        <seg>紛争は[[JA:破壊行為|破壊行為]]の一形態と考えられています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Disputes are experienced as rapid changes to names of features, tags for features or the repeated deletion and recreated of features.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T234226Z" creationid="miurahr" creationdate="20200817T234226Z">
+        <seg>紛争は地物の名称や地物へのタグ付けが頻繁に変更されたり、地物の削除や再作成が繰り返されたりすることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dist</seg>
       </tuv>
       <tuv lang="ja">
@@ -28388,6 +28414,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Maps themselves can be a means for dialogue, and the passion it generated shows a certain maturation of the OSM project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T234423Z" creationid="miurahr" creationdate="20200817T234423Z">
+        <seg>世界には紛争地域の正確な表現がまだ十分にできていない多くの場所があり、マッピングすること自体が対話の手段となり得るとか、このことがもたらした情熱といったものは OSM プロジェクトが何らかの成長を遂げたことを示しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Marina</seg>
       </tuv>
       <tuv lang="ja">
@@ -40446,6 +40480,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Resolution will be attempted within the project using a variety of techniques.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T234250Z" creationid="miurahr" creationdate="20200817T234250Z">
+        <seg>様々な手法を利用して、プロジェクト内で解決が図られています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Resolution:</seg>
       </tuv>
       <tuv lang="ja">
@@ -49549,6 +49591,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja">
         <seg>このバージョンのJOSMは、設定されたサーバーと互換性がありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This was interesting for many reasons: there are many places around the world in dispute yet few accurate depictions of those disputes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T234350Z" creationid="miurahr" creationdate="20200817T234350Z">
+        <seg>トルコの支配下にある地域において、ギリシャ名を使うかトルコ名を使うか同意が得られなかったためです。これは多くの意味で興味深いものでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66950,6 +67000,16 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>{0}選択中のものをリレーションへ追加しました{1}。すべての単一のリレーションが破損していないかを確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{Languages|Disputes}}
+OpenStreetMap '''disputes''' or '''edit wars''' are situations where consensus is not achieved as to the appropriateness of the tagging or existence of certain features within the OpenStreetMap database.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T234212Z" creationid="miurahr" creationdate="20200817T234212Z">
+        <seg>{{Languages|Disputes}}
+OpenStreetMap では、データベース内でタグ付けや地物の存在が適切であるかどうか合意できていない状況を、'''紛争'''（disputes）または'''編集合戦'''（edit wars）と呼んでいます。</seg>
       </tuv>
     </tu>
     <tu>
