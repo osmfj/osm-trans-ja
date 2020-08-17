@@ -79,6 +79,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg># Send polite mail to individual
+# Robust mail outlining what the issue is
+# Temporary block of 24 hours
+# 2nd block for one week with mediation with blocked individual
+# 3rd block, discussion between moderators about final block</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T232930Z" creationid="miurahr" creationdate="20200817T232930Z">
+        <seg># 個人に丁寧なメールを送る
+# 問題の概要を説明した堅牢なメール
+# 24時間の一時ブロック
+# ブロックされた個人とので1週間の2番目のブロック
+# 3番目のブロック、最終ブロックに関するモデレータ間の議論</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg># Use the move function of the wiki to create a new translated title for the page: Click the small arrow next to the search bar, top right of the page, then ''move''.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170522T121732Z" creationid="miurahr" creationdate="20170522T121732Z">
@@ -616,6 +632,16 @@ no_more_mappingを外してください)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200817T231817Z" creationid="miurahr" creationdate="20200817T225416Z">
         <seg>* このガイドラインを最大限に活用するには、自己統治が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* Try to keep participants on topic but do not be too heavy handed
+* Calm down or block aggressive or abusive behaviour</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T233105Z" creationid="miurahr" creationdate="20200817T233105Z">
+        <seg>* 参加者に話題を伝えるようにしましょう。あまり締め付けならないようにしましょう。
+* 攻撃的または虐待的な行動を沈静化または阻止する</seg>
       </tuv>
     </tu>
     <tu>
@@ -2405,6 +2431,16 @@ Overpass QLは集合を操作します。 </seg>
       <tuv lang="ja" changeid="miurahr" changedate="20200817T215728Z" creationid="miurahr" creationdate="20200817T215728Z">
         <seg>===履歴===
 *''???'':OpenStreetBugsのアイデアと最初の実装は、[[User:Xav Xav]]によって開発されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>=== Moderator guidelines ===
+Moderators will adhere to the following guidelines when enacting the above policy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T233009Z" creationid="miurahr" creationdate="20200817T233009Z">
+        <seg>===モデレータのガイドライン===
+モデレータは、上記のポリシーを実行する際に、次のガイドラインに従います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21572,6 +21608,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For each infraction an individual will be met with the following responses.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T232830Z" creationid="miurahr" creationdate="20200817T232830Z">
+        <seg>それぞれの違反に対して、次のような対応をします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example,</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T113343Z" creationid="miurahr" creationdate="20190107T113343Z">
@@ -23856,6 +23900,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T111931Z" creationid="miurahr" creationdate="20190107T111931Z">
         <seg>もしあなたがその権利を持っていないならば、あなたは自分の投稿が削除される（下記参照）リスクを負うことになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the community is generally unhappy with moderation they can contact the board via the [[osmf:Working Groups#Communication Working Group|Communication Working Group]] to suggest a change in moderation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T233005Z" creationid="miurahr" creationdate="20200817T233005Z">
+        <seg>コミュニティが一般的にモデレートに不満を持っている場合は、 [[osmf:Working Groups#Communication Working Group|Communication Working Group]] を通じて取締役会に連絡し、モデレートの変更を提案することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55053,6 +55105,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ノードのタグをどこに設定しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Which gradually become more direct up to the point where members may be blocked.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T232842Z" creationid="miurahr" creationdate="20200817T232842Z">
+        <seg>これは、メンバーがブロックされる可能性があるポイントまで徐々に直接的になります。</seg>
       </tuv>
     </tu>
     <tu>
