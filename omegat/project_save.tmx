@@ -7454,6 +7454,14 @@ Overpass QL のコードは''ステートメント'' からなっており、そ
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>But once in a while a joke can be missed, a misunderstanding can arise, or a disagreement can become too personal.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T225207Z" creationid="miurahr" creationdate="20200817T225148Z">
+        <seg>しかし、時には冗談を聞き逃したり、誤解が生じたり、意見の相違が個人的になりすぎたりすることもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Butcher</seg>
       </tuv>
       <tuv lang="ja">
@@ -10982,6 +10990,14 @@ Overpass QL のコードは''ステートメント'' からなっており、そ
       </tuv>
       <tuv lang="ja">
         <seg>都道府県 bbox: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Communication through online methods does not allow one to see facial expression, hear tone or see other cues.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T225030Z" creationid="miurahr" creationdate="20200817T225030Z">
+        <seg>オンラインでのコミュニケーションでは、表情を見たり、声調を聞いたり、その他の手がかりを得たりすることはできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17600,6 +17616,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Due to the nature of this communication initial impressions are very important.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T225047Z" creationid="miurahr" creationdate="20200817T225047Z">
+        <seg>このコミュニケーションの性質から、第一印象は非常に重要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dump Station</seg>
       </tuv>
       <tuv lang="ja">
@@ -19020,6 +19044,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>重みの値の入力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enthusiastic discussions are part of the lifeblood of a successful project and disagreements are inevitable.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T225124Z" creationid="miurahr" creationdate="20200817T225124Z">
+        <seg>熱心な議論は成功するプロジェクトの生命線の一部であり、意見の相違は避けられません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22656,6 +22688,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ゲストハウス/B&amp;B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Guidelines for behaviour are seldom needed as we understand all of this, and we mostly do a good job of treating others as we would be treated.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T225202Z" creationid="miurahr" creationdate="20200817T225134Z">
+        <seg>私たちはこれらのことをすべて理解しているので、行動のためのガイドラインが必要になることはめったになく、私たちはほとんどの場合、自分たちが扱われるように他人をうまく扱うことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54654,6 +54694,30 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T112123Z" creationid="miurahr" creationdate="20190107T111858Z">
         <seg>我々は、他の人々の知的財産権を尊重しており、同時に知的財産権の所有者からのあらゆる異議申し立てにも応じることができる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We should strive to keep our community energetic and accessible with these expected behaviour minimums.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T225245Z" creationid="miurahr" creationdate="20200817T225245Z">
+        <seg>私たちは、これらの期待される行動を最小限に抑えながら、コミュニティの活力とアクセスを維持するよう努力すべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We should strive to keep our discussions and disagreements appropriate.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T225213Z" creationid="miurahr" creationdate="20200817T225129Z">
+        <seg>我々は、議論と意見の相違を適切に保つよう努力すべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We should strive to make a good first impression and we should be aware that many of these channels are archived in one form or another and will survive for a long time.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T225226Z" creationid="miurahr" creationdate="20200817T225112Z">
+        <seg>私たちは第一印象を良くするよう努力すべきであり、これらの手段の多くは何らかの形でアーカイブされており、長期にわたって存続することを認識すべきです。</seg>
       </tuv>
     </tu>
     <tu>
