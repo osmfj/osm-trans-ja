@@ -452,6 +452,14 @@ no_more_mappingを外してください)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* '''2009''': The second implementation was started by Christoph Böhme and continued by [[User:Emka|Emka]].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T220013Z" creationid="miurahr" creationdate="20200817T220013Z">
+        <seg>*''''2009'''':2番目の実装はChristoph Böhmeによって開始され、[[ユーザー:Emka Emka]]によって続行されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* '''Paste in''' the English text from your clipboard and now '''start translating''' it into your language and save the new translated page.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170521T234937Z" creationid="miurahr" creationdate="20170521T234937Z">
@@ -25484,6 +25492,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is the earlist mention I found using Google.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T215924Z" creationid="miurahr" creationdate="20200817T215924Z">
+        <seg>Googleで見つけた耳打ちリストです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It might be viewable to the end user (perhaps using a search system or a map with pop-ups).</seg>
       </tuv>
       <tuv lang="ja">
@@ -49231,6 +49247,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja">
         <seg>このバージョンのJOSMは、設定されたサーバーと互換性がありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This was started up in April 2009.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T220029Z" creationid="miurahr" creationdate="20200817T220029Z">
+        <seg>2009年4月にスタートしました。</seg>
       </tuv>
     </tu>
     <tu>
