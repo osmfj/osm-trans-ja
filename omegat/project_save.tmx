@@ -3114,6 +3114,14 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Abort.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T023325Z" creationid="miurahr" creationdate="20200818T023325Z">
+        <seg>異常終了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Aborted</seg>
       </tuv>
       <tuv lang="ja">
@@ -8039,6 +8047,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>キャンプ場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Can not align a polygon.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T023319Z" creationid="miurahr" creationdate="20200818T023319Z">
+        <seg>ポリゴンを位置合わせできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25750,6 +25766,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>マルチポリゴンウェイ間の交差</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Intersection of three or more ways can not be solved.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T023718Z" creationid="miurahr" creationdate="20200818T023718Z">
+        <seg>3つ以上のウエイの交差を解決できません。</seg>
       </tuv>
     </tu>
     <tu>
