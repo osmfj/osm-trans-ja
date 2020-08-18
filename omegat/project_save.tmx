@@ -16301,6 +16301,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Do you want to reverse some of them?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T050722Z" creationid="miurahr" creationdate="20200818T050722Z">
+        <seg>一部の方向を反転しますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Do you want to save anyway?</seg>
       </tuv>
       <tuv lang="ja">
@@ -49479,6 +49487,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja">
         <seg>選択されたノードのウェイを直線化できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ways can not be combined in their current directions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T050521Z" creationid="miurahr" creationdate="20200818T050521Z">
+        <seg>一方通行の方向が違っているため接続できません。</seg>
       </tuv>
     </tu>
     <tu>
