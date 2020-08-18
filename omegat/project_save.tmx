@@ -13139,6 +13139,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Couldn''t match the entered link or id to the selected service.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T053246Z" creationid="miurahr" creationdate="20200818T053246Z">
+        <seg>入力されたリンクまたはIDを選択されたサービスと一致させることができませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Counter Clockwise</seg>
       </tuv>
       <tuv lang="ja">
@@ -14215,6 +14223,14 @@ Do you want to keep it?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>切り取り</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cut timewise overlapping parts of tracks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T053636Z" creationid="miurahr" creationdate="20200818T053636Z">
+        <seg>トラックの重複部分を時間的にカットする</seg>
       </tuv>
     </tu>
     <tu>
@@ -36166,6 +36182,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>不安が残る場合は中止して下さい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please check.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T053228Z" creationid="miurahr" creationdate="20200818T053228Z">
+        <seg>確認してください。</seg>
       </tuv>
     </tu>
     <tu>
