@@ -2404,6 +2404,16 @@ OpenStreetMapのWebサイトでは、異なる言語を使用した異なる焦�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>== OpenStreetMap Foundation position ==
+The [[Foundation|OpenStreetMap Foundation]] has provided a document for governments who want the OSM database to reflect what they think is the correct data:  [http://www.osmfoundation.org/w/images/d/d8/DisputedTerritoriesInformation.pdf "Information for officials and diplomats of countries and entities with disputed territories"]</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T002012Z" creationid="miurahr" creationdate="20200818T002012Z">
+        <seg>== OpenStreetMap Foundation の立場 ==
+ [[Foundation|OpenStreetMap Foundation]] は、OSMデータベースに、正しいと考えるデータを反映したい政府向けの文書を提供しています   [http://www.osmfoundation.org/w/images/d/d8/DisputedTerritoriesInformation.pdf "Information for officials and diplomats of countries and entities with disputed territories"]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>== See also ==
 * [[Community Code of Conduct (Draft)]]
 * [[Diversity/MailingList/CodeOfConduct|Code of Conduct for the diversity-talk@ mailing list]], which is used there instead of this Etiquette guide.</seg>
@@ -2412,6 +2422,24 @@ OpenStreetMapのWebサイトでは、異なる言語を使用した異なる焦�
         <seg>== 参照 ==
 * [[Community Code of Conduct (Draft)]]
 * [[Diversity/MailingList/CodeOfConduct|Code of Conduct for the diversity-talk@ mailing list]], which is used there instead of this Etiquette guide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>== See also ==
+* [http://blog.emacsen.net/blog/2014/01/17/edit-wars-in-openstreetmap/ Serge Wroclawski's writeup about edit wars from the POV of a DWG member]
+* [[Disputed_territories]]
+* [https://en.wikipedia.org/wiki/List_of_territorial_disputes List of territorial disputes (Wikipedia)]
+[[Category:Disputed Names|!]]
+[[Category:Counter-vandalism]]</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T002029Z" creationid="miurahr" creationdate="20200818T002029Z">
+        <seg>== See Also ==
+* [http://blog.emacsen.net/blog/2014/01/17/edit-wars-in-openstreetmap/ Serge Wroclawski's writeup about edit wars from the POV of a DWG member]
+* [[Disputed_territories]]
+* [https://en.wikipedia.org/wiki/List_of_territorial_disputes List of territorial disputes (Wikipedia)]
+[[Category:Disputed Names|!]]
+[[Category:Counter-vandalism]]</seg>
       </tuv>
     </tu>
     <tu>
@@ -45755,6 +45783,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some products based on OpenStreetMap data are already supporting this.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T001738Z" creationid="miurahr" creationdate="20200818T001738Z">
+        <seg>OpenStreetMapデータをベースにした製品の中には、すでにこれをサポートしているものもある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some tags have not been closed; now in state {0}</seg>
       </tuv>
       <tuv lang="ja">
@@ -46944,6 +46980,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>変更セット {0} を開きました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Such customization requires proper tagging in the database.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T001744Z" creationid="miurahr" creationdate="20200818T001744Z">
+        <seg>このようなカスタマイズには、データベースで適切なタグ付けが必要です。</seg>
       </tuv>
     </tu>
     <tu>
