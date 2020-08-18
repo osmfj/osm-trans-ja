@@ -5170,6 +5170,14 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Allowed values are node, way or relation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T220642Z" creationid="miurahr" creationdate="20200818T220642Z">
+        <seg>指定できる値はノード、ウェイ、またはリレーションです</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Allows JOSM to be controlled from other applications, e.g. from a web browser.</seg>
       </tuv>
       <tuv lang="ja">
@@ -8823,6 +8831,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>ノードをマージできません: {1} で使われているノード {0} を削除する必要があります</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cannot merge primitives with different ids.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T220435Z" creationid="miurahr" creationdate="20200818T220435Z">
+        <seg>異なるIDを持つプリミティブはマージできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21151,6 +21167,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Expected {0}, found {1}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T220735Z" creationid="miurahr" creationdate="20200818T220735Z">
+        <seg>想定された{0}、検出された{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Expecting {0} after {1}</seg>
       </tuv>
       <tuv lang="ja">
@@ -24045,6 +24069,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T014520Z" creationid="miurahr" creationdate="20200818T014520Z">
         <seg> Google などはそのデータのライセンスを受けています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Got ''{2}''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T220508Z" creationid="miurahr" creationdate="20200818T220508Z">
+        <seg>「{2}」を取得しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28202,6 +28234,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>キー ''{0}'' はプリセットにはありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Key cannot be empty when tag operator is used.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T220549Z" creationid="miurahr" creationdate="20200818T220549Z">
+        <seg>タグ演算子が使用されている場合、キーを空にすることはできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36838,6 +36878,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Parameter {0} not in range 0..{1}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T220452Z" creationid="miurahr" creationdate="20200818T220452Z">
+        <seg>パラメータ{0}が範囲0.{1}にありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Parameter:</seg>
       </tuv>
       <tuv lang="ja">
@@ -44530,6 +44578,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>{0}と{1}が同じ値</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sample use: key=value</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T220604Z" creationid="miurahr" creationdate="20200818T220604Z">
+        <seg>使用例:key=value</seg>
       </tuv>
     </tu>
     <tu>
@@ -52561,6 +52617,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This id is {0}, the other is {1}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T220439Z" creationid="miurahr" creationdate="20200818T220439Z">
+        <seg>このIDは{0}で、もう一方のIDは{1}です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This imagery is an overlay.</seg>
       </tuv>
       <tuv lang="ja">
@@ -55417,6 +55481,14 @@ or action canceled</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unexpected token.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T220716Z" creationid="miurahr" creationdate="20200818T220716Z">
+        <seg>想定外のトークンです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unexpected token:</seg>
       </tuv>
       <tuv lang="ja">
@@ -55621,6 +55693,14 @@ or action canceled</seg>
       </tuv>
       <tuv lang="ja">
         <seg>不明なプリセット名:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unknown primitive type: {0}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T220611Z" creationid="miurahr" creationdate="20200818T220611Z">
+        <seg>不明なプリミティブタイプ:{0}。</seg>
       </tuv>
     </tu>
     <tu>
