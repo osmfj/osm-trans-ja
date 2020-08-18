@@ -5306,6 +5306,14 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alt: do not delete unused nodes when deleting a way.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T113529Z" creationid="miurahr" creationdate="20200818T113529Z">
+        <seg>Alt:ウェイの削除時に未使用のノードを削除しない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alternative name</seg>
       </tuv>
       <tuv lang="ja">
@@ -5927,6 +5935,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>本当に継続しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Are you sure that you want to delete elements with attached ways that are hidden by filters?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T113509Z" creationid="miurahr" creationdate="20200818T113509Z">
+        <seg>フィルターで非表示になっているウェイに付随する要素を削除しますか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -10767,6 +10783,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to delete.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T113514Z" creationid="miurahr" creationdate="20200818T113514Z">
+        <seg>クリックして削除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to disable the plugin ''{0}''</seg>
       </tuv>
       <tuv lang="ja">
@@ -14435,6 +14459,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ctrl: delete referring objects.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T113539Z" creationid="miurahr" creationdate="20200818T113539Z">
+        <seg>Ctrl:参照オブジェクトを削除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cuisine</seg>
       </tuv>
       <tuv lang="ja">
@@ -15179,6 +15211,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Delete elements</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T113543Z" creationid="miurahr" creationdate="20200818T113543Z">
+        <seg>要素を削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Delete filter.</seg>
       </tuv>
       <tuv lang="ja">
@@ -15447,6 +15487,14 @@ Do you want to keep it?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>タグテーブルの選択を削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Delete them</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T113552Z" creationid="miurahr" creationdate="20200818T113552Z">
+        <seg>削除します</seg>
       </tuv>
     </tu>
     <tu>
@@ -18249,6 +18297,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>牽引リフト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drag a way segment to make a rectangle.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T113624Z" creationid="miurahr" creationdate="20200818T113624Z">
+        <seg>ウェイセグメントをドラッグして長方形を作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21243,6 +21299,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>エクソン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>FIX</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T113616Z" creationid="miurahr" creationdate="20200818T113616Z">
+        <seg>修正</seg>
       </tuv>
     </tu>
     <tu>
@@ -25422,6 +25486,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>要素を無視</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ignoring exception because download has been canceled.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T113454Z" creationid="miurahr" creationdate="20200818T113454Z">
+        <seg>ダウンロードがキャンセルされるため、キャッチされた例外を無視します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33926,6 +33998,14 @@ nodes and the new nodes will be selected.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>選択するものがありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nothing to upload.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T113402Z" creationid="miurahr" creationdate="20200818T113402Z">
+        <seg>アップロードするものがありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46811,6 +46891,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shift: delete way segment.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T113519Z" creationid="miurahr" creationdate="20200818T113519Z">
+        <seg>Shift:ウェイセグメントを削除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Shinto Shrine</seg>
       </tuv>
       <tuv lang="ja">
@@ -54663,6 +54751,14 @@ or action canceled</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Undo delete</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T113557Z" creationid="miurahr" creationdate="20200818T113557Z">
+        <seg>削除を元に戻す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Undo move</seg>
       </tuv>
       <tuv lang="ja">
@@ -57168,6 +57264,22 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ビューポート追随</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Viewport following is disabled</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T113433Z" creationid="miurahr" creationdate="20200818T113433Z">
+        <seg>ビューポート追随が無効です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Viewport following is enabled, press {0} to disable it</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T113423Z" creationid="miurahr" creationdate="20200818T113423Z">
+        <seg>ビューポート追随が有効になっています。{0}を押して無効にしてください</seg>
       </tuv>
     </tu>
     <tu>
