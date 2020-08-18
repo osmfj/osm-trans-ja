@@ -8411,6 +8411,38 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cannot handle multipolygon relations with multiple outer ways.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T052612Z" creationid="miurahr" creationdate="20200818T052612Z">
+        <seg>複数の外部ウェイを持つマルチポリゴンリレーションは処理できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cannot handle way that is both inner and outer in multipolygon relations.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T052915Z" creationid="miurahr" creationdate="20200818T052915Z">
+        <seg>マルチポリゴンリレーションの内部と外部の両方のウェイを処理できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cannot handle way that is outer in multiple multipolygon relations.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T052732Z" creationid="miurahr" creationdate="20200818T052732Z">
+        <seg>複数のマルチポリゴンリレーションの外側ウェイを処理できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cannot join inner and outer ways of a multipolygon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T052646Z" creationid="miurahr" creationdate="20200818T052646Z">
+        <seg>マルチポリゴンの内側と外側のウェイを結合できません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cannot load cache {0} which is not compatible with current projection zone</seg>
       </tuv>
       <tuv lang="ja">
@@ -26794,6 +26826,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>古いバックアップファイルを保存して継続</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keep older versions</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T052551Z" creationid="miurahr" creationdate="20200818T052551Z">
+        <seg>自分の判断を採用</seg>
       </tuv>
     </tu>
     <tu>
@@ -46331,6 +46371,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>申し訳ありません、選択された区間には署名がありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sorry.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T052616Z" creationid="miurahr" creationdate="20200818T052616Z">
+        <seg>すみません。</seg>
       </tuv>
     </tu>
     <tu>
