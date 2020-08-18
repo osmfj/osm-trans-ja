@@ -281,6 +281,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Afterwards, you can undo the movement for certain nodes:&lt;br&gt;Select them and press the shortcut for Orthogonalize / Undo.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T053848Z" creationid="miurahr" creationdate="20200818T053848Z">
+        <seg>(その後、特定のノードの移動を元に戻すことができます。&lt;br&gt;ノードを選択し、[直交化/元に戻す]のショートカットを押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Code={0})</seg>
       </tuv>
       <tuv lang="ja">
@@ -5799,6 +5807,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>{0}個の点を含む線を保存しなくてよろしいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Are you sure you want to simplify them all?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T054035Z" creationid="miurahr" creationdate="20200818T054035Z">
+        <seg>すべてを単純化しますか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -21399,6 +21415,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>File exists.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T053938Z" creationid="miurahr" creationdate="20200818T053938Z">
+        <seg>ファイルが存在します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>File name:</seg>
       </tuv>
       <tuv lang="ja">
@@ -21437,6 +21461,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>読み込むファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>File {0} exists.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T053913Z" creationid="miurahr" creationdate="20200818T053913Z">
+        <seg>ファイル{0}が存在します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31704,6 +31736,14 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No Exporter found!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T053928Z" creationid="miurahr" creationdate="20200818T053928Z">
+        <seg>エクスポータが見つかりません!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No GPX data layer found.</seg>
       </tuv>
       <tuv lang="ja">
@@ -32716,6 +32756,14 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>''{0}'' を検索しましたが、選択からは何も取り除いていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nothing saved.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T053932Z" creationid="miurahr" creationdate="20200818T053932Z">
+        <seg>何も保存されていません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40200,6 +40248,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Remember choice</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T053920Z" creationid="miurahr" creationdate="20200818T053920Z">
+        <seg>選択を記憶する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Remember last used tags after a restart</seg>
       </tuv>
       <tuv lang="ja">
@@ -41452,6 +41508,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>既定値に戻す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Restore selected tags</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T053904Z" creationid="miurahr" creationdate="20200818T053904Z">
+        <seg>選択したタグを復元</seg>
       </tuv>
     </tu>
     <tu>
@@ -43541,6 +43605,14 @@ This automatically generates a language menu consisting of links to the original
       </tuv>
       <tuv lang="ja">
         <seg>選択している変更セットに存在する全てのオブジェクトを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select all undeleted objects in the data layer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T053954Z" creationid="miurahr" creationdate="20200818T053954Z">
+        <seg>データレイヤー内の削除されていないオブジェクトをすべて選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49109,6 +49181,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The default is Shift-Q.)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T053859Z" creationid="miurahr" creationdate="20200818T053859Z">
+        <seg>デフォルトはShift-Qです)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The default preset for JOSM</seg>
       </tuv>
       <tuv lang="ja">
@@ -49635,6 +49715,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The selection contains {0} ways.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T054024Z" creationid="miurahr" creationdate="20200818T054024Z">
+        <seg>選択には{0}の方法が含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The server did not return user ID</seg>
       </tuv>
       <tuv lang="ja">
@@ -49855,6 +49943,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170522T122228Z" creationid="miurahr" creationdate="20170522T122202Z">
         <seg>そうすると、これは二重リダイレクトを引き起こし、Wikiシステムが2回目のリダイレクトで停止してしまうという問題を引き起こす可能性があります。 （[[Special:DoubleRedirects]] を参照）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then, the direction is fixed by these two reference nodes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T053814Z" creationid="miurahr" creationdate="20200818T053814Z">
+        <seg>次に、この2つの参照ノードによって方向が固定されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50263,6 +50359,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja">
         <seg>このプリセットはセットされています: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This selects incomplete objects too.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T054003Z" creationid="miurahr" creationdate="20200818T054003Z">
+        <seg>これにより、不完全なオブジェクトも選択されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52183,6 +52287,14 @@ or action canceled</seg>
       </tuv>
       <tuv lang="ja">
         <seg>''{0}''にアクセスできません: {1}が使用できません(オフラインモード)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unable to add layer ''{0}'': {1}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T054017Z" creationid="miurahr" creationdate="20200818T054017Z">
+        <seg>レイヤー''{0}''を追加できません:{1}</seg>
       </tuv>
     </tu>
     <tu>
