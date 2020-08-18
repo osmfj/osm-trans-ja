@@ -2801,6 +2801,14 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A lot of these are less legal than you might think.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T014319Z" creationid="miurahr" creationdate="20200818T014301Z">
+        <seg>意外なところで違法になってしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A low area between hills.</seg>
       </tuv>
       <tuv lang="ja">
@@ -4534,6 +4542,14 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
       </tuv>
       <tuv lang="ja">
         <seg>高度な設定...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Advances in technology like cheap GPS units mean you can now create your own maps, in collaboration with others and have none of the restrictions outlined above.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T014359Z" creationid="miurahr" creationdate="20200818T014359Z">
+        <seg>しかし、安価な GPS 装置が普及するなど、技術の進歩によって、あなた自身が地図を作れるようになってきました。世界中の他の人たちと協力しあうことで、前に述べたような制約なしに地図を使う事ができるようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24170,6 +24186,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you accept all of this then you still can't do anything with the data but photocopy it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T014110Z" creationid="miurahr" creationdate="20200818T014110Z">
+        <seg>それでもいいからと利用したところで、せいぜい出来る事は配布しない私用の目的でコピーを取ることぐらいです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you are looking for how to attribute OSM, see [[Legal FAQ#I would like to use OpenStreetMap maps.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200813T125657Z" creationid="miurahr" creationdate="20200813T125657Z">
@@ -24950,6 +24974,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>競合先:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In lots of places that's illegal too if you go beyond your fair use rights.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T014138Z" creationid="miurahr" creationdate="20200818T014138Z">
+        <seg>多くの国々では[[wikipedia:Fair use|フェアユース（私的利用）]]または[[wikipedia:Fair dealing|fair dealing]]を越える利用は違法になってしまいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29946,6 +29978,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>この地物・機能の詳細情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>More money than you probably have.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T014217Z" creationid="miurahr" creationdate="20200818T014217Z">
+        <seg>その金額は普通個人が払える額を越えてしまいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55439,6 +55479,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>What about sending it to a friend, enclosing it in an invitation or posting it on a notice board?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T014311Z" creationid="miurahr" creationdate="20200818T014229Z">
+        <seg>招待状の地図に使ったり、掲示板に案内を貼ったりするようなことも、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What to do with preference lists when this file is to be imported?</seg>
       </tuv>
       <tuv lang="ja">
@@ -56173,6 +56221,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>緯度と経度は空白かカンマかセミコロンで区切ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can't correct a street name, or add the pub/bar over the road, or use the data in a computer program without paying a lot of money.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T014208Z" creationid="miurahr" creationdate="20200818T014208Z">
+        <seg>通りの名前を修正したり、パブやバーの名前を通りに書き込んだり、コンピュータ上で利用する事はかなりの金額を払わない限りできません。</seg>
       </tuv>
     </tu>
     <tu>
