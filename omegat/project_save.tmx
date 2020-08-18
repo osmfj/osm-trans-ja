@@ -3116,8 +3116,8 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
       <tuv lang="en-US">
         <seg>Abort.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20200818T023325Z" creationid="miurahr" creationdate="20200818T023325Z">
-        <seg>異常終了</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T050411Z" creationid="miurahr" creationdate="20200818T023325Z">
+        <seg> 異常終了</seg>
       </tuv>
     </tu>
     <tu>
@@ -51583,6 +51583,14 @@ or action canceled</seg>
       </tuv>
       <tuv lang="ja">
         <seg>転車台(ターンテーブル)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Two parallels ways found.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T023739Z" creationid="miurahr" creationdate="20200818T023739Z">
+        <seg>2つの並行したウエイが見つかりました。</seg>
       </tuv>
     </tu>
     <tu>
