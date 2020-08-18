@@ -22833,6 +22833,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Gotcha!" from looking if you also copied these fake pieces of map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T014049Z" creationid="miurahr" creationdate="20200818T014049Z">
+        <seg>そういったものが地図にあるかどうかで複製をしたかどうか知る事ができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Government</seg>
       </tuv>
       <tuv lang="ja">
@@ -24196,8 +24204,8 @@ or just retry</seg>
       <tuv lang="en-US">
         <seg>If you make a map using their data, they can say "ah-ha!</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20200818T013737Z" creationid="miurahr" creationdate="20200818T013737Z">
-        <seg>もし、あなたが無断で彼らのデータを使ったならば、そういったものが地図にあるかどうかで複製をしたかどうか知る事ができます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T014030Z" creationid="miurahr" creationdate="20200818T013737Z">
+        <seg>もし、あなたが無断で彼らのデータを使ったならば、</seg>
       </tuv>
     </tu>
     <tu>
@@ -48817,6 +48825,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja">
         <seg>経度は{0}～{1}の範囲でなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The map may also just be incorrect because for example you bought it a year ago and a path has been dug up in your local park since, or someone just made a mistake.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T014010Z" creationid="miurahr" creationdate="20200818T014010Z">
+        <seg>また地図は単純に間違っているかもしれません。1年前に地図を買った後に、公園に歩道ができたりするかもしれませんし、単に間違っている事だってあります。</seg>
       </tuv>
     </tu>
     <tu>
