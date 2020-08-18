@@ -12367,6 +12367,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Continue?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T052407Z" creationid="miurahr" creationdate="20200818T052407Z">
+        <seg>続けますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Continues drawing a line that shares nodes with another line.</seg>
       </tuv>
       <tuv lang="ja">
@@ -31896,6 +31904,14 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No intersection found.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T052428Z" creationid="miurahr" creationdate="20200818T052428Z">
+        <seg>交差はありませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No layers defined by getCapabilities document: {0}</seg>
       </tuv>
       <tuv lang="ja">
@@ -32644,6 +32660,14 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ズームするものがありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nothing was changed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T052438Z" creationid="miurahr" creationdate="20200818T052438Z">
+        <seg>何も変更されませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40508,6 +40532,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>{0}からノードを削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Removed now unreferrenced nodes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T052536Z" creationid="miurahr" creationdate="20200818T052536Z">
+        <seg>参照のないノードを削除しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49407,6 +49439,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja">
         <seg>''/REVISION''で指定されたリビジョンファイルが見つかりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The selected area is incomplete.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T052402Z" creationid="miurahr" creationdate="20200818T052402Z">
+        <seg>選択した領域は不完全です。</seg>
       </tuv>
     </tu>
     <tu>
