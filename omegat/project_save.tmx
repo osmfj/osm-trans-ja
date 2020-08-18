@@ -12767,6 +12767,22 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Connectivity tag contains unusual data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T221721Z" creationid="miurahr" creationdate="20200818T221721Z">
+        <seg>接続タグに異常なデータが含まれています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Connectivity tag missing comma between optional and non-optional values</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T221657Z" creationid="miurahr" creationdate="20200818T221657Z">
+        <seg>接続タグの省略可能な値と省略不可能な値の間にカンマがありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Construction</seg>
       </tuv>
       <tuv lang="ja">
@@ -26630,6 +26646,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>不完全なアップロードと保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inconsistent lane numbering between relation and member tags</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T221806Z" creationid="miurahr" creationdate="20200818T221806Z">
+        <seg>リレーションとメンバータグの間に矛盾した車線番号があります</seg>
       </tuv>
     </tu>
     <tu>
@@ -42062,6 +42086,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Relation {0} member is missing a lanes or *:lanes tag</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T221838Z" creationid="miurahr" creationdate="20200818T221838Z">
+        <seg>リレーション{0}のメンバに車線数または*:lanesタグがありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Relation:</seg>
       </tuv>
       <tuv lang="ja">
@@ -52653,6 +52685,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja">
         <seg>この変更セットクエリURLは不正です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This connectivity may already be implied</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T221911Z" creationid="miurahr" creationdate="20200818T221911Z">
+        <seg>この接続性はすでに暗黙的に示されています。</seg>
       </tuv>
     </tu>
     <tu>
