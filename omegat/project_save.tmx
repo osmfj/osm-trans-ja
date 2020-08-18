@@ -5483,6 +5483,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Any such data retains the copyright conditions of the original.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T015535Z" creationid="miurahr" creationdate="20200818T015535Z">
+        <seg>そのようなデータは何であれ、オリジナルの著作権条項にしたがうことになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Append preferences from file to existing values</seg>
       </tuv>
       <tuv lang="ja">
@@ -24266,6 +24274,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you collect data from Google Maps in this way, you are creating a &amp;quot;derived work&amp;quot;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T015519Z" creationid="miurahr" creationdate="20200818T015519Z">
+        <seg>この方法で Google Maps からデータを収集すると、それは「派生作品」を作っているのと同じです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you contribute Contents, You are indicating that, as far as You know, You have the right to authorize OSMF to use and distribute those Contents under our current licence terms.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T111929Z" creationid="miurahr" creationdate="20190107T111929Z">
@@ -25054,6 +25070,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>混在させる場合、オブジェクトの種類を指定します。例：{0}&lt;br/&gt;({1} は &lt;i&gt;ノード&lt;/i&gt;、{2}は &lt;i&gt;ウェイ&lt;/i&gt;、{3} は &lt;i&gt;リレーション&lt;/i&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In practice, this means your data is subject to the licensing fees, and contractual restrictions, of these map providers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T015556Z" creationid="miurahr" creationdate="20200818T015556Z">
+        <seg>実際には、あなたのデータには、地図提供会社からライセンス料と契約による規制が、かけられることになるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45615,6 +45639,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Since they've made significant financial investments to gather this data, these organisations are understandably protective of their copyright.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T015423Z" creationid="miurahr" creationdate="20200818T015423Z">
+        <seg>このデータを集めるために巨額の投資をしてきたので、これらの組織が著作権で保護されるのも道理でしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Single Color (can be customized for named layers)</seg>
       </tuv>
       <tuv lang="ja">
@@ -49647,6 +49679,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T112113Z" creationid="miurahr" creationdate="20190107T112113Z">
         <seg>これらの権利は制限無しに、複数階層にわたるサブライセンスを通して成果物にサブライセンスしたり、これらの規約に基づくOSMFの諸権利に直接つながるあらゆる著作権侵害の訴訟を起こすための権利を含みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They, in turn, have obtained some of this data from national mapping agencies (such as the [https://www.ordnancesurvey.co.uk/ Ordnance Survey]).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T015404Z" creationid="miurahr" creationdate="20200818T015404Z">
+        <seg>彼らは、国の地図製作機関（イギリスの[https://www.ordnancesurvey.co.uk/ Ordnance Survey]）（訳注: 日本なら[http://www.gsi.go.jp/ 国土地理院]）から一部のデータは受け取っています。</seg>
       </tuv>
     </tu>
     <tu>
