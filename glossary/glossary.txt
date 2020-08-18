@@ -20,3 +20,4 @@ offset	オフセット
 bookmark	ブックマーク
 imagery layer	画像レイヤー
 node	ノード
+multipolygon relation	マルチポリゴンリレーション
