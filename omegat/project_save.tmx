@@ -1835,6 +1835,14 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;html&gt;Preferences file had errors.&lt;br&gt; Creating a new default preference file.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114836Z" creationid="miurahr" creationdate="20200818T114836Z">
+        <seg>&lt;html&gt;環境設定ファイルにエラーがありました。&lt;br&gt;新しいデフォルトの設定ファイルを作成しています。&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;html&gt;Preferences file had errors.&lt;br&gt; Making backup of old one to &lt;br&gt;{0}&lt;br&gt; and creating a new default preference file.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ja">
@@ -19645,6 +19653,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Elevation map</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T115033Z" creationid="miurahr" creationdate="20200818T115033Z">
+        <seg>高度マップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Elevation profile</seg>
       </tuv>
       <tuv lang="ja">
@@ -20695,10 +20711,26 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Error while parsing offset.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114950Z" creationid="miurahr" creationdate="20200818T114950Z">
+        <seg>オフセットの解析中にエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Error while parsing search expression on position {0}</seg>
       </tuv>
       <tuv lang="ja">
         <seg>検索式の解析中に {0} 文字目にエラーを検出しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Error while parsing timezone.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114956Z" creationid="miurahr" creationdate="20200818T114956Z">
+        <seg>タイムゾーンの解析中にエラーが発生しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20995,6 +21027,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>オプション{0}は浮動小数点値を要求していますが、''{1}''が指定されました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Expected format: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114954Z" creationid="miurahr" creationdate="20200818T114954Z">
+        <seg>予期された形式:{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -30238,6 +30278,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Map for quality assurance</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T115036Z" creationid="miurahr" creationdate="20200818T115036Z">
+        <seg>品質保証マップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Map information</seg>
       </tuv>
       <tuv lang="ja">
@@ -37822,6 +37870,16 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please check this server URL:
+{1}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T115049Z" creationid="miurahr" creationdate="20200818T115049Z">
+        <seg>次のサーバURLを確認してください:
+{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please check.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T053228Z" creationid="miurahr" creationdate="20200818T053228Z">
@@ -42476,6 +42534,22 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Removed preference default {0} since it is no longer used</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114915Z" creationid="miurahr" creationdate="20200818T114915Z">
+        <seg>デフォルト{0}は使用されなくなったため、削除されました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Removed preference setting {0} since it is no longer used</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114910Z" creationid="miurahr" creationdate="20200818T114910Z">
+        <seg>使用されなくなったため、設定{0}が削除されました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Removes address related tags from the object.</seg>
       </tuv>
       <tuv lang="ja">
@@ -44768,6 +44842,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T222727Z" creationid="miurahr" creationdate="20190107T222727Z">
         <seg>削除する前にレイヤを保存/アップロードします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Saved updated default preferences.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114924Z" creationid="miurahr" creationdate="20200818T114924Z">
+        <seg>更新されたデフォルトの設定を保存しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56064,6 +56146,14 @@ Create a new one.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Updated preference setting {0} to {1}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114851Z" creationid="miurahr" creationdate="20200818T114851Z">
+        <seg>基本設定{0}が{1}に更新されました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Updates the currently modified objects from the server (re-downloads data)</seg>
       </tuv>
       <tuv lang="ja">
@@ -57816,6 +57906,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>WMSレイヤー({0}), {1}枚のタイルを読み込みました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>WMTS Capabilities document did not contain layers in url: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T115152Z" creationid="miurahr" creationdate="20200818T115152Z">
+        <seg>WMTS機能設定には、URL中にレイヤーが含まれていません:{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -71954,6 +72052,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{0} imagery has tileMatrixSet defined to: {1}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T115025Z" creationid="miurahr" creationdate="20200818T115025Z">
+        <seg>{0}個の画像には次のtileMatrixSetが定義されています:{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{0} inside {1}</seg>
       </tuv>
       <tuv lang="ja">
@@ -71990,6 +72096,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>{0} は数値ではありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} is not a valid WMS argument.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T115039Z" creationid="miurahr" creationdate="20200818T115039Z">
+        <seg>{0}は有効なWMS引数ではありません。</seg>
       </tuv>
     </tu>
     <tu>
