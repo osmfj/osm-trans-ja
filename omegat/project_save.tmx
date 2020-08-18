@@ -8451,6 +8451,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Can''t use layer {0} because no supported formats where found.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T220153Z" creationid="miurahr" creationdate="20200818T220153Z">
+        <seg>サポートされている形式が見つからないため、レイヤー{0}を使用できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Canadian Football</seg>
       </tuv>
       <tuv lang="ja">
