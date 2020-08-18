@@ -25234,6 +25234,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you continue,&lt;br /&gt;it may require you subsequently have to revert your changes, or force other contributors to.&lt;br /&gt;&lt;br /&gt;Are you sure you want to continue?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T113352Z" creationid="miurahr" creationdate="20200818T113352Z">
+        <seg>続行すると、&lt;br /&gt;後で変更をリバートするか、他の共同作成者へリバートを強制する必要があります。&lt;br /&gt;&lt;br /&gt;本当に続行しますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you contribute Contents, You are indicating that, as far as You know, You have the right to authorize OSMF to use and distribute those Contents under our current licence terms.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T111929Z" creationid="miurahr" creationdate="20190107T111929Z">
@@ -54927,6 +54935,14 @@ or action canceled</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unglueing possibly affected {0} relation: {1}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T113137Z" creationid="miurahr" creationdate="20200818T113137Z">
+        <seg>接着解除は{0}件のリレーションに影響します: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Uninstall JOSM localhost certificate from system/browser root keystores</seg>
       </tuv>
       <tuv lang="ja">
@@ -58865,6 +58881,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T113050Z" creationid="miurahr" creationdate="20200818T113050Z">
         <seg>ダウンロード範囲外から参照されているノードをの接着を解除しようとしています。&lt;br&gt;(あなたが見ていない)ほかのオブジェクトが使っているかもしれないので、この操作は問題を引き起こす可能性があります。&lt;br&gt;接着を解除しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You are about to upload data from the layer ''{0}''.&lt;br /&gt;&lt;br /&gt;Sending data from this layer is &lt;b&gt;strongly discouraged&lt;/b&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T113213Z" creationid="miurahr" creationdate="20200818T113213Z">
+        <seg>レイヤー''{0}''からデータをアップロードしようとしています。&lt;br /&gt;&lt;br /&gt;このレイヤーからデータを送信することは&lt;b&gt;推奨されません&lt;/b&gt;。</seg>
       </tuv>
     </tu>
     <tu>
