@@ -24834,6 +24834,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition to this FAQ, there is a collaboratively edited [[help.openstreetmap.org|question and answer site]] where you can read more questions about OpenStreetMap and ask your own.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T012917Z" creationid="miurahr" creationdate="20200818T012917Z">
+        <seg>このFAQに加えて、協働的に編集されている [[help.openstreetmap.org|Q&amp;A サイト]]があり、 OpenStreetMap についてより多くの質問を読むことができ、あなた自身で質問することもできます。コミュニティにも気軽に[[JA:連絡手段|連絡]]してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In background</seg>
       </tuv>
       <tuv lang="ja">
