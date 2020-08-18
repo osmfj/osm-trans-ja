@@ -2489,6 +2489,16 @@ Moderators will adhere to the following guidelines when enacting the above polic
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>=== On the Ground Rule ===
+If the dispute can not be resolved through discussion, then the simple default rule is whatever name, designation, etc are used by the people on the ground at that location are used.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T000346Z" creationid="miurahr" creationdate="20200818T000346Z">
+        <seg>=== 現地ルール {{anchor|On the Ground Rule}} ===
+紛争が議論で解決できない場合、シンプルなデフォルトのルールは、その位置の地上にいる人々が使っているものはどのような名前、記号、等々であれ、非ローカライズタグで使われる、というものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>=== Process for moderation ===
 The [[Mailing lists|moderators]] for the mailing lists will follow the guidelines below.</seg>
       </tuv>
@@ -23973,6 +23983,15 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If for any reason you do not want to communicate directly with the other editor(s), you can contact one of the following people to mediate the dispute.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T234933Z" creationid="miurahr" creationdate="20200817T234933Z">
+        <seg>もし何らかの理由で相手の編集者と会話したくない場合は、次のうちひとりに連絡して紛争を調停してもらうことができます。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the community is generally unhappy with moderation they can contact the board via the [[osmf:Working Groups#Communication Working Group|Communication Working Group]] to suggest a change in moderation.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200817T233005Z" creationid="miurahr" creationdate="20200817T233005Z">
@@ -27837,6 +27856,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>SDSからのデータのロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Local community can also be reached in existing [[mailing lists]] and in [[List of OSM centric Slack workspaces|Slack]].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200817T234908Z" creationid="miurahr" creationdate="20200817T234908Z">
+        <seg>既存の[[mailing lists]]および[[List of OSM centric Slack workspaces Slack]]でもローカルコミュニティに連絡できます。</seg>
       </tuv>
     </tu>
     <tu>
