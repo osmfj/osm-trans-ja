@@ -50363,6 +50363,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This reduces unnecessary nodes along the way and is especially recommended if GPS tracks were recorded by time (e.g. one point per second) or when the accuracy was low (reduces "zigzag" tracks).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T054711Z" creationid="miurahr" creationdate="20200818T054711Z">
+        <seg>これにより、途中の不要なノードが削減されます。特に、GPSトラックが時間別に記録されている場合(たとえば、1秒あたり1ポイント)や、精度が低い場合(「ジグザグ」トラックが削減される)に推奨されます。二</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This selects incomplete objects too.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T054003Z" creationid="miurahr" creationdate="20200818T054003Z">
