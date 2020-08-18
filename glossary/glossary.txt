@@ -15,3 +15,7 @@ workspace	作業フォルダ
 combined	結合
 bounding box	境界ボックス
 changesets	変更セット
+imagery	画像
+offset	オフセット
+bookmark	ブックマーク
+imagery layer	画像レイヤー
