@@ -8755,6 +8755,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cannot handle ignore list entry {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T221508Z" creationid="miurahr" creationdate="20200818T221508Z">
+        <seg>無視リストエントリ{0}を処理できません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cannot handle multipolygon relations with multiple outer ways.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T052612Z" creationid="miurahr" creationdate="20200818T052612Z">
@@ -12739,6 +12747,22 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>APIへの接続に失敗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Connectivity Relations</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T221608Z" creationid="miurahr" creationdate="20200818T221608Z">
+        <seg>接続関係</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Connectivity relation without connectivity tag</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T221641Z" creationid="miurahr" creationdate="20200818T221641Z">
+        <seg>接続タグなしの接続リレーション</seg>
       </tuv>
     </tu>
     <tu>
@@ -20589,6 +20613,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Error initializing test {0}:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T221517Z" creationid="miurahr" creationdate="20200818T221517Z">
+        <seg>テスト{0}の初期化中にエラーが発生しました:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Error loading geojson file {0}</seg>
       </tuv>
       <tuv lang="ja">
@@ -27624,6 +27656,22 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>エンドユーザーの目に触れる場合もあります (検索システムやポップアップを表示する地図などで)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It should be replaced by a multipolygon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T221542Z" creationid="miurahr" creationdate="20200818T221542Z">
+        <seg>マルチポリゴンに置き換える必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It should be split or simplified</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T221601Z" creationid="miurahr" creationdate="20200818T221601Z">
+        <seg>分割または単純化する必要があります</seg>
       </tuv>
     </tu>
     <tu>
@@ -56033,6 +56081,14 @@ or action canceled</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unsuitable parameters ''{0}'' and ''{1}'' for two point method.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T221449Z" creationid="miurahr" creationdate="20200818T221449Z">
+        <seg>2ポイントメソッドのパラメータ''{0}''と''{1}''が不適切です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unsupported WMS file version; found {0}, expected {1}</seg>
       </tuv>
       <tuv lang="ja">
@@ -57362,6 +57418,14 @@ Create a new one.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Validates connectivity relations</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T221615Z" creationid="miurahr" creationdate="20200818T221615Z">
+        <seg>接続関係を検証します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Validating</seg>
       </tuv>
       <tuv lang="ja">
@@ -58526,6 +58590,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Way contains more than {0} nodes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T221537Z" creationid="miurahr" creationdate="20200818T221537Z">
+        <seg>ウェイには{0}個を超えるノードが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Way contains segment twice</seg>
       </tuv>
       <tuv lang="ja">
@@ -59273,6 +59345,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>工場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Worldwide</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T221454Z" creationid="miurahr" creationdate="20200818T221454Z">
+        <seg>ワールドワイド</seg>
       </tuv>
     </tu>
     <tu>
