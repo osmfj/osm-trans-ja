@@ -20461,6 +20461,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Error during parsing of WMTS Capabilities document: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T115158Z" creationid="miurahr" creationdate="20200818T115158Z">
+        <seg>WMTS機能ドキュメントの解析中にエラーが発生しました:{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Error executing the script:</seg>
       </tuv>
       <tuv lang="ja">
@@ -57912,8 +57920,8 @@ Do you want to continue without validating the file ?</seg>
       <tuv lang="en-US">
         <seg>WMTS Capabilities document did not contain layers in url: {0}</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20200818T115152Z" creationid="miurahr" creationdate="20200818T115152Z">
-        <seg>WMTS機能設定には、URL中にレイヤーが含まれていません:{0}</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T115204Z" creationid="miurahr" creationdate="20200818T115152Z">
+        <seg>WMTS機能ドキュメントには、URL中にレイヤーが含まれていません:{0}</seg>
       </tuv>
     </tu>
     <tu>
