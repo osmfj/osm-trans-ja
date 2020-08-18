@@ -37790,6 +37790,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please edit the relations and remove the cyclic dependency.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114253Z" creationid="miurahr" creationdate="20200818T114253Z">
+        <seg>リレーションを編集し、循環従属を除去してください。&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please enter Description about your trace.</seg>
       </tuv>
       <tuv lang="ja">
@@ -49764,6 +49772,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Suspicious data found.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114317Z" creationid="miurahr" creationdate="20200818T114317Z">
+        <seg>不審なデータが見つかりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Suspicious tag/value combinations</seg>
       </tuv>
       <tuv lang="ja">
@@ -51233,6 +51249,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The following are results of automatic validation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114259Z" creationid="miurahr" creationdate="20200818T114259Z">
+        <seg>自動検証の結果は次のとおりです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The following dependent objects will be purged&lt;br&gt; in addition to the selected objects:</seg>
       </tuv>
       <tuv lang="ja">
@@ -51843,6 +51867,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja">
         <seg>ロール &lt;tt&gt;{1}&lt;/tt&gt; を持つウェイ &lt;span class="object-name"&gt;{0}&lt;/span&gt; は、ウェイ &lt;span class="object-name"&gt;{3}&lt;/span&gt; に接続しているノード &lt;span class="object-name"&gt;{2}&lt;/span&gt; で分割するべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The way cannot be split at the selected nodes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114327Z" creationid="miurahr" creationdate="20200818T114327Z">
+        <seg>選択したノードでウェイを分割できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53967,6 +53999,14 @@ or action canceled</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Try fixing these, but be careful (don''t destroy valid data).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114303Z" creationid="miurahr" creationdate="20200818T114303Z">
+        <seg>これらを修正してみてください。ただし、有効なデータを破棄しないように注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Try lenient method</seg>
       </tuv>
       <tuv lang="ja">
@@ -56052,6 +56092,14 @@ Create a new one.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>サーバーに現在の画像のオフセット(または位置合わせオブジェクト座標)をアップロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Upload anyway?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114320Z" creationid="miurahr" creationdate="20200818T114320Z">
+        <seg>アップロードしますか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -58455,6 +58503,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>オーディオをインポート時、次からマーカーを作成...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When in doubt ignore them.&lt;br&gt;When you cancel this dialog, you can find the entries in the validator side panel to inspect them.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114312Z" creationid="miurahr" creationdate="20200818T114312Z">
+        <seg>不明な場合は無視します。&lt;br&gt;このダイアログをキャンセルすると、バリデータのサイドパネルでエントリを検索して確認できます。</seg>
       </tuv>
     </tu>
     <tu>
