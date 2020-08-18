@@ -14875,6 +14875,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Delete the active layer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T051237Z" creationid="miurahr" creationdate="20200818T051237Z">
+        <seg>アクティブなレイヤーを削除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Delete the currently edited relation</seg>
       </tuv>
       <tuv lang="ja">
@@ -16361,6 +16369,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>医院</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Does not delete the associated file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T051312Z" creationid="miurahr" creationdate="20200818T051312Z">
+        <seg>関連付けられたファイルを削除しませんでした。</seg>
       </tuv>
     </tu>
     <tu>
