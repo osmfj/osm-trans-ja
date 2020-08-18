@@ -3130,6 +3130,14 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Aborting.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T050844Z" creationid="miurahr" creationdate="20200818T050844Z">
+        <seg> 異常終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>About</seg>
       </tuv>
       <tuv lang="ja">
@@ -11235,6 +11243,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>このレイヤーのトラックを結合する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Combine ways refused&lt;br&gt;(A shared node is outside of the download area)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T050746Z" creationid="miurahr" creationdate="20200818T050746Z">
+        <seg>ウェイの結合が拒否されました。&lt;br&gt;(共有ノードがダウンロード領域の外側にあります)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32288,6 +32304,14 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Non-Way member removed from multipolygon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T050901Z" creationid="miurahr" creationdate="20200818T050901Z">
+        <seg>ウェイ以外のメンバーがマルチポリゴンから削除されました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Non-branching way sequences</seg>
       </tuv>
       <tuv lang="ja">
@@ -32476,6 +32500,14 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>''{0}''を検索することにより、何も選択肢に加えられませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nothing changed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T050905Z" creationid="miurahr" creationdate="20200818T050905Z">
+        <seg>何も変更されませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50267,6 +50299,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Those nodes are not in a circle.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T050832Z" creationid="miurahr" creationdate="20200818T050832Z">
+        <seg>ノードが円形に配列していません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Threshold:</seg>
       </tuv>
       <tuv lang="ja">
@@ -56331,6 +56371,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ダウンロード範囲外のノードを削除しようとしています。&lt;br&gt;(あなたが見ていない)ほかのオブジェクトが使っているかもしれないので、この操作は問題を引き起こす可能性があります。&lt;br&gt;本当に削除しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You are about to delete nodes which can have other referrers not yet downloaded.&lt;br&gt;This can cause problems because other objects (that you do not see) might use them.&lt;br&gt;Do you really want to delete?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T051051Z" creationid="miurahr" creationdate="20200818T051051Z">
+        <seg>ダウンロード範囲外から参照されているノードを削除しようとしています。&lt;br&gt;(あなたが見ていない)ほかのオブジェクトが使っているかもしれないので、この操作は問題を引き起こす可能性があります。&lt;br&gt;本当に削除しますか？</seg>
       </tuv>
     </tu>
     <tu>
