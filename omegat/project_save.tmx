@@ -1147,6 +1147,14 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;h3&gt;When one or more ways are selected, the shape is adjusted such, that all angles are 90 or 180 degrees.&lt;/h3&gt;You can add two nodes to the selection.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T053744Z" creationid="miurahr" creationdate="20200818T053744Z">
+        <seg>&lt;h3&gt;1つまたは複数のウェイを選択すると、すべての角度が90度または180度になるように形状が調整されます。&lt;/h3&gt;2つのノードを選択に追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;html&gt;''{0}'' is not a valid OSM API URL.&lt;br&gt;Please check the spelling and validate again.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ja">
