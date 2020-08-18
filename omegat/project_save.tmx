@@ -21743,6 +21743,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Failed to load map renderer class ''{0}''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T220804Z" creationid="miurahr" creationdate="20200818T220804Z">
+        <seg>マップレンダラクラス「{0}」のロードに失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Failed to load resource ''{0}'', error is {1}.</seg>
       </tuv>
       <tuv lang="ja">
@@ -41326,6 +41334,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Reads input data from one or more files listed as positional arguments.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T220840Z" creationid="miurahr" creationdate="20200818T220840Z">
+        <seg>位置引数としてリストされた1つまたは複数のファイルから入力データを読み取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Real name</seg>
       </tuv>
       <tuv lang="ja">
@@ -51432,6 +51448,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The class wasn''t found.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T220810Z" creationid="miurahr" creationdate="20200818T220810Z">
+        <seg>クラスが見つかりませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The clipboard data is not an image</seg>
       </tuv>
       <tuv lang="ja">
@@ -58945,6 +58969,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>タグの移動時、重複していないことを確認してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When no files are given, or the filename is "-", data is read from standard input.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T221006Z" creationid="miurahr" creationdate="20200818T221006Z">
+        <seg>ファイルが指定されていない場合、またはファイル名が「-」の場合は、標準入力からデータが読み込まれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69547,6 +69579,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>標準</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>standard parallels are opposite</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T221436Z" creationid="miurahr" creationdate="20200818T221436Z">
+        <seg>標準緯線は逆方向です</seg>
       </tuv>
     </tu>
     <tu>
