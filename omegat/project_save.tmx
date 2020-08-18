@@ -8651,6 +8651,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cannot assign a changesetId &gt; 0 to a new primitive.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T220318Z" creationid="miurahr" creationdate="20200818T220318Z">
+        <seg>changesetId&gt;0を新しいプリミティブに割り当てることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cannot build resolution command</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T115228Z" creationid="miurahr" creationdate="20190107T115228Z">
@@ -24041,6 +24049,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Got {0}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T220250Z" creationid="miurahr" creationdate="20200818T220250Z">
+        <seg>{0}を取得しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Gotcha!" from looking if you also copied these fake pieces of map.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T014049Z" creationid="miurahr" creationdate="20200818T014049Z">
@@ -25333,6 +25349,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>準備完了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ID &gt; 0 expected.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T220245Z" creationid="miurahr" creationdate="20200818T220245Z">
+        <seg>ID&gt;0が必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27692,6 +27716,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>JOSM expected to find primitive [{0} {1}] in dataset but it is not there.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T220411Z" creationid="miurahr" creationdate="20200818T220411Z">
+        <seg>JOSMはデータセットにプリミティブ[{0}{1}]を期待していましたが、存在していません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>JOSM failed to download plugin list:</seg>
       </tuv>
       <tuv lang="ja">
@@ -28882,6 +28914,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>GPXトラックを編集するためのレイヤー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Layer is available in formats: {1}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T220213Z" creationid="miurahr" creationdate="20200818T220213Z">
+        <seg>レイヤーは次の形式で使用できます:{1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -35362,6 +35402,14 @@ nodes and the new nodes will be selected.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only square tiles are supported.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T220222Z" creationid="miurahr" creationdate="20200818T220222Z">
+        <seg>正方形タイルのみがサポートされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only this color</seg>
       </tuv>
       <tuv lang="ja">
@@ -38396,6 +38444,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T111837Z" creationid="miurahr" creationdate="20190107T111837Z">
         <seg>以下の規約を慎重にお読みのうえ、最下段の「承諾」または「否認」ボタンをクリックして続行してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please report this at {2}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T220415Z" creationid="miurahr" creationdate="20200818T220415Z">
+        <seg>{2}に報告してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52537,6 +52593,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is not a critical error, it should be safe to continue in your work.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T220424Z" creationid="miurahr" creationdate="20200818T220424Z">
+        <seg>これは重大なエラーではありません。作業を続行しても安全です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is the entire agreement between You and OSMF which supersedes any prior agreement, whether written, oral or other, relating to the subject matter of this agreement.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T112447Z" creationid="miurahr" creationdate="20190107T112447Z">
@@ -57334,6 +57398,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Value of changesetId is {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T220325Z" creationid="miurahr" creationdate="20200818T220325Z">
+        <seg>changesetIdの値は{0}です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Value:</seg>
       </tuv>
       <tuv lang="ja">
@@ -57474,6 +57546,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>販売商品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Version &gt; 0 expected.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T220301Z" creationid="miurahr" creationdate="20200818T220301Z">
+        <seg>バージョン&gt;0が期待されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72702,6 +72782,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>{0}選択中のものをリレーションへ追加しました{1}。すべての単一のリレーションが破損していないかを確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0}x{1} returned by server for TileMatrix identifier {2}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T220238Z" creationid="miurahr" creationdate="20200818T220238Z">
+        <seg>TileMatrix識別子{2}に対してサーバから{0}x{1}が返されました</seg>
       </tuv>
     </tu>
     <tu>
