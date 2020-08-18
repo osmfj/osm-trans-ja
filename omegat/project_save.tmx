@@ -2375,6 +2375,14 @@ OpenStreetMapのWebサイトでは、異なる言語を使用した異なる焦�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>== Is it OpenStreetMap or Open Street Maps?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T013131Z" creationid="miurahr" creationdate="20200818T012953Z">
+        <seg>== OpenStreetMap と Open Street Maps のどちらでしょうか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>== Language overview ==</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200813T122054Z" creationid="miurahr" creationdate="20200813T122054Z">
@@ -2460,6 +2468,14 @@ If you want that a page translated to a national language have the title transla
       <tuv lang="ja" changeid="miurahr" changedate="20170522T121556Z" creationid="miurahr" creationdate="20170522T121556Z">
         <seg>== 英語以外の言語による題名を持つ翻訳ページ == 
 各言語のページに翻訳された題名を付ける場合は、言語コードとコロンで始まる英語の題名のページを修正する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>== Why OpenStreetMap?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T013112Z" creationid="miurahr" creationdate="20200818T013112Z">
+        <seg>==なぜ OpenStreetMap なのか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -20975,6 +20991,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Feel free to [[contact]] the community as well.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T012934Z" creationid="miurahr" creationdate="20200818T012934Z">
+        <seg>コミュニティにも気軽に[[JA:連絡手段|連絡]]してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fell</seg>
       </tuv>
       <tuv lang="ja">
@@ -24836,8 +24860,8 @@ or just retry</seg>
       <tuv lang="en-US">
         <seg>In addition to this FAQ, there is a collaboratively edited [[help.openstreetmap.org|question and answer site]] where you can read more questions about OpenStreetMap and ask your own.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20200818T012917Z" creationid="miurahr" creationdate="20200818T012917Z">
-        <seg>このFAQに加えて、協働的に編集されている [[help.openstreetmap.org|Q&amp;A サイト]]があり、 OpenStreetMap についてより多くの質問を読むことができ、あなた自身で質問することもできます。コミュニティにも気軽に[[JA:連絡手段|連絡]]してください。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T012930Z" creationid="miurahr" creationdate="20200818T012917Z">
+        <seg>このFAQに加えて、協働的に編集されている [[help.openstreetmap.org|Q&amp;A サイト]]があり、 OpenStreetMap についてより多くの質問を読むことができ、あなた自身で質問することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33120,6 +33144,14 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>One word, three capital letters, one map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T013039Z" creationid="miurahr" creationdate="20200818T013039Z">
+        <seg>一語で、3つの大文字があり、1つの地図（map）です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Oneway</seg>
       </tuv>
       <tuv lang="ja">
@@ -33884,6 +33916,22 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200817T234459Z" creationid="miurahr" creationdate="20200817T234459Z">
         <seg>OpenStreetMap は、データベースが[[JA:Key:name#Localization|多国語化]]とビューの切り替えに何個でも対応できるという点で、過去の地図製作法から大きく飛躍しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenStreetMap is also a [[Trademark]].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T013054Z" creationid="miurahr" creationdate="20200818T013054Z">
+        <seg>OpenStreetMap は[[Trademark|商標]]でもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenStreetMap is the correct spelling.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T013016Z" creationid="miurahr" creationdate="20200818T013016Z">
+        <seg>OpenStreetMap が正しいつづりです。</seg>
       </tuv>
     </tu>
     <tu>
