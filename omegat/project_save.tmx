@@ -388,6 +388,14 @@ no_more_mappingを外してください)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(about {0} node to remove)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T054929Z" creationid="miurahr" creationdate="20200818T054929Z">
+        <seg>(削除する{0}ノードについて)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(at line {0}, column {1})</seg>
       </tuv>
       <tuv lang="ja">
@@ -16259,6 +16267,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Do not ask again</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T054733Z" creationid="miurahr" creationdate="20200818T054733Z">
+        <seg>次回から確認しない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Do not ask again and remember my decision (go to Preferences-&gt;Modules to change it later)</seg>
       </tuv>
       <tuv lang="ja">
@@ -29270,6 +29286,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Maximum error (meters):</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T054728Z" creationid="miurahr" creationdate="20200818T054728Z">
+        <seg>最大誤差(m):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Maximum gray value to count as water (0-255)</seg>
       </tuv>
       <tuv lang="ja">
@@ -38200,6 +38224,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Proceed without simplifying</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T054742Z" creationid="miurahr" creationdate="20200818T054742Z">
+        <seg>単純化せずに実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Processing file ''{0}''</seg>
       </tuv>
       <tuv lang="ja">
@@ -45943,6 +45975,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Simplify</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T054739Z" creationid="miurahr" creationdate="20200818T054739Z">
+        <seg>単純化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Simplify Area</seg>
       </tuv>
       <tuv lang="ja">
@@ -45961,8 +46001,8 @@ to control the autoloading of calibration files.</seg>
       <tuv lang="en-US">
         <seg>Simplify Way (remove {0} node)</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>ウェイの簡素化({0}個のノードを削除)</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T054922Z">
+        <seg>ウェイの単純化({0}個のノードを削除)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45975,10 +46015,18 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Simplify way</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T054737Z" creationid="miurahr" creationdate="20200818T054737Z">
+        <seg>ウェイの単純化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Simplify ways?</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>ウェイを簡素化しますか？</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T054858Z">
+        <seg>ウェイを単純化しますか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -45993,8 +46041,8 @@ to control the autoloading of calibration files.</seg>
       <tuv lang="en-US">
         <seg>Simplify {0} way</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>{0}本のウェイを簡素化</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T054915Z">
+        <seg>{0}本のウェイを単純化</seg>
       </tuv>
     </tu>
     <tu>
@@ -56795,6 +56843,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>&lt;b&gt;{0}枚&lt;/b&gt;の異なるリレーションエディターを同時に開こうとしています。&lt;br/&gt;続けますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You are about to simplify {0} way with a total length of {1}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T054832Z" creationid="miurahr" creationdate="20200818T054832Z">
+        <seg>{1}の全長で{0}のウェイを単純化しようとしています。</seg>
       </tuv>
     </tu>
     <tu>
