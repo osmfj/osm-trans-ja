@@ -2519,6 +2519,16 @@ Overpass QL のコードは''ステートメント'' からなっており、そ
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>==== Naming ====
+According to the "On the Ground Rule" whatever people are using on the ground at that location will win the non-localized tags.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T000948Z" creationid="miurahr" creationdate="20200818T000948Z">
+        <seg>==== 名前付け ====
+「On the Ground Rule」によると、その場所の地上で、人々が使用している名称がなんであれ、ローカライズされていないタグになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>===Limitation of Liability===</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T112314Z" creationid="miurahr" creationdate="20190107T112314Z">
