@@ -2307,6 +2307,14 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;html&gt;{0} relations build a cycle because they refer to each other.&lt;br&gt;JOSM cannot upload them.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114230Z" creationid="miurahr" creationdate="20200818T114203Z">
+        <seg>&lt;html&gt;{0}リレーションは互いを参照するため、循環参照になります。&lt;br&gt;JOSMはリレーションをアップロードできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;i&gt;degrees&lt;/i&gt;&lt;tt&gt;&amp;deg;&lt;/tt&gt;</seg>
       </tuv>
       <tuv lang="ja">
@@ -16915,6 +16923,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Do you really want to duplicate?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114056Z" creationid="miurahr" creationdate="20200818T114056Z">
+        <seg>本当に複製しますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Do you want to allow this?</seg>
       </tuv>
       <tuv lang="ja">
@@ -18857,6 +18873,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>リレーションの複製</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Duplicate relation?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114059Z" creationid="miurahr" creationdate="20200818T114059Z">
+        <seg>リレーションを複製しますか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -28818,6 +28842,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>メートル単位での長さ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Length of value for tag ''{0}'' on object {1} exceeds the max.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114109Z" creationid="miurahr" creationdate="20200818T114109Z">
+        <seg>オブジェクト{1}上のタグ''{0}''の値の長さが最大値を超えています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57004,6 +57036,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Values length is {3}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114116Z" creationid="miurahr" creationdate="20200818T114116Z">
+        <seg>値の長さは{3}です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Valves</seg>
       </tuv>
       <tuv lang="ja">
@@ -59019,6 +59059,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You are about to duplicate {0} relation: {1}&lt;br/&gt;This step is rarely necessary.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114052Z" creationid="miurahr" creationdate="20200818T114052Z">
+        <seg>{0}リレーションを複製しようとしています:{1}&lt;br/&gt;この手順はほとんど必要ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You are about to launch {0} browser window.&lt;br&gt;This may both clutter your screen with browser windows&lt;br&gt;and take some time to finish.</seg>
       </tuv>
       <tuv lang="ja">
@@ -59543,8 +59591,8 @@ Do you want to continue without validating the file ?</seg>
       <tuv lang="en-US">
         <seg>Zoom by dragging or Ctrl+.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20200818T113901Z" creationid="miurahr" creationdate="20200818T113901Z">
-        <seg>ドラッグまたはCtrl+.でズーム</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114031Z" creationid="miurahr" creationdate="20200818T113901Z">
+        <seg>ドラッグまたは[Ctr]l+[.]でズーム</seg>
       </tuv>
     </tu>
     <tu>
@@ -60169,6 +60217,22 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>市民農園</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>allowed length {2}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114129Z" creationid="miurahr" creationdate="20200818T114112Z">
+        <seg>許可される長さは{2}です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>allowed number of nodes {2}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114151Z" creationid="miurahr" creationdate="20200818T114151Z">
+        <seg>ノードの許容数は{2}</seg>
       </tuv>
     </tu>
     <tu>
@@ -71852,6 +71916,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>{0}のノードが道路に接続している</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} nodes in way {1} exceed the max.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114136Z" creationid="miurahr" creationdate="20200818T114136Z">
+        <seg>{1}の{0}個のノードが最大数を超えています。</seg>
       </tuv>
     </tu>
     <tu>
