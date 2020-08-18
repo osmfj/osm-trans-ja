@@ -10647,6 +10647,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to add a new node.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T113638Z" creationid="miurahr" creationdate="20200818T113638Z">
+        <seg>クリックして新しいノードを追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to add destination.</seg>
       </tuv>
       <tuv lang="ja">
@@ -10767,6 +10775,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to delete the highlighted node.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T113659Z" creationid="miurahr" creationdate="20200818T113659Z">
+        <seg>クリックすると、ハイライト表示されたノードが削除されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to delete the module ''{0}''</seg>
       </tuv>
       <tuv lang="ja">
@@ -10883,6 +10899,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>クリックすることでパネルの内容を最小化/最大化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to move the highlighted node.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T113711Z" creationid="miurahr" creationdate="20200818T113711Z">
+        <seg>クリックして、ハイライト表示されたノードを移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14455,6 +14479,14 @@ Do you want to keep it?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>Ctrl+クリック: 基準のウェイの区間を選択、クリック: 再配置されるウェイの区間を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ctrl-drag to move a segment along its normal, Alt-drag to create a new rectangle, double click to add a new node.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T113634Z" creationid="miurahr" creationdate="20200818T113634Z">
+        <seg>Ctrlキーを押しながらドラッグしてセグメントを法線に沿って移動し、Altキーを押しながらドラッグして新しい長方形を作成し、ダブルクリックして新しいノードを追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18329,6 +18361,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>再生ヘッドをドラッグして、音声の再生を開始したい辺りの位置で離してください。Shiftを押しながら離すと、その位置に音声を同期させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drag selected ways or a single way to create a parallel copy (Alt toggles tag preservation)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T113754Z" creationid="miurahr" creationdate="20200818T113754Z">
+        <seg>選択したウェイまたは単一のウェイをドラッグして、並行なコピーを作成します([Alt]でタグの保持を切り替えます)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24797,6 +24837,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T214911Z" creationid="miurahr" creationdate="20190107T214911Z">
         <seg>履歴はまだ初期化されていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hold Ctrl to add new nodes, or Alt to delete.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T113715Z" creationid="miurahr" creationdate="20200818T113715Z">
+        <seg>[Ctrl]を押しながら新しいノードを追加するか、[Alt]を押しながら削除します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32068,6 +32116,14 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>映画館</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moving a large number of elements is often an error.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T113836Z" creationid="miurahr" creationdate="20200818T113805Z">
+        <seg>多くの場合、多数の要素を移動するのは間違った操作です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40948,6 +41004,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Really move them?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T113845Z" creationid="miurahr" creationdate="20200818T113845Z">
+        <seg>本当に動かすのか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Reason</seg>
       </tuv>
       <tuv lang="ja">
@@ -41640,6 +41704,22 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>リレーション: {0}/{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Release Alt to move existing nodes or hold Ctrl to add new nodes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T113705Z" creationid="miurahr" creationdate="20200818T113705Z">
+        <seg>Altキーを放して既存のノードを移動するか、Ctrlキーを押しながら新しいノードを追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Release Ctrl to move existing nodes or hold Alt to delete.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T113649Z" creationid="miurahr" creationdate="20200818T113649Z">
+        <seg>[Ctrl]を放して既存のノードを移動するか、[Alt]を押しながら削除します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45961,6 +46041,14 @@ This automatically generates a language menu consisting of links to the original
       </tuv>
       <tuv lang="ja">
         <seg>地図を動かすウェイポイントを選択してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select ways as in Select mode.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T113732Z" creationid="miurahr" creationdate="20200818T113732Z">
+        <seg>選択モードと同様に、ウェイを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59173,6 +59261,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You moved more than {0} element.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T113801Z" creationid="miurahr" creationdate="20200818T113801Z">
+        <seg>{0}個以上の要素を移動しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You must enter a comment to create a new note</seg>
       </tuv>
       <tuv lang="ja">
@@ -59441,6 +59537,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>最適な等倍表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zoom by dragging or Ctrl+.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T113901Z" creationid="miurahr" creationdate="20200818T113901Z">
+        <seg>ドラッグまたはCtrl+.でズーム</seg>
       </tuv>
     </tu>
     <tu>
@@ -66401,6 +66505,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>あるいは</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>or Ctrl+,; move with Ctrl+up, left, down, right; move zoom with right button</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114014Z" creationid="miurahr" creationdate="20200818T114014Z">
+        <seg>または[Ctrl]+[,] ; 右ボタンをおしながら、[Ctrl]+[up]、[left]、[down]、[right]で移動</seg>
       </tuv>
     </tu>
     <tu>
