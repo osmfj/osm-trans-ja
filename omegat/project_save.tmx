@@ -1843,6 +1843,14 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;html&gt;Preferences file had errors.&lt;br&gt; Making backup of old one to &lt;br&gt;{0}&lt;br&gt; and trying to read last good preference file &lt;br&gt;{1}&lt;br&gt;.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114802Z" creationid="miurahr" creationdate="20200818T114802Z">
+        <seg>&lt;html&gt;設定ファイルにエラーがありました。&lt;br&gt;古いファイルのバックアップを&lt;br&gt;{0}&lt;br&gt;に作成し、最後の良好な設定ファイル&lt;br&gt;{1}&lt;br&gt;を読み込もうとしています。&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;html&gt;Relation has been deleted outside editor.&lt;br&gt;&lt;br&gt;Do you want to close this window?&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ja">
@@ -8859,6 +8867,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cannot remove conflict for object ''{1}''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114619Z" creationid="miurahr" creationdate="20200818T114619Z">
+        <seg>オブジェクト''{1}''の競合を削除できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cannot replace geometry.</seg>
       </tuv>
       <tuv lang="ja">
@@ -14187,6 +14203,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Creating a default preference file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114723Z" creationid="miurahr" creationdate="20200818T114717Z">
+        <seg>デフォルトの設定ファイルの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Creating changeset...</seg>
       </tuv>
       <tuv lang="ja">
@@ -17661,6 +17685,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Download missing relation members?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114539Z" creationid="miurahr" creationdate="20200818T114539Z">
+        <seg>見つからないリレーションメンバをダウンロードしますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Download module list...</seg>
       </tuv>
       <tuv lang="ja">
@@ -18193,6 +18225,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>イメージタイルのダウンロード...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Downloading missing relation members</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114607Z" creationid="miurahr" creationdate="20200818T114607Z">
+        <seg>欠落したリレーションメンバーのダウンロード</seg>
       </tuv>
     </tu>
     <tu>
@@ -21487,6 +21527,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Failed to create missing preference directory: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114706Z" creationid="miurahr" creationdate="20200818T114706Z">
+        <seg>見つからない基本設定ディレクトリの作成に失敗しました:{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Failed to create missing preferences directory: {0}</seg>
       </tuv>
       <tuv lang="ja">
@@ -21579,6 +21627,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>{0}としてメッセージの取得に失敗しました:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Failed to initialize preferences.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114649Z" creationid="miurahr" creationdate="20200818T114624Z">
+        <seg>設定の初期化に失敗しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21723,6 +21779,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ファイル{0}の名前を{1}に変更できませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Failed to reset preference file to default: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114815Z" creationid="miurahr" creationdate="20200818T114815Z">
+        <seg>設定ファイルをデフォルトにリセットできませんでした:{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -22901,6 +22965,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>選択したオブジェクトのみ表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For {0} the correct order of the new way parts could not be determined.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114528Z" creationid="miurahr" creationdate="20200818T114528Z">
+        <seg>{0}について、新しいウェイパーツの正しい順序を決定できませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28654,6 +28726,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Layer ''{0}'' does not exist any more.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114614Z" creationid="miurahr" creationdate="20200818T114614Z">
+        <seg>レイヤ''{0}''は存在しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Layer ''{0}'' has modifications which are discouraged to be uploaded.</seg>
       </tuv>
       <tuv lang="ja">
@@ -31306,6 +31386,22 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>送電塔/電柱に電線が接続されていません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Missing preference file ''{0}''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114713Z" creationid="miurahr" creationdate="20200818T114713Z">
+        <seg>基本設定ファイル「{0}」がありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Missing relation members will be downloaded.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114551Z" creationid="miurahr" creationdate="20200818T114542Z">
+        <seg>欠落しているリレーションメンバがダウンロードされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39290,6 +39386,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Preference directory ''{0}'' is not a directory.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114643Z" creationid="miurahr" creationdate="20200818T114643Z">
+        <seg>設定ディレクトリ「{0}」はディレクトリではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Preference setting {0} has been removed since it is no longer used.</seg>
       </tuv>
       <tuv lang="ja">
@@ -47155,6 +47259,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Should this be done automatically from now on?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114557Z" creationid="miurahr" creationdate="20200818T114557Z">
+        <seg>これは今後自動的に行われるべきでしょうか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show</seg>
       </tuv>
       <tuv lang="ja">
@@ -53081,6 +53193,14 @@ projections and retry</seg>
         <seg>現在の投影法を cadastre 投影法のひとつに
 変更して cadastre WMS plugin を有効化し、
 やり直してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To fix this, some missing relation members should be downloaded first.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114535Z" creationid="miurahr" creationdate="20200818T114535Z">
+        <seg>これを修正するには、欠落しているリレーションメンバーを先にダウンロードする必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66569,6 +66689,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ポリゴン上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>one relation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114506Z" creationid="miurahr" creationdate="20200818T114506Z">
+        <seg>ひとつのリレーション</seg>
       </tuv>
     </tu>
     <tu>
