@@ -24194,6 +24194,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you make a map using their data, they can say "ah-ha!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T013737Z" creationid="miurahr" creationdate="20200818T013737Z">
+        <seg>もし、あなたが無断で彼らのデータを使ったならば、そういったものが地図にあるかどうかで複製をしたかどうか知る事ができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ignore</seg>
       </tuv>
       <tuv lang="ja">
@@ -24948,8 +24956,8 @@ or just retry</seg>
       <tuv lang="en-US">
         <seg>In the USA, crude data (such as [[TIGER]]) is in the public domain, however refined data and finished maps are generally commercially copyrighted.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20200818T013311Z" creationid="miurahr" creationdate="20200818T013311Z">
-        <seg>アメリカが唯一の例外で、政府が職務で製作した生データ（TIGER など）はパブリックドメインで地理データを提供しています。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T013655Z" creationid="miurahr" creationdate="20200818T013311Z">
+        <seg>アメリカが唯一の例外で、政府が職務で製作した生データ（TIGER など）はパブリックドメインで地理データを提供しています。しかし、そのような地理データを検証したり修正したりして作成した地図には、著作権が付加されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49463,6 +49471,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja">
         <seg>インポートした内容には {0} の競合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These easter eggs take the form of fake or missing streets, or features like churches and schools that don't in fact exist.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T013714Z" creationid="miurahr" creationdate="20200818T013714Z">
+        <seg>これらのイースターエッグは実在しない道路、教会、学校などが含まれていたり、いなかったりすることで隠されています。</seg>
       </tuv>
     </tu>
     <tu>
