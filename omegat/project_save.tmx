@@ -25578,6 +25578,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Installation Details</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T022659Z" creationid="miurahr" creationdate="20200818T022659Z">
+        <seg>インストールの詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Installed</seg>
       </tuv>
       <tuv lang="ja">
@@ -33824,6 +33832,14 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open directory</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T022717Z" creationid="miurahr" creationdate="20200818T022717Z">
+        <seg>ディレクトリを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open file</seg>
       </tuv>
       <tuv lang="ja">
@@ -37442,6 +37458,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Preferences are stored in {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T022613Z" creationid="miurahr" creationdate="20200818T022613Z">
+        <seg>設定は {0}に保存されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47520,6 +47544,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Symbolic names for directories and the actual paths:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T022638Z" creationid="miurahr" creationdate="20200818T022638Z">
+        <seg>ディレクトリのシンボリック名と実際のパス:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Symbols &lt;tt&gt;&amp;deg;&lt;/tt&gt;, &lt;tt&gt;&amp;#39;&lt;/tt&gt;, &lt;tt&gt;&amp;prime;&lt;/tt&gt;, &lt;tt&gt;&amp;quot;&lt;/tt&gt;, &lt;tt&gt;&amp;Prime;&lt;/tt&gt; are optional.</seg>
       </tuv>
       <tuv lang="ja">
@@ -50343,6 +50375,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja">
         <seg>制限時間(分)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Time filter for "{0}" such as "{1}"</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T023314Z" creationid="miurahr" creationdate="20200818T023314Z">
+        <seg>「{1}」などの「{0}」の時間フィルタ</seg>
       </tuv>
     </tu>
     <tu>
