@@ -22,6 +22,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>"from" way is a closed way</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>"from"のウェイが閉じたウェイです</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"to" way is a closed way</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>"to"のウェイが閉じたウェイです</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg># Check if there are any pages where is written ''(redirect page)'' in black color.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170523T122957Z" creationid="miurahr" creationdate="20170523T122957Z">
@@ -359,6 +375,14 @@ no_more_mappingを外してください)</seg>
       </tuv>
       <tuv lang="ja">
         <seg>(URLは：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(Use number as shown on plate.)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>(プレートに示された番号を使用してください。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -902,6 +926,14 @@ no_more_mappingを外してください)</seg>
       </tuv>
       <tuv lang="ja">
         <seg>3または7で測地系変換パラメーターを指定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>4WD only</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>4WD車のみ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1511,6 +1543,14 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
       </tuv>
       <tuv lang="ja">
         <seg>&lt;html&gt;存在しないキャッシュディレクトリ: {0} の作成に失敗&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;html&gt;Failed to create missing preferences directory: {0}&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&lt;html&gt;設定ディレクトリ {0} の作成に失敗しました&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2833,6 +2873,14 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A fire hydrant simple outlet located underground.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>地下に設置された消火栓の接続口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A flat area of sand, gravel or pebble next to water.</seg>
       </tuv>
       <tuv lang="ja">
@@ -2901,6 +2949,14 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
       </tuv>
       <tuv lang="ja">
         <seg>永続的な氷の塊で、自身の重みで動き続けるものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A pillar type hydrant.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>地上式消火栓。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2986,6 +3042,14 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A simple capped pipe, without the usual hydrant shape.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>一般的な消火栓の形状とは異なる、蓋のついたシンプルなパイプ型のもの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A single notable free-standing rock, which may differ from the composition of the terrain it lies in.</seg>
       </tuv>
       <tuv lang="ja">
@@ -3046,6 +3110,14 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
       </tuv>
       <tuv lang="ja">
         <seg>火山です。死火山、休火山、活火山を含みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A wall-mounted fire hydrant.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>壁に設置された消火栓。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3578,6 +3650,14 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add a button with this search expression to the toolbar.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>この検索式を含むボタンをツールバーに追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add a new Note</seg>
       </tuv>
       <tuv lang="ja">
@@ -4038,6 +4118,14 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
       </tuv>
       <tuv lang="ja">
         <seg>スニペットを追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add tag</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>タグを追加</seg>
       </tuv>
     </tu>
     <tu>
@@ -4610,6 +4698,14 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Advanced settings...</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>高度な設定...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Advanced...</seg>
       </tuv>
       <tuv lang="ja">
@@ -4706,6 +4802,14 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Airport tagging</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>空港関係のタグ付け</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Albers Equal Area</seg>
       </tuv>
       <tuv lang="ja">
@@ -4790,6 +4894,22 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
       </tuv>
       <tuv lang="ja">
         <seg>Align Ways のモード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Align all buildings</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>すべての建物を整列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Align building</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>建物を整列</seg>
       </tuv>
     </tu>
     <tu>
@@ -5242,6 +5362,14 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ambulance Station</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>救急車ステーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>American Football</seg>
       </tuv>
       <tuv lang="ja">
@@ -5350,6 +5478,14 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
       </tuv>
       <tuv lang="ja">
         <seg>プラグイン {0} でエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An error occurred while checking if your JOSM instance is up to date.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>JOSMインスタンスが最新のものかどうかを確認中にエラーが発生しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5495,6 +5631,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>角度合わせが有効です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Animal watering place</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>動物の水飲み場</seg>
       </tuv>
     </tu>
     <tu>
@@ -6259,6 +6403,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Authentication:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>認証:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Author</seg>
       </tuv>
       <tuv lang="ja">
@@ -6499,6 +6651,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Automatically obtain source from current layers</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>現在のレイヤーから自動でソースを取得する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Automatically selects the first WMS layer if multiple layers exist when grabbing.</seg>
       </tuv>
       <tuv lang="ja">
@@ -6623,6 +6783,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>戻る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Backcountry</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>バックカントリー</seg>
       </tuv>
     </tu>
     <tu>
@@ -6883,6 +7051,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Beach Resort</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ビーチリゾート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Beach Volleyball</seg>
       </tuv>
       <tuv lang="ja">
@@ -6967,6 +7143,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>最適倍率: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Beverage cartons</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>飲料の紙容器</seg>
       </tuv>
     </tu>
     <tu>
@@ -7059,6 +7243,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bidirectional road</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>双方向道路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Big buildings mode</seg>
       </tuv>
       <tuv lang="ja">
@@ -7127,6 +7319,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>バイオ燃料発電</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Biogas</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>バイオガソリン</seg>
       </tuv>
     </tu>
     <tu>
@@ -7347,6 +7547,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Books</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Border Control</seg>
       </tuv>
       <tuv lang="ja">
@@ -7359,6 +7567,22 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>両方のノード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Both way</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>両方向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Both way lane</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>双方向車線</seg>
       </tuv>
     </tu>
     <tu>
@@ -7955,6 +8179,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cache</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>キャッシュ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cache Format Error</seg>
       </tuv>
       <tuv lang="ja">
@@ -8092,6 +8324,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     <tu>
       <tuv lang="en-US">
         <seg>Camping</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>キャンプ場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Campsite</seg>
       </tuv>
       <tuv lang="ja">
         <seg>キャンプ場</seg>
@@ -8779,6 +9019,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Caravans allowed</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>キャンピングカー可</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cardboard</seg>
       </tuv>
       <tuv lang="ja">
@@ -8799,6 +9047,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>工務店</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Carpet</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>カーペット</seg>
       </tuv>
     </tu>
     <tu>
@@ -8891,6 +9147,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cemetery sector</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>墓地の区画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Center Once</seg>
       </tuv>
       <tuv lang="ja">
@@ -8967,6 +9231,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>証明書:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Certificates</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>証明書</seg>
       </tuv>
     </tu>
     <tu>
@@ -9087,6 +9359,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>ノード {0} を変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Change nodes of {0}</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{0}のノードを変更</seg>
       </tuv>
     </tu>
     <tu>
@@ -9395,6 +9675,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Changeset {0}: Unexpected order of versions for {1}: v{2} is not higher than v{3}</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>変更セット {0}: {1} のバージョンの順番が予想外です: v{2} は v{3} より高いバージョンです</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Changesets</seg>
       </tuv>
       <tuv lang="ja">
@@ -9407,6 +9695,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>キーボードショートカットを手動で変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Changing table</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>おむつ交換台</seg>
       </tuv>
     </tu>
     <tu>
@@ -9479,6 +9775,22 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>FIXMEをチェック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Check for presets types.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>プリセットのタイプをチェック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Check for sharp angles on roads</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>道路の鋭角をチェックする</seg>
       </tuv>
     </tu>
     <tu>
@@ -10495,6 +10807,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to download into a new data layer</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>クリックすると新しいデータレイヤーにダウンロードします</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to download missing plugin and restart JOSM</seg>
       </tuv>
       <tuv lang="ja">
@@ -11103,6 +11423,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Collect segments of all tracks and combine in a single track.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>すべてのトラックのセグメントを集めて1つのトラックにまとめます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Collection must contain at least one condition</seg>
       </tuv>
       <tuv lang="ja">
@@ -11255,6 +11583,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Colour</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Colour of background</seg>
       </tuv>
       <tuv lang="ja">
@@ -11275,6 +11611,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>文字色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Colour of the caps</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>帽子部分の色</seg>
       </tuv>
     </tu>
     <tu>
@@ -12479,10 +12823,26 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Convert</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Convert ALL streets.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>すべての通りを変換する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Convert all fields</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>すべてのフィールドを変換する</seg>
       </tuv>
     </tu>
     <tu>
@@ -13175,6 +13535,14 @@ Do you want to keep it?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T053246Z" creationid="miurahr" creationdate="20200818T053246Z">
         <seg>入力されたリンクまたはIDを選択されたサービスと一致させることができませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Count</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>個数</seg>
       </tuv>
     </tu>
     <tu>
@@ -14355,6 +14723,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dairy free</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>乳製品含まず</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dam</seg>
       </tuv>
       <tuv lang="ja">
@@ -14915,6 +15291,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Delete overlay</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>オーバーレイを削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Delete parameter "{0}"?</seg>
       </tuv>
       <tuv lang="ja">
@@ -15275,6 +15659,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Delivery</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>配達</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Denomination</seg>
       </tuv>
       <tuv lang="ja">
@@ -15483,6 +15875,30 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Detected no useable IPv6 network, preferring IPv4 over IPv6 after next restart.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>利用可能なIPv6ネットワークがありませんでした。次の開始時にはIPv4をIPv6より優先します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Detected useable IPv6 network, preferring IPv6 over IPv4 after next restart.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>利用可能なIPv6ネットワークが見付かりました。次の起動時にIPv4よりIPv6を優先します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Detected useable IPv6 network, preferring IPv6 over IPv4.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>IPv4よりもIPv6を優先して使用可能なIPv6ネットワークを検出しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Determine user id for current user...</seg>
       </tuv>
       <tuv lang="ja">
@@ -15555,6 +15971,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Diameter (mm)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>直径 (mm)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Diameter crown (meters)</seg>
       </tuv>
       <tuv lang="ja">
@@ -15607,6 +16031,14 @@ Do you want to keep it?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>大型トラック用軽油</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Diet</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>食事制限</seg>
       </tuv>
     </tu>
     <tu>
@@ -15935,6 +16367,14 @@ Do you want to keep it?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>画面右端のメニュー内のボタンを、マウスが枠内に入った時のみ表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Display buttons to automatically filter numeric values of a predefined tag</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>定義済みタグの数値を自動的にフィルタリングするための表示ボタン</seg>
       </tuv>
     </tu>
     <tu>
@@ -16291,6 +16731,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Do not convert any fields</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>フィールドを変換しない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Do not draw arrows if they are not at least this distance away from the last one.</seg>
       </tuv>
       <tuv lang="ja">
@@ -16541,6 +16989,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Don''t ignore</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>無視しない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Don''t show this again</seg>
       </tuv>
       <tuv lang="ja">
@@ -16553,6 +17009,22 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>住所にはリレーションを使わないでください(要素に"addr:street"を使用してください)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Door</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ドア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Doors</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ドア</seg>
       </tuv>
     </tu>
     <tu>
@@ -16641,6 +17113,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>openstreetmap.orgよりGPXトラックをダウンロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Download GeoJSON</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>GeoJSONをダウンロードする</seg>
       </tuv>
     </tu>
     <tu>
@@ -18381,6 +18861,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>E-cigarette</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>電子たばこ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>E-mail address contains an invalid domain: {0}</seg>
       </tuv>
       <tuv lang="ja">
@@ -19101,6 +19589,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Emergency Phone Number</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>緊急電話番号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Emergency lane beside long descending slopes for trucks and other vehicles to stop safely after brake failure.</seg>
       </tuv>
       <tuv lang="ja">
@@ -19709,6 +20205,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Equidistant Cylindrical (Plate Carrée)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>正距円筒図法 (Plate Carrée)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Erotic</seg>
       </tuv>
       <tuv lang="ja">
@@ -19721,6 +20225,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>エラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Error - file not found: ''{0}''</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>エラー - ファイル''{0}''が見つかりません</seg>
       </tuv>
     </tu>
     <tu>
@@ -19849,6 +20361,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>値: {1}の{0}のエラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Error loading geojson file {0}</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>geojsonファイル {0} のロード中にエラーが発生しました</seg>
       </tuv>
     </tu>
     <tu>
@@ -20119,6 +20639,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ethanol (alcohol)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>エタノール (アルコール)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>European Pressurized Reactor (EPR)</seg>
       </tuv>
       <tuv lang="ja">
@@ -20287,6 +20815,46 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Expected floating point number &gt; 0 for option {0}, but got ''{1}''</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>オプション{0}は0より大きい浮動小数点値を要求していますが、''{1}''が指定されました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Expected floating point number for option {0}, but got ''{1}''</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>オプション{0}は浮動小数点値を要求していますが、''{1}''が指定されました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Expected integer number &gt; 0 for option {0}, but got ''{1}''</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>オプション{0}は0より大きい整数値を要求していますが、''{1}''が指定されました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Expected integer number &gt;= 0 for option {0}, but got ''{1}''</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>オプション{0}は0以上の整数値を要求していますが、''{1}''が指定されました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Expected integer number for option {0}, but got ''{1}''</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>オプション{0}は整数値を要求していますが、''{1}''が指定されました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Expected integer value in range 1-60 for ''+zone=...'' parameter.</seg>
       </tuv>
       <tuv lang="ja">
@@ -20323,6 +20891,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>検索式を入力してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Expected two coordinates, separated by comma, for option {0}, but got ''{1}''</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>オプション{0}はコンマ区切りの2つの座標値を要求していますが、''{1}''が指定されました</seg>
       </tuv>
     </tu>
     <tu>
@@ -20515,6 +21091,22 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>外部ツール: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>External resource entry: Active</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>外部リソースエントリ: 有効</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>External resource entry: Inactive</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>外部リソースエントリ: 無効</seg>
       </tuv>
     </tu>
     <tu>
@@ -21769,6 +22361,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fitness Station</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>屋外フィットネス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fix</seg>
       </tuv>
       <tuv lang="ja">
@@ -21949,6 +22549,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>生花店</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Flowerbed</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>花壇</seg>
       </tuv>
     </tu>
     <tu>
@@ -22177,6 +22785,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Force tagging of all pictures (temporarily overrides the settings above).</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>すべての写真にタグ付けを強制します（上記の設定を一時的に上書きします）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Force tile rendering</seg>
       </tuv>
       <tuv lang="ja">
@@ -22357,6 +22973,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>URLから</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fruitarian</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>果実食主義</seg>
       </tuv>
     </tu>
     <tu>
@@ -22633,6 +23257,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Gambling</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>賭博場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Gamma</seg>
       </tuv>
       <tuv lang="ja">
@@ -22669,6 +23301,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>造園</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gas</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ガス</seg>
       </tuv>
     </tu>
     <tu>
@@ -22781,6 +23421,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>GeoJSONファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GeoJSON file</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>GeoJSON ファイル</seg>
       </tuv>
     </tu>
     <tu>
@@ -22957,6 +23605,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>Globalsatのインポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gluten free</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>グルテンフリー</seg>
       </tuv>
     </tu>
     <tu>
@@ -23209,6 +23865,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Grave</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>墓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Graveyard</seg>
       </tuv>
       <tuv lang="ja">
@@ -23293,6 +23957,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>グループ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Group Home</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>グループホーム</seg>
       </tuv>
     </tu>
     <tu>
@@ -23425,10 +24097,26 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hackerspace</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ハッカースペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hairdresser/Barber</seg>
       </tuv>
       <tuv lang="ja">
         <seg>理美容店</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Halal</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ハラル</seg>
       </tuv>
     </tu>
     <tu>
@@ -23761,6 +24449,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hide labels while dragging the map</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>地図をドラッグしている間ラベルを隠す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hide or show this toggle button</seg>
       </tuv>
       <tuv lang="ja">
@@ -23773,6 +24469,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>このボタンを隠す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hide this message</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>このメッセージを隠す</seg>
       </tuv>
     </tu>
     <tu>
@@ -23957,6 +24661,22 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>史跡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Historic or otherwise outdated aerial or satellite photo</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>歴史的または古い航空写真または衛星写真</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Historic or otherwise outdated map</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>歴史的または古い地図</seg>
       </tuv>
     </tu>
     <tu>
@@ -24249,6 +24969,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Human settlements of at least 200 people with less than 200 meters between households</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>人口200名以上、住居の間隔が200m未満の居住地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hump</seg>
       </tuv>
       <tuv lang="ja">
@@ -24285,6 +25013,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>消火栓の位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hydropower plants including waterways (tunnel, canal, pipeline) and dams</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>水路(トンネル、運河、パイプライン)を含む水力発電所とダム</seg>
       </tuv>
     </tu>
     <tu>
@@ -24546,6 +25282,22 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ignore and remove from tree.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>無視してツリーから削除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ignore for now</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>今は無視する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ignore hdop/vdop/pdop entries</seg>
       </tuv>
       <tuv lang="ja">
@@ -24558,6 +25310,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>''{0}''キーを無視</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ignore list</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>リストを無視</seg>
       </tuv>
     </tu>
     <tu>
@@ -24946,6 +25706,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Imagery not matching any other category</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>他のカテゴリと一致しない画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Imagery offset</seg>
       </tuv>
       <tuv lang="ja">
@@ -24955,6 +25723,14 @@ or just retry</seg>
     <tu>
       <tuv lang="en-US">
         <seg>Imagery preferences</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>画像設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Imagery preferences...</seg>
       </tuv>
       <tuv lang="ja">
         <seg>画像設定</seg>
@@ -25302,6 +26078,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T015556Z" creationid="miurahr" creationdate="20200818T015556Z">
         <seg>実際には、あなたのデータには、地図提供会社からライセンス料と契約による規制が、かけられることになるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In relations where the selected object is member of, replace it with a new one</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>選択したオブジェクトが属しているリレーションで、新しいオブジェクトに置換します</seg>
       </tuv>
     </tu>
     <tu>
@@ -25666,6 +26450,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Initializing coordinate format</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>座標フォーマットの初期化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Initializing internal boundaries data</seg>
       </tuv>
       <tuv lang="ja">
@@ -25738,10 +26530,26 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Input angle here</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ここに角度を入力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Input data file name (.osm)</seg>
       </tuv>
       <tuv lang="ja">
         <seg>入力するデータファイル名 (.osm)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Input min distance</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>最短距離を入力</seg>
       </tuv>
     </tu>
     <tu>
@@ -25882,6 +26690,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Intermittent (contains not permanently water)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>断続的(常時水があるわけではない)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Internal Preset</seg>
       </tuv>
       <tuv lang="ja">
@@ -25930,6 +26746,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Internet Cafe</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>インターネットカフェ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Internet access</seg>
       </tuv>
       <tuv lang="ja">
@@ -25950,6 +26774,22 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>インターネットタグ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Interpolate between segments</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>セグメント間を補完</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Interpolate between tracks</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>トラック間を補間する</seg>
       </tuv>
     </tu>
     <tu>
@@ -25982,6 +26822,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T023718Z" creationid="miurahr" creationdate="20200818T023718Z">
         <seg>3つ以上のウエイの交差を解決できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Interval (M, MM, HH:MM, or HH:MM:SS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>間隔 (M, MM, HH:MM, HH:MM:SS)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26612,6 +27460,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>JOSM rendering command line interface</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>JOSMレンダリングコマンドラインインターフェイス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>JOSM tried to access the following resources:&lt;br&gt;{0}but &lt;b&gt;failed&lt;/b&gt; to do so, because of the following network errors:&lt;br&gt;{1}It may be due to a missing proxy configuration.&lt;br&gt;Would you like to change your proxy settings now?</seg>
       </tuv>
       <tuv lang="ja">
@@ -26656,6 +27512,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>JOSMは常にローカルホストの&lt;b&gt;ポート{0}&lt;/b&gt;(http)と&lt;b&gt;ポート{1}&lt;/b&gt;(https)を待受しています。&lt;br&gt;このポートは外部アプリケーションがJOSMと対話するためのものなので、変更することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JOSM will always listen at &lt;b&gt;port {0}&lt;/b&gt; (http) on localhost.&lt;br&gt;This port is not configurable because it is referenced by external applications talking to JOSM.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>JOSMはlocalhostの&lt;b&gt;ポート{0}&lt;/b&gt; (http) を常時リッスンしています。&lt;br&gt;このポートは、JOSMと通信する外部アプリケーションからも参照されているため、設定で変更することはできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26840,6 +27704,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>接続道路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Junction reference</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ジャンクション番号</seg>
       </tuv>
     </tu>
     <tu>
@@ -27126,6 +27998,22 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Kitchen Opening Hours</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>調理営業時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Kosher</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>カシェル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LPG (Liquefied petroleum gas)</seg>
       </tuv>
       <tuv lang="ja">
@@ -27146,6 +28034,22 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ラベル位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lacto-vegetarian</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>乳菜食主義</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lactose free</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>乳糖フリー</seg>
       </tuv>
     </tu>
     <tu>
@@ -27374,6 +28278,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Lateral water hazard</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ラテラルウォーターハザード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Latitude</seg>
       </tuv>
       <tuv lang="ja">
@@ -27546,6 +28458,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>洗濯屋・コインランドリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Laundry Service</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>洗濯サービス</seg>
       </tuv>
     </tu>
     <tu>
@@ -27910,6 +28830,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Lighting</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>照明器具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Line between the sea and land (with the water on the right side of the way).</seg>
       </tuv>
       <tuv lang="ja">
@@ -28262,6 +29190,22 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Loaded</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>読み込みました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Loading</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>読み込んでいます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Loading data</seg>
       </tuv>
       <tuv lang="ja">
@@ -28330,6 +29274,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>画像設定を読み込み中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Loading json file…</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>json ファイルをロード中</seg>
       </tuv>
     </tu>
     <tu>
@@ -28514,6 +29466,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>場所の説明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lock</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>閘門</seg>
       </tuv>
     </tu>
     <tu>
@@ -28734,6 +29694,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Magazines</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>雑誌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Magic Carpet</seg>
       </tuv>
       <tuv lang="ja">
@@ -28862,10 +29830,34 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Manage Ignore</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>無視リストを管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Manage open changesets and select a changeset to upload to</seg>
       </tuv>
       <tuv lang="ja">
         <seg>開かれた変更セットの管理とアップロードする変更セットの選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Manage the ignore list</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>無視リストを管理する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Manhole</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>マンホール</seg>
       </tuv>
     </tu>
     <tu>
@@ -28914,6 +29906,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>次の場所で手動で報告する:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Manufacturer</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>製造元</seg>
       </tuv>
     </tu>
     <tu>
@@ -29110,6 +30110,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mark selected</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>選択されているマーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mark the selected items (on the map) as done in the todo list.</seg>
       </tuv>
       <tuv lang="ja">
@@ -29162,6 +30170,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>Martinique Fort Desaix キャッシュファイル(.UTM3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Massage</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>マッサージ店、接骨院</seg>
       </tuv>
     </tu>
     <tu>
@@ -29222,6 +30238,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Max distance:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>最長距離:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Max download area</seg>
       </tuv>
       <tuv lang="ja">
@@ -29234,6 +30258,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>1kmあたりの最大ポイント数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Maximum age</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>年齢上限</seg>
       </tuv>
     </tu>
     <tu>
@@ -29830,6 +30862,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Min Distance:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>最短距離:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mineshaft</seg>
       </tuv>
       <tuv lang="ja">
@@ -30166,6 +31206,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mode</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>モード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mode:</seg>
       </tuv>
       <tuv lang="ja">
@@ -30274,6 +31322,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>両替</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money transfer</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>送金</seg>
       </tuv>
     </tu>
     <tu>
@@ -30968,6 +32024,14 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Multiple images have been selected</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>複数の画像が選択されました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Multiple members referring to same object.</seg>
       </tuv>
       <tuv lang="ja">
@@ -31384,6 +32448,14 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Native projections</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ネイティブの投影法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Natural duplicated nodes</seg>
       </tuv>
       <tuv lang="ja">
@@ -31412,6 +32484,14 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>海里</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Navigation aid</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ナビゲーションエイド</seg>
       </tuv>
     </tu>
     <tu>
@@ -32104,6 +33184,14 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No notes found in this area.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>この範囲にはメモがありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No object selected</seg>
       </tuv>
       <tuv lang="ja">
@@ -32704,6 +33792,16 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Note: If a way is selected, this way will get fresh copies of the unglued
+nodes and the new nodes will be selected.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T092037Z" creationid="miurahr" creationdate="20200818T092037Z">
+        <seg>注:ウェイを選択した場合、このウェイのくっついていない新しいノードが作成されて、
+その新しいノードが選択されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Notes</seg>
       </tuv>
       <tuv lang="ja">
@@ -32888,6 +33986,14 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Nudism</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ヌーディズム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Null pointer exception, possibly some missing tags.</seg>
       </tuv>
       <tuv lang="ja">
@@ -32920,10 +34026,42 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number of Sockets:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ソケット数:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of apartments</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>部屋数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of backward lanes</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>後方車線数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of conductors/wires per cable</seg>
       </tuv>
       <tuv lang="ja">
         <seg>導体の数/ケーブルあたりの本数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of forward lanes</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>前方車線数</seg>
       </tuv>
     </tu>
     <tu>
@@ -33072,6 +34210,14 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Nursing Home (Legacy)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>介護施設 (旧)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OAuth authorization failed</seg>
       </tuv>
       <tuv lang="ja">
@@ -33116,6 +34262,14 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>OSMサーバーファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSM Server Files XZ compressed</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>XZ圧縮されたOSMサーバーファイル</seg>
       </tuv>
     </tu>
     <tu>
@@ -33496,6 +34650,14 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Official web site (e.g. operator)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>公式ウェブサイト (運営者など)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Offline mode</seg>
       </tuv>
       <tuv lang="ja">
@@ -33788,6 +34950,14 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>次のユーザー名のユーザーが所有する変更セットのみ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only convert the following fields:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>以下のフィールドのみを変換する:</seg>
       </tuv>
     </tu>
     <tu>
@@ -34816,6 +35986,16 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Otherwise, all ways will get their
+own copy and all nodes will be selected.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T092113Z" creationid="miurahr" creationdate="20200818T092113Z">
+        <seg>そうでなければ、すべてのウェイのコピーがつくられ、
+そのすべてのノードが選択されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Outdated Java version</seg>
       </tuv>
       <tuv lang="ja">
@@ -34852,6 +36032,14 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>エネルギーの出力形式:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Outreach</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>アウトリーチ</seg>
       </tuv>
     </tu>
     <tu>
@@ -35056,6 +36244,14 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ovo-vegetarian</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>卵子菜食主義</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PDF files</seg>
       </tuv>
       <tuv lang="ja">
@@ -35124,6 +36320,14 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>紙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Paper packaging</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>紙製パッケージ</seg>
       </tuv>
     </tu>
     <tu>
@@ -35450,10 +36654,26 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Party supplies</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>パーティ用品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Passageways</seg>
       </tuv>
       <tuv lang="ja">
         <seg>通り抜け通路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Passenger information display</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>発車案内板</seg>
       </tuv>
     </tu>
     <tu>
@@ -35738,6 +36958,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Penstock</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>水圧鉄管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Perform actions before deleting</seg>
       </tuv>
       <tuv lang="ja">
@@ -35810,10 +37038,26 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pescetarian</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>魚介菜食主義</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pet</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ペット店</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pet grooming</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ペットグルーミング</seg>
       </tuv>
     </tu>
     <tu>
@@ -35998,6 +37242,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>桟橋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pillar type</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>地上式</seg>
       </tuv>
     </tu>
     <tu>
@@ -36246,6 +37498,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>児童公園</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Playground device</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>遊具</seg>
       </tuv>
     </tu>
     <tu>
@@ -36518,6 +37778,22 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>0から{0}までの間の整数を入力してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please enter minimal distance in metres</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>最短距離をメートルで入力してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please enter numeric angle in degrees</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>角度を度数で入力してください</seg>
       </tuv>
     </tu>
     <tu>
@@ -37974,6 +39250,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Preset turn lanes</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>右左折車線のプリセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Presets</seg>
       </tuv>
       <tuv lang="ja">
@@ -37994,6 +39278,38 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>プリセットに含まれていないプロパティ値</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pressure (bar)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>水圧 (bar)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pressure (bar) or suction</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>水圧 (バール単位) または吸引力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pressure but value unknown.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>加圧されているが値は不明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pressure in bar.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>バール単位で水圧を記入。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38210,6 +39526,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>タイルのロード時にエラーが発生しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Problem occurred</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>問題が発生しました</seg>
       </tuv>
     </tu>
     <tu>
@@ -38784,6 +40108,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Public bath</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>公衆浴場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Public service vehicles like buses, tramways, etc.</seg>
       </tuv>
       <tuv lang="ja">
@@ -38876,6 +40208,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>Q=オプション、Enter=保存、Ctrl+Enter=タグを付けて保存、↑/↓=調整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quality</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>品質</seg>
       </tuv>
     </tu>
     <tu>
@@ -39120,6 +40460,22 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Railway construction</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>建設中鉄道</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Railway crossing</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>線路の交差</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Railway duplicated nodes</seg>
       </tuv>
       <tuv lang="ja">
@@ -39140,6 +40496,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>鉄道の距離標</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Railway type</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>鉄道の種類</seg>
       </tuv>
     </tu>
     <tu>
@@ -39268,6 +40632,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ラスタイメージ取得倍率:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Raw</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>無調理</seg>
       </tuv>
     </tu>
     <tu>
@@ -39516,6 +40888,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>最近追加したタグ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recently turn lanes edits</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>最近の右左折車線の編集</seg>
       </tuv>
     </tu>
     <tu>
@@ -40044,6 +41424,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>リレーションはマルチポリゴンではありませんので、置き換えに使用することができません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Relation is obsolete</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>リレーションが古くなっています</seg>
       </tuv>
     </tu>
     <tu>
@@ -41048,6 +42436,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Replaced ''{0}'' by ''{1}'' in {2} relation</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{2}件のリレーションにある"{1}"により"{0}"を置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Replaces the currently configured via-objects with the node at the intersection</seg>
       </tuv>
       <tuv lang="ja">
@@ -41472,6 +42868,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Resort</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>リゾート区</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Resource</seg>
       </tuv>
       <tuv lang="ja">
@@ -41572,6 +42976,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>通行制限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Results</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>結果</seg>
       </tuv>
     </tu>
     <tu>
@@ -42096,6 +43508,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Role for multipolygon way member should be inner or outer</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>マルチポリゴンウェイメンバーの役割はinnerまたはouterである必要があります</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Role of relation member does not match expression ''{0}'' in template {1}</seg>
       </tuv>
       <tuv lang="ja">
@@ -42464,6 +43884,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Running Route</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ランニングルート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Running test {0}</seg>
       </tuv>
       <tuv lang="ja">
@@ -42544,6 +43972,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SIM_cards</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>SIMカード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SUMO Export</seg>
       </tuv>
       <tuv lang="ja">
@@ -42604,6 +44040,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>塩水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Same value of {0} and {1}</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{0}と{1}が同じ値</seg>
       </tuv>
     </tu>
     <tu>
@@ -42712,6 +44156,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Save Note file</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>メモファイルを保存する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Save OSM file</seg>
       </tuv>
       <tuv lang="ja">
@@ -42756,6 +44208,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>署名ファイルを保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save Validation errors file</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>検証エラーファイルを保存</seg>
       </tuv>
     </tu>
     <tu>
@@ -42820,6 +44280,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>保存先:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save layer specific preferences</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>レイヤーの設定を保存する</seg>
       </tuv>
     </tu>
     <tu>
@@ -43080,6 +44548,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Scooter</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>スクーター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Scrap Metal</seg>
       </tuv>
       <tuv lang="ja">
@@ -43105,6 +44581,14 @@ The ways selected must form a simple branchless path</seg>
     <tu>
       <tuv lang="en-US">
         <seg>Scuba Diving</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>スキューバダイビング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Scuba diving</seg>
       </tuv>
       <tuv lang="ja">
         <seg>スキューバダイビング</seg>
@@ -43681,6 +45165,14 @@ This automatically generates a language menu consisting of links to the original
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select an option</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>オプションを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select and close</seg>
       </tuv>
       <tuv lang="ja">
@@ -43733,6 +45225,14 @@ This automatically generates a language menu consisting of links to the original
       </tuv>
       <tuv lang="ja">
         <seg>この欄に{0}の自動インクリメントを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select building</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>建物を選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -43953,6 +45453,14 @@ This automatically generates a language menu consisting of links to the original
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select mode</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>選択モード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select next Gap</seg>
       </tuv>
       <tuv lang="ja">
@@ -43973,6 +45481,14 @@ This automatically generates a language menu consisting of links to the original
       </tuv>
       <tuv lang="ja">
         <seg>分岐していない一連のウェイを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select none</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>選択なし</seg>
       </tuv>
     </tu>
     <tu>
@@ -44101,6 +45617,14 @@ This automatically generates a language menu consisting of links to the original
       </tuv>
       <tuv lang="ja">
         <seg>エリアの境界を構成するリレーションやウェイを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select road</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>道路を選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -44593,6 +46117,22 @@ This automatically generates a language menu consisting of links to the original
       </tuv>
       <tuv lang="ja">
         <seg>上のリストで選択されたこれらの要素を地図上で選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Self Service</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>セルフサービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Self crossing ways</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>自分自身と交差しているウェイ</seg>
       </tuv>
     </tu>
     <tu>
@@ -45127,10 +46667,34 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shape</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>形状</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Shape closed</seg>
       </tuv>
       <tuv lang="ja">
         <seg>閉じられた図形</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shape is started incorrectly</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>図形が不正に開始しています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shape mode control panel</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>シェイプモード制御パネル</seg>
       </tuv>
     </tu>
     <tu>
@@ -45155,6 +46719,22 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>カーシェアリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sharp angle</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>鋭角</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sharp angles</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>鋭角</seg>
       </tuv>
     </tu>
     <tu>
@@ -45595,6 +47175,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>選択リストにオブジェクトIDを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show object version in selection lists</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>選択リストにオブジェクトのバージョンを表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -46095,6 +47683,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Single Color (can be customized in the layer manager)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>単色 (レイヤーマネージャーでカスタマイズできます)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Single elements</seg>
       </tuv>
       <tuv lang="ja">
@@ -46491,6 +48087,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T001738Z" creationid="miurahr" creationdate="20200818T001738Z">
         <seg>OpenStreetMapデータをベースにした製品の中には、すでにこれをサポートしているものもある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some road types already imply some access restrictions which should not be set again.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>道路種別によっては、すでに再設定するべきではないアクセス制限が含まれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46895,10 +48499,26 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Split multiple track segments of one track into multiple tracks.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>1つのトラックの複数のトラックセグメントを複数のトラックに分割します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Split now</seg>
       </tuv>
       <tuv lang="ja">
         <seg>直ちに分割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Split the tracks of this layer to one new layer each.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>このレイヤーのトラックをそれぞれ1つの新しいレイヤーに分割します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46931,6 +48551,22 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>このデータをsector(管理レベル=10)で分割します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Split track segments to tracks</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>トラックセグメントをトラックに分割する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Split tracks to new layers</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>トラックを新しいレイヤーに分割する</seg>
       </tuv>
     </tu>
     <tu>
@@ -47376,6 +49012,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Storage Rental</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>貸倉庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Storage Tank</seg>
       </tuv>
       <tuv lang="ja">
@@ -47412,6 +49056,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>画像オフセットを登録する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Strait</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>海峡</seg>
       </tuv>
     </tu>
     <tu>
@@ -47620,6 +49272,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>内部境界</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Subject</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>主題</seg>
       </tuv>
     </tu>
     <tu>
@@ -47940,6 +49600,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>押し出しモード時に平行移動モードに切り替えます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Switch input and output crs</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>入力と出力の切り替え</seg>
       </tuv>
     </tu>
     <tu>
@@ -48294,6 +49962,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>タグキーに0x20より小さいコードのキャラクタが含まれています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tag key contains non-printing character</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>タグのキーに非印刷文字が含まれています</seg>
       </tuv>
     </tu>
     <tu>
@@ -48658,6 +50334,22 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Telecom</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>通信</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Telecom Street Cabinet</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>通信機器用キャビネット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Telecommunication</seg>
       </tuv>
       <tuv lang="ja">
@@ -48670,6 +50362,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>電話</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Telephone Exchange</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>電話交換機</seg>
       </tuv>
     </tu>
     <tu>
@@ -48766,6 +50466,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>第3の電圧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tesla Supercharger</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>テスラ・スーパーチャージャー</seg>
       </tuv>
     </tu>
     <tu>
@@ -48886,6 +50594,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>テキスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thank you for providing the data source!</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ソースのご記入ありがとうございます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49269,6 +50985,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The easting at the mouse pointer.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>マウスポインタでの動き。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The entrance to a cave.</seg>
       </tuv>
       <tuv lang="ja">
@@ -49281,6 +51005,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja">
         <seg>ファイルはポリゴン名で始まらなければなりません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The first selected object ''{0}'' is not part of any relation</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>最初に選択したオブジェクト"{0}"はどのリレーションにも含まれていません</seg>
       </tuv>
     </tu>
     <tu>
@@ -50371,10 +52103,26 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This option hides the textual labels of OSM objects while dragging the map.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>このオプションは、マップをドラッグしている間、OSMオブジェクトのテキストラベルを非表示にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This option suppresses the filling of areas, overriding anything specified in the selected style.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>このオプションは、選択されたスタイルの設定を無視して、エリアの塗りつぶしを停止させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This option will not be saved permanently.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>このオプションは恒久的に保存されません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50511,6 +52259,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja">
         <seg>このテストはマルチポリゴンが有効かを調べます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This test checks if turn restrictions are valid.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>このテストは進行方向制限が妥当であるかどうかを検査します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50811,10 +52567,26 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tile display projection</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>タイル表示投影法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tile display size</seg>
       </tuv>
       <tuv lang="ja">
         <seg>タイル表示サイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tile download projection</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>タイルダウンロード用投影法</seg>
       </tuv>
     </tu>
     <tu>
@@ -50871,6 +52643,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja">
         <seg>所要時間(hh:mm、徒歩で)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Time Limit</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>時間制限</seg>
       </tuv>
     </tu>
     <tu>
@@ -51029,6 +52809,14 @@ projections and retry</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170522T122236Z" creationid="miurahr" creationdate="20170522T122236Z">
         <seg>発生を防ぐには：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To specify the rendered area and scale, the options can be combined in various ways</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>レンダリング領域とスケールを指定するために、オプションをさまざまな方法で組み合わせることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51237,6 +53025,14 @@ projections and retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>料金所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tomb</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>霊廟</seg>
       </tuv>
     </tu>
     <tu>
@@ -51543,6 +53339,14 @@ or action canceled</seg>
       </tuv>
       <tuv lang="ja">
         <seg>トラック名:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Track settings (note that multiple tracks can be in one GPX file)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>トラック設定（複数のトラックを1つのGPXファイルに含めることができます）</seg>
       </tuv>
     </tu>
     <tu>
@@ -51883,6 +53687,14 @@ or action canceled</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Truck</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>トラック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Trunk</seg>
       </tuv>
       <tuv lang="ja">
@@ -51927,6 +53739,14 @@ or action canceled</seg>
       </tuv>
       <tuv lang="ja">
         <seg>プロパティテーブルからタグのコピーを試みる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Try enabling IPv6 network, preferring IPv6 over IPv4 (only works on early startup).</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>IPv4よりもIPv6を優先して、IPv6ネットワークを有効にしてみる（初期起動時にのみ機能します）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51999,6 +53819,14 @@ or action canceled</seg>
       </tuv>
       <tuv lang="ja">
         <seg>右左折車線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Turn restrictions</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>進行方向制限</seg>
       </tuv>
     </tu>
     <tu>
@@ -52579,6 +54407,14 @@ or action canceled</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unable to parse {0} parameter: {1}</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>引数{0}を解釈できませんでした。{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unable to process file ''{0}'':</seg>
       </tuv>
       <tuv lang="ja">
@@ -52931,6 +54767,14 @@ or action canceled</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unexpected role ''{0}'' in turn restriction</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>進行方向制限でロール''{0}''は想定外です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unexpected root element ''{0}'' in session file</seg>
       </tuv>
       <tuv lang="ja">
@@ -53203,6 +55047,14 @@ or action canceled</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unknown property value</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>不明なプロパティ値</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unknown regexp value: {0}</seg>
       </tuv>
       <tuv lang="ja">
@@ -53259,6 +55111,14 @@ or action canceled</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unknown turn restriction</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>不明な進行方向制限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unknown type: {0}</seg>
       </tuv>
       <tuv lang="ja">
@@ -53303,6 +55163,14 @@ or action canceled</seg>
       </tuv>
       <tuv lang="ja">
         <seg>不要なタグ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unofficial web site</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>非公式ウェブサイト</seg>
       </tuv>
     </tu>
     <tu>
@@ -53447,6 +55315,14 @@ or action canceled</seg>
       </tuv>
       <tuv lang="ja">
         <seg>選択できません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unspecific highway type</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>道路の種類が未指定</seg>
       </tuv>
     </tu>
     <tu>
@@ -54808,6 +56684,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Validation Error Files</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>検証エラーファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Validation Results</seg>
       </tuv>
       <tuv lang="ja">
@@ -54956,6 +56840,22 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ベクタイメージ取得倍率:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vegan</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ビーガン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vegetarian</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ベジタリアン</seg>
       </tuv>
     </tu>
     <tu>
@@ -55664,6 +57564,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Watches</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>時計</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Water</seg>
       </tuv>
       <tuv lang="ja">
@@ -55684,6 +57592,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ウォーターパーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Water Point</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>水汲み場</seg>
       </tuv>
     </tu>
     <tu>
@@ -55736,10 +57652,26 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Water is not pressurized, a pump is needed.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>水には圧力がかかっていないので、ポンプが必要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Water level</seg>
       </tuv>
       <tuv lang="ja">
         <seg>水位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Water source</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>水源</seg>
       </tuv>
     </tu>
     <tu>
@@ -56120,6 +58052,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Weapons</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>武器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Weather</seg>
       </tuv>
       <tuv lang="ja">
@@ -56367,6 +58307,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Wholesale</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>卸売店</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Width (meters)</seg>
       </tuv>
       <tuv lang="ja">
@@ -56407,6 +58355,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Wilderness Hut</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>自然観察小屋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Will associate {0} additional house number nodes</seg>
       </tuv>
       <tuv lang="ja">
@@ -56427,6 +58383,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>風車</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Window construction</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>建窓</seg>
       </tuv>
     </tu>
     <tu>
@@ -56483,6 +58447,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>OAuth を使い、あなたはJOSMにマップデータとGPSトラックのアップロードをあなたの責任において許可します。(&lt;a href="{0}"&gt;詳細...&lt;/a&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With island</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>島あり</seg>
       </tuv>
     </tu>
     <tu>
@@ -56889,6 +58861,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You are about to unglue nodes which can have other referrers not yet downloaded.&lt;br&gt;This can cause problems because other objects (that you do not see) might use them.&lt;br&gt;Do you really want to unglue?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T113050Z" creationid="miurahr" creationdate="20200818T113050Z">
+        <seg>ダウンロード範囲外から参照されているノードをの接着を解除しようとしています。&lt;br&gt;(あなたが見ていない)ほかのオブジェクトが使っているかもしれないので、この操作は問題を引き起こす可能性があります。&lt;br&gt;接着を解除しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You are running version {0} of Java.</seg>
       </tuv>
       <tuv lang="ja">
@@ -57161,6 +59141,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Your changeset source is &lt;i&gt;rejected&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>変更セットのソースが&lt;i&gt;拒否されました&lt;/i&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Your current version of JOSM is {0}</seg>
       </tuv>
       <tuv lang="ja">
@@ -57189,6 +59177,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>あなたが投稿したアップロードコメントは、&lt;i&gt;空白&lt;/i&gt;か&lt;i&gt;とても短い&lt;/i&gt;です。&lt;br /&gt;&lt;br /&gt;これは技術的には問題ありませんが、何が行われたかを理解するために、意味のある変更セットのコメントに頼っている、&lt;br /&gt;この領域を監視している多くのユーザーのことを考えてみてください。&lt;br /&gt;あなたが行った変更について説明することにもう少し時間を割いて下されば、他の多くのマッパーが&lt;br /&gt;もう少し快適になるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your upload comment is &lt;i&gt;rejected&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>アップロードコメントが&lt;i&gt;拒否されました&lt;/i&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57325,6 +59321,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ズームレベル:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zoom mode</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ズームモード</seg>
       </tuv>
     </tu>
     <tu>
@@ -57601,6 +59605,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>abt</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ケーブルカー用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>abutment</seg>
       </tuv>
       <tuv lang="ja">
@@ -57697,6 +59709,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>admission_tickets</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>入場券</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>advanced</seg>
       </tuv>
       <tuv lang="ja">
@@ -57721,6 +59741,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>african</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>アフリカ料理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>aggregate</seg>
       </tuv>
       <tuv lang="ja">
@@ -57737,10 +59765,26 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>agritourism</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>農家民宿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>air</seg>
       </tuv>
       <tuv lang="ja">
         <seg>換気口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>air_raid</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>空襲警報</seg>
       </tuv>
     </tu>
     <tu>
@@ -58009,6 +60053,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>animal_feed</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>動物の餌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>anonymous</seg>
       </tuv>
       <tuv lang="ja">
@@ -58065,6 +60117,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>arab</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>アラブ料理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>arch</seg>
       </tuv>
       <tuv lang="ja">
@@ -58077,6 +60137,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>弓道・アーチェリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>architecture</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>建築物</seg>
       </tuv>
     </tu>
     <tu>
@@ -58101,6 +60169,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>エリアテキスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>argentinian</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>アルゼンチン料理</seg>
       </tuv>
     </tu>
     <tu>
@@ -58149,6 +60225,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>非対称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>athlete</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>スポーツ選手</seg>
       </tuv>
     </tu>
     <tu>
@@ -58217,10 +60301,26 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>aviary</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>飼鳥園</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>axleload (t)</seg>
       </tuv>
       <tuv lang="ja">
         <seg>軸重(t)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>babies</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ベビー服</seg>
       </tuv>
     </tu>
     <tu>
@@ -58281,10 +60381,34 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>bagel</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ベーグル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>bahai</seg>
       </tuv>
       <tuv lang="ja">
         <seg>バハーイ教</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>balancebeam</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>平均台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>balkan</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>バルカン料理</seg>
       </tuv>
     </tu>
     <tu>
@@ -58353,6 +60477,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>bars</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>バール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>bascule</seg>
       </tuv>
       <tuv lang="ja">
@@ -58417,6 +60549,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>bavarian</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>バイエルン料理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>beachvolleyball</seg>
       </tuv>
       <tuv lang="ja">
@@ -58429,6 +60569,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>桁橋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>beef_bowl</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>牛丼</seg>
       </tuv>
     </tu>
     <tu>
@@ -58493,6 +60641,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>2条</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>birds</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>鳥類</seg>
       </tuv>
     </tu>
     <tu>
@@ -58585,6 +60741,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>boy</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>少年</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>branch</seg>
       </tuv>
       <tuv lang="ja">
@@ -58609,6 +60773,22 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>brass</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>真鍮</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>brazilian</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ブラジル料理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>bridge</seg>
       </tuv>
       <tuv lang="ja">
@@ -58629,6 +60809,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>広葉樹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>bronze</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>青銅</seg>
       </tuv>
     </tu>
     <tu>
@@ -58705,6 +60893,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>butterfly</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>蝶類</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>by {0}</seg>
       </tuv>
       <tuv lang="ja">
@@ -58717,6 +60913,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>斜張橋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>cake</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ケーキ</seg>
       </tuv>
     </tu>
     <tu>
@@ -58785,10 +60989,34 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>caodaism</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>カオダイ教</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>caribbean</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>カリブ料理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>case sensitive</seg>
       </tuv>
       <tuv lang="ja">
         <seg>大/小文字を区別する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>castle_wall</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>城壁</seg>
       </tuv>
     </tu>
     <tu>
@@ -58837,6 +61065,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ファイル更新時刻を変更:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>changeset:0 (objects without an assigned changeset)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>changeset:0（変更セットが割り当てられていないオブジェクト）</seg>
       </tuv>
     </tu>
     <tu>
@@ -58897,6 +61133,22 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>child</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>子供</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>children</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>子供服</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>chinese</seg>
       </tuv>
       <tuv lang="ja">
@@ -58921,6 +61173,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>church_of_scotland</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>スコットランド教会</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>cigarettes</seg>
       </tuv>
       <tuv lang="ja">
@@ -58933,6 +61193,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>市区</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>civil_defense</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>民間防衛</seg>
       </tuv>
     </tu>
     <tu>
@@ -58969,6 +61237,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>climbingwall</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>クライミングウォール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>clockwise</seg>
       </tuv>
       <tuv lang="ja">
@@ -59001,6 +61277,22 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>clothes</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>衣服</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>club_home</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>クラブホーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>coal</seg>
       </tuv>
       <tuv lang="ja">
@@ -59029,6 +61321,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ココナッツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>coffee</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>コーヒー</seg>
       </tuv>
     </tu>
     <tu>
@@ -59137,6 +61437,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>community_hall</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>コミュニティホール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>compacted</seg>
       </tuv>
       <tuv lang="ja">
@@ -59165,6 +61473,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>コンクリート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>concrete:plates</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>コンクリート板</seg>
       </tuv>
     </tu>
     <tu>
@@ -59205,6 +61521,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>競合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>confucian</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>儒教</seg>
       </tuv>
     </tu>
     <tu>
@@ -59285,6 +61609,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>トウモロコシ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>costumes</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>コスチューム</seg>
       </tuv>
     </tu>
     <tu>
@@ -59417,10 +61749,26 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>cultural_centre</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>カルチャーセンター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>culvert</seg>
       </tuv>
       <tuv lang="ja">
         <seg>カルバート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>curry</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>カレー</seg>
       </tuv>
     </tu>
     <tu>
@@ -59453,6 +61801,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>サイクリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>danish</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>デンマーク料理</seg>
       </tuv>
     </tu>
     <tu>
@@ -59493,6 +61849,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>喫煙者用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>dedicated_room</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>専用部屋</seg>
       </tuv>
     </tu>
     <tu>
@@ -59569,6 +61933,22 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>denim</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ジーンズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>deprecated tagging</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>推奨されないタグ付け</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>designated</seg>
       </tuv>
       <tuv lang="ja">
@@ -59637,6 +62017,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>土</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>disabled</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>障碍者</seg>
       </tuv>
     </tu>
     <tu>
@@ -59733,6 +62121,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>半幅二本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>double_slip</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>両渡り付交差</seg>
       </tuv>
     </tu>
     <tu>
@@ -59953,6 +62349,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>elongated_coin</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>記念メダル作成機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>emergency</seg>
       </tuv>
       <tuv lang="ja">
@@ -59973,6 +62377,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>空</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>empty value in semicolon-separated ''{0}''</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>セミコロンで区切られた''{0}''に空の値があります</seg>
       </tuv>
     </tu>
     <tu>
@@ -60009,6 +62421,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>environment_centre</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>環境センター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>equestrian</seg>
       </tuv>
       <tuv lang="ja">
@@ -60033,6 +62453,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ethiopian</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>エチオピア料理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>evangelical</seg>
       </tuv>
       <tuv lang="ja">
@@ -60045,6 +62473,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>偶数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>events_venue</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>イベント会場</seg>
       </tuv>
     </tu>
     <tu>
@@ -60153,6 +62589,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>family</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>家族</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>farm</seg>
       </tuv>
       <tuv lang="ja">
@@ -60177,6 +62621,22 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>fashion</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ファッション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>female_toilet</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>女性用トイレ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>fence</seg>
       </tuv>
       <tuv lang="ja">
@@ -60197,6 +62657,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>フィールドホッケー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>filipino</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>フィリピン料理</seg>
       </tuv>
     </tu>
     <tu>
@@ -60305,6 +62773,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>fitness</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>フィットネス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>fitness_centre</seg>
       </tuv>
       <tuv lang="ja">
@@ -60353,6 +62829,30 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>flood_wall</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>護岸壁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>flooded</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>暗渠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>floodlight</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>投光器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>flush</seg>
       </tuv>
       <tuv lang="ja">
@@ -60365,6 +62865,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>フォルダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>folding</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>折戸</seg>
       </tuv>
     </tu>
     <tu>
@@ -60497,6 +63005,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>frozen_yogurt</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>フローズンヨーグルト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>fuel</seg>
       </tuv>
       <tuv lang="ja">
@@ -60509,6 +63025,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>完全</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>fur</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>毛皮</seg>
       </tuv>
     </tu>
     <tu>
@@ -60601,6 +63125,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>georgian</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ジョージア料理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>german</seg>
       </tuv>
       <tuv lang="ja">
@@ -60613,6 +63145,22 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>未読メッセージの件数を取得</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>girl</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>女子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>glass</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ガラス</seg>
       </tuv>
     </tu>
     <tu>
@@ -60701,6 +63249,22 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>グレード5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>graffiti</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>グラフィティ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>granite</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>みかげ石</seg>
       </tuv>
     </tu>
     <tu>
@@ -60937,6 +63501,22 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>hats</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>帽子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>headrace</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>導水路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>heat</seg>
       </tuv>
       <tuv lang="ja">
@@ -60973,6 +63553,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>補助線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>heuriger</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ホイリゲ</seg>
       </tuv>
     </tu>
     <tu>
@@ -61033,10 +63621,26 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>hinged</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>開き戸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>history</seg>
       </tuv>
       <tuv lang="ja">
         <seg>歴史</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>homosexual</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>同性愛者</seg>
       </tuv>
     </tu>
     <tu>
@@ -61053,6 +63657,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>水平方向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>horizontal_bar</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>鉄棒</seg>
       </tuv>
     </tu>
     <tu>
@@ -61101,6 +63713,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>温水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>hot_dog</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ホットドッグ</seg>
       </tuv>
     </tu>
     <tu>
@@ -61225,10 +63845,26 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>id:0 (new objects)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>id:0（新しいオブジェクト）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>if enabled the plugin produces osm-relations from the junction subgraphs</seg>
       </tuv>
       <tuv lang="ja">
         <seg>有効にすると、交差点のサブグラフからOSMのリレーションを作成します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>iglesia_ni_cristo</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>イグレシア・ニ・クリスト</seg>
       </tuv>
     </tu>
     <tu>
@@ -61245,6 +63881,30 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>imagico.de: Aral Sea (high water level)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>imagico.de: アラル海 (高水位レベル)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>imagico.de: Aral Sea (low water level)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>imagico.de: アラル海 (低水位レベル)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>immigrant</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>移民</seg>
       </tuv>
     </tu>
     <tu>
@@ -61277,6 +63937,22 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ウェイの正確さを高める補助線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>in a grassy area</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>草地の中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>in a parking lot</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>駐車場内</seg>
       </tuv>
     </tu>
     <tu>
@@ -61321,6 +63997,30 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>incomplete object: only {0}</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>不完全なオブジェクト:{0}しかない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>incomplete object: only {0} and {1}</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>不完全なオブジェクト:{0}と{1}しかない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>incomplete usage of {0} on a way without {1}</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ウェイに{1}が無い{0}は不完全な使用法です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>incorrect</seg>
       </tuv>
       <tuv lang="ja">
@@ -61349,6 +64049,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>インド料理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>indonesian</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>インドネシア料理</seg>
       </tuv>
     </tu>
     <tu>
@@ -61401,6 +64109,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>installation</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>イラスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>integrated into main program</seg>
       </tuv>
       <tuv lang="ja">
@@ -61437,6 +64153,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>鉄鉱石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>irrigation</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>灌漑用水</seg>
       </tuv>
     </tu>
     <tu>
@@ -61533,6 +64257,22 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>交差点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>just once</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>今回のみ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>juvenile</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>若年者</seg>
       </tuv>
     </tu>
     <tu>
@@ -61673,6 +64413,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>language_centre</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>言語センター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>last way before junction</seg>
       </tuv>
       <tuv lang="ja">
@@ -61777,6 +64525,22 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>leather</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>皮革</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>lebanese</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>レバノン料理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>left</seg>
       </tuv>
       <tuv lang="ja">
@@ -61837,6 +64601,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T142343Z" creationid="miurahr" creationdate="20190107T142343Z">
         <seg>少ない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>lgbtq</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>LGBT</seg>
       </tuv>
     </tu>
     <tu>
@@ -62041,6 +64813,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>lowered</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>低い段差</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>lutheran</seg>
       </tuv>
       <tuv lang="ja">
@@ -62069,6 +64849,30 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>平行補助線を作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>malaysian</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>マレーシア料理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>male_toilet</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>男性用トイレ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>man</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>男性</seg>
       </tuv>
     </tu>
     <tu>
@@ -62125,6 +64929,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>''key''が''value''より大きければマッチ(簡単に言えば、未満)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>maternity</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>マタニティ</seg>
       </tuv>
     </tu>
     <tu>
@@ -62209,6 +65021,22 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>meeting_room</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>会議質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>megalith</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>巨石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>member</seg>
       </tuv>
       <tuv lang="ja">
@@ -62229,6 +65057,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>会員専用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>men</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>メンズ</seg>
       </tuv>
     </tu>
     <tu>
@@ -62325,6 +65161,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>軍用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>milk</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>牛乳</seg>
       </tuv>
     </tu>
     <tu>
@@ -62513,6 +65357,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>moroccan</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>モロッコ料理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>mosque</seg>
       </tuv>
       <tuv lang="ja">
@@ -62533,6 +65385,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>モータースポーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>motorcycle</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>バイク用の服</seg>
       </tuv>
     </tu>
     <tu>
@@ -62593,6 +65453,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>multigeneration</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>多世代</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>multiple</seg>
       </tuv>
       <tuv lang="ja">
@@ -62649,6 +65517,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>name:str matches name=Bakerstreet</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>name:strがname=Bakerstreetに一致します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>national_park</seg>
       </tuv>
       <tuv lang="ja">
@@ -62681,10 +65557,26 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>natural_monument</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>天然記念物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>nature</seg>
       </tuv>
       <tuv lang="ja">
         <seg>自然</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>necropolis</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>埋葬地</seg>
       </tuv>
     </tu>
     <tu>
@@ -62717,6 +65609,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>新使徒教会</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>newspapers</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>新聞</seg>
       </tuv>
     </tu>
     <tu>
@@ -62913,6 +65813,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>nondenominational</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>無宗派</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>none</seg>
       </tuv>
       <tuv lang="ja">
@@ -63081,6 +65989,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>objects changed by author</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>この人が変更したオブジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>objects changed by user</seg>
       </tuv>
       <tuv lang="ja">
@@ -63241,6 +66157,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>on a sidewalk</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>歩道上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>on polygon</seg>
       </tuv>
       <tuv lang="ja">
@@ -63313,6 +66237,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>opposite_lane</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>逆方向の車線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>options</seg>
       </tuv>
       <tuv lang="ja">
@@ -63333,6 +66265,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>あるいは</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>orange</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>オレンジ色</seg>
       </tuv>
     </tu>
     <tu>
@@ -63401,6 +66341,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>oversize</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>大きいサイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>oxbow</seg>
       </tuv>
       <tuv lang="ja">
@@ -63409,10 +66357,26 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>painting</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>絵画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>pampas</seg>
       </tuv>
       <tuv lang="ja">
         <seg>パンパス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pancake</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ホットケーキ</seg>
       </tuv>
     </tu>
     <tu>
@@ -63437,6 +66401,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>区画番号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>parcel_pickup</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>宅配便受け取り</seg>
       </tuv>
     </tu>
     <tu>
@@ -63497,6 +66469,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>parts</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>部品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>passengers</seg>
       </tuv>
       <tuv lang="ja">
@@ -63517,6 +66497,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>パスワード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pasta</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>パスタ</seg>
       </tuv>
     </tu>
     <tu>
@@ -63641,10 +66629,26 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>persian</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ペルシア料理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>persimmon_trees</seg>
       </tuv>
       <tuv lang="ja">
         <seg>柿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>peruvian</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ペルー料理</seg>
       </tuv>
     </tu>
     <tu>
@@ -63693,6 +66697,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>柱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pipe</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>パイプ</seg>
       </tuv>
     </tu>
     <tu>
@@ -63817,10 +66829,26 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>pneumatic</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>空気式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>pole</seg>
       </tuv>
       <tuv lang="ja">
         <seg>支柱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>polish</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ポーランド料理</seg>
       </tuv>
     </tu>
     <tu>
@@ -63865,6 +66893,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>portuguese</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ポルトガル料理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>position of sign</seg>
       </tuv>
       <tuv lang="ja">
@@ -63885,6 +66921,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>恐らく</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>power</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>電力</seg>
       </tuv>
     </tu>
     <tu>
@@ -64041,6 +67085,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>purple</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>紫色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>puszta</seg>
       </tuv>
       <tuv lang="ja">
@@ -64121,10 +67173,42 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>railing</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>欄干</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>railway</seg>
       </tuv>
       <tuv lang="ja">
         <seg>鉄道</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>rainwater</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>雨水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>raised</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>せり上がり</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ramen</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ラーメン</seg>
       </tuv>
     </tu>
     <tu>
@@ -64329,6 +67413,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>rescue_service</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>レスキューサービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>reserved</seg>
       </tuv>
       <tuv lang="ja">
@@ -64381,6 +67473,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>反転可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>revolving</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>回転扉</seg>
       </tuv>
     </tu>
     <tu>
@@ -64457,6 +67557,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>rolled</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>丸みのある段差</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>roller_skating</seg>
       </tuv>
       <tuv lang="ja">
@@ -64469,6 +67577,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ローマカトリック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>romanian_orthodox</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ローマ正教</seg>
       </tuv>
     </tu>
     <tu>
@@ -64561,6 +67677,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>rowing</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>漕艇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>rugby_league</seg>
       </tuv>
       <tuv lang="ja">
@@ -64601,6 +67725,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>russian</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ロシア料理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>russian_orthodox</seg>
       </tuv>
       <tuv lang="ja">
@@ -64625,10 +67757,26 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>safari_park</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>サファリパーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>safety_training</seg>
       </tuv>
       <tuv lang="ja">
         <seg>安全トレーニング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>sales_area</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>売場</seg>
       </tuv>
     </tu>
     <tu>
@@ -64665,10 +67813,26 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>sandpit</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>砂場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>sandwich</seg>
       </tuv>
       <tuv lang="ja">
         <seg>サンドイッチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>sausage</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ソーセージ</seg>
       </tuv>
     </tu>
     <tu>
@@ -64717,6 +67881,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>学校</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>schoolwear</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>学校制服</seg>
       </tuv>
     </tu>
     <tu>
@@ -64809,6 +67981,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>seawall</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>防潮壁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>secondary</seg>
       </tuv>
       <tuv lang="ja">
@@ -64837,6 +68017,22 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>セクション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>seesaw</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>シーソー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>select</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -64881,10 +68077,34 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>senior</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>老人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>separate</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>分離型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>separated</seg>
       </tuv>
       <tuv lang="ja">
         <seg>分煙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>serbian_orthodox</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>セルビア正教</seg>
       </tuv>
     </tu>
     <tu>
@@ -64929,6 +68149,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>settlement</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>居住地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>seventh_day_adventist</seg>
       </tuv>
       <tuv lang="ja">
@@ -64957,6 +68185,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>シャクティ派</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>share_busway</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>バス専用車線と共用</seg>
       </tuv>
     </tu>
     <tu>
@@ -65145,6 +68381,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>single_slip</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>片渡り付交差</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>site</seg>
       </tuv>
       <tuv lang="ja">
@@ -65217,6 +68461,22 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>slide</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>滑り台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>sliding</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>引き戸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>smartism</seg>
       </tuv>
       <tuv lang="ja">
@@ -65233,10 +68493,34 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>soba</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>そば</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>soccer</seg>
       </tuv>
       <tuv lang="ja">
         <seg>サッカー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>sodium</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ナトリウム灯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>solar_lamp</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ソーラー照明</seg>
       </tuv>
     </tu>
     <tu>
@@ -65313,10 +68597,34 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>spillway</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>貯水池の放水路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>spiritist</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>スピリティズム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>spiritualist</seg>
       </tuv>
       <tuv lang="ja">
         <seg>降霊術士、イタコ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>splash_pad</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>水遊び場</seg>
       </tuv>
     </tu>
     <tu>
@@ -65349,6 +68657,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>スポーツに物理的な地物が設定されていない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>sports</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>スポーツ</seg>
       </tuv>
     </tu>
     <tu>
@@ -65593,6 +68909,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>straight_mast</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>支柱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>stratovolcano</seg>
       </tuv>
       <tuv lang="ja">
@@ -65633,10 +68957,34 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>street name contains ß</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ßが含まれている通り名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>street with odd number of {0}, but without {1} and {2} or {3}</seg>
       </tuv>
       <tuv lang="ja">
         <seg>道路の{0}の値に奇数が指定されていますが、{1}と{2}、または{3}がありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>structure</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>複合遊具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>student</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>学生</seg>
       </tuv>
     </tu>
     <tu>
@@ -65673,6 +69021,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>suits</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>スーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>sum</seg>
       </tuv>
       <tuv lang="ja">
@@ -65705,6 +69061,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>superroute</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>スーパールート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>surface</seg>
       </tuv>
       <tuv lang="ja">
@@ -65725,6 +69089,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>寿司</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>suspended</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>吊り下げ式</seg>
       </tuv>
     </tu>
     <tu>
@@ -65785,6 +69157,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>swimwear</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>水着</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>swing</seg>
       </tuv>
       <tuv lang="ja">
@@ -65833,6 +69213,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>tailrace</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>発電用放水路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>taoist</seg>
       </tuv>
       <tuv lang="ja">
@@ -65849,6 +69237,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>tapas</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>タパス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>tax</seg>
       </tuv>
       <tuv lang="ja">
@@ -65861,6 +69257,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>お茶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>telecom</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>通信</seg>
       </tuv>
     </tu>
     <tu>
@@ -65893,6 +69297,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>テニス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>tenrikyo</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>天理教</seg>
       </tuv>
     </tu>
     <tu>
@@ -65941,6 +69353,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>一般道の連絡路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>tex-mex</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>テクス・メクス料理</seg>
       </tuv>
     </tu>
     <tu>
@@ -66029,6 +69449,22 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>3層</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>three_way</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>三枝分岐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>tibetan</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>チベット仏教</seg>
       </tuv>
     </tu>
     <tu>
@@ -66233,6 +69669,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>traditional</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>伝統衣装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>traffic</seg>
       </tuv>
       <tuv lang="ja">
@@ -66277,6 +69721,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>路面電車</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>trampoline</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>トランポリン</seg>
       </tuv>
     </tu>
     <tu>
@@ -66374,6 +69826,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>trapdoor</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ハッチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>trestle</seg>
       </tuv>
       <tuv lang="ja">
@@ -66454,6 +69914,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>tumulus</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>古墳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>tunnel</seg>
       </tuv>
       <tuv lang="ja">
@@ -66474,6 +69942,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>2層</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>tyres</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>タイヤ</seg>
       </tuv>
     </tu>
     <tu>
@@ -66518,6 +69994,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>underwear</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>下着</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>unexpected column number {0}</seg>
       </tuv>
       <tuv lang="ja">
@@ -66534,6 +70018,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>unisex_toilet</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>両性別用トイレ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>unit(s) =</seg>
       </tuv>
       <tuv lang="ja">
@@ -66546,6 +70038,22 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ユニテリアン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>unitarian_universalist</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ユニバ―サリスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>united_methodist</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>合同メソジスト教会</seg>
       </tuv>
     </tu>
     <tu>
@@ -66602,6 +70110,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>名前なし</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>unnecessary tag</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>不要なタグ</seg>
       </tuv>
     </tu>
     <tu>
@@ -66670,6 +70186,38 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>unusual value of {0}</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{0}は異常値です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>unusual value of {0}: kilometers is default; point is decimal separator; if units, put space then unit</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{0}は異常値です: キロメートルがデフォルトの単位で小数点は数値の区切りです。もし、単位があるならばスペースを入れてから単位を入力してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>unusual value of {0}: meters is default; point is decimal separator; if units, put space then unit</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{0}は異常値です: メートルがデフォルトの単位で小数点は数値の区切りです。もし、単位があるならばスペースを入れてから単位を入力してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>unusual value of {0}: tonne is default; point is decimal separator; if units, put space then unit</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{0}は異常値です: トンがデフォルトの単位で小数点は数値の区切りです。もし、単位があるならばスペースを入れてから単位を入力してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>up</seg>
       </tuv>
       <tuv lang="ja">
@@ -66682,6 +70230,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>max(最大値)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>urban</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>市街地にある樹木</seg>
       </tuv>
     </tu>
     <tu>
@@ -66714,6 +70270,22 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>条件をグループ化するために括弧を使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>user:&lt;i&gt;OSM username&lt;/i&gt; (objects with the author &lt;i&gt;OSM username&lt;/i&gt;)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>user:&lt;i&gt; OSMユーザー名&lt;/i&gt;（作成者が&lt;i&gt; OSMユーザー名&lt;/i&gt;のオブジェクト）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>user:anonymous (objects without an assigned author)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>user:anonymous（作者が割り当てられていないオブジェクト）</seg>
       </tuv>
     </tu>
     <tu>
@@ -66814,6 +70386,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>version:0 (objects without an assigned version)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>version:0（バージョンが割り当てられていないオブジェクト）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>vertical_axis</seg>
       </tuv>
       <tuv lang="ja">
@@ -66898,6 +70478,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ビレッジグリーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>village_hall</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>村役場</seg>
       </tuv>
     </tu>
     <tu>
@@ -67038,6 +70626,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>water_tank</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>貯水槽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>waterway</seg>
       </tuv>
       <tuv lang="ja">
@@ -67082,6 +70678,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ウェイは接続されています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>way is connected but has a wrong oneway direction</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>道はつながっているが一方通行の方向が間違っている</seg>
       </tuv>
     </tu>
     <tu>
@@ -67190,6 +70794,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>wedding</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ウェディング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>weight (t)</seg>
       </tuv>
       <tuv lang="ja">
@@ -67218,6 +70830,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>小麦</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wheelchair_toilet</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>車いす対応トイレ</seg>
       </tuv>
     </tu>
     <tu>
@@ -67254,10 +70874,50 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>wikidata tag must be in Qnnnn format, where n is a digit</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>wikidataタグはQnnnn（nは数字）の形式でなければなりません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>wikipedia language seems to be duplicated, e.g. en:en:Foo</seg>
       </tuv>
       <tuv lang="ja">
         <seg>Wikipediaの言語が重複しているようです。例: en:en:Foo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wikipedia page title should have first letter capitalized</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Wikipediaのページ名は一文字目を大文字にすべきです</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wikipedia tag has an unknown language prefix</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>wikipediaタグの言語接頭辞は不明です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wikipedia title should not have ''{0}'' prefix</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Wikipediaのページ名は''{0}''の接頭辞を持つべきではありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wikipedia title should not start with a space after language code</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Wikipediaのページ名は言語コードの後にスペースを入れずに始めるべきです</seg>
       </tuv>
     </tu>
     <tu>
@@ -67302,6 +70962,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>wings</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>手羽先</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>wire</seg>
       </tuv>
       <tuv lang="ja">
@@ -67326,10 +70994,34 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>woman</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>女性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>women</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>レディース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>wood</seg>
       </tuv>
       <tuv lang="ja">
         <seg>森林</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>workwear</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>作業着</seg>
       </tuv>
     </tu>
     <tu>
@@ -67346,6 +71038,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ノードにhighwayタグがあるのは誤り</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wye</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>両開き</seg>
       </tuv>
     </tu>
     <tu>
@@ -67370,6 +71070,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>操車場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>yellow</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>黄色</seg>
       </tuv>
     </tu>
     <tu>
@@ -67442,6 +71150,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>''{1}'' {0}件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} (GPX export)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{0} (GPX エクスポート)</seg>
       </tuv>
     </tu>
     <tu>
@@ -67606,6 +71322,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{0} cache, total cache size: {1}</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{0}のキャッシュ、総キャッシュサイズ: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{0} completed in {1}</seg>
       </tuv>
       <tuv lang="ja">
@@ -67698,6 +71422,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>{0}は推奨されていません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} is deprecated in {1}</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{1}では{0}は非推奨です</seg>
       </tuv>
     </tu>
     <tu>
@@ -67868,6 +71600,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{0} node connected to a highway</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{0}のノードが道路に接続している</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{0} nodes so far...</seg>
       </tuv>
       <tuv lang="ja">
@@ -67948,10 +71688,26 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{0} of {1} elements done</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>要素{0}/{1}件が完了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{0} on a node</seg>
       </tuv>
       <tuv lang="ja">
         <seg>{0}がノード上にある</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} on a relation without {1}</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>リレーションに{0}があるのに{1}がない</seg>
       </tuv>
     </tu>
     <tu>
@@ -68012,6 +71768,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{0} should be an integer value between -5 and 5</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{0}は-5～5の整数であるべきです</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{0} should be on the node where {1} and {2} intersect</seg>
       </tuv>
       <tuv lang="ja">
@@ -68044,10 +71808,50 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{0} tag should not have URL-encoded values like ''%27''</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{0}タグに''%27''のようなURLをエンコードした値は入るべきではありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} together with {1}</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{0}と{1}が一緒にある</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} together with {1} and conflicting values</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{0}が{1}と一緒にあるが、値が矛盾している</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} together with {1} and {2}</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{0}が{1}、{2}と一緒にある</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{0} track</seg>
       </tuv>
       <tuv lang="ja">
         <seg>{0}本のトラック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} track, {1} track segments</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>トラック{0}件、トラック区間{1}件</seg>
       </tuv>
     </tu>
     <tu>
@@ -68072,6 +71876,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>選択範囲内は{0}人が最終編集しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} value with + sign</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{0}の値に+記号がついている</seg>
       </tuv>
     </tu>
     <tu>
@@ -68116,6 +71928,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{0} without number</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{0}に数値以外が入力されている</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{0} without {1}</seg>
       </tuv>
       <tuv lang="ja">
@@ -68136,6 +71956,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>{1}や{2}や{3}がない{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} without {1}, {2}, {3} or {4}</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{0}があるのに{1}、{2}、{3}、{4}のいずれかがない</seg>
       </tuv>
     </tu>
     <tu>
