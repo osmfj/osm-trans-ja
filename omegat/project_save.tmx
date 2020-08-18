@@ -24394,6 +24394,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you want to save the offset as bookmark, enter the bookmark name below</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T052102Z" creationid="miurahr" creationdate="20200818T052102Z">
+        <seg>オフセットをブックマークとして保存する場合は、下にブックマーク名を入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If your project's mapping needs can be served simply by using the Google Maps API, fine.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T014722Z" creationid="miurahr" creationdate="20200818T014722Z">
@@ -26128,6 +26136,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>反転フィルター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Invert Selection</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T052108Z" creationid="miurahr" creationdate="20200818T052108Z">
+        <seg>選択を反転</seg>
       </tuv>
     </tu>
     <tu>
@@ -49443,6 +49459,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The selected way has nodes which can have other referrers not yet downloaded.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T052353Z" creationid="miurahr" creationdate="20200818T052353Z">
+        <seg>選択されたウェイには、まだダウンロードされていない参照しているノードがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The selected way is not a split way, please select split points or split way too.</seg>
       </tuv>
       <tuv lang="ja">
@@ -56533,6 +56557,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>{0}件のオブジェクトに空のロールを設定しようとしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can also enter east and north offset in the {0} coordinates.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T052035Z" creationid="miurahr" creationdate="20200818T052035Z">
+        <seg>{0}座標に東方向と北方向のオフセットを入力することもできます。</seg>
       </tuv>
     </tu>
     <tu>
