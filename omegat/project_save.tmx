@@ -24290,6 +24290,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If your project's mapping needs can be served simply by using the Google Maps API, fine.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T014722Z" creationid="miurahr" creationdate="20200818T014722Z">
+        <seg>もし、あなたのプロジェクトが Google API を使えば簡単に済むなら、それもいいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ignore</seg>
       </tuv>
       <tuv lang="ja">
@@ -48410,6 +48418,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>That's not true of every project, though.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T014828Z" creationid="miurahr" creationdate="20200818T014828Z">
+        <seg>しかし、すべてのプロジェクトがそうとは限りません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The "from" and the first "via" way are not connected.</seg>
       </tuv>
       <tuv lang="ja">
@@ -55412,6 +55428,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>道祖神</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We need a free dataset which will enable programmers, citizen scientists, social activists, cartographers and the like to fulfill their plans without being limited either by Google's API or by their [https://www.google.com/help/terms_maps/ Google Maps/Google Earth Additional Terms of Service]:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T014856Z" creationid="miurahr" creationdate="20200818T014856Z">
+        <seg>私たちは、プログラマー、市中の研究者、社会活動家、地図情報技師などが、 Google API やその[https://www.google.com/intl/ja/policies/terms/regional.html 利用規約]の制約を受けずに構想を満たすことができる、自由なデータセットを必要としています。</seg>
       </tuv>
     </tu>
     <tu>
