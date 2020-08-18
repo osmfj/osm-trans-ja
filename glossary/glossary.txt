@@ -22,3 +22,4 @@ imagery layer	画像レイヤー
 node	ノード
 multipolygon relation	マルチポリゴンリレーション
 Simplify	単純化
+standard parallels	標準緯線
