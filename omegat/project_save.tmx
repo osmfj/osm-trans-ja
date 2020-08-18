@@ -313,6 +313,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Hint: Select nodes in the middle of the way.)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114420Z" creationid="miurahr" creationdate="20200818T114420Z">
+        <seg>(ヒント:ウェイの途中にあるノードを選択します)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Kosovo now has independent government, recognised by many other countries, so this is now less relevant.)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T001341Z" creationid="miurahr" creationdate="20200818T001341Z">
@@ -33592,6 +33600,14 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No, abort the split operation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114426Z" creationid="miurahr" creationdate="20200818T114426Z">
+        <seg>いいえ、分割操作を中止します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No, continue editing</seg>
       </tuv>
       <tuv lang="ja">
@@ -33620,6 +33636,14 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>いいえ、そのままにする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No, perform the split without downloading</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114431Z" creationid="miurahr" creationdate="20200818T114431Z">
+        <seg>いいえ、ダウンロードせずに分割を実行します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52695,6 +52719,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This way is part of a relation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114440Z" creationid="miurahr" creationdate="20200818T114434Z">
+        <seg>このウェイはリレーションの一部です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This wiki page intends to be a complete reference to the structure of Overpass QL.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200813T121952Z" creationid="miurahr" creationdate="20200813T121952Z">
@@ -59015,6 +59047,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>はい、変更を破棄して再読み込みします</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yes, download the missing members</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114424Z" creationid="miurahr" creationdate="20200818T114424Z">
+        <seg>はい、見つからないメンバをダウンロードします</seg>
       </tuv>
     </tu>
     <tu>
@@ -69773,6 +69813,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>these relations</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114451Z" creationid="miurahr" creationdate="20200818T114451Z">
+        <seg>これらのリレーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>this layer can not have an offset</seg>
       </tuv>
       <tuv lang="ja">
@@ -69809,6 +69857,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>このレイヤーはアクティブなレイヤーです</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>this relation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T114446Z" creationid="miurahr" creationdate="20200818T114446Z">
+        <seg>このリレーション</seg>
       </tuv>
     </tu>
     <tu>
