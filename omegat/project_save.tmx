@@ -2581,6 +2581,14 @@ Overpass QL のコードは''ステートメント'' からなっており、そ
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>=== Why are you making OpenStreetMap?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T013221Z" creationid="miurahr" creationdate="20200818T013221Z">
+        <seg>===なぜ OpenStreetMap を作っているのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>==== Naming ====
 According to the "On the Ground Rule" whatever people are using on the ground at that location will win the non-localized tags.</seg>
       </tuv>
@@ -14203,6 +14211,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Data from commercial maps sometimes contain lies, or [[Copyright Easter Eggs]], to catch anyone copying it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T013550Z" creationid="miurahr" creationdate="20200818T013550Z">
+        <seg>商用の地図データにはわざと嘘の情報、つまり[[Copyright Easter Eggs|イースターエッグ]]が含まれていて、複製したことを見つけられるようにしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Data not available.</seg>
       </tuv>
       <tuv lang="ja">
@@ -22457,6 +22473,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Generally these places have given the task of mapping to various government agencies who in return get to make money by selling the data back to you and me.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T013245Z" creationid="miurahr" creationdate="20200818T013245Z">
+        <seg>通常、これらの地域では様々な政府機関が地図作成の作業をしており、あなたや私にデータを販売することで対価を得ています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Generate Imagery XML bounds for the selection</seg>
       </tuv>
       <tuv lang="ja">
@@ -22501,6 +22525,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>GeoTiff ファイル(*.tif)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Geographical data (geo data) is not free in many parts of the world.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T013231Z" creationid="miurahr" creationdate="20200818T013231Z">
+        <seg>地理データ（ジオデータ）は世界の多くの地域では自由に利用することができません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24154,6 +24186,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you live in one of these countries, then your taxes pay for the mapping and then you have to pay again to get a copy of it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T013258Z" creationid="miurahr" creationdate="20200818T013258Z">
+        <seg>これらの国のどれかに住んでいる人は、地図の制作に税金を払い、それを利用するために再度対価を払わなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ignore</seg>
       </tuv>
       <tuv lang="ja">
@@ -24902,6 +24942,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>混在させる場合、オブジェクトの種類を指定します。例：{0}&lt;br/&gt;({1} は &lt;i&gt;ノード&lt;/i&gt;、{2}は &lt;i&gt;ウェイ&lt;/i&gt;、{3} は &lt;i&gt;リレーション&lt;/i&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the USA, crude data (such as [[TIGER]]) is in the public domain, however refined data and finished maps are generally commercially copyrighted.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T013311Z" creationid="miurahr" creationdate="20200818T013311Z">
+        <seg>アメリカが唯一の例外で、政府が職務で製作した生データ（TIGER など）はパブリックドメインで地理データを提供しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67314,6 +67362,23 @@ OpenStreetMap '''disputes''' or '''edit wars''' are situations where consensus i
       <tuv lang="ja" changeid="miurahr" changedate="20200817T234212Z" creationid="miurahr" creationdate="20200817T234212Z">
         <seg>{{Languages|Disputes}}
 OpenStreetMap では、データベース内でタグ付けや地物の存在が適切であるかどうか合意できていない状況を、'''紛争'''（disputes）または'''編集合戦'''（edit wars）と呼んでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{Languages|FAQ}}
+'''{{otheruses|License change|link=Open Data License FAQ}}
+{{otheruses|Modelling questions|link=Map Features}}
+{{otheruses|Legal aspects|link=Legal FAQ}}
+{{otheruses|Developers|link=Developer FAQ}}'''</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T013206Z" creationid="miurahr" creationdate="20200818T013206Z">
+        <seg>{{Languages|FAQ}}
+{{Translation not complete}}
+'''{{otheruses|ライセンスの変更|link=Open Data License FAQ}}
+{{otheruses|モデリングの疑問|link=JA:Map Features}}
+{{otheruses|法的事項|link=Legal FAQ}}
+{{otheruses|開発者向け|link=Developer FAQ}}'''</seg>
       </tuv>
     </tu>
     <tu>
