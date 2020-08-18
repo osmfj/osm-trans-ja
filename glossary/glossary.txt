@@ -19,3 +19,4 @@ imagery	画像
 offset	オフセット
 bookmark	ブックマーク
 imagery layer	画像レイヤー
+node	ノード
