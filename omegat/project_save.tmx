@@ -121,6 +121,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>'''Long answer:'''</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T014533Z" creationid="miurahr" creationdate="20200818T014533Z">
+        <seg>'''長い答え:'''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>'''OpenStreetBugs''' was a database and website for marking errors in the OpenStreetMap ''data''.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200817T214514Z" creationid="miurahr" creationdate="20200817T214514Z">
@@ -133,6 +141,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200813T120425Z" creationid="miurahr" creationdate="20200813T120425Z">
         <seg>Overpass QL（"Overpass Query Language"の短縮形) は、 [[Overpass API]];  における二番目の問い合わせ言語で、[[Overpass_API/Language_Guide#The_languages|Overpass XML]の代替として設計されたものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>'''Short answer:'''</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T014448Z" creationid="miurahr" creationdate="20200818T014448Z">
+        <seg>'''短い答え:'''</seg>
       </tuv>
     </tu>
     <tu>
@@ -2585,6 +2601,14 @@ Overpass QL のコードは''ステートメント'' からなっており、そ
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T013221Z" creationid="miurahr" creationdate="20200818T013221Z">
         <seg>===なぜ OpenStreetMap を作っているのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>=== Why don't you just use Google Maps/whoever for your data?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T014436Z" creationid="miurahr" creationdate="20200818T014436Z">
+        <seg>===なぜ手っ取り早く Google マップなどのデータを使わないのですか？{{anchor|Why don't you just use Google Maps/whoever for your data?}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -6807,6 +6831,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>美容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Because that data is copyrighted and owned by multiple organisations like the Ordnance Survey.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T014511Z" creationid="miurahr" creationdate="20200818T014511Z">
+        <seg>地図データには著作権があり、地図業者がその権利を持っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22849,6 +22881,22 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Google Maps are free as in beer, not as in speech.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T014650Z" creationid="miurahr" creationdate="20200818T014650Z">
+        <seg>Google マップはビールの意味であり、トークの意味ではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Google/whoever just licenses it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T014520Z" creationid="miurahr" creationdate="20200818T014520Z">
+        <seg> Google などはそのデータのライセンスを受けています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Gotcha!" from looking if you also copied these fake pieces of map.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T014049Z" creationid="miurahr" creationdate="20200818T014049Z">
@@ -24182,6 +24230,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T001357Z" creationid="miurahr" creationdate="20200818T001357Z">
         <seg>例えば、場所の名前に２つのよく知られたバージョンの名前がある場合、"name"タグにはその両方(A/B)を付けられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If we were to use it, we'd have to pay for it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T014523Z" creationid="miurahr" creationdate="20200818T014523Z">
+        <seg>我々がそのデータを使うには、その使用料を支払う必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30052,6 +30108,14 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>モスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Most hackers around the world are familiar with the difference between &amp;quot;free&amp;quot; as in &amp;quot;free beer&amp;quot; and as in &amp;quot;free speech&amp;quot;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T014614Z" creationid="miurahr" creationdate="20200818T014614Z">
+        <seg>世界中のハッカーの多くは、フリービールと同じ意味の「フリー」（無料）と、フリートークのような「フリー」（自由）の違いになじんでいます。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -48494,6 +48558,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T001627Z" creationid="miurahr" creationdate="20200818T001627Z">
         <seg>[[Data Working Group]](DWG)には、重大な問題が発生した場合に対応するよう依頼できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ability to do so allows you to regain a little bit of the community you live in - if you can't map it, you can't describe it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T014414Z" creationid="miurahr" creationdate="20200818T014414Z">
+        <seg>そういったことができるようになることは、あなたの住む地域の何かを取り戻すことになります。地図を使えないという事は、その地域を表現できないということです。</seg>
       </tuv>
     </tu>
     <tu>
