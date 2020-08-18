@@ -8427,6 +8427,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cannot handle way that is inner in multiple multipolygon relations.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T052943Z" creationid="miurahr" creationdate="20200818T052943Z">
+        <seg>複数のマルチポリゴンリレーションの内側ウェイを処理できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cannot handle way that is outer in multiple multipolygon relations.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T052732Z" creationid="miurahr" creationdate="20200818T052732Z">
@@ -12973,6 +12981,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>タイルサーバーから画像を読み込めませんでした</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Could not parse Latitude, Longitude or Zoom.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T053222Z" creationid="miurahr" creationdate="20200818T053222Z">
+        <seg>緯度、経度、またはズームを解釈できませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26740,6 +26756,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Jumping to: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T053120Z" creationid="miurahr" creationdate="20200818T053104Z">
+        <seg> {0} へジャンプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Junction</seg>
       </tuv>
       <tuv lang="ja">
@@ -30876,6 +30900,14 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>リレーションに複数の通り名がある</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Multiple target ways, no common point found.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T053025Z" creationid="miurahr" creationdate="20200818T053025Z">
+        <seg>複数のターゲットウェイに共通点がありません。</seg>
       </tuv>
     </tu>
     <tu>
