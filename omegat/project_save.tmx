@@ -7603,6 +7603,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bolts</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T133337Z" creationid="miurahr" creationdate="20200819T133337Z">
+        <seg>ボルト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Book Store</seg>
       </tuv>
       <tuv lang="ja">
@@ -23555,6 +23563,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>French grading</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T133355Z" creationid="miurahr" creationdate="20200819T133355Z">
+        <seg>フランス式格付け</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Frequency in Hertz (Hz)</seg>
       </tuv>
       <tuv lang="ja">
@@ -38400,6 +38416,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pitches</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T133339Z" creationid="miurahr" creationdate="20200819T133339Z">
+        <seg>ピッチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pixel scale: {0}</seg>
       </tuv>
       <tuv lang="ja">
@@ -45016,6 +45040,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Route length (m)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T133342Z" creationid="miurahr" creationdate="20200819T133342Z">
+        <seg>ルート長(m)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Route patterns ...</seg>
       </tuv>
       <tuv lang="ja">
@@ -45092,6 +45124,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>GraphViewプラグインによって計算されたルーティンググラフ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rowing</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T133427Z" creationid="miurahr" creationdate="20200819T133427Z">
+        <seg>漕艇</seg>
       </tuv>
     </tu>
     <tu>
@@ -45780,6 +45820,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>製材所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Saxon grading</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T133410Z" creationid="miurahr" creationdate="20200819T133410Z">
+        <seg>ザクセン格付け</seg>
       </tuv>
     </tu>
     <tu>
@@ -55607,6 +55655,14 @@ or action canceled</seg>
       </tuv>
       <tuv lang="ja">
         <seg>標準所用時間(分)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>UIAA grading</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T133345Z" creationid="miurahr" creationdate="20200819T133345Z">
+        <seg>UIAA格付</seg>
       </tuv>
     </tu>
     <tu>
