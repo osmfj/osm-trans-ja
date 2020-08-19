@@ -11279,6 +11279,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Climbing site</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T133230Z" creationid="miurahr" creationdate="20200819T133230Z">
+        <seg>登山場所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Clinic</seg>
       </tuv>
       <tuv lang="ja">
@@ -30296,6 +30304,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Local loop type</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T133123Z" creationid="miurahr" creationdate="20200819T133123Z">
+        <seg>ローカルループタイプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Local name</seg>
       </tuv>
       <tuv lang="ja">
@@ -30340,6 +30356,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>場所の説明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Location transition</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T133036Z" creationid="miurahr" creationdate="20200819T133036Z">
+        <seg>位置遷移</seg>
       </tuv>
     </tu>
     <tu>
@@ -31184,6 +31208,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Maximum climbing length (m)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T133305Z" creationid="miurahr" creationdate="20200819T133305Z">
+        <seg>最大登坂長(m)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Maximum concurrent downloads per host:</seg>
       </tuv>
       <tuv lang="ja">
@@ -31788,6 +31820,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ミニチュアゴルフ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Minimal climbing length (m)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T133248Z" creationid="miurahr" creationdate="20200819T133248Z">
+        <seg>最小登坂長(m)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35052,6 +35092,14 @@ nodes and the new nodes will be selected.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number of devices</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T133051Z" creationid="miurahr" creationdate="20200819T133051Z">
+        <seg>デバイス数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of forward lanes</seg>
       </tuv>
       <tuv lang="ja">
@@ -35136,6 +35184,14 @@ nodes and the new nodes will be selected.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>収容数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of routes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T133233Z" creationid="miurahr" creationdate="20200819T133233Z">
+        <seg>ルート数</seg>
       </tuv>
     </tu>
     <tu>
@@ -55539,10 +55595,34 @@ or action canceled</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Types of vehicles which can be charged:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T133213Z" creationid="miurahr" creationdate="20200819T133213Z">
+        <seg>充電可能な車両の型式:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Typical journey time in minutes</seg>
       </tuv>
       <tuv lang="ja">
         <seg>標準所用時間(分)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>UIAA: Most difficult route</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T133314Z" creationid="miurahr" creationdate="20200819T133314Z">
+        <seg>UIAA:最も難しいルート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>UIAA: Simplest route</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T133311Z" creationid="miurahr" creationdate="20200819T133311Z">
+        <seg>UIAA:最も単純なルート</seg>
       </tuv>
     </tu>
     <tu>
@@ -58216,6 +58296,22 @@ Create a new one.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200817T215330Z" creationid="miurahr" creationdate="20200817T215330Z">
         <seg>OpenStreetBugsのユーザーは、何かが欠けていたり、明らかに間違っていたりした場合、地図上に短いメッセージを残すことができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Usual elevation at the bottom of the routes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T133238Z" creationid="miurahr" creationdate="20200819T133238Z">
+        <seg>ルートの下部の通常の標高</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Usual route length (m)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T133244Z" creationid="miurahr" creationdate="20200819T133244Z">
+        <seg>通常ルート長(m)</seg>
       </tuv>
     </tu>
     <tu>
@@ -61825,6 +61921,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>alternative segment</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T133147Z" creationid="miurahr" creationdate="20200819T133147Z">
+        <seg>代替セグメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>altitude</seg>
       </tuv>
       <tuv lang="ja">
@@ -61965,6 +62069,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>{0}を適用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>approach segment</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T133152Z" creationid="miurahr" creationdate="20200819T133152Z">
+        <seg>アプローチセグメント</seg>
       </tuv>
     </tu>
     <tu>
@@ -63425,6 +63537,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>connection segment</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T133206Z" creationid="miurahr" creationdate="20200819T133206Z">
+        <seg>接続セグメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>conservative</seg>
       </tuv>
       <tuv lang="ja">
@@ -64421,6 +64541,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>糞袋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>excursion segment</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T133155Z" creationid="miurahr" creationdate="20200819T133155Z">
+        <seg>可動域</seg>
       </tuv>
     </tu>
     <tu>
@@ -66465,6 +66593,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>leblanc</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T133119Z" creationid="miurahr" creationdate="20200819T133119Z">
+        <seg>ルブラン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>left</seg>
       </tuv>
       <tuv lang="ja">
@@ -68189,6 +68325,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>閉店</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>open-delta</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T133110Z" creationid="miurahr" creationdate="20200819T133110Z">
+        <seg>オープンデルタ</seg>
       </tuv>
     </tu>
     <tu>
@@ -70773,6 +70917,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>スタンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>star</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T133106Z" creationid="miurahr" creationdate="20200819T133106Z">
+        <seg>星</seg>
       </tuv>
     </tu>
     <tu>
