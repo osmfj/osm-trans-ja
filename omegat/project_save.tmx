@@ -8339,6 +8339,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cache update for {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T132640Z" creationid="miurahr" creationdate="20200819T132640Z">
+        <seg>{0}のキャッシュの更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cadastral sections and subsections.</seg>
       </tuv>
       <tuv lang="ja">
@@ -21201,6 +21209,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Exception was: {1}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T132635Z" creationid="miurahr" creationdate="20200819T132635Z">
+        <seg>例外:{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Executing platform startup hook</seg>
       </tuv>
       <tuv lang="ja">
@@ -24347,6 +24363,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Got {2}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T132546Z" creationid="miurahr" creationdate="20200819T132546Z">
+        <seg>{2}を取得しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Gotcha!" from looking if you also copied these fake pieces of map.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T014049Z" creationid="miurahr" creationdate="20200818T014049Z">
@@ -26188,10 +26212,26 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Illegal value for attribute ''type'' on member {0} in relation {1}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T132540Z" creationid="miurahr" creationdate="20200819T132540Z">
+        <seg>リレーション {1} のメンバー {0} の属性 ''type'' が無効です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Illegal value for parameter ''{0}'': {1}</seg>
       </tuv>
       <tuv lang="ja">
         <seg>引数 ''{0}'' の値が不正です: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Illegal value of attribute ''{0}'' of element ''{1}'' in server capabilities.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T132650Z" creationid="miurahr" creationdate="20200819T132650Z">
+        <seg>サーバー機能の要素「{1}」の属性「{0}」の値が無効です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39510,6 +39550,22 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Plugin {0} must be run on a {1} platform.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T132702Z" creationid="miurahr" creationdate="20200819T132702Z">
+        <seg>プラグイン{0}は{1}プラットフォームで実行する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Plugin {0} requires Java version {1}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T132705Z" creationid="miurahr" creationdate="20200819T132705Z">
+        <seg>プラグイン{0}にはJavaバージョン{1}が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Plugins</seg>
       </tuv>
       <tuv lang="ja">
@@ -52125,6 +52181,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The current Java version is {2}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T132709Z" creationid="miurahr" creationdate="20200819T132709Z">
+        <seg>現在のJavaバージョンは{2}です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The current selection cannot be used for splitting - no node is selected.</seg>
       </tuv>
       <tuv lang="ja">
@@ -60653,6 +60717,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>先に設定情報のタグ付きプリセットのソースを指定してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have to update Java in order to use this plugin.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T132714Z" creationid="miurahr" creationdate="20200819T132714Z">
+        <seg>このプラグインを使用するには、Javaを更新する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
