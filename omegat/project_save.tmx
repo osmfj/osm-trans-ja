@@ -1867,6 +1867,14 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;html&gt;Plugin {0} requires JOSM version {1}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T132719Z" creationid="miurahr" creationdate="20200819T132719Z">
+        <seg>&lt;html&gt;プラグイン{0}にはJOSMバージョン{1}が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;html&gt;Preferences file had errors.&lt;br&gt; Creating a new default preference file.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T114836Z" creationid="miurahr" creationdate="20200818T114836Z">
@@ -13651,6 +13659,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Could not load plugin {0}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T132726Z" creationid="miurahr" creationdate="20200819T132726Z">
+        <seg>プラグイン{0}をロードできませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Could not parse Latitude, Longitude or Zoom.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T053222Z" creationid="miurahr" creationdate="20200818T053222Z">
@@ -15549,6 +15565,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Delete from preferences?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T132740Z" creationid="miurahr" creationdate="20200819T132740Z">
+        <seg>設定から削除しますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Delete from relation</seg>
       </tuv>
       <tuv lang="ja">
@@ -17339,6 +17363,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>''制約値 @ 条件''のパターンに一致しません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dog</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T132943Z" creationid="miurahr" creationdate="20200819T132943Z">
+        <seg>ドッグ</seg>
       </tuv>
     </tu>
     <tu>
@@ -19807,6 +19839,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Either request a smaller area, or use planet.osm</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T132823Z" creationid="miurahr" creationdate="20200819T132823Z">
+        <seg>より小さい領域を要求するか、planet.osmを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Electrical Appliances</seg>
       </tuv>
       <tuv lang="ja">
@@ -21973,6 +22013,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T114649Z" creationid="miurahr" creationdate="20200818T114624Z">
         <seg>設定の初期化に失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Failed to install plugin ''{0}'' from temporary download file ''{1}''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T132747Z" creationid="miurahr" creationdate="20200819T132747Z">
+        <seg>プラグイン「{0}」を一時ダウンロードファイル「{1}」からインストールできませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31096,6 +31144,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Max.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T132839Z" creationid="miurahr" creationdate="20200819T132839Z">
+        <seg>最大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Maximum age</seg>
       </tuv>
       <tuv lang="ja">
@@ -39442,6 +39498,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>変更セットのソースを指定してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please try again later.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T132809Z" creationid="miurahr" creationdate="20200819T132809Z">
+        <seg>後でもう一度試してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51466,6 +51530,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tags which are implied and do not need to be set are `motor_vehicle=no` and `emergency=destination`.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T133000Z" creationid="miurahr" creationdate="20200819T133000Z">
+        <seg>暗黙的であり、設定する必要のないタグは、「motor_vehicle=no」と「emergency=destination」です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tags with empty values</seg>
       </tuv>
       <tuv lang="ja">
@@ -52181,6 +52253,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The current JOSM version is {2}.&lt;br&gt;You have to update JOSM in order to use this plugin.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T132723Z" creationid="miurahr" creationdate="20200819T132723Z">
+        <seg>現在のJOSMバージョンは{2}です。&lt;br&gt;このプラグインを使用するには、JOSMを更新する必要があります。&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The current Java version is {2}.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200819T132709Z" creationid="miurahr" creationdate="20200819T132709Z">
@@ -52545,6 +52625,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja">
         <seg>マークされたチャネルは交差点ではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The maximum bbox size is 0.25, and your request was too large.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T132817Z" creationid="miurahr" creationdate="20200819T132817Z">
+        <seg>bboxの最大サイズは0.25で、要求が大きすぎます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60697,6 +60785,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have downloaded too much data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T132804Z" creationid="miurahr" creationdate="20200819T132804Z">
+        <seg>ダウンロードしたデータが多すぎます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have encountered a bug in JOSM</seg>
       </tuv>
       <tuv lang="ja">
@@ -62905,6 +63001,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>chess</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T132934Z" creationid="miurahr" creationdate="20200819T132934Z">
+        <seg>チェス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>chicken</seg>
       </tuv>
       <tuv lang="ja">
@@ -63257,6 +63361,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>concrete:lanes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T132831Z" creationid="miurahr" creationdate="20200819T132831Z">
+        <seg>コンクリート:車線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>concrete:plates</seg>
       </tuv>
       <tuv lang="ja">
@@ -63541,6 +63653,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>カルバート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>curling</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T132937Z" creationid="miurahr" creationdate="20200819T132937Z">
+        <seg>カーリング</seg>
       </tuv>
     </tu>
     <tu>
@@ -65329,6 +65449,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>height (meters)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T132932Z" creationid="miurahr" creationdate="20200819T132932Z">
+        <seg>高さ(メートル)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>helper line</seg>
       </tuv>
       <tuv lang="ja">
@@ -66309,6 +66437,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>差し掛け小屋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>leashed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T132948Z" creationid="miurahr" creationdate="20200819T132948Z">
+        <seg>制限された</seg>
       </tuv>
     </tu>
     <tu>
@@ -69777,6 +69913,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>scuba_diving</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T132940Z" creationid="miurahr" creationdate="20200819T132940Z">
+        <seg>スキューバダイビング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>sculpture</seg>
       </tuv>
       <tuv lang="ja">
@@ -70453,6 +70597,22 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>速度(km/h)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>speed in way direction</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T132844Z" creationid="miurahr" creationdate="20200819T132844Z">
+        <seg>進行方向の速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>speed opposed to way direction</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T132847Z" creationid="miurahr" creationdate="20200819T132847Z">
+        <seg>反対方向の速度</seg>
       </tuv>
     </tu>
     <tu>
@@ -71998,6 +72158,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>unleashed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T132952Z" creationid="miurahr" creationdate="20200819T132952Z">
+        <seg>解き放たれた</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>unmarked</seg>
       </tuv>
       <tuv lang="ja">
@@ -72778,6 +72946,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>幅(m)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>width (meters)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T132929Z" creationid="miurahr" creationdate="20200819T132929Z">
+        <seg>幅(メートル)</seg>
       </tuv>
     </tu>
     <tu>
