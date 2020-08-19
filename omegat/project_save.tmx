@@ -63593,6 +63593,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>connection</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T232604Z" creationid="miurahr" creationdate="20200819T232604Z">
+        <seg>接続</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>connection segment</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200819T133206Z" creationid="miurahr" creationdate="20200819T133206Z">
@@ -65705,6 +65713,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>hike</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T232611Z" creationid="miurahr" creationdate="20200819T232611Z">
+        <seg>ハイキング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>hindu</seg>
       </tuv>
       <tuv lang="ja">
@@ -65925,6 +65941,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>アイスリンク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ice_skate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T232614Z" creationid="miurahr" creationdate="20200819T232614Z">
+        <seg>アイススケート</seg>
       </tuv>
     </tu>
     <tu>
@@ -68993,6 +69017,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>playground</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T232620Z" creationid="miurahr" creationdate="20200819T232620Z">
+        <seg>児童公園</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>please select a turn restriction type</seg>
       </tuv>
       <tuv lang="ja">
@@ -70661,6 +70693,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>スキーツアー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>sled</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T232628Z" creationid="miurahr" creationdate="20200819T232628Z">
+        <seg>実装されている名前空間と言語の例: Page_name ''(できれば英語)'' Cs:Page_name ''(チェコ語)'' DE:Page_name ''(ドイツ語)'' ES:Page_name ''(スペイン語)'' FR:Page_name ''(フランス語)'' IT:Page_name ''(イタリア語)'' JA:Page_name ''(日本語)'' NL:Page_name ''(オランダ語)'' RU:Page_name ''(ロシア語)'' Uk:Page_name ''(ウクライナ語、イギリスではありません!!!)'' === 短い解説 === # テンプレートが正しく動作するように、すべてのページ名は英語にします。 &lt;br&gt;各翻訳ページは、言語コードを接頭辞とし、コロンで接続して英語ページ名をページ名にする必要があります。</seg>
       </tuv>
     </tu>
     <tu>
