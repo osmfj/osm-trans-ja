@@ -281,6 +281,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>''{0}'' is not a valid value for argument ''{1}''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T112545Z" creationid="miurahr" creationdate="20200819T112545Z">
+        <seg>''{0}''は引数''{1}''に対して有効な値ではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(# requests unknown)</seg>
       </tuv>
       <tuv lang="ja">
@@ -440,6 +448,14 @@ no_more_mappingを外してください)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T111951Z" creationid="miurahr" creationdate="20190107T111951Z">
         <seg>(b) OSMFはあなたがプロジェクトに投稿するコンテンツをそこに含めておく必要はなく、あなたの投稿をプロジェクトからいつ何時取り除くかもしれないということに注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(click to activate previous offset)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T113348Z" creationid="miurahr" creationdate="20200819T113348Z">
+        <seg>(クリックして前のオフセットをアクティブにします)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1267,6 +1283,14 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;html&gt;Alternatively you may enter a &lt;strong&gt;tile address&lt;/strong&gt; for a single tile in the format &lt;i&gt;zoomlevel/x/y&lt;/i&gt;, e.g. &lt;i&gt;15/256/223&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T112728Z" creationid="miurahr" creationdate="20200819T112728Z">
+        <seg>&lt;html&gt;または、&lt;i&gt;ズームレベル/x/y&lt;/i&gt;の形式&lt;i&gt;/x/y&lt;/i&gt;の形式で入力することもできます(例:&lt;i&gt;15/256/223&lt;/i&gt;)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;html&gt;An error occurred while restoring backup file.&lt;br&gt;Error is:&lt;br&gt;{0}&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ja">
@@ -1447,6 +1471,14 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
       </tuv>
       <tuv lang="ja">
         <seg>&lt;html&gt;県番号(オプション)&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;html&gt;Download changesets in the current map view.&lt;br&gt;&lt;em&gt;Disabled.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T130120Z" creationid="miurahr" creationdate="20200819T130120Z">
+        <seg>&lt;html&gt;現在のマップビューで変更セットをダウンロードします。&lt;br&gt;&lt;em&gt;無効です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4162,6 +4194,14 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add tag with correct language key.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T234435Z" creationid="miurahr" creationdate="20200818T234435Z">
+        <seg>正しい言語キーでタグを追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add tags boundary and admin_level to boundary relation ways</seg>
       </tuv>
       <tuv lang="ja">
@@ -4302,6 +4342,14 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
       </tuv>
       <tuv lang="ja">
         <seg>ウェイ {0} を追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add {0} ({1}=public_transport; {2}=legacy)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T234612Z" creationid="miurahr" creationdate="20200818T234612Z">
+        <seg>{0}({1}=public_transport;{2}=legacy)を追加</seg>
       </tuv>
     </tu>
     <tu>
@@ -5578,6 +5626,14 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An unexpected exception occurred.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T112746Z" creationid="miurahr" creationdate="20200819T112746Z">
+        <seg>予期しない例外が発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An unexpected exception occurred:</seg>
       </tuv>
       <tuv lang="ja">
@@ -6085,8 +6141,8 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       <tuv lang="en-US">
         <seg>Area style on outer way</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>outerウェイにエリアスタイルがあります</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T234150Z">
+        <seg>外側のrウェイにエリアスタイルがあります</seg>
       </tuv>
     </tu>
     <tu>
@@ -6919,6 +6975,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>かばん店</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Baker Street</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T113446Z" creationid="miurahr" creationdate="20200819T113446Z">
+        <seg>ベーカー街</seg>
       </tuv>
     </tu>
     <tu>
@@ -8667,6 +8731,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cannot build changeset query with time based restrictions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T130154Z" creationid="miurahr" creationdate="20200819T130154Z">
+        <seg>時間ベースの制限を持つ変更セットクエリを作成できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cannot build resolution command</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T115228Z" creationid="miurahr" creationdate="20190107T115228Z">
@@ -9015,6 +9087,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>WGS84に変換できません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cannot understand the following type: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T115531Z" creationid="miurahr" creationdate="20200819T115531Z">
+        <seg>次のタイプを理解できません:{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -11407,6 +11487,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Closed at:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T115632Z" creationid="miurahr" creationdate="20200819T115632Z">
+        <seg>終了日時:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Closed basetags while it was not open</seg>
       </tuv>
       <tuv lang="ja">
@@ -12655,6 +12743,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Connect overlapping tracks on cuts</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T130411Z" creationid="miurahr" creationdate="20200819T130411Z">
+        <seg>カット上のオーバーラップトラックの接続</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Connect to gpsd server and show current position in LiveGPS layer.</seg>
       </tuv>
       <tuv lang="ja">
@@ -13449,6 +13545,16 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Could not access data file:
+{0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T235126Z" creationid="miurahr" creationdate="20200818T235126Z">
+        <seg>データファイルにアクセスできませんでした。:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Could not acquire image</seg>
       </tuv>
       <tuv lang="ja">
@@ -14229,8 +14335,8 @@ Do you want to keep it?</seg>
       <tuv lang="en-US">
         <seg>Created at:</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>作成日:</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T130057Z">
+        <seg>作成日時:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14383,6 +14489,14 @@ Do you want to keep it?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>有人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crossing barrier/building</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T222054Z" creationid="miurahr" creationdate="20200818T222054Z">
+        <seg>いCrossing barrier/building</seg>
       </tuv>
     </tu>
     <tu>
@@ -14847,6 +14961,46 @@ Do you want to keep it?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>自転車専用通行帯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cycle layer up</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T130334Z" creationid="miurahr" creationdate="20200819T130334Z">
+        <seg>レイヤーを上に循環</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cycle layers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T130325Z" creationid="miurahr" creationdate="20200819T130325Z">
+        <seg>レイヤーの循環</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cycle through data layers in a downward direction</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T130227Z" creationid="miurahr" creationdate="20200819T130227Z">
+        <seg>データレイヤーを下方向に循環</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cycle through data layers in an upward direction</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T130342Z" creationid="miurahr" creationdate="20200819T130342Z">
+        <seg>データレイヤーを上方向に循環</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cycle through visible layers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T130314Z" creationid="miurahr" creationdate="20200819T130314Z">
+        <seg>表示されているレイヤを循環</seg>
       </tuv>
     </tu>
     <tu>
@@ -16675,6 +16829,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Display range: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T113214Z" creationid="miurahr" creationdate="20200819T113214Z">
+        <seg>表示範囲:{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Display street labels (at high zoom)</seg>
       </tuv>
       <tuv lang="ja">
@@ -17241,6 +17403,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ダブルステレオグラフィック図法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Double click to reset.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T130359Z" creationid="miurahr" creationdate="20200819T130359Z">
+        <seg>ダブルクリックしてリセットします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19893,6 +20063,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Empty role found when expecting one of ''{0}''</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T235017Z" creationid="miurahr" creationdate="20200818T235017Z">
+        <seg>ロールが ''{0}'' の何れかである必要があるのにロールがない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Empty role type found when expecting one of ''{0}''</seg>
       </tuv>
       <tuv lang="ja">
@@ -19969,6 +20147,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>リモート制御を有効</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enable strict mode.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T234513Z" creationid="miurahr" creationdate="20200818T234513Z">
+        <seg>厳密モードを有効化する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21919,6 +22105,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Failed to read MOTD.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T112440Z" creationid="miurahr" creationdate="20200819T112440Z">
+        <seg>MOTDの読み取りに失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Failed to rename file {0} to {1}.</seg>
       </tuv>
       <tuv lang="ja">
@@ -23029,6 +23223,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>密集した岩で覆われている領域で、植物はまばらか全く生えていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For details on the {0} and {1} commands, run them with the {2} option.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T112452Z" creationid="miurahr" creationdate="20200819T112452Z">
+        <seg>{0}および{1}コマンドの詳細については、{2}オプションを使用して実行してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25602,6 +25804,22 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you are running the latest version of JOSM and the plugins, please file a bug report in our bugtracker.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T112826Z" creationid="miurahr" creationdate="20200819T112826Z">
+        <seg>最新バージョンのJOSMとプラグインを実行している場合は、Bugtrackerでバグレポートを登録してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you are running the latest version of JOSM, please consider being kind and file a bug report.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T112811Z" creationid="miurahr" creationdate="20200819T112811Z">
+        <seg>最新バージョンのJOSMを使用している場合は、親切にバグレポートを提出してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you are unsure, please cancel this operation.&lt;br/&gt;If you want to continue, you are shown a dialog to decide how to adapt the relation.&lt;br/&gt;&lt;br/&gt;Do you want to continue?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T115224Z" creationid="miurahr" creationdate="20190107T115224Z">
@@ -25794,6 +26012,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ignored error filter changed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T115619Z" creationid="miurahr" creationdate="20200819T115619Z">
+        <seg>無視されたエラーフィルタが変更されました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ignoring caught exception because upload is canceled.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T223423Z" creationid="miurahr" creationdate="20190107T223423Z">
@@ -25846,6 +26072,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>座標を持たない {0} 件のノードを無視</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ignoring {0}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T235055Z" creationid="miurahr" creationdate="20200818T235055Z">
+        <seg>{0}を無視します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26634,6 +26868,22 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Incomplete multipolygon relation was modified</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T222158Z" creationid="miurahr" creationdate="20200818T222158Z">
+        <seg>不完全なマルチポリゴンリレーションが修正されました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Incomplete pedestrian crossing tagging.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T222117Z" creationid="miurahr" creationdate="20200818T222117Z">
+        <seg>横断歩道のタグ付けが不完全です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Incomplete tower</seg>
       </tuv>
       <tuv lang="ja">
@@ -26850,6 +27100,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Initializing Tag2Link rules</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T112651Z" creationid="miurahr" creationdate="20200819T112651Z">
+        <seg>Tag2Link規則の初期化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Initializing a session at the OSM website...</seg>
       </tuv>
       <tuv lang="ja">
@@ -26950,6 +27208,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>入力するデータファイル名 (.osm)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Input is not valid.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T130200Z" creationid="miurahr" creationdate="20200819T130200Z">
+        <seg>入力が無効です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27596,6 +27862,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It can be necessary to add the following</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T112529Z" creationid="miurahr" creationdate="20200819T112529Z">
+        <seg>以下を追加する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It cannot download&lt;br&gt;your changesets from the OSM server unless you enter your OSM user name&lt;br&gt;in the JOSM preferences.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T133159Z" creationid="miurahr" creationdate="20190107T114830Z">
@@ -27672,6 +27946,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200817T215924Z" creationid="miurahr" creationdate="20200817T215924Z">
         <seg>Googleで見つけた耳打ちリストです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It looks like JOSM crashed last time.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T112628Z" creationid="miurahr" creationdate="20200819T112628Z">
+        <seg>JOSMは前回クラッシュしたようです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27860,6 +28142,22 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>JOSM is out of date.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T112938Z" creationid="miurahr" creationdate="20200819T112938Z">
+        <seg>JOSMは時代遅れです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JOSM is running in offline mode.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T112555Z" creationid="miurahr" creationdate="20200819T112555Z">
+        <seg>JOSMはオフラインモードで実行されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>JOSM is searching for updates...</seg>
       </tuv>
       <tuv lang="ja">
@@ -27984,6 +28282,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>Java バージョン {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Java option to specify the maximum size of allocated memory in megabytes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T112537Z" creationid="miurahr" creationdate="20200819T112537Z">
+        <seg>割り当てられたメモリーの最大サイズをMB単位で指定するJavaオプション</seg>
       </tuv>
     </tu>
     <tu>
@@ -29062,6 +29368,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Layer {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T113225Z" creationid="miurahr" creationdate="20200819T113225Z">
+        <seg>レイヤー{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Layer: {0}</seg>
       </tuv>
       <tuv lang="ja">
@@ -29418,6 +29732,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>地図の一覧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>List of merged elements.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T112958Z" creationid="miurahr" creationdate="20200819T112958Z">
+        <seg>マージされた要素のリスト。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31574,6 +31896,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Missing name:*={0}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T234426Z" creationid="miurahr" creationdate="20200818T234426Z">
+        <seg>name:*={0} がありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Missing operator for NOT</seg>
       </tuv>
       <tuv lang="ja">
@@ -32584,6 +32914,22 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Multipolygon member repeated with different role</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T234344Z" creationid="miurahr" creationdate="20200818T234344Z">
+        <seg>マルチポリゴンのメンバーが異なるロールで複数登録されている</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Multipolygon member repeated with same role</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T234351Z" creationid="miurahr" creationdate="20200818T234351Z">
+        <seg>マルチポリゴンのメンバーが同じロールで重複しています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Multipolygon member(s) repeated with different role</seg>
       </tuv>
       <tuv lang="ja">
@@ -32608,6 +32954,14 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Multipolygon outer way shares segment with other ring</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T234307Z" creationid="miurahr" creationdate="20200818T234307Z">
+        <seg>マルチポリゴンの外側のウェイが他の輪と区間を共有している</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Multipolygon outer way shares segment(s) with other ring</seg>
       </tuv>
       <tuv lang="ja">
@@ -32620,6 +32974,14 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>マルチポリゴンのリレーションはouterウェイではなくareaタグでタグ付けしてください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Multipolygon ring contains segment twice</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T234256Z" creationid="miurahr" creationdate="20200818T234256Z">
+        <seg>マルチポリゴンの輪が区間を二重に含んでいる</seg>
       </tuv>
     </tu>
     <tu>
@@ -32640,10 +33002,26 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Multipolygon rings share node</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T234247Z" creationid="miurahr" creationdate="20200818T234247Z">
+        <seg>マルチポリゴンの輪がノードを共有している</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Multipolygon rings share node(s)</seg>
       </tuv>
       <tuv lang="ja">
         <seg>マルチポリゴンの輪がノードを共有している</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Multipolygon tags</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T235251Z" creationid="miurahr" creationdate="20200818T235251Z">
+        <seg>マルチポリゴンタグ</seg>
       </tuv>
     </tu>
     <tu>
@@ -35018,6 +35396,22 @@ nodes and the new nodes will be selected.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Object type not in preset</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T235142Z" creationid="miurahr" creationdate="20200818T235142Z">
+        <seg>オブジェクト種別:がプリセットにありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Object type {0} is not supported by tagging preset: {1}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T235240Z" creationid="miurahr" creationdate="20200818T235240Z">
+        <seg>オブジェクト種別:{0}がタグのプリセットにありません: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Object type:</seg>
       </tuv>
       <tuv lang="ja">
@@ -36238,6 +36632,14 @@ nodes and the new nodes will be selected.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>リンクを開く操作は、このプラットフォームでは対応していません(''{0}'')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Opening the bug report failed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T112922Z" creationid="miurahr" creationdate="20200819T112922Z">
+        <seg>バグレポートを開けませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38536,6 +38938,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please include information on how to reproduce the error and try to supply as much detail as possible.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T112912Z" creationid="miurahr" creationdate="20200819T112912Z">
+        <seg>エラーを再現する方法についての情報を含め、できるだけ詳細な情報を提供するようにしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please load some photos.</seg>
       </tuv>
       <tuv lang="ja">
@@ -38572,6 +38982,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T111837Z" creationid="miurahr" creationdate="20190107T111837Z">
         <seg>以下の規約を慎重にお読みのうえ、最下段の「承諾」または「否認」ボタンをクリックして続行してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please report manually using this website:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T112926Z" creationid="miurahr" creationdate="20200819T112926Z">
+        <seg>このWebサイトを使用して手動で報告してください:</seg>
       </tuv>
     </tu>
     <tu>
@@ -39360,6 +39778,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>正の整数が必要です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Possible values are {2}, possibly delimited by commas.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T112551Z" creationid="miurahr" creationdate="20200819T112551Z">
+        <seg>有効な値は{2}で、カンマで区切られることもあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40314,6 +40740,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>自分のデータセットのプロパティ、例：ローカルデータセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Properties in the merged element.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T113052Z" creationid="miurahr" creationdate="20200819T113052Z">
+        <seg>結合された要素のプロパティ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41974,6 +42408,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Relation contains itself as a member</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T235033Z" creationid="miurahr" creationdate="20200818T235033Z">
+        <seg>リレーションは自身をメンバとして含む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Relation does not have name</seg>
       </tuv>
       <tuv lang="ja">
@@ -42122,6 +42564,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>リレーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Relations generate circular dependency of parent/child elements</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T235046Z" creationid="miurahr" creationdate="20200818T235046Z">
+        <seg>リレーションは親/子エレメントの循環従属を生成します</seg>
       </tuv>
     </tu>
     <tu>
@@ -43174,6 +43624,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Required tags are {0} and {1}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T222124Z" creationid="miurahr" creationdate="20200818T222124Z">
+        <seg>必要なタグは{0}および{1}です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Required tags:</seg>
       </tuv>
       <tuv lang="ja">
@@ -43814,6 +44272,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Reverse the filters order.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T113129Z" creationid="miurahr" creationdate="20200819T113129Z">
+        <seg>フィルタの順序を逆にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Reverse the order of the relation members</seg>
       </tuv>
       <tuv lang="ja">
@@ -44110,6 +44576,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Role ''{0}'' is not among expected values ''{1}''</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T234935Z" creationid="miurahr" creationdate="20200818T234935Z">
+        <seg>ロール"{0}"は、一連の期待値"{1}"の中にありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Role ''{0}'' missing</seg>
       </tuv>
       <tuv lang="ja">
@@ -44146,6 +44620,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>リレーションメンバーのロールが{1}テンプレートの式''{0}''に一含まれていません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Role of relation member does not match template expression ''{0}'' in preset {1}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T234724Z" creationid="miurahr" creationdate="20200818T234724Z">
+        <seg>リレーションメンバーのロールがプリセット{1}のテンプレートの式''{0}''に含まれていません</seg>
       </tuv>
     </tu>
     <tu>
@@ -44378,6 +44860,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>route リレーションが連続していない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Route scheme is unspecified.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T234553Z" creationid="miurahr" creationdate="20200818T234553Z">
+        <seg>ルートスキームが指定されていません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45298,6 +45788,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>プリセットで検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Search expression is not valid:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T113416Z" creationid="miurahr" creationdate="20200819T113416Z">
+        <seg>検索式が無効です:</seg>
       </tuv>
     </tu>
     <tu>
@@ -48861,6 +49359,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sort filters.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T113123Z" creationid="miurahr" creationdate="20200819T113123Z">
+        <seg>並べ替えフィルタ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sort notes</seg>
       </tuv>
       <tuv lang="ja">
@@ -49926,6 +50432,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Styles for "{0}":</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T113200Z" creationid="miurahr" creationdate="20200819T113200Z">
+        <seg>"{0}"のスタイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Styles size {0} does not match layers size {1}</seg>
       </tuv>
       <tuv lang="ja">
@@ -50038,6 +50552,22 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Superfluous turn restriction as "from" way is oneway</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T112341Z" creationid="miurahr" creationdate="20200819T112341Z">
+        <seg>一方通行の道路の入口として不要な進行方向制限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Superfluous turn restriction as "to" way is oneway</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T112329Z" creationid="miurahr" creationdate="20200819T112329Z">
+        <seg>一方通行の道路の出口として不要な進行方向制限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Superfluous turnrestriction as "to" way is oneway</seg>
       </tuv>
       <tuv lang="ja">
@@ -50074,6 +50604,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>gpsd サーバーを通してライブ GPS 入力(移動する点)をサポート。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Support was dropped</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T235111Z" creationid="miurahr" creationdate="20200818T235111Z">
+        <seg>サポートが中止されました</seg>
       </tuv>
     </tu>
     <tu>
@@ -50684,6 +51222,22 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>タグ値に0x20より小さいコードのキャラクタが含まれています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tag value contains non-printing (usually invisible) character</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T235322Z" creationid="miurahr" creationdate="20200818T235322Z">
+        <seg>タグ値に印刷されない(通常は表示されない)文字が含まれています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tag value contains unusual Unicode character {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T235335Z" creationid="miurahr" creationdate="20200818T235335Z">
+        <seg>タグ値に異常なUnicode文字{0}が含まれています</seg>
       </tuv>
     </tu>
     <tu>
@@ -51627,6 +52181,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The current version is {0}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T112943Z" creationid="miurahr" creationdate="20200819T112943Z">
+        <seg>現在のバージョンは{0}です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The data used in [http://local.google.com/ Google Maps] is either owned by Google itself, or sourced from [http://www.navteq.com/ NAVTEQ] and [http://www.teleatlas.com/index.htm Tele Atlas], two big mapping companies.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T015302Z" creationid="miurahr" creationdate="20200818T015302Z">
@@ -51783,6 +52345,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja">
         <seg>偉大なJGoodies のプラスティック風のルック＆フィール。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The input is invalid.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T130101Z" creationid="miurahr" creationdate="20200819T130101Z">
+        <seg>入力が無効です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52085,6 +52655,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
         <seg>正規表現"{0}"に構文エラー、詳細は:
 
 {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The remainder of this help page documents the {0} command.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T112507Z" creationid="miurahr" creationdate="20200819T112507Z">
+        <seg>このヘルプページの残りの部分では、{0}コマンドについて説明します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52505,6 +53083,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There is currently no map view active.&lt;/em&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T130129Z" creationid="miurahr" creationdate="20200819T130129Z">
+        <seg>現在、アクティブなマップビューはありません。&lt;/em&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There is more than one way using the node you selected.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T055003Z" creationid="miurahr" creationdate="20200818T055003Z">
@@ -52569,6 +53155,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There the error information should already be filled in for you.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T112904Z" creationid="miurahr" creationdate="20200819T112904Z">
+        <seg>そこでは、エラー情報がすでに入力されているはずです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There was an error while trying to display the URL for this marker</seg>
       </tuv>
       <tuv lang="ja">
@@ -52629,6 +53223,22 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T112113Z" creationid="miurahr" creationdate="20190107T112113Z">
         <seg>これらの権利は制限無しに、複数階層にわたるサブライセンスを通して成果物にサブライセンスしたり、これらの規約に基づくOSMFの諸権利に直接つながるあらゆる著作権侵害の訴訟を起こすための権利を含みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They will replace properties in my elements when merge decisions are applied.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T113100Z" creationid="miurahr" creationdate="20200819T113100Z">
+        <seg>マージ決定が適用されると、要素のプロパティが置き換えられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They will replace the list of my elements when the merge decisions are applied.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T113048Z" creationid="miurahr" creationdate="20200819T113048Z">
+        <seg>マージの決定が適用されると、要素のリストが置き換えられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52757,6 +53367,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja">
         <seg>これは記録の最後より後ろにあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is always a coding error.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T112750Z" creationid="miurahr" creationdate="20200819T112750Z">
+        <seg>これは常にコーディングエラーです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52901,6 +53519,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T054711Z" creationid="miurahr" creationdate="20200818T054711Z">
         <seg>これにより、途中の不要なノードが削減されます。特に、GPSトラックが時間別に記録されている場合(たとえば、1秒あたり1ポイント)や、精度が低い場合(「ジグザグ」トラックが削減される)に推奨されます。二</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This resource will not be available: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T112613Z" creationid="miurahr" creationdate="20200819T112613Z">
+        <seg>このリソースは使用できません:{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -53285,6 +53911,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja">
         <seg>タイルのアドレス:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tile addresses in the format &lt;i&gt;zoom,x,y&lt;/i&gt; or &lt;i&gt;zoom;x;y&lt;/i&gt; are valid too.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T112742Z" creationid="miurahr" creationdate="20200819T112742Z">
+        <seg>&lt;i&gt;zoom、x、y&lt;/i&gt;または&lt;i&gt;zoom;x;y&lt;/i&gt;の形式のタイルアドレスも有効です。&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -54505,6 +55139,14 @@ or action canceled</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Try updating JOSM.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T112948Z" creationid="miurahr" creationdate="20200819T112948Z">
+        <seg>JOSMを更新してみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Try updating to the newest version of this plugin before reporting a bug.</seg>
       </tuv>
       <tuv lang="ja">
@@ -54653,6 +55295,14 @@ or action canceled</seg>
       </tuv>
       <tuv lang="ja">
         <seg>種別</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Type ''{0}'' of relation member with role ''{1}'' does not match accepted types ''{2}'' in preset {3}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T234757Z" creationid="miurahr" creationdate="20200818T234757Z">
+        <seg>ロール''{1}''を持つリレーションメンバーである''{0}''が、プリセット{3}の受付可能な種別''{2}''に含まれていません</seg>
       </tuv>
     </tu>
     <tu>
@@ -55497,6 +56147,14 @@ or action canceled</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unexpected member type in turn restriction</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T112249Z" creationid="miurahr" creationdate="20200819T112249Z">
+        <seg>進行方向制限で想定外のメンバーです</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unexpected number of arguments for parameter ''+bounds'' (must be 4)</seg>
       </tuv>
       <tuv lang="ja">
@@ -55629,6 +56287,22 @@ or action canceled</seg>
       </tuv>
       <tuv lang="ja">
         <seg>キー''{0}''に想定外の値''{1}''が設定されています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unexpected value for preference ''{0}'', got ''{1}''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T130136Z" creationid="miurahr" creationdate="20200819T130136Z">
+        <seg>優先度「{0}」に予期しない値があります。「{1}」を取得しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unexpected value of parameter ''index''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T112954Z" creationid="miurahr" creationdate="20200819T112954Z">
+        <seg>パラメータ''index''に予期しない値があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57434,6 +58108,14 @@ Create a new one.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Validate that objects types are valid checking against presets.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T001412Z" creationid="miurahr" creationdate="20200819T001412Z">
+        <seg>オブジェクトタイプが有効であることを確認し、プリセットと照合します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Validate that property keys are valid checking against list of words.</seg>
       </tuv>
       <tuv lang="ja">
@@ -57518,6 +58200,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Validator {0} List Management</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T115523Z" creationid="miurahr" creationdate="20200819T115523Z">
+        <seg>バリデータ{0}リスト管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Valley</seg>
       </tuv>
       <tuv lang="ja">
@@ -57534,10 +58224,34 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Value ''{0}'' for key ''{1}'' is unknown, maybe ''{2}'' is meant?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T001338Z" creationid="miurahr" creationdate="20200819T001338Z">
+        <seg>キー ''{1}'' の値 ''{0}'' は既知です。{2} のいずれかの可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Value ''{0}'' for key ''{1}'' is unknown, maybe one of {2} is meant?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T235502Z" creationid="miurahr" creationdate="20200818T235502Z">
+        <seg>キー ''{1}'' の値 ''{0}'' は既知です。{2} のいずれかの可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Value ''{0}'' for key ''{1}'' looks like ''{2}''.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>''{1}''キーの値''{0}''は''{2}''のようです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Value ''{0}'' for key ''{1}'' not in presets, but is known.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T235402Z" creationid="miurahr" creationdate="20200818T235402Z">
+        <seg>キー ''{1}'' の値 ''{0}'' はプリセットにはありませんが、既知です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59351,8 +60065,16 @@ Do you want to continue without validating the file ?</seg>
       <tuv lang="en-US">
         <seg>With the currently used mappaint style the style for inner way equals the multipolygon style</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>現在使用されている地図描画スタイルでは、innerウェイのスタイルはマルチポリゴンのスタイルと等しいです</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T234139Z">
+        <seg>現在使用されている地図描画スタイルでは、内側のウェイのスタイルはマルチポリゴンのスタイルと等しいです</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With the currently used mappaint style the style for outer way mismatches the area style</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T234053Z" creationid="miurahr" creationdate="20200818T234053Z">
+        <seg>現在使用されている地図描画スタイルでは、外側の道路のスタイルがエリアスタイルと一致しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59409,6 +60131,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>すぐに再起動しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Would you like to restore the data?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T112631Z" creationid="miurahr" creationdate="20200819T112631Z">
+        <seg>データを復元しますか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -60335,6 +61065,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Zoom to selected element</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T115342Z" creationid="miurahr" creationdate="20200819T115342Z">
+        <seg>選択した要素にズーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Zoom to selected element(s)</seg>
       </tuv>
       <tuv lang="ja">
@@ -60935,6 +61673,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>amenity type {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T112356Z" creationid="miurahr" creationdate="20200819T112356Z">
+        <seg>アメニティの種別 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>american</seg>
       </tuv>
       <tuv lang="ja">
@@ -61111,6 +61857,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>area:highway type {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T112417Z" creationid="miurahr" creationdate="20200819T112417Z">
+        <seg>エリア:ハイウェイタイプ{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>areatext</seg>
       </tuv>
       <tuv lang="ja">
@@ -61219,6 +61973,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>単一コイル型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>auto-fixed validator issues</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T115454Z" creationid="miurahr" creationdate="20200819T115454Z">
+        <seg>自動修正バリデータの問題</seg>
       </tuv>
     </tu>
     <tu>
@@ -65415,6 +66177,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>layer has an offset of {0} (click to remove offset)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T113407Z" creationid="miurahr" creationdate="20200819T113407Z">
+        <seg>レイヤーにはオフセットがあります (クリックするとオフセットを取り除けます)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>layer is currently hidden (click to show layer)</seg>
       </tuv>
       <tuv lang="ja">
@@ -65667,6 +66437,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>地名(分類外)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>location</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T113514Z" creationid="miurahr" creationdate="20200819T113514Z">
+        <seg>ロケーション</seg>
       </tuv>
     </tu>
     <tu>
@@ -66471,6 +67249,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>name="Baker Street"</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T113452Z" creationid="miurahr" creationdate="20200819T113452Z">
+        <seg>ベーカー街</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>national_park</seg>
       </tuv>
       <tuv lang="ja">
@@ -66847,6 +67633,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>note: For some tasks, JOSM needs a lot of memory.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T112525Z" creationid="miurahr" creationdate="20200819T112525Z">
+        <seg>注:タスクによっては、JOSMに多くのメモリが必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>notice</seg>
       </tuv>
       <tuv lang="ja">
@@ -67139,6 +67933,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>限定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>only {0} tag</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T235257Z" creationid="miurahr" creationdate="20200818T235257Z">
+        <seg>{0}タグのみ</seg>
       </tuv>
     </tu>
     <tu>
@@ -67715,6 +68517,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ピザ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>place type {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T112433Z" creationid="miurahr" creationdate="20200819T112433Z">
+        <seg>プレースタイプ{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -68311,6 +69121,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>relations with 2 members</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T113510Z" creationid="miurahr" creationdate="20200819T113510Z">
+        <seg>二つのメンバを含むリレーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>religion without denomination</seg>
       </tuv>
       <tuv lang="ja">
@@ -68811,6 +69629,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>拡大・縮小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>scale does not follow native resolution of any layer (click to set this layer)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T113341Z" creationid="miurahr" creationdate="20200819T113341Z">
+        <seg>スケールがどのレイヤーの本来の解像度にも従わない(クリックでこのレイヤを設定)</seg>
       </tuv>
     </tu>
     <tu>
@@ -70183,6 +71009,22 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>tag describing the area is missing</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T235305Z" creationid="miurahr" creationdate="20200818T235305Z">
+        <seg>領域を説明するタグがありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>tag describing the area might be missing</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T235310Z" creationid="miurahr" creationdate="20200818T235310Z">
+        <seg>領域を説明するタグがない可能性があります</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>tailrace</seg>
       </tuv>
       <tuv lang="ja">
@@ -71336,6 +72178,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>値が必要です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>value of ''key'' matching the regular expression ''regexp''</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T113440Z" creationid="miurahr" creationdate="20200819T113440Z">
+        <seg>正規表現「regexp」に一致する「key」の値</seg>
       </tuv>
     </tu>
     <tu>
@@ -72810,6 +73660,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{0} style "{1}"</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T113205Z" creationid="miurahr" creationdate="20200819T113205Z">
+        <seg>{0}スタイル"{1}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{0} tag</seg>
       </tuv>
       <tuv lang="ja">
@@ -72886,6 +73744,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>選択範囲内は{0}人が最終編集しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} value can be prettified</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T234544Z" creationid="miurahr" creationdate="20200818T234544Z">
+        <seg>{0} の値が整形可能</seg>
       </tuv>
     </tu>
     <tu>
@@ -73018,10 +73884,26 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{0}: {1} of {2} elements done</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200818T222147Z" creationid="miurahr" creationdate="20200818T222147Z">
+        <seg>{0}:{2}個の要素のうち{1}個が完了しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{0}Add selection to relation{1}: Verify every single relation to avoid damage!</seg>
       </tuv>
       <tuv lang="ja">
         <seg>{0}選択中のものをリレーションへ追加しました{1}。すべての単一のリレーションが破損していないかを確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0}Should the validation be rerun?{1}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T115607Z" creationid="miurahr" creationdate="20200819T115607Z">
+        <seg>{0}妥当性検査を再実行しますか?{1}</seg>
       </tuv>
     </tu>
     <tu>
