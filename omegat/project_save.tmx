@@ -14509,6 +14509,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cross</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T233058Z" creationid="miurahr" creationdate="20200819T233058Z">
+        <seg>クロス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cross by bicycle</seg>
       </tuv>
       <tuv lang="ja">
@@ -24419,6 +24427,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goods conveyor</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T233213Z" creationid="miurahr" creationdate="20200819T233213Z">
+        <seg>商品コンベア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Google Maps are free as in beer, not as in speech.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T014650Z" creationid="miurahr" creationdate="20200818T014650Z">
@@ -28836,6 +28852,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>キーワード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Kiln</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T233104Z" creationid="miurahr" creationdate="20200819T233104Z">
+        <seg>窯</seg>
       </tuv>
     </tu>
     <tu>
@@ -40864,6 +40888,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Product</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T233108Z" creationid="miurahr" creationdate="20200819T233108Z">
+        <seg>製品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Projected Coordinates</seg>
       </tuv>
       <tuv lang="ja">
@@ -50532,6 +50564,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>通り名:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Street cabinet</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200820T013042Z" creationid="miurahr" creationdate="20200820T013042Z">
+        <seg>街路側キャビネット</seg>
       </tuv>
     </tu>
     <tu>
@@ -62545,6 +62585,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>barracks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T233004Z" creationid="miurahr" creationdate="20200819T233004Z">
+        <seg>兵舎</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>barrage</seg>
       </tuv>
       <tuv lang="ja">
@@ -62661,6 +62709,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>牛丼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>bent_mast</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T233230Z" creationid="miurahr" creationdate="20200819T233230Z">
+        <seg>ベントマスト</seg>
       </tuv>
     </tu>
     <tu>
@@ -62869,6 +62925,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ブラジル料理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>bricks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T233121Z" creationid="miurahr" creationdate="20200819T233121Z">
+        <seg>レンガ</seg>
       </tuv>
     </tu>
     <tu>
@@ -63205,6 +63269,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>キャッシュのチェック...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>checkpoint</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T233011Z" creationid="miurahr" creationdate="20200819T233011Z">
+        <seg>検問所</seg>
       </tuv>
     </tu>
     <tu>
@@ -65017,6 +65089,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>floor-mounted_crane</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T233145Z" creationid="miurahr" creationdate="20200819T233145Z">
+        <seg>床取り付けクレーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>flush</seg>
       </tuv>
       <tuv lang="ja">
@@ -65213,6 +65293,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ゲーリックゲーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>gantry_crane</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T233152Z" creationid="miurahr" creationdate="20200819T233152Z">
+        <seg>ガントリクレーン</seg>
       </tuv>
     </tu>
     <tu>
@@ -67137,6 +67225,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>manure</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T233129Z" creationid="miurahr" creationdate="20200819T233129Z">
+        <seg>糞尿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>map style</seg>
       </tuv>
       <tuv lang="ja">
@@ -67825,6 +67921,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>naval_base</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T233014Z" creationid="miurahr" creationdate="20200819T233014Z">
+        <seg>海軍基地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>necropolis</seg>
       </tuv>
       <tuv lang="ja">
@@ -68365,6 +68469,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>オフィス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>offices</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T233019Z" creationid="miurahr" creationdate="20200819T233019Z">
+        <seg>事務所</seg>
       </tuv>
     </tu>
     <tu>
@@ -69201,6 +69313,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>portal_crane</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T233202Z" creationid="miurahr" creationdate="20200819T233202Z">
+        <seg>門形クレーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>portal_three-level</seg>
       </tuv>
       <tuv lang="ja">
@@ -69533,6 +69653,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ラーメン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>range</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T233027Z" creationid="miurahr" creationdate="20200819T233027Z">
+        <seg>射撃場</seg>
       </tuv>
     </tu>
     <tu>
@@ -70705,6 +70833,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>silage</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T233133Z" creationid="miurahr" creationdate="20200819T233133Z">
+        <seg>サイレージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>silo</seg>
       </tuv>
       <tuv lang="ja">
@@ -70845,6 +70981,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>引き戸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>slurry</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T233138Z" creationid="miurahr" creationdate="20200819T233138Z">
+        <seg>スラリー</seg>
       </tuv>
     </tu>
     <tu>
@@ -71309,6 +71453,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>停車位置(降車用)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>storage</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T233033Z" creationid="miurahr" creationdate="20200819T233033Z">
+        <seg>貯蔵</seg>
       </tuv>
     </tu>
     <tu>
@@ -72169,6 +72321,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>training_area</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T233052Z" creationid="miurahr" creationdate="20200819T233052Z">
+        <seg>トレーニングエリア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>tram</seg>
       </tuv>
       <tuv lang="ja">
@@ -72282,6 +72442,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ハッチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>travel_lift</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200819T233205Z" creationid="miurahr" creationdate="20200819T233205Z">
+        <seg>移動リフト</seg>
       </tuv>
     </tu>
     <tu>
