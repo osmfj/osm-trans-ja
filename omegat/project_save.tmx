@@ -233,6 +233,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>''onLoad()'' for plugin ''{0}'' failed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T224105Z" creationid="miurahr" creationdate="20200825T224105Z">
+        <seg>プラグイン''{0}''の ''onLoad()'' が失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>''value'' in any key</seg>
       </tuv>
       <tuv lang="ja">
@@ -273,6 +281,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>''{0}'' doesn''t exist.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>''{0}'' は存在しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>''{0}'' is a directory.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T224129Z" creationid="miurahr" creationdate="20200825T224117Z">
+        <seg>''{0}''はディレクトリです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>''{0}'' is an illegal language code!</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>''{0}'' は不正な言語コードです！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>''{0}'' is meaningless, use more specific tags, e.g. ''{1}''</seg>
       </tuv>
       <tuv lang="ja">
@@ -281,10 +313,50 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>''{0}'' is neither a ''jar'' nor a ''file'' URL</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>''{0}''は''jar''でも''file''のURLでもありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>''{0}'' is neither an existing directory nor an existing jar file</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>''{0}'' は既存のディレクトリやjarファイルではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>''{0}'' is not a valid value for argument ''{1}''.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200819T112545Z" creationid="miurahr" creationdate="20200819T112545Z">
         <seg>''{0}''は引数''{1}''に対して有効な値ではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>''{0}'' isn''t a valid URL</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>''{0}'' は有効なURLではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>''{0}'' isn''t an existing jar file</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>''{0}'' は存在するjarファイルではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>''{0}'' isn''t readable.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T224145Z" creationid="miurahr" creationdate="20200825T224145Z">
+        <seg>''{0}''は読み取れません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -496,6 +568,14 @@ no_more_mappingを外してください)</seg>
       </tuv>
       <tuv lang="ja">
         <seg>({0}が必要)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>({0} items, processing batch {1} of {2})</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>({0} 個のアイテム,   {2} 中の {1}を処理中)</seg>
       </tuv>
     </tu>
     <tu>
@@ -926,6 +1006,22 @@ no_more_mappingを外してください)</seg>
       </tuv>
       <tuv lang="ja">
         <seg>2W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2 images joined</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>2つの画像を結合しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2 images unjoined</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>2つの画像を分離しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2451,10 +2547,58 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;p&gt;Failed to execute a script.&lt;/p&gt;&lt;p/&gt;&lt;p&gt;&lt;strong&gt;Error message:&lt;/strong&gt;{0}&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&lt;p&gt;スクリプトの実行に失敗&lt;/p&gt;&lt;p/&gt;&lt;p&gt;&lt;strong&gt;エラーメッセージ:&lt;/strong&gt;{0}&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Failed to execute a script.&lt;/p&gt;&lt;p/&gt;&lt;p&gt;&lt;strong&gt;Error message:&lt;/strong&gt;{0}&lt;/p&gt;&lt;p&gt;&lt;strong&gt;At:&lt;/strong&gt;line {1}, column {2}&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&lt;p&gt;スクリプトの実行に失敗&lt;/p&gt;&lt;p/&gt;&lt;p&gt;&lt;strong&gt;エラーメッセージ:&lt;/strong&gt;{0}&lt;/p&gt;&lt;p&gt;&lt;strong&gt;位置:&lt;/strong&gt;line {1}, column {2}&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Failed to execute the script file ''{0}''.&lt;/p&gt;&lt;p/&gt;&lt;p&gt;&lt;strong&gt;Error message:&lt;/strong&gt;{1}&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&lt;p&gt;スクリプトの実行に失敗 ファイル名: ''{0}''.&lt;/p&gt;&lt;p/&gt;&lt;p&gt;&lt;strong&gt;エラーメッセージ:&lt;/strong&gt;{1}&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Failed to execute the script file ''{0}''.&lt;/p&gt;&lt;p/&gt;&lt;p&gt;&lt;strong&gt;Error message:&lt;/strong&gt;{1}&lt;/p&gt;&lt;p&gt;&lt;strong&gt;At:&lt;/strong&gt;line {2}, column {3}&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&lt;p&gt;スクリプトの実行に失敗 ファイル名: ''{0}''.&lt;/p&gt;&lt;p/&gt;&lt;p&gt;&lt;strong&gt;エラーメッセージ:&lt;/strong&gt;{1}&lt;/p&gt;&lt;p&gt;&lt;strong&gt;位置:&lt;/strong&gt;line {2}, column {3}&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;The script can''t be executed, because a scripting engine with name ''{0}'' isn''t configured.&lt;/p&gt;&lt;p&gt;Refer to the online help for information about how to install/configure a scripting engine for JOSM.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&lt;p&gt;スクリプトは実行不能です。スクリプトエンジン ''{0}'' が設定されていません。&lt;/p&gt;&lt;p&gt;スクリプティングエンジンの追加・設定手順の詳細についてはオンラインヘルプを参照してください。&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;span&gt;Download objects that have some concrete key/value pair, only the key with any contents for the value, the value matching some regular expression.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T114528Z" creationid="miurahr" creationdate="20190107T114528Z">
         <seg>&lt;span&gt;キー/値のペアをもつオブジェクトのうち、値をもつキーのうち、正規表現にマッチする値をもつものををダウンロードします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;strong&gt;Support for python plugins is disabled.&lt;/strong&gt;&lt;br&gt;The scripting plugin can load and run plugins written in &lt;strong&gt;Python&lt;/strong&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T224216Z" creationid="miurahr" creationdate="20200825T224216Z">
+        <seg>&lt;strong&gt;Pythonプラグインのサポートは無効になっています。&lt;/strong&gt;&lt;br&gt;スクリプトプラグインは、&lt;strong&gt;Python&lt;/strong&gt;で記述されたプラグインをロードして実行できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3170,6 +3314,14 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A tag with key &lt;i&gt;{0}&lt;/i&gt; is already present on the selected OSM object.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>キー&lt;i&gt;{0}&lt;/i&gt;が付いたタグが、選択したOSMオブジェクトにすでに存在しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A value of 10000 denotes a scale of 1:10000 (1 cm on the map equals 100 m on the ground; display resolution: 96 dpi)</seg>
       </tuv>
       <tuv lang="ja">
@@ -3674,6 +3826,14 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add Mapillary tag</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Mapillary タグを追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add Node...</seg>
       </tuv>
       <tuv lang="ja">
@@ -3710,6 +3870,22 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
       </tuv>
       <tuv lang="ja">
         <seg>タグを追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add Wikidata</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Wikidata を追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add Wikidata for language ''{0}''</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>''{0}'' の Wikideta を追加</seg>
       </tuv>
     </tu>
     <tu>
@@ -4022,6 +4198,14 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
       </tuv>
       <tuv lang="ja">
         <seg>欠落したタグを追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add names from Wikipedia</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Wikipediaから名前を追加</seg>
       </tuv>
     </tu>
     <tu>
@@ -4534,6 +4718,14 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
       </tuv>
       <tuv lang="ja">
         <seg>住所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adds a ''wikipedia'' tag corresponding to this article to the selected objects</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>この文書に対応する選択されたオブジェクトに''wikipedia''タグを追加します</seg>
       </tuv>
     </tu>
     <tu>
@@ -5098,6 +5290,14 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All images in a directory</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ディレクトリ中の全画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All inside [testing]</seg>
       </tuv>
       <tuv lang="ja">
@@ -5270,6 +5470,14 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
       </tuv>
       <tuv lang="ja">
         <seg>ユーザーはタイムスタンプを匿名化したり長大なGPX トラックの一部を高速に削除したりすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Allows the user to work with pictures hosted at mapillary.com</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ユーザがmapillary.comで保持している写真で作業できるようにする</seg>
       </tuv>
     </tu>
     <tu>
@@ -6827,6 +7035,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Available in local dataset</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ローカルデータセットで有効</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Available presets:</seg>
       </tuv>
       <tuv lang="ja">
@@ -6855,6 +7071,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>利用可能なスタイル:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Available via WIWOSM server</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>WIWOSMサーバーで有効</seg>
       </tuv>
     </tu>
     <tu>
@@ -8547,6 +8771,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Can''t load a script engine from this file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T224151Z" creationid="miurahr" creationdate="20200825T224151Z">
+        <seg>このファイルからスクリプトエンジンをロードできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Can''t parse a time from this string.</seg>
       </tuv>
       <tuv lang="ja">
@@ -9403,6 +9635,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Center view on new image when using the buttons to jump to another image</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>他の画像へボタンでジャンプしたときに、新しい画像は中央表示する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Central meridian</seg>
       </tuv>
       <tuv lang="ja">
@@ -9739,6 +9979,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Change wikipedia tag?</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>wikipediaのタグを変更しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Change {0} object</seg>
       </tuv>
       <tuv lang="ja">
@@ -9863,6 +10111,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>変更セットのソース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Changeset upload failed with {0} error ''{1} {2}''!</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>変更セットのアップロードに、{0} エラー "{1} {2}"で失敗しました!</seg>
       </tuv>
     </tu>
     <tu>
@@ -10031,6 +10287,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>プロパティの値をチェック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Check wikipedia=* is not a redirect</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>要確認 wikipedia=* はリダイレクトされません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10447,6 +10711,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>最近のタグ {0} を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choose signs</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>標識を選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -13111,6 +13383,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Continues with the paused walk.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Continuously center the LiveGPS layer to current position.</seg>
       </tuv>
       <tuv lang="ja">
@@ -13287,6 +13567,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Copies the {0} template to the system clipboard instantiated with the coordinates of the first selected node</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>最初に選択されたノードの座標を例に、{0}のテンプレートをシステムのクリップボードにコピーする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Copy</seg>
       </tuv>
       <tuv lang="ja">
@@ -13371,6 +13659,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>画像のパスをコピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Copy key</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>キーをコピー</seg>
       </tuv>
     </tu>
     <tu>
@@ -13519,6 +13815,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Copy {0} template</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{0}のテンプレートをコピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Copy {1} of {0}</seg>
       </tuv>
       <tuv lang="ja">
@@ -13619,6 +13923,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Could not check for all wikipedia=* tags if they match the wikidata=* tag.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>wikidata=* タグとマッチする wikipedia=* タグのチェックを全て行うことができませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Could not combine ways&lt;br&gt;(They could not be merged into a single string of nodes)</seg>
       </tuv>
       <tuv lang="ja">
@@ -13683,10 +13995,34 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Could not import a geotagged image to the Mapillary layer!</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Mapillaryレイヤに、ジオタグされた画像のインポートができませんでした!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Could not import files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ファイルをインポートできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Could not import the directory ''{0}''!</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ディレクトリ "{0}"をインポートできませんでした!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Could not import the image ''{0}''!</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>画像"{0}"をインポートできませんでした!</seg>
       </tuv>
     </tu>
     <tu>
@@ -13703,6 +14039,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200819T132726Z" creationid="miurahr" creationdate="20200819T132726Z">
         <seg>プラグイン{0}をロードできませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Could not open the URL {0} in a browser</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>URL {0} をブラウザで開けませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13759,6 +14103,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>NanoLogファイルを読み取れませんでした:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Could not read from URL {0}!</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>URL {0}をよみこめません!</seg>
       </tuv>
     </tu>
     <tu>
@@ -14837,6 +15189,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Current Mapillary changeset</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>現在のMapillary変更セット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Current Selected Bug Info</seg>
       </tuv>
       <tuv lang="ja">
@@ -15005,6 +15365,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cut off sequences at download bounds</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ダウンロードした境界でシーケンスを分断する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cut timewise overlapping parts of tracks</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T053636Z" creationid="miurahr" creationdate="20200818T053636Z">
@@ -15153,6 +15521,14 @@ Do you want to keep it?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ダム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dark mode for image display</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>画像ウインドウでダークモードを使用する</seg>
       </tuv>
     </tu>
     <tu>
@@ -15321,6 +15697,14 @@ Do you want to keep it?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>測地系名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Days</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>日</seg>
       </tuv>
     </tu>
     <tu>
@@ -15585,6 +15969,14 @@ Do you want to keep it?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>内側のマルチポリゴンの一部ではないウェイを削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Delete after upload</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>アップロード後削除</seg>
       </tuv>
     </tu>
     <tu>
@@ -16089,6 +16481,14 @@ Do you want to keep it?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>削除されたウェイ {0} にはノードがあります</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Deleted {0} image</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{0} この画像を削除</seg>
       </tuv>
     </tu>
     <tu>
@@ -16901,6 +17301,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Display hour when the picture was taken</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>写真のとられた時刻を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Display keys which have been deemed uninteresting to the point that they can be silently removed.</seg>
       </tuv>
       <tuv lang="ja">
@@ -17025,6 +17433,14 @@ Do you want to keep it?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>現在の編集位置の小地図を表示します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Displays detail information on the currently selected Mapillary image</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>現在選択されているMapillary画像の詳細情報を表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -17309,6 +17725,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Do you really want to replace the current value &lt;i&gt;{0}&lt;/i&gt; with the new value &lt;i&gt;{1}&lt;/i&gt;?</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>本当に現在の値 &lt;i&gt;{0}&lt;/i&gt;を新しい&lt;i&gt;{1}&lt;/i&gt;に変更しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Do you want to allow this?</seg>
       </tuv>
       <tuv lang="ja">
@@ -17519,6 +17943,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Double click on item to search for object with article name (and center coordinate)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ダブルクリックで記事名(と中心のノード)でオブジェクトを検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Double click to reset.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200819T130359Z" creationid="miurahr" creationdate="20200819T130359Z">
@@ -17627,6 +18059,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ダウンロード先</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Download Mapillary images in current view</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>現在のビューにMapillary画像をダウンロード</seg>
       </tuv>
     </tu>
     <tu>
@@ -18055,6 +18495,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Download mode</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ダウンロードモード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Download module list...</seg>
       </tuv>
       <tuv lang="ja">
@@ -18439,6 +18887,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Downloaded images</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ダウンロードした画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Downloaded {0}/{1} tiles</seg>
       </tuv>
       <tuv lang="ja">
@@ -18475,6 +18931,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>GPSデータをダウンロード中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Downloading Mapillary images</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Mapillary画像をダウンロード中</seg>
       </tuv>
     </tu>
     <tu>
@@ -18731,6 +19195,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>''{1}'' から{0}件のオブジェクトをダウンロード中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Downloading…</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ダウンロード中...</seg>
       </tuv>
     </tu>
     <tu>
@@ -20255,6 +20727,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enable experimental beta-features (might be unstable)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>実験的ベータ機能を有効化(不安定です)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enable filter</seg>
       </tuv>
       <tuv lang="ja">
@@ -21537,6 +22017,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Expecting a jar file instead.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T224136Z" creationid="miurahr" creationdate="20200825T224136Z">
+        <seg>代わりにjarファイルが必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Expecting {0} after {1}</seg>
       </tuv>
       <tuv lang="ja">
@@ -21577,6 +22065,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Explore</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>参照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Export GPX file</seg>
       </tuv>
       <tuv lang="ja">
@@ -21601,10 +22097,26 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Export Mapillary images</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Mapillary画像をエクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Export World file Calibration...</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ワールドファイルキャリブレーションをエクスポート...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Export all images</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>すべての画像をエクスポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -21657,10 +22169,26 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Export selected images</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>選択した画像をエクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Export selected items</seg>
       </tuv>
       <tuv lang="ja">
         <seg>選択された項目をエクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Export selected sequence</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>選択したシーケンスをエクスポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -21701,6 +22229,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>交通データをSUMOネットワークファイルにエクスポートします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Exporting Mapillary Images…</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Mapillary画像のエクスポート中...</seg>
       </tuv>
     </tu>
     <tu>
@@ -22577,6 +23113,62 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fetch Wikidata IDs</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Wikidata IDを検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fetch Wikidata IDs using the ''wikipedia'' tag</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>''wikipedia'' タグを使用して Wikidata ID を検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fetch Wikipedia articles with coordinates</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>座標からWikipediaの記事を検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fetches a list of all Wikipedia articles of a category</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>カテゴリのWikipediaの全記事を検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fetches all coordinates from Wikipedia in the current view</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>現在のビューのすべての座標をWikipedia上で検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fetches interwiki links from Wikipedia in order to add several name tags</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>該当するnameタグを追加するためにWikipediaからインターウィキリンクを探す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fetching Wikidata IDs</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Wikidata ID を検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fetching a package of nodes from ''{0}''</seg>
       </tuv>
       <tuv lang="ja">
@@ -22629,6 +23221,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>id {0} のウェイを ''{1}'' から取得中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fetching {0} Wikidata ID for language ''{1}''</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{0} の ''{1}'' の Wikideta IDを検索しています</seg>
       </tuv>
     </tu>
     <tu>
@@ -22963,6 +23563,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Finished upload</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>アップロード完了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fire Extinguisher</seg>
       </tuv>
       <tuv lang="ja">
@@ -23271,6 +23879,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ラインをフォロー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Follow selected image</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>選択した画像をフォロー</seg>
       </tuv>
     </tu>
     <tu>
@@ -23671,6 +24287,22 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>URLから</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From existing image layer</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>画像レイヤーから出る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From which source do you want to import images to the Mapillary layer?</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>どの情報源からMapillaryレイヤへ画像をインポートしますか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -24291,6 +24923,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Give way</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>徐行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Glacier</seg>
       </tuv>
       <tuv lang="ja">
@@ -24355,6 +24995,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go forward</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>次にすすむ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to Basic Editor and manually choose a turn restriction type</seg>
       </tuv>
       <tuv lang="ja">
@@ -24399,6 +25047,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>Taginfo で開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to setting and log in to Mapillary before uploading.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>アップロードの前に、設定に行ってMapillaryにログインしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25795,6 +26451,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I got it, close this.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>クローズしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I understand and accept these terms and conditions</seg>
       </tuv>
       <tuv lang="ja">
@@ -26412,6 +27076,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Image actions</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>画像の操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Image already loaded</seg>
       </tuv>
       <tuv lang="ja">
@@ -26424,6 +27096,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>イメージ切り抜き</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Image detections</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>画像検出物</seg>
       </tuv>
     </tu>
     <tu>
@@ -26448,6 +27128,22 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>地理参照画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Image info</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>画像情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Image key</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>画像キー</seg>
       </tuv>
     </tu>
     <tu>
@@ -26596,6 +27292,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Images from my file system</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ファイルシステムからの画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Images that are already tagged ({0}/{1})</seg>
       </tuv>
       <tuv lang="ja">
@@ -26692,6 +27396,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Import exception</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>インポート例外発生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Import georeferenced image</seg>
       </tuv>
       <tuv lang="ja">
@@ -26712,6 +27424,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>イメージのインポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Import local pictures</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ローカルの写真をインポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -26744,6 +27464,22 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>GPXレイヤーからパスをインポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Import pictures</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>写真をインポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Import pictures into Mapillary layer</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>写真をMapillaryレイヤにインポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -26784,6 +27520,22 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>インポートした画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Imported images</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>インポートした画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Imported {0} image</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>インポートした {0}この画像</seg>
       </tuv>
     </tu>
     <tu>
@@ -26904,6 +27656,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>混在させる場合、オブジェクトの種類を指定します。例：{0}&lt;br/&gt;({1} は &lt;i&gt;ノード&lt;/i&gt;、{2}は &lt;i&gt;ウェイ&lt;/i&gt;、{3} は &lt;i&gt;リレーション&lt;/i&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In order to use this feature the Jython interpreter has to be on the class path when you start JOSM. Currently, it isn''t and python plugin support is therefore disabled.&lt;br&gt;&lt;br&gt;Launch JOSM with the following command line: &lt;br&gt;java -cp "josm-jar.jar:/path/to/jython.jar" org.openstreetmap.josm.gui.MainApplication</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T224320Z" creationid="miurahr" creationdate="20200825T224320Z">
+        <seg>この機能を使用するには、JOSMを起動したときにJythonインタプリタがクラスパス上に存在している必要があります。現在、Jythonインタプリタは存在しないため、Pythonプラグインのサポートは無効になっています。&lt;br&gt;&lt;br&gt;JOSMを起動するときに、次のコマンドラインを使用します。&lt;br&gt;java-cp"josm-jar.jar:/path/to/jython.jar"org.openstreetmap.josm.gui.MainApplication</seg>
       </tuv>
     </tu>
     <tu>
@@ -27692,6 +28452,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Intersection danger</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>危険交差点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Intersection of three or more ways can not be solved.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T023718Z" creationid="miurahr" creationdate="20200818T023718Z">
@@ -28058,6 +28826,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>これには&lt;b&gt;セキュリティ上のリスク&lt;/b&gt;があることが明らかになりました。&lt;br&gt;&lt;br&gt;この安全でない証明書を削除するためのウインドウが表示されます。&lt;br&gt;安全のために、次のダイアログで&lt;b&gt;[はい]をクリックしてください&lt;/b&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It can be activated by clicking the left button at the bottom of this message or the button in the toolbar on the left, which uses the same icon.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>このメッセージの下、または左側のツールバー内に同じアイコンで表示されたボタンを左クリックすることで有効化されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28542,10 +29318,26 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Join mode</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>結合モード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Join overlapping Areas</seg>
       </tuv>
       <tuv lang="ja">
         <seg>重複するエリアを結合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Join/unjoin pictures</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>画像の結合/分離</seg>
       </tuv>
     </tu>
     <tu>
@@ -28614,6 +29406,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Jump to blue</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>青へとぶ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Jump to next marker</seg>
       </tuv>
       <tuv lang="ja">
@@ -28630,10 +29430,34 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Jump to red</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>赤へとぶ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Jumping to: {0}</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T053120Z" creationid="miurahr" creationdate="20200818T053104Z">
         <seg> {0} へジャンプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Jumps to the picture at the other side of the blue line</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>青い線のむこう側の写真にジャンプします</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Jumps to the picture at the other side of the red line</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>赤い線のむこう側の写真にジャンプします</seg>
       </tuv>
     </tu>
     <tu>
@@ -30048,6 +30872,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Load category</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>カテゴリを読み込む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Load data from API</seg>
       </tuv>
       <tuv lang="ja">
@@ -30528,6 +31360,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Login successful, return to JOSM.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ログインに成功しました。JOSMにもどります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Logout</seg>
       </tuv>
       <tuv lang="ja">
@@ -30864,6 +31704,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mandatory direction (any)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>一方通行(各種)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Manhole</seg>
       </tuv>
       <tuv lang="ja">
@@ -31076,6 +31924,62 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>MapInfoファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mapillary Images</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Mapillary 画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mapillary changeset</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Mapillaryの変更セット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mapillary filter</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Mapillaryフィルタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mapillary history</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Mapillaryヒストリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mapillary image</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Mapillary画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mapillary layer</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Mapillary レイヤ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mapillary login</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Mapillaryログイン</seg>
       </tuv>
     </tu>
     <tu>
@@ -32424,6 +33328,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Months</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ヶ月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Monument</seg>
       </tuv>
       <tuv lang="ja">
@@ -33038,6 +33950,14 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moved {0} image</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{0}この画像を移動</seg>
       </tuv>
     </tu>
     <tu>
@@ -33914,6 +34834,14 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Next picture</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>次の画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Night Club</seg>
       </tuv>
       <tuv lang="ja">
@@ -34038,6 +34966,14 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>Uターン禁止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No Wikidata ID found for: {0}</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{0} の Wikidata ID が見つかりませんでした</seg>
       </tuv>
     </tu>
     <tu>
@@ -34186,6 +35122,14 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No entry</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>エントリー無し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No existing audio markers in this layer to offset from.</seg>
       </tuv>
       <tuv lang="ja">
@@ -34266,6 +35210,14 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No images found</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>画像がみつかりません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No intersection found.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T052428Z" creationid="miurahr" creationdate="20200818T052428Z">
@@ -34326,6 +35278,22 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>開いている変更セットはありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No overtaking</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>追い越し禁止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No parking</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>駐車禁止</seg>
       </tuv>
     </tu>
     <tu>
@@ -34470,6 +35438,14 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>タイムスタンプなし</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No turn</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>転回禁止</seg>
       </tuv>
     </tu>
     <tu>
@@ -34882,6 +35858,30 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Not linked yet</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>まだリンクされていません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Not logged in to Mapillary</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Mapillaryにログインしていません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Not older than:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>アップロード期間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Note</seg>
       </tuv>
       <tuv lang="ja">
@@ -35224,6 +36224,14 @@ nodes and the new nodes will be selected.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>前方車線数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of images to be pre-fetched (forwards and backwards)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>先行して取得する画像数(前向きと後ろ向き)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36156,6 +37164,14 @@ nodes and the new nodes will be selected.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only images with signs</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>標識のある画像のみ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only launching info browsers for the first {0} of {1} selected users</seg>
       </tuv>
       <tuv lang="ja">
@@ -36220,6 +37236,14 @@ nodes and the new nodes will be selected.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open Article</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>記事を開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open Cadastre Preferences</seg>
       </tuv>
       <tuv lang="ja">
@@ -36280,6 +37304,46 @@ nodes and the new nodes will be selected.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>MapDustを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open Mapillary changeset dialog</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Mapillary変更セットダイアログを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open Mapillary filter dialog</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Mapillaryフィルタダイアログを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open Mapillary history dialog</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Mapillaryヒストリダイアログを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open Mapillary layer</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Mapillaryレイヤを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open Mapillary window</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Mapillaryウインドウを開く</seg>
       </tuv>
     </tu>
     <tu>
@@ -36952,6 +38016,14 @@ nodes and the new nodes will be selected.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200825T215218Z" creationid="miurahr" creationdate="20200825T215218Z">
         <seg>GeoJsonオブジェクトリストのウインドウ枠を開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Opens the Wikipedia article of the selected item in a browser</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>選択された項目に関するWikipediaの記事をブラウザーで開く</seg>
       </tuv>
     </tu>
     <tu>
@@ -38032,6 +39104,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pastes Wikipedia articles from the system clipboard</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>システムのクリップボードからWikipediaの記事を貼り付け</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pastes tags of previously selected object(s)</seg>
       </tuv>
       <tuv lang="ja">
@@ -38080,6 +39160,22 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pause</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>一時停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pauses the walk.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>自動再生を一時停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pawnbroker</seg>
       </tuv>
       <tuv lang="ja">
@@ -38113,6 +39209,14 @@ The ways selected must form a simple branchless path</seg>
     <tu>
       <tuv lang="en-US">
         <seg>Pedestrian Crossing</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>横断歩道</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pedestrian crossing</seg>
       </tuv>
       <tuv lang="ja">
         <seg>横断歩道</seg>
@@ -38676,6 +39780,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>プラットホーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Play</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>再生</seg>
       </tuv>
     </tu>
     <tu>
@@ -39750,6 +40862,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Plugin isn''t properly initialized.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T224111Z" creationid="miurahr" creationdate="20200825T224111Z">
+        <seg>プラグインが正しく初期化されていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Plugin list download error</seg>
       </tuv>
       <tuv lang="ja">
@@ -40590,6 +41710,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Press "{0}" to download images</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>画像をダウンロードするには"{0}"を押下</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pressure (bar)</seg>
       </tuv>
       <tuv lang="ja">
@@ -40638,6 +41766,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Preview images when hovering its icon</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>アイコンの上に移動したとき画像をプレビュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Previous</seg>
       </tuv>
       <tuv lang="ja">
@@ -40666,6 +41802,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>前のマーカー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Previous picture</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>前の画像</seg>
       </tuv>
     </tu>
     <tu>
@@ -44760,6 +45904,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rewrite imported images</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>インポートした画像を再書き込み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ridge</seg>
       </tuv>
       <tuv lang="ja">
@@ -46144,6 +47296,22 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Search Wikidata items</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ウィキデータの項目を検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Search Wikipedia category</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ウィキペディアのカテゴリを検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Search by preset</seg>
       </tuv>
       <tuv lang="ja">
@@ -46561,6 +47729,14 @@ This automatically generates a language menu consisting of links to the original
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select a directory</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ディレクトリを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select a signing key from your keyring-file:</seg>
       </tuv>
       <tuv lang="ja">
@@ -46789,6 +47965,14 @@ This automatically generates a language menu consisting of links to the original
       </tuv>
       <tuv lang="ja">
         <seg>ディレクトリを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select directory to import images from</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>画像をインポートするディレクトリを選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -47157,6 +48341,14 @@ This automatically generates a language menu consisting of links to the original
       </tuv>
       <tuv lang="ja">
         <seg>現在編集中のリレーションを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the images you want to import</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>インポートしたい画像を選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -47693,6 +48885,14 @@ This automatically generates a language menu consisting of links to the original
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sequence key</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>シーケンスキー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sequence: {0}</seg>
       </tuv>
       <tuv lang="ja">
@@ -48115,6 +49315,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>WMSリクエストにSRS=...パラメーターを設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sets the default language for the Wikipedia articles</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Wikipediaの記事について既定の言語を設定する</seg>
       </tuv>
     </tu>
     <tu>
@@ -48543,6 +49751,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show detections on top of image</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>イメージ上に検出物を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show dialog with incomplete addresses</seg>
       </tuv>
       <tuv lang="ja">
@@ -48955,6 +50171,22 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>高度プロファイルやGPXトラックの統計データをいくつかを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shows the next picture in the sequence</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>シーケンスの次の写真を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shows the previous picture in the sequence</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>シーケンスの前の写真を表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -49903,6 +51135,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Speed limit</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>最高速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Speed:</seg>
       </tuv>
       <tuv lang="ja">
@@ -50544,6 +51784,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Stops the walk.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>自動再生を停止。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Storage Rental</seg>
       </tuv>
       <tuv lang="ja">
@@ -50848,10 +52096,50 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Submit changeset</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>変更セット送信</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Submit filter</seg>
       </tuv>
       <tuv lang="ja">
         <seg>フィルターを登録</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Submit the current changeset</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>現在の変更セットの送信</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Submit the current changeset to Mapillary</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Mapillaryへ現在の変更セットを送信する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Submitting Mapillary Changeset</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Mapillary変更セット送信</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Submitting changeset to server…</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>変更セットをサーバへ送信中...</seg>
       </tuv>
     </tu>
     <tu>
@@ -50996,6 +52284,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>サポートする画像ファイル, *.zip, *.kml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Supported image formats (JPG and PNG)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>サポートされる画像フォーマット(JPGとPNG)</seg>
       </tuv>
     </tu>
     <tu>
@@ -51514,6 +52810,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tag conflict</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>タグの衝突</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tag element inside other tag element</seg>
       </tuv>
       <tuv lang="ja">
@@ -51878,6 +53182,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>TangoGPS のインポートに成功しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Target key:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ターゲットのキー:</seg>
       </tuv>
     </tu>
     <tu>
@@ -52334,6 +53646,22 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>GTFSファイルの中身がありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Mapillary layer has stopped downloading images, because the requested area is too big!</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>要求された領域が広すぎるため、Mapillaryレイヤは画像ダウンロードを停止しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Mapillary plugin now uses a separate panel to display extra information (like the image key) and actions for the currently selected Mapillary image (like viewing it in a browser).</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Mapillaryプラグインは現在、(画像キー等の)追加情報を表示するパネルや、現在選択されているMapillary画像への(ブラウザ上への表示等の)処理のパネルが分割されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53431,6 +54759,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200813T125328Z" creationid="miurahr" creationdate="20200813T125328Z">
         <seg> OpenStreetMap には[https://www.openstreetmap.org/stats/data_stats.html {{:Contributors/count}}の登録ユーザー]がいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are currently no layers with geotagged images!</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ジオタグされた画像があるレイヤーは、現在ありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54585,6 +55921,22 @@ projections and retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To solve this problem, you could switch to download mode ''{0}'' and load Mapillary images for a smaller portion of the map.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>この問題を解決するには、ダウンロードモード"{0}"に切りかえ、地図の小さな領域でMapillary画像を読みこんでみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To solve this problem, you could zoom in and load a smaller area of the map.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>この問題を解決するには、ズームインして地図上のより小さな領域を読みこんでみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To specify the rendered area and scale, the options can be combined in various ways</seg>
       </tuv>
       <tuv lang="ja">
@@ -54909,6 +56261,14 @@ projections and retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>右上(最大)位置:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Total Mapillary images: {0}</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>総Mapillaryイメージ数: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -55623,6 +56983,14 @@ or action canceled</seg>
       </tuv>
       <tuv lang="ja">
         <seg>選択したスタイルの適用を切替え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Turned {0} image</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{0} 個の画像を回転しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56551,6 +57919,14 @@ or action canceled</seg>
       </tuv>
       <tuv lang="ja">
         <seg>文書化されていない問題が発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Uneven road</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>未舗装道路</seg>
       </tuv>
     </tu>
     <tu>
@@ -57692,6 +59068,14 @@ Create a new one.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Upload Mapillary images</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Mapillary画像のアップロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Upload Trace</seg>
       </tuv>
       <tuv lang="ja">
@@ -57840,6 +59224,14 @@ Create a new one.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>メモをアップロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Upload selected sequence</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>選択したシーケンスのアップロード</seg>
       </tuv>
     </tu>
     <tu>
@@ -58012,6 +59404,14 @@ Create a new one.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Uploading: {0}</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>アップロード中: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Uploads traces to openstreetmap.org</seg>
       </tuv>
       <tuv lang="ja">
@@ -58056,6 +59456,14 @@ Create a new one.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>"none" を使ってください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use 24 hour format</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>24時間表記を使用</seg>
       </tuv>
     </tu>
     <tu>
@@ -59104,6 +60512,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>View in browser</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ブラウザで表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>View summary</seg>
       </tuv>
       <tuv lang="ja">
@@ -59408,6 +60824,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Wait for full quality pictures</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>フル品質の写真を待つ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Wait time (milliseconds)</seg>
       </tuv>
       <tuv lang="ja">
@@ -59420,6 +60844,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>10秒待機中 ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Walk mode</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>自動再生モード</seg>
       </tuv>
     </tu>
     <tu>
@@ -60263,6 +61695,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When opening Mapillary image in web browser, show the blur editor instead of the image viewer</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Mapillary画像をWebブラウザで開くときに、画像ビューアの代わりにブラー編集画面を開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When pasting the incomplete objects are removed.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T122120Z" creationid="miurahr" creationdate="20190107T122120Z">
@@ -60323,6 +61763,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200817T232842Z" creationid="miurahr" creationdate="20200817T232842Z">
         <seg>これは、メンバーがブロックされる可能性があるポイントまで徐々に直接的になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Which image layers do you want to import into the Mapillary layer?</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>どの画像レイヤをMapillaryレイヤにインポートしますか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -60735,6 +62183,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Years</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>年</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Yes</seg>
       </tuv>
       <tuv lang="ja">
@@ -60969,6 +62425,30 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You are currently not logged in.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ログインしていません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You are logged in as ''{0}''.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>''{0}'' としてログイン中です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You are not logged in, please log in to Mapillary in the preferences</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>まだログインしていません。Mapillaryに設定からログインしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You are running version {0} of Java.</seg>
       </tuv>
       <tuv lang="ja">
@@ -61101,6 +62581,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>JOSMのバグです</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have successfully uploaded {0} image to mapillary.com</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{0}この画像をmapillary.comへアップロード完了しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61553,6 +63041,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Zoom to selected image</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>選択した画像へズーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Zoom to selected primitive(s)</seg>
       </tuv>
       <tuv lang="ja">
@@ -61573,6 +63069,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>現在のデータレイヤー中の対応するオブジェクトにズームする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zoom to the currently selected Mapillary image</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>現在選択しているMapillary画像へズームします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62289,6 +63793,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>approved</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>承認済み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>aqueduct</seg>
       </tuv>
       <tuv lang="ja">
@@ -62349,6 +63861,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200819T112417Z" creationid="miurahr" creationdate="20200819T112417Z">
         <seg>エリア:ハイウェイタイプ{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>areas with downloaded OSM-data</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSMデータをダウンロードした領域</seg>
       </tuv>
     </tu>
     <tu>
@@ -63509,6 +65029,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>クライミングウォール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>clipboard</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>クリップボード</seg>
       </tuv>
     </tu>
     <tu>
@@ -64805,6 +66333,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>リレーションのn個おきのメンバーやウェイのn個おきのノード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>everything in the visible area</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>みえている領域全部</seg>
       </tuv>
     </tu>
     <tu>
@@ -66245,6 +67781,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>チタン鉄鉱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>image has no key</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>画像にはキーがない</seg>
       </tuv>
     </tu>
     <tu>
@@ -68105,6 +69649,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>no image selected</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>画像が選択されていない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>no importer</seg>
       </tuv>
       <tuv lang="ja">
@@ -68645,6 +70197,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>限定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>only when manually requested</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>手動で要求されたときのみ</seg>
       </tuv>
     </tu>
     <tu>
@@ -69841,6 +71401,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>rejected</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>却下</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>related objects</seg>
       </tuv>
       <tuv lang="ja">
@@ -70661,6 +72229,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>分煙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>sequence has no key</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>シーケンスにキーがない</seg>
       </tuv>
     </tu>
     <tu>
@@ -72798,6 +74374,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>unknown user</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ユーザ不明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>unleashed</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200819T132952Z" creationid="miurahr" creationdate="20200819T132952Z">
@@ -73894,6 +75478,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{0} ({1} image)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{0} ({1} 画像)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{0} ({1} to {2} degrees)</seg>
       </tuv>
       <tuv lang="ja">
@@ -74086,10 +75678,26 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{0} detections</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{0} 検出物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{0} different</seg>
       </tuv>
       <tuv lang="ja">
         <seg>異なる{0}件の値</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} downloaded image</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{0} ダウンロードした画像</seg>
       </tuv>
     </tu>
     <tu>
@@ -74118,6 +75726,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{0} image in total</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>全 {0} 画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{0} image loaded.</seg>
       </tuv>
       <tuv lang="ja">
@@ -74126,10 +75742,34 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{0} image submitted, Changeset key: {1}, State: {2}</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>変更セットキー: {1}, 状態: {2}で、{0} この画像が送信されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{0} imagery has tileMatrixSet defined to: {1}</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T115025Z" creationid="miurahr" creationdate="20200818T115025Z">
         <seg>{0}個の画像には次のtileMatrixSetが定義されています:{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} images in {1} sequences</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{1}シーケンス中に画像が{0}こ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} imported image</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{0}このインポートした画像</seg>
       </tuv>
     </tu>
     <tu>
@@ -74512,6 +76152,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>{0}本のルート、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} sequence, containing between {1} and {2} images (ø {3})</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{1} から {2} までの画像 (ø {3})を含むシーケンス数 {0}</seg>
       </tuv>
     </tu>
     <tu>
