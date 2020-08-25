@@ -22761,6 +22761,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>FATAL: Failed to initialize scripting plugin.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233449Z" creationid="miurahr" creationdate="20200825T233449Z">
+        <seg>致命的:スクリプトプラグインの初期化に失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>FIX</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T113616Z" creationid="miurahr" creationdate="20200818T113616Z">
@@ -22821,6 +22829,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>OAuthリクエスト''{0}'' の認証に失敗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Failed to create URL referring to the module repository ''{0}''</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233500Z" creationid="miurahr" creationdate="20200825T233500Z">
+        <seg>モジュールリポジトリ''{0}''を参照するURLを作成できませんでした</seg>
       </tuv>
     </tu>
     <tu>
@@ -22993,6 +23009,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Failed to instantiate plugin ''{0}''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233508Z" creationid="miurahr" creationdate="20200825T233508Z">
+        <seg>プラグイン''{0}''のインスタンス化に失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Failed to load XML schema.</seg>
       </tuv>
       <tuv lang="ja">
@@ -23009,10 +23033,42 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Failed to load file ''{0}''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233516Z" creationid="miurahr" creationdate="20200825T233516Z">
+        <seg>ファイル''{0}''をロードできませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Failed to load icon ''{0}''</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233523Z" creationid="miurahr" creationdate="20200825T233523Z">
+        <seg>アイコン''{0}''のロードに失敗しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Failed to load icon ''{0}/{1}''</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233539Z" creationid="miurahr" creationdate="20200825T233539Z">
+        <seg>アイコン''{0}/{1}''のロードに失敗しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Failed to load map renderer class ''{0}''.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T220804Z" creationid="miurahr" creationdate="20200818T220804Z">
         <seg>マップレンダラクラス「{0}」のロードに失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Failed to load python module ''{0}''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233550Z" creationid="miurahr" creationdate="20200825T233550Z">
+        <seg>モジュール''{0}''をロードできませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23065,10 +23121,26 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Failed to lookup plugin class ''{0}''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233616Z" creationid="miurahr" creationdate="20200825T233616Z">
+        <seg>プラグインクラス''{0}''の検索に失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Failed to open URL</seg>
       </tuv>
       <tuv lang="ja">
         <seg>URLを開けません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Failed to open file ''{0}'' as jar file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233621Z" creationid="miurahr" creationdate="20200825T233621Z">
+        <seg>ファイル''{0}''をJARファイルとして開くことができませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23145,6 +23217,22 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Failed to read the script from file ''{0}''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233639Z" creationid="miurahr" creationdate="20200825T233639Z">
+        <seg>ファイル''{0}''からスクリプトを読み取ることができませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Failed to read the script from the file ''{0}''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233646Z" creationid="miurahr" creationdate="20200825T233646Z">
+        <seg>ファイル''{0}''からスクリプトを読み取ることができませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Failed to rename file {0} to {1}.</seg>
       </tuv>
       <tuv lang="ja">
@@ -23197,6 +23285,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>既定値の設定の保存に失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Failed to save file ''{0}''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233656Z" creationid="miurahr" creationdate="20200825T233656Z">
+        <seg>ファイル''{0}''を保存できませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23669,6 +23765,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ファイル名:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>File not found</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233702Z" creationid="miurahr" creationdate="20200825T233702Z">
+        <seg>ファイルが見つかりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31964,6 +32068,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>画像を移動可能にして地図上に配置できるようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Make sure the preferences with key ''{1}'' include the path to the module.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233606Z" creationid="miurahr" creationdate="20200825T233606Z">
+        <seg>キー''{1}''の設定にモジュールへのパスが含まれていることを確認してください。</seg>
       </tuv>
     </tu>
     <tu>
