@@ -7619,6 +7619,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Below you can configure where it looks for locally deployed plugins and which plugins it should load and launch at startup time.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234907Z" creationid="miurahr" creationdate="20200825T234907Z">
+        <seg>以下では、ローカルに配置されたプラグインの検索場所と、起動時にロードして起動するプラグインを設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Bench</seg>
       </tuv>
       <tuv lang="ja">
@@ -48080,6 +48088,46 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Script file:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234611Z" creationid="miurahr" creationdate="20200825T234611Z">
+        <seg>スクリプトファイル:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Scripting</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234613Z" creationid="miurahr" creationdate="20200825T234613Z">
+        <seg>スクリプティング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Scripting Console</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234617Z" creationid="miurahr" creationdate="20200825T234617Z">
+        <seg>スクリプトコンソール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Scripting: Run a Script</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234621Z" creationid="miurahr" creationdate="20200825T234621Z">
+        <seg>スクリプティング:スクリプトの実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Scripting: Show/hide scripting console</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234707Z" creationid="miurahr" creationdate="20200825T234707Z">
+        <seg>スクリプティング:スクリプトコンソールの表示/非表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Scrub</seg>
       </tuv>
       <tuv lang="ja">
@@ -48601,6 +48649,54 @@ This automatically generates a language menu consisting of links to the original
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select a directory or a jar file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234710Z" creationid="miurahr" creationdate="20200825T234710Z">
+        <seg>ディレクトリまたはjarファイルを選択してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select a directory or jar/zip file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234713Z" creationid="miurahr" creationdate="20200825T234713Z">
+        <seg>ディレクトリまたはjar/zipファイルを選択してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select a jar file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234720Z" creationid="miurahr" creationdate="20200825T234720Z">
+        <seg>jarファイルを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select a script</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234722Z" creationid="miurahr" creationdate="20200825T234722Z">
+        <seg>スクリプトを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select a script file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234725Z" creationid="miurahr" creationdate="20200825T234725Z">
+        <seg>スクリプトファイルを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select a script file and click on &lt;strong&gt;Run&lt;/strong&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234735Z" creationid="miurahr" creationdate="20200825T234735Z">
+        <seg>スクリプトファイルを選択し、&lt;strong&gt;Run&lt;/strong&gt;をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select a signing key from your keyring-file:</seg>
       </tuv>
       <tuv lang="ja">
@@ -48685,6 +48781,14 @@ This automatically generates a language menu consisting of links to the original
       </tuv>
       <tuv lang="ja">
         <seg>下の画像から（建物などの）エリアを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select an engine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234739Z" creationid="miurahr" creationdate="20200825T234739Z">
+        <seg>エンジンを選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -49081,6 +49185,14 @@ This automatically generates a language menu consisting of links to the original
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select one of the available script engines for executing this script.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234745Z" creationid="miurahr" creationdate="20200825T234745Z">
+        <seg>このスクリプトを実行するために使用可能なスクリプトエンジンを1つ選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select only changesets related to a specific bounding box</seg>
       </tuv>
       <tuv lang="ja">
@@ -49461,6 +49573,14 @@ This automatically generates a language menu consisting of links to the original
       </tuv>
       <tuv lang="ja">
         <seg>オブジェクトの選択、移動、拡大縮小と回転</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234749Z" creationid="miurahr" creationdate="20200825T234749Z">
+        <seg>選択...</seg>
       </tuv>
     </tu>
     <tu>
@@ -50823,6 +50943,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show scripting console</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234752Z" creationid="miurahr" creationdate="20200825T234752Z">
+        <seg>スクリプトコンソールを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show selected only</seg>
       </tuv>
       <tuv lang="ja">
@@ -50963,6 +51091,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>レイヤー表示/非表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show/hide the scripting console</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234804Z" creationid="miurahr" creationdate="20200825T234804Z">
+        <seg>スクリプトコンソールの表示/非表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -53498,6 +53634,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Syntax highlighting is going to be disabled.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234810Z" creationid="miurahr" creationdate="20200825T234810Z">
+        <seg>構文の強調表示が無効になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>System of measurement</seg>
       </tuv>
       <tuv lang="ja">
@@ -54821,6 +54965,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The display name of the script.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234815Z" creationid="miurahr" creationdate="20200825T234815Z">
+        <seg>スクリプトの表示名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The document contains no data.</seg>
       </tuv>
       <tuv lang="ja">
@@ -54841,6 +54993,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja">
         <seg>洞窟の出入口です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The entry ''{1}'' is missing.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234846Z" creationid="miurahr" creationdate="20200825T234846Z">
+        <seg>エントリ''{1}''が見つかりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54969,6 +55129,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja">
         <seg>入力された名前でアイテムを作成することはできません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The jar file ''{0}'' doesn''t provide a script engine.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234835Z" creationid="miurahr" creationdate="20200825T234835Z">
+        <seg>JARファイル''{0}''はスクリプトエンジンを提供しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55295,6 +55463,38 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja">
         <seg>''/REVISION''で指定されたリビジョンファイルが見つかりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The script file ''{0}'' doesn''t exist.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234850Z" creationid="miurahr" creationdate="20200825T234850Z">
+        <seg>スクリプトファイル''{0}''が存在しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The script file ''{0}'' isn''t readable.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234856Z" creationid="miurahr" creationdate="20200825T234856Z">
+        <seg>スクリプトファイル''{0}''を読み取れません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The scripting plugin can load and run plugins written in &lt;strong&gt;Python&lt;/strong&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234902Z" creationid="miurahr" creationdate="20200825T234902Z">
+        <seg>スクリプトプラグインは、&lt;strong&gt;Python&lt;/strong&gt;で記述されたプラグインをロードして実行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The scripting plugin includes an embedded scripting engine for JavaScript based on Mozilla Rhino.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234914Z" creationid="miurahr" creationdate="20200825T234914Z">
+        <seg>このスクリプトプラグインには、Mozilla RhinoをベースにしたJavaScript用の組み込みスクリプトエンジンが含まれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60688,6 +60888,14 @@ Create a new one.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>幅と高さのオプションと組み合わせて、レンダリングする領域を決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Used in menu entries.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234819Z" creationid="miurahr" creationdate="20200825T234819Z">
+        <seg>メニューエントリで使用されます。</seg>
       </tuv>
     </tu>
     <tu>
