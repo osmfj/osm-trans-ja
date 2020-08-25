@@ -6651,6 +6651,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Assuming default scripting engine.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T235122Z" creationid="miurahr" creationdate="20200825T235122Z">
+        <seg>デフォルトのスクリプトエンジンを想定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At Your or the copyright owner’s option, OSMF agrees to attribute You or the copyright owner.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T112230Z" creationid="miurahr" creationdate="20190107T112230Z">
@@ -22345,6 +22353,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Expected pattern ''type/id'', got ''{1}''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T235111Z" creationid="miurahr" creationdate="20200825T235111Z">
+        <seg>パターン''type/id''を予期していましたが、''{1}''を取得しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Expected search expression</seg>
       </tuv>
       <tuv lang="ja">
@@ -29378,6 +29394,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200819T112529Z" creationid="miurahr" creationdate="20200819T112529Z">
         <seg>以下を追加する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It can load CommonJS modules either from the local filesystem or from jar/zip files.&lt;br&gt;&lt;br&gt;Per default, it loads CommonJS modules from the directory &lt;strong&gt;/js&lt;/strong&gt; in the plugin jar, but you can add additional directories and jar files.&lt;br&gt;&lt;br&gt;Configure them in the list below.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234925Z" creationid="miurahr" creationdate="20200825T234925Z">
+        <seg>ローカルファイルシステムまたはjar/zipファイルからCommonJSモジュールをロードできます。&lt;br&gt;&lt;br&gt;デフォルトでは、プラグインjarのディレクトリ&lt;strong&gt;/js&lt;/strong&gt;からCommonJSモジュールをロードしますが、追加のディレクトリとjarファイルを追加することもできます。&lt;br&gt;&lt;br&gt;以下のリストでそれらを設定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55691,6 +55715,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The unique internal ID used to identify the script.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234937Z" creationid="miurahr" creationdate="20200825T234937Z">
+        <seg>スクリプトの識別に使用される一意の内部ID。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The username and password is protected by {0}.</seg>
       </tuv>
       <tuv lang="ja">
@@ -58295,6 +58327,22 @@ or action canceled</seg>
       </tuv>
       <tuv lang="ja">
         <seg>不明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>URL ''{0}'' doesn''t refer to an existing local directory or jar file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234940Z" creationid="miurahr" creationdate="20200825T234940Z">
+        <seg>URL''{0}''が既存のローカルディレクトリまたはjarファイルを参照していません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>URL ''{0}'' doesn''t refer to an existing local jar file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234952Z" creationid="miurahr" creationdate="20200825T234952Z">
+        <seg>URL''{0}''が既存のローカルjarファイルを参照していません</seg>
       </tuv>
     </tu>
     <tu>
@@ -62048,10 +62096,50 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Warning: failed to load default mime types from  resource ''{0}''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T235002Z" creationid="miurahr" creationdate="20200825T235002Z">
+        <seg>警告:リソース''{0}''からデフォルトのMIMEタイプをロードできませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Warning: failed to load icon for turn restriction type ''{0}''</seg>
       </tuv>
       <tuv lang="ja">
         <seg>警告: 進行方向制限の種別 ''{0}'' 用のアイコンのロードに失敗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Warning: failed to load mime types from file ''{0}''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T235010Z" creationid="miurahr" creationdate="20200825T235010Z">
+        <seg>警告:ファイル''{0}''からMIMEタイプをロードできませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Warning: failed to open resource file ''{0}''</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T235018Z" creationid="miurahr" creationdate="20200825T235018Z">
+        <seg>警告:リソースファイル''{0}''を開くことができませんでした</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Warning: preference with key ''{0}'' consist of an unsupported value.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T235023Z" creationid="miurahr" creationdate="20200825T235023Z">
+        <seg>警告:キー''{0}''の設定はサポートされていない値で構成されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Warning: preference with key ''{0}'' refers to an unsupported JSR223 compatible  scripting engine with id ''{1}''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T235248Z" creationid="miurahr" creationdate="20200825T235248Z">
+        <seg>警告:キー''{0}''の設定は、サポートされていない、ID ''{1}'' をもつJSR223互換スクリプトエンジンで構成されています。</seg>
       </tuv>
     </tu>
     <tu>
