@@ -17101,6 +17101,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Didn''t find a suitable syntax kit for the script engine &lt;strong&gt;{0}&lt;/strong&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233142Z" creationid="miurahr" creationdate="20200825T233142Z">
+        <seg>スクリプトエンジン&lt;strong&gt;{0}&lt;/strong&gt;に適した構文キットが見つかりませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Diesel</seg>
       </tuv>
       <tuv lang="ja">
@@ -17561,6 +17569,14 @@ Do you want to keep it?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ライブ音声トレースの表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Display name:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233146Z" creationid="miurahr" creationdate="20200825T233146Z">
+        <seg>表示名:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18483,6 +18499,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ウェイに沿ってダウンロード...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Download and install scripting engine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233151Z" creationid="miurahr" creationdate="20200825T233151Z">
+        <seg>スクリプトエンジンのダウンロードとインストール</seg>
       </tuv>
     </tu>
     <tu>
@@ -20279,6 +20303,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Edit a script</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233154Z" creationid="miurahr" creationdate="20200825T233154Z">
+        <seg>スクリプトの編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Edit access parameters</seg>
       </tuv>
       <tuv lang="ja">
@@ -20823,6 +20855,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Embedded Rhino engine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233158Z" creationid="miurahr" creationdate="20200825T233158Z">
+        <seg>内蔵Rhinoエンジン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Emergency</seg>
       </tuv>
       <tuv lang="ja">
@@ -20883,6 +20923,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>空の文書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Empty file name</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233201Z" creationid="miurahr" creationdate="20200825T233201Z">
+        <seg>空のファイル名</seg>
       </tuv>
     </tu>
     <tu>
@@ -21055,6 +21103,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enabled support for GraalVM</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233205Z" creationid="miurahr" creationdate="20200825T233205Z">
+        <seg>GraalVMのサポートを有効にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enables searching for waypoint imported from gpx file.</seg>
       </tuv>
       <tuv lang="ja">
@@ -21211,6 +21267,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ソースを入力してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enter additional JAR files which provide script engines.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233209Z" creationid="miurahr" creationdate="20200825T233209Z">
+        <seg>スクリプトエンジンを提供する追加のJARファイルを入力します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21395,6 +21459,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>新しいノードの座標を、1行に1つずつ入力して下さい。&lt;br/&gt;2つの行に同じ座標が入力された場合は、重複したノードが作成されます。&lt;br/&gt;緯度と経度を空白、コンマ、セミコロンで区切ってください。&lt;br/&gt;正の数やN、Eの文字は北緯や東経を示します。&lt;br/&gt;南緯や西経を表すには、負の数またはS、Wの文字を使用してください。&lt;br/&gt;座標の値は次の3つの形式のうち1つで指定します。&lt;ul&gt;&lt;li&gt;&lt;i&gt;度&lt;/i&gt;&lt;tt&gt;&amp;deg;&lt;/tt&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;度&lt;/i&gt;&lt;tt&gt;&amp;deg;&lt;/tt&gt; &lt;i&gt;分&lt;/i&gt;&lt;tt&gt;&amp;#39;&lt;/tt&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;度&lt;/i&gt;&lt;tt&gt;&amp;deg;&lt;/tt&gt; &lt;i&gt;分&lt;/i&gt;&lt;tt&gt;&amp;#39;&lt;/tt&gt; &lt;i&gt;秒&lt;/i&gt;&lt;tt&gt;&amp;quot&lt;/tt&gt;&lt;/li&gt;&lt;/ul&gt;&lt;tt&gt;&amp;deg;&lt;/tt&gt;、&lt;tt&gt;&amp;#39;&lt;/tt&gt;、&lt;tt&gt;&amp;prime;&lt;/tt&gt;、&lt;tt&gt;&amp;quot;&lt;/tt&gt;、&lt;tt&gt;&amp;Prime;&lt;/tt&gt; の記号は省略可能です。&lt;br/&gt;&lt;br/&gt;いくつかの例を示します。&lt;ul&gt;&lt;li&gt;49.29918&amp;deg; 19.24788&amp;deg;&lt;/li&gt;&lt;li&gt;N 49.29918 E 19.24788&lt;/li&gt;&lt;li&gt;W 49&amp;deg;29.918&amp;#39; S 19&amp;deg;24.788&amp;#39;&lt;/li&gt;&lt;li&gt;N 49&amp;deg;29&amp;#39;04&amp;quot; E 19&amp;deg;24&amp;#39;43&amp;quot;&lt;/li&gt;&lt;li&gt;49.29918 N, 19.24788 E&lt;/li&gt;&lt;li&gt;49&amp;deg;29&amp;#39;21&amp;quot; N 19&amp;deg;24&amp;#39;38&amp;quot; E&lt;/li&gt;&lt;li&gt;49 29 51, 19 24 18&lt;/li&gt;&lt;li&gt;49 29, 19 24&lt;/li&gt;&lt;li&gt;E 49 29, N 19 24&lt;/li&gt;&lt;li&gt;49&amp;deg; 29; 19&amp;deg; 24&lt;/li&gt;&lt;li&gt;N 49&amp;deg; 29, W 19&amp;deg; 24&lt;/li&gt;&lt;li&gt;49&amp;deg; 29.5 S, 19&amp;deg; 24.6 E&lt;/li&gt;&lt;li&gt;N 49 29.918 E 19 15.88&lt;/li&gt;&lt;li&gt;49 29.4 19 24.5&lt;/li&gt;&lt;li&gt;-49 29.4 N -19 24.5 W&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;48 deg 42&amp;#39; 52.13" N, 21 deg 11&amp;#39; 47.60" E&lt;/li&gt;&lt;/ul&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enter the name of a script file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233212Z" creationid="miurahr" creationdate="20200825T233212Z">
+        <seg>スクリプトファイルの名前を入力</seg>
       </tuv>
     </tu>
     <tu>
@@ -21873,6 +21945,30 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Error: failed to load local map from mime-types to syntax kits</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233222Z" creationid="miurahr" creationdate="20200825T233222Z">
+        <seg>エラー:ローカルマップをMIMEタイプから構文キットにロードできませんでした</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Error: failed to load resource file ''{0}''</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233235Z" creationid="miurahr" creationdate="20200825T233235Z">
+        <seg>エラー:リソースファイル''{0}''を読み込めませんでした</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Error: resource file ''{0}'' not found</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233244Z" creationid="miurahr" creationdate="20200825T233244Z">
+        <seg>エラー:リソースファイル''{0}''が見つかりません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Error: {0}</seg>
       </tuv>
       <tuv lang="ja">
@@ -22049,10 +22145,34 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Execute the script</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233247Z" creationid="miurahr" creationdate="20200825T233247Z">
+        <seg>スクリプトの実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Executing platform startup hook</seg>
       </tuv>
       <tuv lang="ja">
         <seg>プラットフォームスタートアップフックを実行中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Executing scripts in language &lt;strong&gt;{0}&lt;/strong&gt; using engine &lt;strong&gt;{1}&lt;/strong&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233255Z" creationid="miurahr" creationdate="20200825T233255Z">
+        <seg>エンジン&lt;strong&gt;{1}&lt;/strong&gt;を使用して、言語&lt;strong&gt;{0}&lt;/strong&gt;でスクリプトを実行しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Executing scripts with the built-in scripting engine for language &lt;strong&gt;{0}&lt;/strong&gt; based on &lt;strong&gt;{1}&lt;/strong&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233445Z" creationid="miurahr" creationdate="20200825T233445Z">
+        <seg>&lt;strong&gt;{1}&lt;/strong&gt;に基づく言語&lt;strong&gt;{0}&lt;/strong&gt;の内蔵スクリプトエンジンを使用してスクリプトを実行しています。</seg>
       </tuv>
     </tu>
     <tu>
