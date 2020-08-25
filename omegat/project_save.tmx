@@ -3522,6 +3522,14 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Accept script descriptor and close dialog</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T224339Z" creationid="miurahr" creationdate="20200825T224339Z">
+        <seg>スクリプト記述子を受け入れてダイアログを閉じる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Accept the currently selected way</seg>
       </tuv>
       <tuv lang="ja">
@@ -3542,6 +3550,14 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
       </tuv>
       <tuv lang="ja">
         <seg>新しいプラグインのサイトを受け入れてダイアログを閉じる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Accept the selected scripting engine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T224345Z" creationid="miurahr" creationdate="20200825T224345Z">
+        <seg>選択したスクリプトエンジンを受け入れる</seg>
       </tuv>
     </tu>
     <tu>
@@ -3898,10 +3914,34 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add a button for this script script file to the toolbar.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T224355Z" creationid="miurahr" creationdate="20200825T224355Z">
+        <seg>このスクリプトスクリプトファイルのボタンをツールバーに追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add a button with this search expression to the toolbar.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>この検索式を含むボタンをツールバーに追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add a jar file providing a script engine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T224409Z" creationid="miurahr" creationdate="20200825T224409Z">
+        <seg>スクリプトエンジンを提供するjarファイルの追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add a list of fully qualified names of Python plugin classes the scripting plugin shall load and install at startup time.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T232641Z" creationid="miurahr" creationdate="20200825T232641Z">
+        <seg>起動時にスクリプトプラグインがロードおよびインストールするPythonプラグインクラスの完全修飾名のリストを追加します。</seg>
       </tuv>
     </tu>
     <tu>
