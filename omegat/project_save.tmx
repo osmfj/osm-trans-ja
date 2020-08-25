@@ -1261,6 +1261,14 @@ no_more_mappingを外してください)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;br&gt;Example: ''my_module.MyPlugin'' or ''my_package.my_module.MyPlugin''</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T232700Z" creationid="miurahr" creationdate="20200825T232700Z">
+        <seg>&lt;br&gt;例: ''my_module.MyPlugin'' または ''my_package.my_module.MyPlugin''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;delete from {0} objects&gt;</seg>
       </tuv>
       <tuv lang="ja">
@@ -4066,6 +4074,22 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add a path or jar file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T232705Z" creationid="miurahr" creationdate="20200825T232705Z">
+        <seg>パスまたはjarファイルの追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add a plugin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T232709Z" creationid="miurahr" creationdate="20200825T232709Z">
+        <seg>プラグインの追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add a way with role ''from''</seg>
       </tuv>
       <tuv lang="ja">
@@ -4118,6 +4142,14 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
       </tuv>
       <tuv lang="ja">
         <seg>すべてのタグを追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add an additional repository</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T232800Z" creationid="miurahr" creationdate="20200825T232800Z">
+        <seg>別のリポジトリを追加する</seg>
       </tuv>
     </tu>
     <tu>
