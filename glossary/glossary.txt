@@ -24,3 +24,4 @@ multipolygon relation	マルチポリゴンリレーション
 Simplify	単純化
 standard parallels	標準緯線
 mappaint style	地図描画スタイル
+feature	地物
