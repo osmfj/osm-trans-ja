@@ -25979,6 +25979,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HTTP URLs are not supported.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234443Z" creationid="miurahr" creationdate="20200825T234443Z">
+        <seg>HTTP URLはサポートされていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>HTTP error {0} when loading tiles</seg>
       </tuv>
       <tuv lang="ja">
@@ -40836,8 +40844,16 @@ The ways selected must form a simple branchless path</seg>
       <tuv lang="en-US">
         <seg>Please enter or paste a valid directory path or path to a jar/zip file.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20200825T234349Z" creationid="miurahr" creationdate="20200825T234259Z">
-        <seg>有効なディレクトリパスかjar/zipファイルのパスを入力するか貼り付けてください。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234403Z" creationid="miurahr" creationdate="20200825T234259Z">
+        <seg>有効なディレクトリパスかjar/zipファイルのパスを入力してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please enter or paste a valid file or jar URL.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234439Z" creationid="miurahr" creationdate="20200825T234439Z">
+        <seg>有効なファイルかjar URLのパスを入力してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44224,6 +44240,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Refer to the online help how to configure syntax kits for specific content types.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234447Z" creationid="miurahr" creationdate="20200825T234447Z">
+        <seg>特定のコンテンツタイプの構文キットを設定する方法については、オンラインヘルプを参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Reference</seg>
       </tuv>
       <tuv lang="ja">
@@ -45080,6 +45104,22 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Remove a path</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234451Z" creationid="miurahr" creationdate="20200825T234451Z">
+        <seg>パスを削除する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remove a repository</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234454Z" creationid="miurahr" creationdate="20200825T234454Z">
+        <seg>リポジトリを削除する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Remove address tags</seg>
       </tuv>
       <tuv lang="ja">
@@ -45192,6 +45232,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Remove selected plugins</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234457Z" creationid="miurahr" creationdate="20200825T234457Z">
+        <seg>選択したプラグインを削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Remove tag</seg>
       </tuv>
       <tuv lang="ja">
@@ -45268,6 +45316,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>選択されたアイコンパスを削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remove the selected jar files</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234459Z" creationid="miurahr" creationdate="20200825T234459Z">
+        <seg>選択したjarファイルを削除します</seg>
       </tuv>
     </tu>
     <tu>
@@ -47168,10 +47224,50 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Run</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234502Z" creationid="miurahr" creationdate="20200825T234502Z">
+        <seg>実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Run a script</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234504Z" creationid="miurahr" creationdate="20200825T234504Z">
+        <seg>スクリプトの実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Run script ''{0}''</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234511Z" creationid="miurahr" creationdate="20200825T234511Z">
+        <seg>スクリプト''{0}''の実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Run the automatic authorization steps again</seg>
       </tuv>
       <tuv lang="ja">
         <seg>自動認証手順を再実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Run the script</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234514Z" creationid="miurahr" creationdate="20200825T234514Z">
+        <seg>スクリプトの実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Run...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234523Z" creationid="miurahr" creationdate="20200825T234523Z">
+        <seg>実行中...</seg>
       </tuv>
     </tu>
     <tu>
@@ -47560,6 +47656,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Save as ...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234528Z" creationid="miurahr" creationdate="20200825T234528Z">
+        <seg>名前を付けて保存...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Save as is</seg>
       </tuv>
       <tuv lang="ja">
@@ -47612,6 +47716,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>レイヤーを保存...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save script to current file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234535Z" creationid="miurahr" creationdate="20200825T234535Z">
+        <seg>スクリプトを現在のファイルに保存</seg>
       </tuv>
     </tu>
     <tu>
@@ -47692,6 +47804,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170521T234933Z" creationid="miurahr" creationdate="20170521T234933Z">
         <seg>そして Languages テンプレートを追加したこの英語版を「保存」してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save to a script file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234544Z" creationid="miurahr" creationdate="20200825T234544Z">
+        <seg>スクリプトファイルに保存する</seg>
       </tuv>
     </tu>
     <tu>
@@ -47900,6 +48020,62 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ガレ場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Script Engine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234550Z" creationid="miurahr" creationdate="20200825T234550Z">
+        <seg>スクリプトエンジン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Script Error</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234553Z" creationid="miurahr" creationdate="20200825T234553Z">
+        <seg>スクリプトエラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Script engine not found</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234556Z" creationid="miurahr" creationdate="20200825T234556Z">
+        <seg>スクリプトエンジンが見つかりません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Script engines</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234559Z" creationid="miurahr" creationdate="20200825T234559Z">
+        <seg>スクリプトエンジン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Script engines:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234602Z" creationid="miurahr" creationdate="20200825T234602Z">
+        <seg>スクリプトエンジン:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Script execution failed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234606Z" creationid="miurahr" creationdate="20200825T234606Z">
+        <seg>スクリプトの実行に失敗しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Script execution has failed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234608Z" creationid="miurahr" creationdate="20200825T234608Z">
+        <seg>スクリプトの実行に失敗しました。</seg>
       </tuv>
     </tu>
     <tu>
