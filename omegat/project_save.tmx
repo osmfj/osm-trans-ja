@@ -5322,6 +5322,14 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Allows you to view a GeoJSON file as a layer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T215406Z" creationid="miurahr" creationdate="20200825T215406Z">
+        <seg>GeoJSONファイルをレイヤーとして表示できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Almost right angle buildings</seg>
       </tuv>
       <tuv lang="ja">
@@ -56863,6 +56871,14 @@ or action canceled</seg>
       </tuv>
       <tuv lang="ja">
         <seg>不明なホスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unknown json object found {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T215357Z" creationid="miurahr" creationdate="20200825T215357Z">
+        <seg>不明なjsonオブジェクトが見つかりました{0}</seg>
       </tuv>
     </tu>
     <tu>
