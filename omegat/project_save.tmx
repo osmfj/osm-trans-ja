@@ -23803,6 +23803,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>File not readable</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233707Z" creationid="miurahr" creationdate="20200825T233707Z">
+        <seg>ファイルを読み取れません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>File to load</seg>
       </tuv>
       <tuv lang="ja">
@@ -23823,6 +23831,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ファイル {0} は、"{1}"という名前でですが、読み込まれました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>File:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233711Z" creationid="miurahr" creationdate="20200825T233711Z">
+        <seg>ファイル:</seg>
       </tuv>
     </tu>
     <tu>
@@ -24819,6 +24835,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Full local path to the script file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233716Z" creationid="miurahr" creationdate="20200825T233716Z">
+        <seg>スクリプトファイルへの完全なローカルパス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fullscreen view</seg>
       </tuv>
       <tuv lang="ja">
@@ -25191,6 +25215,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>マルチポリゴンで囲まれた画像のXMLを作る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Generate a globally unique ID</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233728Z" creationid="miurahr" creationdate="20200825T233728Z">
+        <seg>グローバルに一意なIDを生成する</seg>
       </tuv>
     </tu>
     <tu>
@@ -25663,6 +25695,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>(写真から読み取った)GPSの時刻:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GraalVM polyglot API isn''t on the class path.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233745Z" creationid="miurahr" creationdate="20200825T233745Z">
+        <seg>GraalVM polyglot APIはクラスパスにありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26974,6 +27014,22 @@ or just retry</seg>
         <seg>IO Exception</seg>
       </tuv>
       <tuv lang="ja">
+        <seg>IO 例外</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IO error</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233808Z" creationid="miurahr" creationdate="20200825T233808Z">
+        <seg>I/O エラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IO exception</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233810Z" creationid="miurahr" creationdate="20200825T233810Z">
         <seg>IO 例外</seg>
       </tuv>
     </tu>
@@ -29486,6 +29542,22 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>JAR file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233814Z" creationid="miurahr" creationdate="20200825T233814Z">
+        <seg>JARファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JAR files</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233816Z" creationid="miurahr" creationdate="20200825T233816Z">
+        <seg>JARファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>JOSM Help Browser</seg>
       </tuv>
       <tuv lang="ja">
@@ -29530,6 +29602,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>JOSMが次のプラグインの情報を見つけられませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JOSM currently supports the following script engines:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233824Z" creationid="miurahr" creationdate="20200825T233824Z">
+        <seg>JOSMは現在、次のスクリプトエンジンをサポートしています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29956,6 +30036,22 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170523T122943Z" creationid="miurahr" creationdate="20170523T122943Z">
         <seg>左上隅の''（XX:english_page_nameから転送）''というリンクを使用してください。 :6. これで、単なるリダイレクトページとなった古い題名のページが開きます。 :7. 左側のメニューの''リンク元''のリンクを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Jython engine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233828Z" creationid="miurahr" creationdate="20200825T233828Z">
+        <seg>Jythonエンジン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Jython interpreter isn''t on the class path.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233831Z" creationid="miurahr" creationdate="20200825T233831Z">
+        <seg>Jythonインタープリターはクラス・パスにありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30416,6 +30512,22 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Language version:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233841Z" creationid="miurahr" creationdate="20200825T233841Z">
+        <seg>言語バージョン:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Language:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233843Z" creationid="miurahr" creationdate="20200825T233843Z">
+        <seg>言語:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Large area covered with mud.</seg>
       </tuv>
       <tuv lang="ja">
@@ -30636,6 +30748,22 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>選択されたオブジェクトのためのwikiヘルプのためにブラウザーを起動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Launch file chooser</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233845Z" creationid="miurahr" creationdate="20200825T233845Z">
+        <seg>ファイル選択を起動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Launch file selection dialog</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233853Z" creationid="miurahr" creationdate="20200825T233853Z">
+        <seg>ファイル選択ダイアログを起動</seg>
       </tuv>
     </tu>
     <tu>
@@ -31504,6 +31632,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Loading default map from mime-types to syntax kits from resource ''{0}''</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233921Z" creationid="miurahr" creationdate="20200825T233921Z">
+        <seg>リソース''{0}''からMIMEタイプから構文キットへのデフォルトマップをロードしています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Loading early plugins</seg>
       </tuv>
       <tuv lang="ja">
@@ -31572,6 +31708,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>json ファイルをロード中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Loading local map from mime-types to syntax kits from resource ''{0}''</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T234126Z" creationid="miurahr" creationdate="20200825T234126Z">
+        <seg>リソース''{0}''からMIMEタイプから構文キットへのローカルマップをロードしています</seg>
       </tuv>
     </tu>
     <tu>
@@ -52724,6 +52868,22 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>設置方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Support for GraalVM is disabled.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233803Z" creationid="miurahr" creationdate="20200825T233803Z">
+        <seg>GraalVMのサポートは無効です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Support for Python plugins is disabled.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T233838Z" creationid="miurahr" creationdate="20200825T233838Z">
+        <seg>Pythonプラグインのサポートが無効になっています。</seg>
       </tuv>
     </tu>
     <tu>
