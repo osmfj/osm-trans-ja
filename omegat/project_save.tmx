@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_212c4ab4a" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_6123b1aa5" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12991,6 +12991,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Contacting Server…</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>サーバーに接続中…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Contacting WMS Server...</seg>
       </tuv>
       <tuv lang="ja">
@@ -15153,6 +15161,22 @@ Do you want to keep it?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>データエラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Data Layer from GeoJSON:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T214837Z" creationid="miurahr" creationdate="20200825T214837Z">
+        <seg>GeoJSON:からのデータレイヤー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Data Layer from GeoJSON: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T214857Z" creationid="miurahr" creationdate="20200825T214857Z">
+        <seg>GeoJSON:からのデータレイヤー: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -24099,6 +24123,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GeoJson object list</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T214911Z" creationid="miurahr" creationdate="20200825T214911Z">
+        <seg>GeoJsonオブジェクトリスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GeoTiff files (*.tif)</seg>
       </tuv>
       <tuv lang="ja">
@@ -24135,6 +24167,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ジオメトリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Geometry of feature {0} is null</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T215107Z" creationid="miurahr" creationdate="20200825T215107Z">
+        <seg>地物{0}のジオメトリがNULLです</seg>
       </tuv>
     </tu>
     <tu>
