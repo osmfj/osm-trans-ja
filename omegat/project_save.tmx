@@ -62138,8 +62138,32 @@ Do you want to continue without validating the file ?</seg>
       <tuv lang="en-US">
         <seg>Warning: preference with key ''{0}'' refers to an unsupported JSR223 compatible  scripting engine with id ''{1}''.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20200825T235248Z" creationid="miurahr" creationdate="20200825T235248Z">
-        <seg>警告:キー''{0}''の設定は、サポートされていない、ID ''{1}'' をもつJSR223互換スクリプトエンジンで構成されています。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T235404Z" creationid="miurahr" creationdate="20200825T235248Z">
+        <seg>警告:キー''{0}''の設定は、サポートされていない、ID ''{1}'' を持つJSR223互換スクリプトエンジンで構成されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Warning: preference with key ''{0}'' refers to an unsupported embedded scripting engine with id ''{1}''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T235346Z" creationid="miurahr" creationdate="20200825T235346Z">
+        <seg>警告:キー ''{0}''の設定は、サポートされていない、ID ''{1}''を持つ組み込みスクリプトエンジンを参照しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Warning: property  ''{0}'' in resource file ''{1}'' not found</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T235427Z" creationid="miurahr" creationdate="20200825T235427Z">
+        <seg>警告:リソースファイル ''{1}'' のプロパティ ''{0}'' が見つかりません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Warning: syntax kit ''{0}'' can''t be loaded.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T235644Z" creationid="miurahr" creationdate="20200825T235644Z">
+        <seg>警告:構文キット''{0}''をロードできません。</seg>
       </tuv>
     </tu>
     <tu>
