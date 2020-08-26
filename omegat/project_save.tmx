@@ -56493,6 +56493,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There is no Wikipedia site for language ''{0}''!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T014821Z" creationid="miurahr" creationdate="20200826T014821Z">
+        <seg>言語"{0}"のWikipediaサイトがありません!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There is no building to replace</seg>
       </tuv>
       <tuv lang="ja">
@@ -56689,6 +56697,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja">
         <seg>この変更セットクエリURLは不正です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This check queries Wikidata to find those OSM objects that are linked to wikidata items of a type, which should not occur in OSM data (at least not as the main wikidata tag)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T014833Z" creationid="miurahr" creationdate="20200826T014833Z">
+        <seg>このチェックでは、Wikidataに照会して、タイプのwikidata項目にリンクされているOSMオブジェクトを検索します。OSMデータには存在しません(少なくともメインのwikidataタグとしては存在しません)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57723,6 +57739,14 @@ projections and retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Toggle the layer displaying Wikipedia articles or Wikidata items</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T014847Z" creationid="miurahr" creationdate="20200826T014847Z">
+        <seg>Wikipediaの記事またはWikidataの項目を表示するレイヤーを切り替える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Toggle visibility of Changeset Manager window</seg>
       </tuv>
       <tuv lang="ja">
@@ -58633,6 +58657,14 @@ or action canceled</seg>
       </tuv>
       <tuv lang="ja">
         <seg>右左折車線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Turn on the informational level validator messages in the preferences to see more details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T014937Z" creationid="miurahr" creationdate="20200826T014937Z">
+        <seg>詳細を表示するには、環境設定で情報レベルの妥当性検査メッセージをオンにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59901,10 +59933,26 @@ or action canceled</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unknown Wikipedia language prefix ''{0}''!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T014955Z" creationid="miurahr" creationdate="20200826T014955Z">
+        <seg>ウィキペディアの言語プレフィックス''{0}''が不明です!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unknown country code: {0}</seg>
       </tuv>
       <tuv lang="ja">
         <seg>国コード{0}が不明です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unknown datatype!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T015002Z" creationid="miurahr" creationdate="20200826T015002Z">
+        <seg>データタイプが不明です!</seg>
       </tuv>
     </tu>
     <tu>
@@ -61338,6 +61386,14 @@ Create a new one.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>非標準例外を使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use only the article title instead of a URL for wikipedia:‹language› tags</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T015052Z" creationid="miurahr" creationdate="20200826T015052Z">
+        <seg>wikipedia:&lt;language&gt;タグに、URLではなく、記事のタイトルだけを使ってください</seg>
       </tuv>
     </tu>
     <tu>
@@ -63473,6 +63529,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When reading the JSON response from the {0}, an error occured!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T015106Z" creationid="miurahr" creationdate="20200826T015106Z">
+        <seg>{0}からJSONレスポンスを読み取り中にエラーが発生しました!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When reversing this way, the following changes are suggested in order to maintain data consistency.</seg>
       </tuv>
       <tuv lang="ja">
@@ -63605,6 +63669,22 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ターゲット画像の幅（ピクセル単位）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wiki layer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T015110Z" creationid="miurahr" creationdate="20200826T015110Z">
+        <seg>Wikiレイヤー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wikidata Info</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T015117Z" creationid="miurahr" creationdate="20200826T015117Z">
+        <seg>Wikidata情報</seg>
       </tuv>
     </tu>
     <tu>
