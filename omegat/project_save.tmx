@@ -63689,6 +63689,46 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Wikidata Info: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T015128Z" creationid="miurahr" creationdate="20200826T015128Z">
+        <seg>Wikidata情報: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wikidata item and Wikipedia article do not match!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T015149Z" creationid="miurahr" creationdate="20200826T015149Z">
+        <seg>Wikidata 項目と Wikipedia 記事が一致しません!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wikidata item {0} is not associated with Wikipedia article {1} ({2})</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T015220Z" creationid="miurahr" creationdate="20200826T015220Z">
+        <seg>Wikidata項目{0}は、 Wikipedia 記事{1} ({2})に関連付けされていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wikidata items in viewport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T015229Z" creationid="miurahr" creationdate="20200826T015229Z">
+        <seg>ビューポートのWikidata項目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wikidata value is of unusual type for the wikidata=* tag on OSM objects</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T015419Z" creationid="miurahr" creationdate="20200826T015419Z">
+        <seg>Wikidataの値は、通常OSM オブジェクトのwikidata=* tag に対して使われないタイプです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Wikipedia decided that the best way to build their encyclopaedia was to split the communities up by language, and run them as almost entirely separate projects.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170521T221912Z" creationid="miurahr" creationdate="20170521T221912Z">
