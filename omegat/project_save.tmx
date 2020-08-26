@@ -8939,6 +8939,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Can't open website {0} in browser!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T005047Z" creationid="miurahr" creationdate="20200826T005047Z">
+        <seg>Webサイト{0}をブラウザで開けません!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Canadian Football</seg>
       </tuv>
       <tuv lang="ja">
