@@ -7619,6 +7619,16 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Before: wikipedia={0}:{1}
+After: wikipedia={0}:{2}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T014235Z" creationid="miurahr" creationdate="20200826T014235Z">
+        <seg>修正前:wikipedia={0}:{1}
+修正後:wikipedia={0}:{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Belgium</seg>
       </tuv>
       <tuv lang="ja">
@@ -32568,6 +32578,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Make sure the meaning of the tag remains the same!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T014217Z" creationid="miurahr" creationdate="20200826T014217Z">
+        <seg>タグの意味が同じであることを確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Make sure the preferences with key ''{1}'' include the path to the module.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200825T233606Z" creationid="miurahr" creationdate="20200825T233606Z">
@@ -46128,6 +46146,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Replace the wikidata=* tag with an existing Wikidata item or remove the Wikidata tag.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T014409Z" creationid="miurahr" creationdate="20200826T014409Z">
+        <seg>wikidata=*タグを既存のWikidata項目に置き換えるか、Wikidataタグを削除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Replaced ''{0}'' by ''{1}'' in {2} relation</seg>
       </tuv>
       <tuv lang="ja">
@@ -51351,6 +51377,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show properties of the selected Wikidata item</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T014243Z" creationid="miurahr" creationdate="20200826T014243Z">
+        <seg>選択したWikidata項目のプロパティを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show scripting console</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200825T234752Z" creationid="miurahr" creationdate="20200825T234752Z">
@@ -51491,6 +51525,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>Overpass スニペット一覧の表示/非表示を切り替え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show/hide Sophox snippet list</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T014247Z" creationid="miurahr" creationdate="20200826T014247Z">
+        <seg>Sophoxスニペットリストの表示/非表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -52303,6 +52345,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sophox server</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T014249Z" creationid="miurahr" creationdate="20200826T014249Z">
+        <seg>Sophoxサーバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sorry, shortcut "{0}" can not be enabled in Relation editor dialog</seg>
       </tuv>
       <tuv lang="ja">
@@ -53011,6 +53061,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>都道府県:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Statements</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T014319Z" creationid="miurahr" creationdate="20200826T014319Z">
+        <seg>ステートメント</seg>
       </tuv>
     </tu>
     <tu>
@@ -55082,6 +55140,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The JSON response from the {0} can''t be decoded!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T014325Z" creationid="miurahr" creationdate="20200826T014325Z">
+        <seg>{0}からのJSONレスポンスをデコードできません!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Mapillary layer has stopped downloading images, because the requested area is too big!</seg>
       </tuv>
       <tuv lang="ja">
@@ -55142,6 +55208,46 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>最高WMSスーパースピードターボチャレンジII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Wikidata Action API did not respond with all requested entities!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T014330Z" creationid="miurahr" creationdate="20200826T014330Z">
+        <seg>WikidataアクションAPIは、要求されたすべてのエンティティに応答しませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Wikidata Action API reports a failed query!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T014334Z" creationid="miurahr" creationdate="20200826T014334Z">
+        <seg>Wikidata Action APIは失敗したクエリーを報告します!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Wikidata item does not exist!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T014352Z" creationid="miurahr" creationdate="20200826T014345Z">
+        <seg>そのWikidata項目は存在しません!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Wikidata item is a redirect</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T014434Z" creationid="miurahr" creationdate="20200826T014434Z">
+        <seg>Wikidata項目はリダイレクトされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Wikipedia/Wikidata layer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T014452Z" creationid="miurahr" creationdate="20200826T014452Z">
+        <seg>Wikipedia/Wikidataレイヤー</seg>
       </tuv>
     </tu>
     <tu>
@@ -55569,6 +55675,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja">
         <seg>キー {0} の値は一般的ではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The language prefix of wikipedia tags should be lowercase!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T014502Z" creationid="miurahr" creationdate="20200826T014502Z">
+        <seg>wikipediaタグの言語プレフィックスは小文字でなければなりません!</seg>
       </tuv>
     </tu>
     <tu>
@@ -56111,6 +56225,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja">
         <seg>ユーザー名とパスワードは{0}によって保護されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The value ''{0}'' is not allowed for the wikipedia=* tag</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T014518Z" creationid="miurahr" creationdate="20200826T014518Z">
+        <seg>wikipedia=*タグに値''{0}''は使用できません</seg>
       </tuv>
     </tu>
     <tu>
