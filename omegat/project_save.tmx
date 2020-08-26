@@ -47352,6 +47352,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Runs scripts in JOSM</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T004650Z" creationid="miurahr" creationdate="20200826T004650Z">
+        <seg>JOSMでスクリプトを実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Runway</seg>
       </tuv>
       <tuv lang="ja">
@@ -77672,6 +77680,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T220238Z" creationid="miurahr" creationdate="20200818T220238Z">
         <seg>TileMatrix識別子{2}に対してサーバから{0}x{1}が返されました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{1} (with engine {0})</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T004644Z" creationid="miurahr" creationdate="20200826T004644Z">
+        <seg>{1}(エンジン{0})</seg>
       </tuv>
     </tu>
     <tu>
