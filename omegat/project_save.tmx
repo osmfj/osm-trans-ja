@@ -35994,6 +35994,14 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No Wikidata item is selected!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T013618Z" creationid="miurahr" creationdate="20200826T013618Z">
+        <seg>Wikidata項目が選択されていません!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No area selected yet</seg>
       </tuv>
       <tuv lang="ja">
@@ -39546,6 +39554,14 @@ own copy and all nodes will be selected.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>上書きする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overwrite ''{0}'' tag {1} from {2} with new value ''{3}''?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T014110Z" creationid="miurahr" creationdate="20200826T014110Z">
+        <seg>{2}のうち、タグ''{0}''の{1}について、新しい値''{3}''で上書きしますか?</seg>
       </tuv>
     </tu>
     <tu>
