@@ -21807,6 +21807,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Error getting claims for entity!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T005704Z" creationid="miurahr" creationdate="20200826T005704Z">
+        <seg>エンティティの要求の取得中にエラーが発生しました!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Error header "{0}" did not match with an expected pattern</seg>
       </tuv>
       <tuv lang="ja">
@@ -23129,10 +23137,34 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Failed to download labels for {0}!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T005716Z" creationid="miurahr" creationdate="20200826T005716Z">
+        <seg>{0}のラベルをダウンロードできませんでした!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Failed to download plugin information list</seg>
       </tuv>
       <tuv lang="ja">
         <seg>プラグイン情報一覧のダウンロードに失敗しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Failed to download sitelinks for Wikidata item {0}!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T005721Z" creationid="miurahr" creationdate="20200826T005721Z">
+        <seg>Wikidataアイテム{0}のサイトリンクをダウンロードできませんでした!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Failed to download statements for Wikidata item {0}!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T005735Z" creationid="miurahr" creationdate="20200826T005735Z">
+        <seg>Wikidataアイテム{0}のステートメントをダウンロードできませんでした!</seg>
       </tuv>
     </tu>
     <tu>
@@ -23769,10 +23801,18 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fetches all coordinates from Wikidata in the current view</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T005821Z" creationid="miurahr" creationdate="20200826T005821Z">
+        <seg>現在のビューのすべての座標をWikidataから取得します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fetches all coordinates from Wikipedia in the current view</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>現在のビューのすべての座標をWikipedia上で検索</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T005834Z">
+        <seg>現在のビューのすべての座標をWikipedia上で取得します</seg>
       </tuv>
     </tu>
     <tu>
@@ -24135,6 +24175,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Find OSM objects linked with wikidata items of a class that is untypical for OSM</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T013104Z" creationid="miurahr" creationdate="20200826T013104Z">
+        <seg>OSMでは一般的でないクラスのwikidata項目にリンクされたOSMオブジェクトを検索する</seg>
       </tuv>
     </tu>
     <tu>
