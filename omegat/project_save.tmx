@@ -40104,6 +40104,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Paste Wikipedia articles</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T014115Z" creationid="miurahr" creationdate="20200826T014115Z">
+        <seg>ウィキペディアの記事を貼り付ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Paste at source position</seg>
       </tuv>
       <tuv lang="ja">
@@ -48865,6 +48873,14 @@ This automatically generates a language menu consisting of links to the original
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See the validator messages of the category ''Other'' for more details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T014201Z" creationid="miurahr" creationdate="20200826T014201Z">
+        <seg>詳細については、カテゴリ「その他」の妥当性検査メッセージを参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See {0}</seg>
       </tuv>
       <tuv lang="ja">
@@ -50995,6 +51011,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>最短</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Should the wikipedia tag be replaced with the redirect target?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T014212Z" creationid="miurahr" creationdate="20200826T014212Z">
+        <seg>wikipediaのタグをリダイレクト先に置き換えるべきですか?</seg>
       </tuv>
     </tu>
     <tu>
