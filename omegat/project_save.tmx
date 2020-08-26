@@ -8907,6 +8907,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Can''t download Wikidata ID for tag ''{1}''!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T013452Z" creationid="miurahr" creationdate="20200826T013452Z">
+        <seg>タグ''{1}'' のWikidata IDをダウンロードできません!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Can''t find root SVG element</seg>
       </tuv>
       <tuv lang="ja">
@@ -29790,10 +29798,34 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Item {0} does not exist!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T013337Z" creationid="miurahr" creationdate="20200826T013337Z">
+        <seg>アイテム{0}は存在しません!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Item {0} is missing</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T013343Z" creationid="miurahr" creationdate="20200826T013343Z">
+        <seg>アイテム{0}が見つかりません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Item {0} not found in list.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>アイテム {0} はリストに見つかりません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Item {0} redirects to {1}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T013347Z" creationid="miurahr" creationdate="20200826T013347Z">
+        <seg>アイテム{0}が{1}にリダイレクトされます</seg>
       </tuv>
     </tu>
     <tu>
@@ -30302,6 +30334,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Just checks the format of the Wikipedia tag (no validation if articles exist), with autofixes for when tag value is a URL</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T013404Z" creationid="miurahr" creationdate="20200826T013404Z">
+        <seg>WikipediaがURLである場合のAutofixを使用して、Wikipediaタグの形式をチェックする(記事が存在する場合は検証なし)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Just use the link in the upper left corner: ''(Redirected from XX:English_page_name)''
 # Now we opened the old page title which is now just a redirecting page
 # Open the link ''What links here'' in the left menu.</seg>
@@ -30648,6 +30688,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Labels</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T013408Z" creationid="miurahr" creationdate="20200826T013408Z">
+        <seg>ラベル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lacto-vegetarian</seg>
       </tuv>
       <tuv lang="ja">
@@ -30780,6 +30828,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>言語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Language code ''{0}'' is not recognized!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T013420Z" creationid="miurahr" creationdate="20200826T013420Z">
+        <seg>言語コード''{0}''が認識されません!</seg>
       </tuv>
     </tu>
     <tu>
@@ -31564,6 +31620,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ローカルディスク上のOSMデータファイルにリンク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Links</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T013455Z" creationid="miurahr" creationdate="20200826T013455Z">
+        <seg>リンク</seg>
       </tuv>
     </tu>
     <tu>
@@ -32488,6 +32552,22 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Make sure that the wikipedia=* article is not redirecting to another article</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T013507Z" creationid="miurahr" creationdate="20200826T013507Z">
+        <seg>wikipedia=*の記事が他の記事にリダイレクトしていないことを確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Make sure the Wikidata item for the Q-ID in the wikidata=* tag actually exists</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T013514Z" creationid="miurahr" creationdate="20200826T013514Z">
+        <seg>wikidata=*タグ内のQ-IDのWikidata項目が実際に存在することを確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Make sure the preferences with key ''{1}'' include the path to the module.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200825T233606Z" creationid="miurahr" creationdate="20200825T233606Z">
@@ -32524,6 +32604,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>選択されたウェイ区間の組について、一方を選択した支点で回転させることによって平行にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Makes sure that the wikipedia=* article is connected to the wikidata=* item</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T013519Z" creationid="miurahr" creationdate="20200826T013519Z">
+        <seg>wikipedia=*の記事がwikidata=*の項目に関連付けられていることを確認します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34304,6 +34392,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>More than one OSM object is selected: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T013527Z" creationid="miurahr" creationdate="20200826T013527Z">
+        <seg>複数のOSMオブジェクトが選択されています:{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>More than one WMS layer present
 Select one of them first, then retry</seg>
       </tuv>
@@ -34838,6 +34934,14 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>選択した項目を1つ上に移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Move wikidata=* tags to tag brand:wikidata=*, when the value points to a brand</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T013602Z" creationid="miurahr" creationdate="20200826T013602Z">
+        <seg>値がブランドを指す場合は、wikidata=* タグを brand:wikidata=* タグに移動します。</seg>
       </tuv>
     </tu>
     <tu>
