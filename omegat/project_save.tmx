@@ -14485,6 +14485,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Could not validate all wikidata=* tags over the internet.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T005454Z" creationid="miurahr" creationdate="20200826T005454Z">
+        <seg>インターネット上で、wikidata=*タグを検証できませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Could not write mtime.</seg>
       </tuv>
       <tuv lang="ja">
@@ -18567,6 +18575,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Download all elements from one of {0} sources</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T005502Z" creationid="miurahr" creationdate="20200826T005502Z">
+        <seg>いずれかの{0}ソースからすべての要素をダウンロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Download all incomplete members</seg>
       </tuv>
       <tuv lang="ja">
@@ -18703,6 +18719,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Download elements</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T005506Z" creationid="miurahr" creationdate="20200826T005506Z">
+        <seg>要素のダウンロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Download everything within:</seg>
       </tuv>
       <tuv lang="ja">
@@ -18751,6 +18775,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Download from Sophox API</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T005510Z" creationid="miurahr" creationdate="20200826T005510Z">
+        <seg>Sophox APIからのダウンロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Download imagery XML bounds</seg>
       </tuv>
       <tuv lang="ja">
@@ -18795,6 +18827,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>OSMサーバーから選択された変更セットについての情報をダウンロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Download labels for {0}…</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T005518Z" creationid="miurahr" creationdate="20200826T005518Z">
+        <seg>{0}のラベルをダウンロード...</seg>
       </tuv>
     </tu>
     <tu>
@@ -19111,10 +19151,26 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Download sitelinks for {0}…</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T005527Z" creationid="miurahr" creationdate="20200826T005527Z">
+        <seg>{0}のサイトリンクをダウンロード...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Download skipped</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ダウンロードはスキップされました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Download statements for {0}…</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T005624Z" creationid="miurahr" creationdate="20200826T005624Z">
+        <seg>{0}のステートメントをダウンロード...</seg>
       </tuv>
     </tu>
     <tu>
@@ -19379,6 +19435,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>データのダウンロード中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Downloading entries with geo coordinates failed: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T005654Z" creationid="miurahr" creationdate="20200826T005654Z">
+        <seg>地理座標を含むエントリのダウンロードに失敗しました:{0}</seg>
       </tuv>
     </tu>
     <tu>
