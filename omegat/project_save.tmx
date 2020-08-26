@@ -56237,6 +56237,22 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The value of a wikipedia tag should be given as ‹language›:‹Article title› instead of the full URL</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T014549Z" creationid="miurahr" creationdate="20200826T014549Z">
+        <seg>wikipediaタグの値は、完全なURLではなく ''‹language›:‹Article title› ''としてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The value of tag brand:wikidata=* has an invalid format!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T014625Z" creationid="miurahr" creationdate="20200826T014625Z">
+        <seg>brand:wikidata=* タグの値のフォーマットは無効です!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The way &lt;span class="object-name"&gt;{0}&lt;/span&gt; with role &lt;tt&gt;{1}&lt;/tt&gt; should be split at node &lt;span class="object-name"&gt;{2}&lt;/span&gt; where it connects to way &lt;span class="object-name"&gt;{3}&lt;/span&gt;.</seg>
       </tuv>
       <tuv lang="ja">
@@ -56297,6 +56313,30 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170521T221918Z" creationid="miurahr" creationdate="20170521T221918Z">
         <seg>このウィキはプロジェクトではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The wikipedia plugin tries to construct a malformed URL!: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T014717Z" creationid="miurahr" creationdate="20200826T014701Z">
+        <seg>wikipediaプラグインは、不正な形式のURLを作成しようとしています!: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The {0} reported an invalid query for {1} ({2}).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T014753Z" creationid="miurahr" creationdate="20200826T014753Z">
+        <seg> {0}は、 {1} ({2})の無効なクエリを報告しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The {0} responded with an unexpected response code: {1} {2}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T014815Z" creationid="miurahr" creationdate="20200826T014815Z">
+        <seg>{0}が予期しない応答コードで応答しました:{1}{2}</seg>
       </tuv>
     </tu>
     <tu>
@@ -56713,6 +56753,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja">
         <seg>この画像は他の編集者からこの地域の最良の画像とマークされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is a programming error, please report to the Wikipedia plugin.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T014805Z" creationid="miurahr" creationdate="20200826T014805Z">
+        <seg>これはプログラミングエラーです。Wikipediaプラグインプロジェクトへ報告してください。</seg>
       </tuv>
     </tu>
     <tu>
