@@ -10155,6 +10155,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Change {0}={1} to {2}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T005055Z" creationid="miurahr" creationdate="20200826T005055Z">
+        <seg>{0}={1}を{2}に変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Change...</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200825T232857Z" creationid="miurahr" creationdate="20200825T232857Z">
@@ -10435,6 +10443,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Check format of wikipedia=* tags and subtags</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T005101Z" creationid="miurahr" creationdate="20200826T005101Z">
+        <seg>wikipedia=*タグとサブタグの書式をチェック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Check interval (minutes):</seg>
       </tuv>
       <tuv lang="ja">
@@ -10463,6 +10479,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>プロパティの値をチェック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Check wikipedia=* is interwiki link of wikidata=*</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T005114Z" creationid="miurahr" creationdate="20200826T005114Z">
+        <seg>wikipedia=*はwikidata=*のinterwikiリンクです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14147,6 +14171,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Could not add names.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T005117Z" creationid="miurahr" creationdate="20200826T005117Z">
+        <seg>名前を追加できませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Could not check for all wikipedia=* tags if they match the wikidata=* tag.</seg>
       </tuv>
       <tuv lang="ja">
@@ -14155,10 +14187,34 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Could not check for all wikipedia=* tags if they redirect to another article.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T005252Z" creationid="miurahr" creationdate="20200826T005216Z">
+        <seg>別の記事にリダイレクトする場合があり、すべてのwikipedia=*タグをチェックすることはできませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Could not check for unusual classes in wikidata=* tags.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T005224Z" creationid="miurahr" creationdate="20200826T005224Z">
+        <seg>wikidata=*タグで異常なクラスをチェックできませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Could not combine ways&lt;br&gt;(They could not be merged into a single string of nodes)</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ウェイを結合できませんでした&lt;br&gt;(一連のノードの並びとしてマージできませんでした)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Could not connect to the {0}, probably a network issue or the website is currently offline ({1}: {2})</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T005256Z" creationid="miurahr" creationdate="20200826T005256Z">
+        <seg>{0}に接続できませんでした。ネットワークの問題か、Webサイトが現在オフラインになっている可能性があります({1}: {2})</seg>
       </tuv>
     </tu>
     <tu>
@@ -14199,6 +14255,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>警告レベルを見つけられませんでした</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Could not get all possible wikipedia sites over the internet.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T005349Z" creationid="miurahr" creationdate="20200826T005303Z">
+        <seg>インターネット上のWikipediaサイトの一覧を取得できませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21771,6 +21835,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>レイヤーローディングエラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Error message: {1}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T005050Z" creationid="miurahr" creationdate="20200826T005050Z">
+        <seg>エラーメッセージ:{1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -63075,6 +63147,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170521T221912Z" creationid="miurahr" creationdate="20170521T221912Z">
         <seg>ウィキペディアは、百科事典を構築する最良の手段として、言語別にコミュニティを分け、それらを完全に別なプロジェクトとして運営しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wikipedia tag is not recognized!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T005134Z" creationid="miurahr" creationdate="20200826T005134Z">
+        <seg>Wikipediaのタグが認識されません!</seg>
       </tuv>
     </tu>
     <tu>
