@@ -9235,6 +9235,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cannot exist on Wikidata.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T013249Z" creationid="miurahr" creationdate="20200826T013249Z">
+        <seg>Wikidataには存在できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cannot find configuration file!</seg>
       </tuv>
       <tuv lang="ja">
@@ -24203,6 +24211,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Find places of education at least 2km, and at most 3km from the center of the selection</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T013225Z" creationid="miurahr" creationdate="20200826T013225Z">
+        <seg>選択の中心から最小2km最大3km離れた位置の教育機関を見つける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Find primitives with these tags</seg>
       </tuv>
       <tuv lang="ja">
@@ -29262,6 +29278,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Invalid Q-ID!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T013238Z" creationid="miurahr" creationdate="20200826T013238Z">
+        <seg>Q-IDが無効です!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Invalid URL ''{0}'' in module {1}</seg>
       </tuv>
       <tuv lang="ja">
@@ -29690,6 +29714,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200819T112628Z" creationid="miurahr" creationdate="20200819T112628Z">
         <seg>JOSMは前回クラッシュしたようです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It looks like a wikipedia tag contains a URL.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T013256Z" creationid="miurahr" creationdate="20200826T013256Z">
+        <seg>ウィキペディアのタグにURLが含まれているようです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61088,6 +61120,14 @@ Create a new one.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>疑わしい要素を表示するために、エラーレイヤーを使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the format ''‹language›:‹article title› instead!''</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T013332Z" creationid="miurahr" creationdate="20200826T013332Z">
+        <seg>かわりに ''‹language›:‹article title›'' のフォーマットを利用してください!</seg>
       </tuv>
     </tu>
     <tu>
