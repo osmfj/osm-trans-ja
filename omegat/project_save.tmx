@@ -27468,6 +27468,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ignoring mapping for mime type ''{1}''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T235655Z" creationid="miurahr" creationdate="20200825T235655Z">
+        <seg>MIMEタイプ ''{1}''のマッピングを無視します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ignoring {0} nodes with null coordinates</seg>
       </tuv>
       <tuv lang="ja">
@@ -65913,6 +65921,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>cancel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200825T235658Z" creationid="miurahr" creationdate="20200825T235658Z">
+        <seg>取り消す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>canoe</seg>
       </tuv>
       <tuv lang="ja">
@@ -72101,6 +72117,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ウェイを選択してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>plugin class loader for plugin ''{0}'' not found</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T004635Z" creationid="miurahr" creationdate="20200826T004635Z">
+        <seg>プラグイン ''{0}''のプラグインクラスローダーが見つかりません</seg>
       </tuv>
     </tu>
     <tu>
