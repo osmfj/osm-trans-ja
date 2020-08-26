@@ -63729,10 +63729,50 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Wikipedia article ''{0}'' redirects to ''{1}''</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T015442Z" creationid="miurahr" creationdate="20200826T015442Z">
+        <seg>Wikipedia記事 ''{0}''は''{1}''へリダイレクトされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wikipedia article is a redirect</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T015450Z" creationid="miurahr" creationdate="20200826T015450Z">
+        <seg>Wikipediaの記事はリダイレクトされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wikipedia articles in viewport (for language {0})</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T015535Z" creationid="miurahr" creationdate="20200826T015535Z">
+        <seg>ビューポート(言語{0}用) のWikipedia記事</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Wikipedia decided that the best way to build their encyclopaedia was to split the communities up by language, and run them as almost entirely separate projects.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170521T221912Z" creationid="miurahr" creationdate="20170521T221912Z">
         <seg>ウィキペディアは、百科事典を構築する最良の手段として、言語別にコミュニティを分け、それらを完全に別なプロジェクトとして運営しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wikipedia language</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T015544Z" creationid="miurahr" creationdate="20200826T015544Z">
+        <seg>Wikipediaの言語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wikipedia tag has invalid format!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T015604Z" creationid="miurahr" creationdate="20200826T015604Z">
+        <seg>Wikipedia タグのフォーマットは無効です!</seg>
       </tuv>
     </tu>
     <tu>
@@ -65127,6 +65167,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>[不完全]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>a new value (manual intervention needed due to language conflict)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T015723Z" creationid="miurahr" creationdate="20200826T015723Z">
+        <seg>(言語の競合のため手動介入が必要) 新しい値</seg>
       </tuv>
     </tu>
     <tu>
