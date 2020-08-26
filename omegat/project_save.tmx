@@ -51777,6 +51777,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Simplifies linking OSM objects to Wikipedia articles and Wikidata items</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T020015Z" creationid="miurahr" creationdate="20200826T020015Z">
+        <seg>OSMオブジェクトをWikipediaの記事やWikidataの項目に簡単にリンクする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Simplify</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T054739Z" creationid="miurahr" creationdate="20200818T054739Z">
@@ -65371,10 +65379,26 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>aliases</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T015735Z" creationid="miurahr" creationdate="20200826T015735Z">
+        <seg>別名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>all</seg>
       </tuv>
       <tuv lang="ja">
         <seg>全て</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>all Wikipedia articles in Category</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T015811Z" creationid="miurahr" creationdate="20200826T015811Z">
+        <seg>カテゴリの Wikipedia の全記事</seg>
       </tuv>
     </tu>
     <tu>
@@ -67731,6 +67755,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>description</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T015820Z" creationid="miurahr" creationdate="20200826T015820Z">
+        <seg>説明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>designated</seg>
       </tuv>
       <tuv lang="ja">
@@ -69323,6 +69355,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>has no Q-ID</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T015831Z" creationid="miurahr" creationdate="20200826T015831Z">
+        <seg>Q-IDがありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>hats</seg>
       </tuv>
       <tuv lang="ja">
@@ -69375,6 +69415,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200819T132932Z" creationid="miurahr" creationdate="20200819T132932Z">
         <seg>高さ(メートル)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>help</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T015833Z" creationid="miurahr" creationdate="20200826T015833Z">
+        <seg>ヘルプ</seg>
       </tuv>
     </tu>
     <tu>
@@ -70203,6 +70251,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>label</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T015834Z" creationid="miurahr" creationdate="20200826T015834Z">
+        <seg>ラベル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ladder</seg>
       </tuv>
       <tuv lang="ja">
@@ -70271,6 +70327,22 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>レーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>language</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T015836Z" creationid="miurahr" creationdate="20200826T015836Z">
+        <seg>言語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>language code</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T015841Z" creationid="miurahr" creationdate="20200826T015841Z">
+        <seg>言語コード</seg>
       </tuv>
     </tu>
     <tu>
@@ -77144,6 +77216,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>wikidata=* item exists</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T015855Z" creationid="miurahr" creationdate="20200826T015855Z">
+        <seg>wikidata=* 項目がすでに存在します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>wikipedia language seems to be duplicated, e.g. en:en:Foo</seg>
       </tuv>
       <tuv lang="ja">
@@ -77420,6 +77500,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>{0} (GPX エクスポート)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} (malformed site URL)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T015904Z" creationid="miurahr" creationdate="20200826T015904Z">
+        <seg>{0}(不正な形式のサイトURL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -77744,6 +77832,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{0} is an instance of {1} (or any subclass thereof)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T015908Z" creationid="miurahr" creationdate="20200826T015908Z">
+        <seg>{0}は{1}のインスタンス(またはそのサブクラス)です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{0} is deprecated</seg>
       </tuv>
       <tuv lang="ja">
@@ -77772,6 +77868,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T115039Z" creationid="miurahr" creationdate="20200818T115039Z">
         <seg>{0}は有効なWMS引数ではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} is not a valid Wikidata-ID</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T015921Z" creationid="miurahr" creationdate="20200826T015921Z">
+        <seg>{0} は有効な Wikidata-IDではありません</seg>
       </tuv>
     </tu>
     <tu>
@@ -78378,6 +78482,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T222147Z" creationid="miurahr" creationdate="20200818T222147Z">
         <seg>{0}:{2}個の要素のうち{1}個が完了しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0}=* tag should not have URL-encoded values.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200826T015932Z" creationid="miurahr" creationdate="20200826T015932Z">
+        <seg>{0}=*タグには、URLエンコードされた値を含めることはできません。</seg>
       </tuv>
     </tu>
     <tu>
