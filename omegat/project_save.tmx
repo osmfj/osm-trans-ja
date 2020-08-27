@@ -22811,6 +22811,22 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Export MATSim network to shape file…</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112111Z" creationid="miurahr" creationdate="20200827T112111Z">
+        <seg>MATSimネットワークをシェイプファイルにエクスポート...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Export MATSim transit schedule…</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112301Z" creationid="miurahr" creationdate="20200827T112120Z">
+        <seg>MATSimの交通スケジュールをエクスポート...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Export Mapillary images</seg>
       </tuv>
       <tuv lang="ja">
@@ -22855,6 +22871,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>エクスポートディレクトリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Export failed due to validation errors.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112124Z" creationid="miurahr" creationdate="20200827T112124Z">
+        <seg>検証エラーのため、エクスポートに失敗しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22943,6 +22967,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>交通データをSUMOネットワークファイルにエクスポートします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Exported network xml version</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112202Z" creationid="miurahr" creationdate="20200827T112139Z">
+        <seg>xmlバージョンのネットワークをエキスポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -23735,6 +23767,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>編集レイヤーに何も含まれていないため、ID {0} のプリミティブ更新に失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Failure</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112205Z" creationid="miurahr" creationdate="20200827T112205Z">
+        <seg>失敗</seg>
       </tuv>
     </tu>
     <tu>
@@ -24617,6 +24657,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>可能であれば修正してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fix transit schedule validation errors</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112251Z" creationid="miurahr" creationdate="20200827T112251Z">
+        <seg>交通スケジュール検証エラーを修正する</seg>
       </tuv>
     </tu>
     <tu>
@@ -25577,6 +25625,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>軌間(mm)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112307Z" creationid="miurahr" creationdate="20200827T112307Z">
+        <seg>一般</seg>
       </tuv>
     </tu>
     <tu>
@@ -28294,6 +28350,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Import MATSim scenario</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112312Z" creationid="miurahr" creationdate="20200827T112312Z">
+        <seg>MATSimシナリオのインポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Import Osm Inspector Bugs...</seg>
       </tuv>
       <tuv lang="ja">
@@ -28742,6 +28806,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Include road type in output</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112316Z" creationid="miurahr" creationdate="20200827T112316Z">
+        <seg>出力に道路タイプを含める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Include the system status report.</seg>
       </tuv>
       <tuv lang="ja">
@@ -28778,6 +28850,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T222117Z" creationid="miurahr" creationdate="20200818T222117Z">
         <seg>横断歩道のタグ付けが不完全です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Incomplete route {0} - Auto repair to download missing elements (cannot be undone)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112322Z" creationid="miurahr" creationdate="20200827T112322Z">
+        <seg>不完全なルート{0}-欠落した要素をダウンロードするための自動修復(元に戻すことはできません)</seg>
       </tuv>
     </tu>
     <tu>
@@ -30554,6 +30634,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Keep Paths</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112326Z" creationid="miurahr" creationdate="20200827T112326Z">
+        <seg>パスを保持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Keep backup files when saving data layers</seg>
       </tuv>
       <tuv lang="ja">
@@ -31766,6 +31854,22 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>{0}行{1}桁目:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lines: {0} / Routes: {1}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112337Z" creationid="miurahr" creationdate="20200827T112337Z">
+        <seg>ライン:{0}/ルート:{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Link offset for overlapping links</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112341Z" creationid="miurahr" creationdate="20200827T112341Z">
+        <seg>オーバーラップリンクのリンクオフセット</seg>
       </tuv>
     </tu>
     <tu>
@@ -49055,6 +49159,14 @@ This automatically generates a language menu consisting of links to the original
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200826T014201Z" creationid="miurahr" creationdate="20200826T014201Z">
         <seg>詳細については、カテゴリ「その他」の妥当性検査メッセージを参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See validation layer for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112127Z" creationid="miurahr" creationdate="20200827T112127Z">
+        <seg>詳細については、検証レイヤーを参照してください。</seg>
       </tuv>
     </tu>
     <tu>
