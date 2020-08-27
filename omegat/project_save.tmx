@@ -31898,6 +31898,22 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Links/Nodes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112344Z" creationid="miurahr" creationdate="20200827T112344Z">
+        <seg>リンク/ノード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Links: {0} / Nodes: {1}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112348Z" creationid="miurahr" creationdate="20200827T112348Z">
+        <seg>リンク:{0}/ノード:{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>List</seg>
       </tuv>
       <tuv lang="ja">
@@ -32742,6 +32758,30 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>キャリーバッグ用スロープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MASim preferences</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112355Z" creationid="miurahr" creationdate="20200827T112355Z">
+        <seg>MASim設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MATSim Import</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112359Z" creationid="miurahr" creationdate="20200827T112359Z">
+        <seg>MATSimインポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MATSim Transit Schedule Files</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112406Z" creationid="miurahr" creationdate="20200827T112406Z">
+        <seg>MATSim交通スケジュール・ファイル</seg>
       </tuv>
     </tu>
     <tu>
@@ -35852,6 +35892,14 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Network Attributes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112420Z" creationid="miurahr" creationdate="20200827T112420Z">
+        <seg>ネットワーク属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Network errors occurred</seg>
       </tuv>
       <tuv lang="ja">
@@ -35904,6 +35952,14 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>新規レイヤー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New MATSim network</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112423Z" creationid="miurahr" creationdate="20200827T112423Z">
+        <seg>新しいMATSimネットワーク</seg>
       </tuv>
     </tu>
     <tu>
@@ -36208,6 +36264,14 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>左折禁止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No MATSim layer active</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112426Z" creationid="miurahr" creationdate="20200827T112426Z">
+        <seg>アクティブなMATSimレイヤーがありません</seg>
       </tuv>
     </tu>
     <tu>
@@ -38466,6 +38530,14 @@ nodes and the new nodes will be selected.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>次のユーザー名のユーザーが所有する変更セットのみ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only convert hierarchies up to:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112440Z" creationid="miurahr" creationdate="20200827T112440Z">
+        <seg>次の値までの階層のみを変換:</seg>
       </tuv>
     </tu>
     <tu>
@@ -47794,6 +47866,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Route {0} with no Route Master</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112443Z" creationid="miurahr" creationdate="20200827T112443Z">
+        <seg>ルートマスターのないルート{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Routes</seg>
       </tuv>
       <tuv lang="ja">
@@ -48238,6 +48318,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>レイヤーを保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save MATSim network file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112446Z" creationid="miurahr" creationdate="20200827T112446Z">
+        <seg>MATSimネットワークファイルを保存</seg>
       </tuv>
     </tu>
     <tu>
@@ -50139,6 +50227,22 @@ This automatically generates a language menu consisting of links to the original
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select to download {0} highways in the selected download area.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112452Z" creationid="miurahr" creationdate="20200827T112452Z">
+        <seg>選択したダウンロード領域の{0}ハイウェイをダウンロードする場合に選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select to download {0} routes in the selected download area.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112456Z" creationid="miurahr" creationdate="20200827T112456Z">
+        <seg>選択したダウンロード領域の{0}ルートをダウンロードする場合に選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select to grant JOSM the right to download your private GPS traces into JOSM layers</seg>
       </tuv>
       <tuv lang="ja">
@@ -50761,6 +50865,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set conversion defaults</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112501Z" creationid="miurahr" creationdate="20200827T112501Z">
+        <seg>変換の既定値を設定する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Set custom HTTP headers (if needed):</seg>
       </tuv>
       <tuv lang="ja">
@@ -51061,6 +51173,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>形状</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shape Files</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112503Z" creationid="miurahr" creationdate="20200827T112503Z">
+        <seg>シェイプファイル</seg>
       </tuv>
     </tu>
     <tu>
@@ -51545,6 +51665,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show internal Ids in table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112507Z" creationid="miurahr" creationdate="20200827T112507Z">
+        <seg>内部IDをテーブルに表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show last Image</seg>
       </tuv>
       <tuv lang="ja">
@@ -51557,6 +51685,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>レイヤーを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show link-Ids</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112517Z" creationid="miurahr" creationdate="20200827T112517Z">
+        <seg>リンクIDを表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -52117,6 +52253,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T054915Z">
         <seg>{0}本のウェイを単純化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Simulate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112522Z" creationid="miurahr" creationdate="20200827T112522Z">
+        <seg>MSimulate</seg>
       </tuv>
     </tu>
     <tu>
@@ -55208,6 +55352,22 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>テスト失敗: mtimeを書き込めませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Test for incomplete routes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112524Z" creationid="miurahr" creationdate="20200827T112524Z">
+        <seg>MTest for incomplete routes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Test for master routes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112527Z" creationid="miurahr" creationdate="20200827T112527Z">
+        <seg>MTest for master routes</seg>
       </tuv>
     </tu>
     <tu>
@@ -58645,6 +58805,14 @@ or action canceled</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Transit support [alpha]</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112546Z" creationid="miurahr" creationdate="20200827T112532Z">
+        <seg>交通サポート [alpha]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Translating wiki pages should be an exercise in improving community cohesion, helping everyone to understand each other, and ultimately helping to build the maps!</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170521T221926Z" creationid="miurahr" creationdate="20170521T221926Z">
@@ -60866,6 +61034,14 @@ Create a new one.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>選択を更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Update tags for public transport stops</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112550Z" creationid="miurahr" creationdate="20200827T112550Z">
+        <seg>公共交通機関の停留所のタグを更新する</seg>
       </tuv>
     </tu>
     <tu>
