@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_6123b1aa5" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_4d88ed4a7" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3726,6 +3726,22 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
       </tuv>
       <tuv lang="ja">
         <seg>有効化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Activate MATSim Renderer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T091031Z" creationid="miurahr" creationdate="20200827T091031Z">
+        <seg>MATSimレンダラーを有効化する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Activate hierarchy filter</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T091040Z" creationid="miurahr" creationdate="20200827T091040Z">
+        <seg>階層フィルターを有効化</seg>
       </tuv>
     </tu>
     <tu>
@@ -10453,6 +10469,14 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Check for Incomplete Routes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T091045Z" creationid="miurahr" creationdate="20200827T091045Z">
+        <seg>不完全なルートのチェック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Check for presets types.</seg>
       </tuv>
       <tuv lang="ja">
@@ -11089,6 +11113,14 @@ After: wikipedia={0}:{2}</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ルートの子レベルより下にclasses要素がある</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clean Network</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T091103Z" creationid="miurahr" creationdate="20200827T091103Z">
+        <seg>道路ネットワークをクリーン化</seg>
       </tuv>
     </tu>
     <tu>
@@ -12809,6 +12841,14 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Configure the MATSim plugin.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T091109Z" creationid="miurahr" creationdate="20200827T091109Z">
+        <seg>MATSimプラグインを設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Configure the list of sites where modules are downloaded from</seg>
       </tuv>
       <tuv lang="ja">
@@ -13705,6 +13745,14 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Convert Osm layer to MATSim network layer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T091118Z" creationid="miurahr" creationdate="20200827T091118Z">
+        <seg>OsmレイヤをMATSimネットワークレイヤに変換する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Convert all fields</seg>
       </tuv>
       <tuv lang="ja">
@@ -13745,6 +13793,22 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Convert to MATSim Layer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T091121Z" creationid="miurahr" creationdate="20200827T091121Z">
+        <seg>MATSimレイヤーに変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Convert to MATSim Network</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T091123Z" creationid="miurahr" creationdate="20200827T091123Z">
+        <seg>MATSimネットワークに変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Convert to data layer</seg>
       </tuv>
       <tuv lang="ja">
@@ -13773,6 +13837,14 @@ After: wikipedia={0}:{2}</seg>
       </tuv>
       <tuv lang="ja">
         <seg>{0}からのコンバート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Converter</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T091126Z" creationid="miurahr" creationdate="20200827T091126Z">
+        <seg>コンバータ</seg>
       </tuv>
     </tu>
     <tu>
@@ -14687,6 +14759,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Create Master Routes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T091131Z" creationid="miurahr" creationdate="20200827T091131Z">
+        <seg>マスタールートを作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Create Michigan left turn restriction</seg>
       </tuv>
       <tuv lang="ja">
@@ -14887,6 +14967,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Create areas for public transport stops</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T091152Z" creationid="miurahr" creationdate="20200827T091152Z">
+        <seg>公共交通機関の停留所を作成する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Create audio markers at the position on the track corresponding to the modified time of each audio WAV file imported.</seg>
       </tuv>
       <tuv lang="ja">
@@ -14971,6 +15059,14 @@ Do you want to keep it?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>新しいキーを作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Create new Network</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T091154Z" creationid="miurahr" creationdate="20200827T091154Z">
+        <seg>新しいネットワークの作成</seg>
       </tuv>
     </tu>
     <tu>
@@ -16227,6 +16323,14 @@ Do you want to keep it?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>既定: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Defaults</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T091201Z" creationid="miurahr" creationdate="20200827T091156Z">
+        <seg>既定値</seg>
       </tuv>
     </tu>
     <tu>
@@ -18585,6 +18689,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Download VBB…</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T091209Z" creationid="miurahr" creationdate="20200827T091209Z">
+        <seg>VBBのダウンロード…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Download all child relations (recursively)</seg>
       </tuv>
       <tuv lang="ja">
@@ -18737,6 +18849,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Download data from Overpass API, filtered by relevance for MATSim.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T091217Z" creationid="miurahr" creationdate="20200827T091217Z">
+        <seg>Overpass APIからデータをダウンロードし、MATSimの関連度でフィルタリングします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Download data...</seg>
       </tuv>
       <tuv lang="ja">
@@ -18797,6 +18917,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>Overpass API からダウンロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Download from Overpass API...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T091223Z" creationid="miurahr" creationdate="20200827T091223Z">
+        <seg>Overpass APIからのダウンロード...</seg>
       </tuv>
     </tu>
     <tu>
@@ -18901,6 +19029,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>メンバーをダウンロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Download members and stop areas</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T091238Z" creationid="miurahr" creationdate="20200827T091238Z">
+        <seg>メンバーと停止領域のダウンロード</seg>
       </tuv>
     </tu>
     <tu>
@@ -20229,6 +20365,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>このレイヤーを複製</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Duplicated Id {0} not allowed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T091245Z" creationid="miurahr" creationdate="20200827T091245Z">
+        <seg>重複したID{0}は許可されません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22655,6 +22799,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>最後のメンバーからGPXファイルにエクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Export MATSim network to shape file...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112103Z" creationid="miurahr" creationdate="20200827T112103Z">
+        <seg>MATSimネットワークをシェイプファイルにエクスポート...</seg>
       </tuv>
     </tu>
     <tu>
