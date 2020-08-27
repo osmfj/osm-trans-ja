@@ -5602,6 +5602,14 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Allows to edit and extract network information for the traffic simulation MATSim</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112630Z" creationid="miurahr" creationdate="20200827T112630Z">
+        <seg>トラフィックシミュレーションMATSimのネットワーク情報を編集および抽出できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Allows to edit traffic information and export it to the urban mobility simulator SUMO</seg>
       </tuv>
       <tuv lang="ja">
@@ -43458,6 +43466,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Proceed?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112621Z" creationid="miurahr" creationdate="20200827T112621Z">
+        <seg>続けますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Processing file ''{0}''</seg>
       </tuv>
       <tuv lang="ja">
@@ -62206,6 +62222,22 @@ Create a new one.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Validates MATSim-related network data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112605Z" creationid="miurahr" creationdate="20200827T112605Z">
+        <seg>MATSim関連のネットワークデータを検証します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Validates MATSim-related transit schedule data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112615Z" creationid="miurahr" creationdate="20200827T112615Z">
+        <seg>MATSim関連の交通スケジュール・データを検証します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Validates connectivity relations</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T221615Z" creationid="miurahr" creationdate="20200818T221615Z">
@@ -62262,6 +62294,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>妥当性検査エラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Validaton resulted in warnings.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112618Z" creationid="miurahr" creationdate="20200827T112618Z">
+        <seg>検証の結果、警告が発生しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68543,6 +68583,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>GPXトラックの編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>edit network attributes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200827T112624Z" creationid="miurahr" creationdate="20200827T112624Z">
+        <seg>ネットワーク属性の編集</seg>
       </tuv>
     </tu>
     <tu>
