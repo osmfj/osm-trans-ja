@@ -1,13 +1,16 @@
 OpenStreetMap翻訳プロジェクト
-===========================
+===
 
-このリポジトリは、OSMの和訳プロジェクトのチーム活動をOmegaTのチーム機能により支援するためのものです。
+
+[![hackmd-github-sync-badge](https://hackmd.io/bur_i2h7Rg6-pSIZnqzKew/badge)](https://hackmd.io/bur_i2h7Rg6-pSIZnqzKew)
+
+OpenStreetMap翻訳プロジェクトの[Githubリポジトリ](https://github.com/osmfj/osm-trans-ja) は、OSMの和訳プロジェクトのチーム活動をOmegaTのチーム機能により支援するためのものです。
 WikiやJOSMの翻訳において、用語の統一、類似翻訳の活用により、効率化をはかります。
 
 
-参加方法
-----------
 
+参加方法
+---
 
 一緒に活動いただける方はGithubのアカウントをつくり、プロジェクトページでIssueとして参加表明してください。```https://github.com/osmfj/osm-trans-ja/issues/new``` 書き込み権限をつけます。
 
@@ -17,8 +20,7 @@ Pull Requestには対応しませんので、ご注意ください。
 
 
 リポジトリの利用方法
--------------------
-
+---
 
 OmegaTには、チーム翻訳機能があります。OmegaT の最新版（バージョン3.6以降）をインストールしてください。
 
@@ -29,3 +31,10 @@ OmegaTのメニューで、「プロジェクト（P)」ー「チームプロジ
 
 Wikiの原文ダウンロードは、OmegaTの「ファイル」ー「MediaWikiから原文ファイルを追加(W)」を選択し、OSM WikiのURLを入力してください。
 JOSMのメッセージ翻訳では、 https://translations.launchpad.net/josm/trunk/+pots/josm/ja/+details から、ソースとなるPOファイルをエキスポートして、sources ディレクトリへ保存してください。
+
+OmegaTの利用方法
+===
+
+OmegaTの利用マニュアルについてはHackMDで公開しています。
+マニュアルは、[omegat-manualリポジトリ](https://github.com/osmfj/omegat-manual)を参照してください。
+
