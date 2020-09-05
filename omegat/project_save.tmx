@@ -3047,6 +3047,38 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>===Validating a task===
+Please see [[OSM_Tasking_Manager/Validating_data]]
+
+==Further Help==
+[[File:HOT Tasking Server Job.png|200px|thumb|right|Job in progress on OSM Tasking Manager]]
+If you need further help on mapping an area see:
+* [http://www.learnosm.org LearnOSM] 
+* [[Map_Features]]
+
+==Beginners Guides to mapping with H.O.T==
+[[File:LearnOSM.png|800px]]&lt;br&gt;
+&lt;br&gt;
+[http://learnosm.org/en/ LearnOSM] is the principle guide recommended by HOT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T053846Z" creationid="miurahr" creationdate="20200905T053846Z">
+        <seg>===タスクの検証===
+ [[OSM_Tasking_Manager/Validating_data]]を参照してください。
+
+==その他のヘルプ==
+[[File:HOT Tasking Server Job.png|200px|thumb|right|Job in progress on OSM Tasking Manager]]
+エリアのマッピングに関する詳細については、次を参照してください。
+* [http://www.learnosm.org LearnOSM] 
+* [[Map_Features]]
+
+==H.O.Tによるマッピング ビギナーズガイド==
+[[File:LearnOSM.png|800px]]&lt;br&gt;
+&lt;br&gt;
+[http://learnosm.org/en/ LearnOSM] は、HOT推奨の基本ガイドです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; after</seg>
       </tuv>
       <tuv lang="ja">
@@ -5516,6 +5548,14 @@ OpenStreetMap は政治のためのフォーラムではなく、理解のため
       </tuv>
       <tuv lang="ja">
         <seg>{1}キーにすべての数値を合計した''{0}''が適用されます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All of the squares that have been completed will fade, leaving only your squares visible.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T053636Z" creationid="miurahr" creationdate="20200905T053636Z">
+        <seg>完了したすべての四角形がフェードし、四角形だけが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27720,6 +27760,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the square is green, it has been validated &amp; the validators comments / feedback are visible to you.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T053644Z" creationid="miurahr" creationdate="20200905T053644Z">
+        <seg>四角形が緑色の場合は検証済みで、バリデータのコメント/フィードバックが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If there are two common versions of a place name, as a possible but not recommended way, the "name" tag could contain them both (A/B).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T001357Z" creationid="miurahr" creationdate="20200818T001357Z">
@@ -35238,6 +35286,14 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Move the mouse over the the square you completed, then click on the square &amp; you can see all the comments relating to that square.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T053641Z" creationid="miurahr" creationdate="20200905T053641Z">
+        <seg>完成した正方形の上にマウスを移動し、正方形をクリックすると、その正方形に関連するすべてのコメントが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Move the node along one of the segments, then release the mouse button.</seg>
       </tuv>
       <tuv lang="ja">
@@ -37410,6 +37466,14 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>メモファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Note that Potlatch will still load data outside the boundary.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T053533Z" creationid="miurahr" creationdate="20200905T053533Z">
+        <seg>Potlatchは境界の外側にデータをロードすることに注意してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57143,6 +57207,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There may be links for you to follow if any feedback is being given.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T053647Z" creationid="miurahr" creationdate="20200905T053647Z">
+        <seg>フィードバックが表示された場合は、リンクをクリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There the error information should already be filled in for you.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200819T112904Z" creationid="miurahr" creationdate="20200819T112904Z">
@@ -65761,6 +65833,30 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170523T123023Z" creationid="miurahr" creationdate="20170523T123023Z">
         <seg> [[Template:Languages]]は、利用可能な言語すべてを一覧表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[file:TM_myprojects.png|right|500px]]
+
+===Feedback from the validator===
+
+To see only the projects you have already worked on, tick the 'Your projects' box.&lt;br clear=all&gt;
+
+====Locating just the squares (Tasks) you have completed====
+[[file:TM_myprojects_1.png|right|800px]]
+Click on the heading for one of the projects you have completed a square(s) for , then click on the Stats tab, and scroll down until you can see the users that have worked on this project, locate your user name in the list, and hover the mouse pointer (don't click, just put the cursor over) over your username.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T053629Z" creationid="miurahr" creationdate="20200905T053629Z">
+        <seg>[[file:TM_myprojects.png|right|500px]]
+
+===バリデータからのフィードバック===
+
+作業済みのプロジェクトのみを表示するには、[プロジェクト]ボックスをチェックします。&lt;br clear=all&gt;
+
+====完了した四角形(タスク)のみを検索する====
+[[file:TM_myprojects_1.png|right|800px]]
+完了したプロジェクトのいずれかの見出しをクリックし、[Stats]タブをクリックして、このプロジェクトで作業したユーザが表示されるまで下にスクロールし、リスト内でユーザ名を探し、ユーザ名の上にマウスポインタを置きます(クリックするのではなく、カーソルを重ねます)。</seg>
       </tuv>
     </tu>
     <tu>
