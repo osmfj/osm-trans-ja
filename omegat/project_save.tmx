@@ -79515,6 +79515,16 @@ OpenStreetMap では、データベース内でタグ付けや地物の存在が
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{Languages|Tasking Manager}}
+[[File:HOT Tasking Server Job.png|200px|thumb|right|Project progress overview of the Tasking Manager]]The [https://github.com/hotosm/tasking-manager/ Tasking Manager] is the tool for coordination of volunteers and organization of groups to map on OpenStreetMap.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T055553Z" creationid="miurahr" creationdate="20200905T055553Z">
+        <seg>{{Languages|Tasking Manager}}
+[[File:HOT Tasking Server Job.png|200px|thumb|right|Project progress overview of the Tasking Manager]]The [https://github.com/hotosm/tasking-manager/ Tasking Manager]は、OpenStreetMapのマッピングをするボランティアとグループの編成を調整するためのツールです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{Languages|Wiki Translation}}
 {{:Wiki/Tabs}}
 [[File:Chart_of_world_writing_systems.svg|250px|right]]
