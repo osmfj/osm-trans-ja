@@ -21057,6 +21057,18 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Elements to cover, specific tags to use, etc.).&lt;br&gt;
+&lt;br&gt;
+'''Please see [http://learnosm.org/en/coordination/tasking-manager/ Tasking Manager at LearnOSM]'''  Many sections of this wiki entry are now out of date, and the entry at LearnOSM is more recent &amp; should be referred to.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T052928Z" creationid="miurahr" creationdate="20200905T052928Z">
+        <seg>カバーする要素、使用する特定のタグなど)。&lt;br&gt;
+&lt;br&gt;
+'''[http://learnosm.org/en/coordination/tasking-manager/ LearnOSMのTasking Manager]を参照してください。''' このWikiエントリの多くのセクションは現在最新ではありません。LearnOSMのエントリはより最新なので、そちらを見るべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Elevation</seg>
       </tuv>
       <tuv lang="ja">
@@ -29858,8 +29870,8 @@ Cannot continue.</seg>
       <tuv lang="en-US">
         <seg>It also permits to control the progress and the homogeinity of the work done (ie.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20200905T052625Z" creationid="miurahr" creationdate="20200905T052625Z">
-        <seg>また、作業の進捗や均一性を制御することもできる。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T052632Z" creationid="miurahr" creationdate="20200905T052625Z">
+        <seg>また、作業の進捗や均一性を制御することもできます。</seg>
       </tuv>
     </tu>
     <tu>
