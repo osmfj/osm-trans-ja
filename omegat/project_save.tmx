@@ -2796,6 +2796,76 @@ The [[Foundation|OpenStreetMap Foundation]] has provided a document for governme
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>== Operational installations of the Tasking Manager ==
+
+* Projects worldwide:
+**http://tasks.hotosm.org/ – for [[Humanitarian OSM Team]]
+** http://tasks.teachosm.org/ – for TeachOSM
+** http://taches.francophonelibre.org/ – run by Les Libres Géographes, currently focuses mostly on French-speaking Southern countries &amp; the Erasmus+ project [https://wiki.openstreetmap.org/wiki/EuYoutH_OSM euYoutH_OSM] (contact @ leslibresgeographes.org for rights to project creation or any info)
+** https://osm.earth – for OSM Earth
+* Projects in the Americas:
+**http://tasks.osmcanada.ca/ – for OSM Canada
+** http://gt.osmqc.ca/ – for OSM Quebec
+** http://tasks.openstreetmap.us/ – for OSM US
+** http://osmcolorado.com/ – for OSM Colorado
+** http://tareas.openstreetmap.co/ – for OSM Colombia
+** http://tareas.mapazonia.org/ – for Mapazonia (OSM Latam)
+**http://tasks.atlasurbano.org - for Atlas Urbano PY (OSM Paraguay)
+* Projects in Europe:
+**https://tasks.osm-hr.org/ - for OSM Croatia
+**http://ijjarvin.kapsi.fi/osmtm – for OSM Finland
+**https://tasks.openstreetmap.ie/ – for OSM Ireland
+**http://osmit-tm3.wmflabs.org/ – for OSM Italy (operated by Wikimedia Italia)
+**https://tarefas.openstreetmap.pt/ – for OSM Portugal
+**http://tareas.openstreetmap.es/ – for OSM Spain
+**http://tasks2.openstreetmap.se/ – for OSM Sweden
+**http://tasks.osm.ch/ – public instance operated by [http://sosm.ch/ SOSM] (Switzerland)
+* Projects in Asia:
+**http://tasks.openstreetmap.in/ – for OSM India
+**http://tasks.openstreetmap.id/ – for OSM Indonesia
+**http://tasks.transcaucasiantrail.org/ – for TransCaucasianTrail
+* Other purposes:
+** http://tasks.openhistoricalmap.org – for [[OpenHistoricalMap]]
+
+[[Category:OSM Tasking Manager| ]]</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T055206Z" creationid="miurahr" creationdate="20200905T055206Z">
+        <seg>==  Tasking Managerの本番運用サーバ一覧 ==
+
+* Projects worldwide:
+**http://tasks.hotosm.org/ – for [[Humanitarian OSM Team]]
+** http://tasks.teachosm.org/ – for TeachOSM
+** http://taches.francophonelibre.org/ – run by Les Libres Géographes, currently focuses mostly on French-speaking Southern countries &amp; the Erasmus+ project [https://wiki.openstreetmap.org/wiki/EuYoutH_OSM euYoutH_OSM] (contact @ leslibresgeographes.org for rights to project creation or any info)
+** https://osm.earth – for OSM Earth
+* Projects in the Americas:
+**http://tasks.osmcanada.ca/ – for OSM Canada
+** http://gt.osmqc.ca/ – for OSM Quebec
+** http://tasks.openstreetmap.us/ – for OSM US
+** http://osmcolorado.com/ – for OSM Colorado
+** http://tareas.openstreetmap.co/ – for OSM Colombia
+** http://tareas.mapazonia.org/ – for Mapazonia (OSM Latam)
+**http://tasks.atlasurbano.org - for Atlas Urbano PY (OSM Paraguay)
+* Projects in Europe:
+**https://tasks.osm-hr.org/ - for OSM Croatia
+**http://ijjarvin.kapsi.fi/osmtm – for OSM Finland
+**https://tasks.openstreetmap.ie/ – for OSM Ireland
+**http://osmit-tm3.wmflabs.org/ – for OSM Italy (operated by Wikimedia Italia)
+**https://tarefas.openstreetmap.pt/ – for OSM Portugal
+**http://tareas.openstreetmap.es/ – for OSM Spain
+**http://tasks2.openstreetmap.se/ – for OSM Sweden
+**http://tasks.osm.ch/ – public instance operated by [http://sosm.ch/ SOSM] (Switzerland)
+* Projects in Asia:
+**http://tasks.openstreetmap.in/ – for OSM India
+**http://tasks.openstreetmap.id/ – for OSM Indonesia
+**http://tasks.transcaucasiantrail.org/ – for TransCaucasianTrail
+* Other purposes:
+** http://tasks.openhistoricalmap.org – for [[OpenHistoricalMap]]
+
+[[Category:OSM Tasking Manager| ]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>== See also ==
 * [[Community Code of Conduct (Draft)]]
 * [[Diversity/MailingList/CodeOfConduct|Code of Conduct for the diversity-talk@ mailing list]], which is used there instead of this Etiquette guide.</seg>
