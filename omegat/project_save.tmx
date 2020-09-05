@@ -25137,6 +25137,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For information on how to use the Tasking Manager please review the [http://learnosm.org/en/coordination/tasking-manager/ manuals on LearnOSM].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T055003Z" creationid="miurahr" creationdate="20200905T055003Z">
+        <seg>Tasking Managerの使用方法については、[http://learnosm.org/en/coordination/tasking-manager/ LearnOSMのマニュアル]を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For instance, [[wikipedia:Derry-Londonderry_name_dispute|Derry-Londonderry]].</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T001310Z" creationid="miurahr" creationdate="20200818T001310Z">
@@ -30036,6 +30044,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It also allows control of the progress and the homogeneity of the work done (i.e. elements to cover, specific tags to use, etc.).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T054903Z" creationid="miurahr" creationdate="20200905T054903Z">
+        <seg>また、作業の進捗や均質性を管理することもできます。(カバーする要素、使用する特定のタグなど)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It also permits to control the progress and the homogeinity of the work done (ie.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200905T052632Z" creationid="miurahr" creationdate="20200905T052625Z">
@@ -30096,6 +30112,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T111746Z" creationid="miurahr" creationdate="20190107T111653Z">
         <seg>これは投稿が行われる際の唯一の規約である必要は無く、我々の全般的な原理原則、特にODbLとの大きな齟齬が無い場合にはこの規約の下でなくとも同意することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It has been initially designed and built by and for the [[Humanitarian OSM Team]] (HOT), and is nowadays used by many other communities and organizations.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T054742Z" creationid="miurahr" creationdate="20200905T054742Z">
+        <seg>当初は[[Humanitarian OSM Team]](HOT)によって設計および構築され、現在では他の多くのコミュニティや組織で使用されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55880,6 +55904,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Tasking Manager is Free and Open Source Software and is continuously maintained and actively further developed by a community.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T055017Z" creationid="miurahr" creationdate="20200905T055017Z">
+        <seg>Tasking ManagerはFLOSSであり、コミュニティによって継続的に維持され、積極的に開発されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The URL under which the SDS server can be contacted.</seg>
       </tuv>
       <tuv lang="ja">
@@ -56861,6 +56893,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The source code is on Github: https://github.com/hotosm/tasking-manager and inquiries, issues and bugs also [https://github.com/hotosm/tasking-manager/issues managed there].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T055143Z" creationid="miurahr" creationdate="20200905T055143Z">
+        <seg>ソースコードはGithub https://github.com/hotosm/tasking-manager になり、問い合わせや、課題とバグの[https://github.com/hotosm/tasking-manager/issues 管理]をおこなっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The specific rules are documented at [[WikiProject Cyprus#Disputed place names]].</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T001239Z" creationid="miurahr" creationdate="20200818T001239Z">
@@ -57401,6 +57441,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200905T052427Z" creationid="miurahr" creationdate="20200905T052355Z">
         <seg>このアプローチをとることで、緊急の状況において、様々なマッパーへのタスクの割り当てが容易になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This approach facilitates the distribution of tasks to the various mappers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T054827Z" creationid="miurahr" creationdate="20200905T054827Z">
+        <seg>このアプローチをとることで、様々なマッパーへのタスクの割り当てが容易にできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64249,6 +64297,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When creating a project in the Tasking Manager, you may want to have a look on the [[OSM Tasking Manager/Default roads, buildings, waterways instructions|default instructions for tagging roads, buildings, waterways]].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T055012Z" creationid="miurahr" creationdate="20200905T055012Z">
+        <seg>Tasking Managerでプロジェクトを作成する場合は、[[OSM Tasking Manager/Default roads,buildings,waterways instructions default instructions for tagging roads,buildings,waterways]]を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When importing audio, apply it to any waypoints in the GPX layer.</seg>
       </tuv>
       <tuv lang="ja">
@@ -65237,6 +65293,14 @@ The tasking manager was designed and built for the [[Humanitarian OpenStreetMap 
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T132850Z" creationid="miurahr" creationdate="20190107T132850Z">
         <seg>左ツールバーのボタンをクリックすると、再度開くことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can see the tool in action: log into the widely used [https://tasks.hotosm.org/ HOT Tasking Manager] and start mapping.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T054922Z" creationid="miurahr" creationdate="20200905T054922Z">
+        <seg>広く使われている[https://tasks.hotosm.org/HOT Tasking Manager]にログインし、マッピングを開始します。</seg>
       </tuv>
     </tu>
     <tu>
