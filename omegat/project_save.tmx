@@ -1253,6 +1253,20 @@ no_more_mappingを外してください)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;br&gt;
+===Setting up your editor===
+
+To use the Tasking Manager efficiently you may need to setup your editor when you start a new job.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T052941Z" creationid="miurahr" creationdate="20200905T052941Z">
+        <seg>&lt;br&gt;
+===エディタの設定===
+
+Tasking Managerを効率的に使用するには、新しいジョブを開始するときにエディタを設定する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;br&gt;Error message(untranslated): {0}</seg>
       </tuv>
       <tuv lang="ja">
@@ -2915,6 +2929,48 @@ According to the "On the Ground Rule" whatever people are using on the ground at
       <tuv lang="ja" changeid="miurahr" changedate="20200818T001221Z" creationid="miurahr" creationdate="20200818T000948Z">
         <seg>==== 名前付け ====
 「On the Ground Rule」によると、その位置の地上にいる人々が使っているものはどのような名前、記号、等々であれ、非ローカライズタグで使われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>====JOSM  - Setup and Offset DB====
+* [[OSM Tasking Manager/Setting up JOSM|Setting up JOSM]] shows how to enable Remote Control and add new Imagery
+* [[OSM Tasking Manager/Offset_db]] explains how to use the imagery offset database
+* The [[JOSM/Plugins/BuildingsTools|Building Tools]] plugin is recommended when tracing many rectangular buildings.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T053048Z" creationid="miurahr" creationdate="20200905T053048Z">
+        <seg>====JOSM設定とオフセットDB====
+*[[OSM Tasking Manager/Setting up JOSM Setting up JOSM]]では、リモートを有効にして新しいイメージを追加する方法を示します。
+*[[OSM Tasking Manager/Offset_db]]では、イメージオフセットデータベースの使用方法について説明します。
+*多くの長方形の建物をトレースする場合は、[[JOSM/Plugins/BuildingsTools | ビル入力ツール]]プラグインを使用することをお勧めします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>====Potlatch 2 - Adding Grid Square====
+[[File:Open_vector_p2.png|200px|right]] [[File:Grid in p2.png|400px|right]]
+Potlatch will not automatically display the task bounding box, but you can do so by following this procedure:
+
+# In the Tasking Manager, select a square and click '''Start Mapping''' to lock it
+# In the Tasking Manager, select '''Edit with JOSM''' (if a window appears saying "JOSM remote control did not respond..." just click OK).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T053304Z" creationid="miurahr" creationdate="20200905T053304Z">
+        <seg>====Potlatch2-グリッド正方形の追加====
+[[File:Open_vector_p2.png|200px|right]][[File:Grid in p2.png|400px|right]]
+Potlatchでは、タスクの境界ボックスは自動的には表示されませんが、次の手順に従って表示できます。
+
+#Tasking Managerで四角形を選択し、'''Start Mapping'''をクリックしてロックします。
+#Tasking Managerで、'''Edit with JOSM'''を選択します("JOSM remote control did not respond..."というウィンドウが表示された場合は、[OK]をクリックします)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>====iD Editor====
+The task bounding box should display automatically in iD.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T052949Z" creationid="miurahr" creationdate="20200905T052949Z">
+        <seg>====iDエディタ====
+タスクの境界ボックスが自動的にiDに表示されます。</seg>
       </tuv>
     </tu>
     <tu>
