@@ -892,6 +892,16 @@ no_more_mappingを外してください)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* several 'more advanced' subjects relating to editing &amp; using the data, and
+* resources for teachers, lecturers and those organizing a workshop.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T053927Z" creationid="miurahr" creationdate="20200905T053927Z">
+        <seg>*データの編集および使用に関連するいくつかの「より高度な」科目
+*教師、講師、ワークショップの開催者のためのリソース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*: Don't delete the redirecting page which is still needed for the interlanguage navigation bar to work properly.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170521T235009Z" creationid="miurahr" creationdate="20170521T234938Z">
@@ -28808,6 +28818,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In development &amp; mainly dealing with JOSM, but also includes information which will be useful when using the iD editor, guide in development.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T053932Z" creationid="miurahr" creationdate="20200905T053932Z">
+        <seg>開発&amp;主にJOSMを対象としたものですが、開発ガイドであるiDエディタを使用する際に役立つ情報も含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In lots of places that's illegal too if you go beyond your fair use rights.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T014138Z" creationid="miurahr" creationdate="20200818T014138Z">
@@ -56393,6 +56411,26 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The main developer is [[User:Pgiraud]]
+
+Source code (Python) is on github: https://github.com/hotosm/osm-tasking-manager2
+
+Issues &amp; bugs area also managed on github: https://github.com/hotosm/osm-tasking-manager2/issues
+
+A dev/testing instance of the task manager is running here: http://tasks-dev.hotosm.org  Sometimes this is with a later version of the code  (Note.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T054219Z" creationid="miurahr" creationdate="20200905T054219Z">
+        <seg>主な開発者は [[User:Pgiraud]]
+
+ソースコード (Python)は、github: https://github.com/hotosm/osm-tasking-manager2 にあります。
+
+課題やバグ報告も github: https://github.com/hotosm/osm-tasking-manager2/issues で管理しています。
+
+タスクマネージャーの開発/テストのインスタンスは、 http://tasks-dev.hotosm.org  で実行されていて、ときどき最新のコードのバージョンが実行されています。(注意:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The map may also just be incorrect because for example you bought it a year ago and a path has been dug up in your local park since, or someone just made a mistake.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T014010Z" creationid="miurahr" creationdate="20200818T014010Z">
@@ -62208,6 +62246,14 @@ Create a new one.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use with caution - this is still in the 'construction phase', but it may help you if you are just starting to learn to map for H.O.T.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T053941Z" creationid="miurahr" creationdate="20200905T053941Z">
+        <seg>注意して使用してください-これはまだ「構築フェーズ」ですが、H.O.T.のマッピングを学習し始めるときに役立つ場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use {0}</seg>
       </tuv>
       <tuv lang="ja">
@@ -64639,6 +64685,20 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>木材生産が積極的に行われていない森林です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Work in progress can be found at [[User:Tallguy/Thoughts_%26_ideas/Beginners_guide]]
+
+== Development ==
+The tasking manager was designed and built for the [[Humanitarian OpenStreetMap Team]] and is still under active development.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T054002Z" creationid="miurahr" creationdate="20200905T054002Z">
+        <seg>進行中の作業はは、[[User:Tallguy/Thoughts_%26_ideas/Beginners_guide]]を参照してください。
+
+==開発==
+タスクマネージャーは、[[Humanitarian OpenStreetMap Team]]のために設計され、構築されましたが、現在も活発な開発が行われています。</seg>
       </tuv>
     </tu>
     <tu>
