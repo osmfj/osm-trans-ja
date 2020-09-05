@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_4d88ed4a7" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_715283b25" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -29856,6 +29856,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It also permits to control the progress and the homogeinity of the work done (ie.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T052625Z" creationid="miurahr" creationdate="20200905T052625Z">
+        <seg>また、作業の進捗や均一性を制御することもできる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It appears it could be an important &lt;b&gt;security risk&lt;/b&gt;.&lt;br&gt;&lt;br&gt;You are now going to be prompted by Windows to remove this insecure certificate.&lt;br&gt;For your own safety, &lt;b&gt;please click Yes&lt;/b&gt; in next dialog.</seg>
       </tuv>
       <tuv lang="ja">
@@ -30004,6 +30012,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T221601Z" creationid="miurahr" creationdate="20200818T221601Z">
         <seg>分割または単純化する必要があります</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It shows which areas need to be mapped and which areas need the mapping validated.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T052340Z" creationid="miurahr" creationdate="20200905T052340Z">
+        <seg>マッピングが必要な領域と、マッピングの検証が必要な領域が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56373,6 +56389,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The purpose of the tool is to divide up a mapping job into smaller tasks that can be completed rapidly.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T052333Z" creationid="miurahr" creationdate="20200905T052333Z">
+        <seg>このツールの目的は、マッピングジョブをすばやく完了できる小さなタスクに分割することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The ratio of voice recorder elapsed time to true elapsed time</seg>
       </tuv>
       <tuv lang="ja">
@@ -57121,6 +57145,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T112433Z" creationid="miurahr" creationdate="20190107T112433Z">
         <seg>この同意書は法律の衝突の原則に関わらず英国法で定めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This approach facilitates the distribution of tasks to the various mappers in a context of emergency.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T052427Z" creationid="miurahr" creationdate="20200905T052355Z">
+        <seg>このアプローチをとることで、緊急の状況において、様々なマッパーへのタスクの割り当てが容易になります。</seg>
       </tuv>
     </tu>
     <tu>
