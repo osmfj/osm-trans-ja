@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg># Below the Edit with JOSM button, text will say "Tip: Download the following .gpx file...".</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T053325Z" creationid="miurahr" creationdate="20200905T053325Z">
+        <seg># [JOSMで編集]ボタンの下に、「ヒント:次の.gpxファイルをダウンロード...」というテキストが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg># Check if there are any pages where is written ''(redirect page)'' in black color.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170523T122957Z" creationid="miurahr" creationdate="20170523T122957Z">
@@ -52,6 +60,28 @@
       <tuv lang="ja" changeid="miurahr" changedate="20170522T121719Z" creationid="miurahr" creationdate="20170522T121651Z">
         <seg>#  翻訳版（''XX:english_page_name''）の編集ビューに移動し、''&lt;nowiki&gt;{{Language}}&lt;/nowiki&gt;''という部分を探してください。
 # この部分を、''&lt;nowiki&gt;{{Language|english_page_name}}&lt;/nowiki&gt;''という形に変更してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg># In Potlatch, select '''Background''', then '''Vector File...'''
+# In the Load Vector File window, at the bottom next to File, click '''Open''', and navigate to the .gpx file you just downloaded
+# In the Load Vector File window, make sure the box is checked in the Show column for the .gpx file, then close the window
+# Potlatch should now display the boundary as a square (probably cyan).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T053523Z" creationid="miurahr" creationdate="20200905T053523Z">
+        <seg># Potlatchで、'''Background'''、'''Vector File...'''の順に選択します。
+# [ベクトルファイルをロード]ウィンドウの[ファイル]の横にある[開く]をクリックし、ダウンロードした.gpxファイルに移動します。
+# [ベクトルファイルをロード]ウィンドウで、.gpxファイルの[表示]列のチェックボックスがオンになっていることを確認し、ウィンドウを閉じます。
+# Potlatchは境界を正方形(おそらくシアン色)で表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg># In the Tasking Manager, change from Edit with JOSM to '''Edit with Potlatch 2'''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T053416Z" creationid="miurahr" creationdate="20200905T053416Z">
+        <seg># Tasking Managerで、[Edit with JOSM]から'''Edit with Potlatch2'''に変更します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -133,6 +163,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20151205T131039Z" creationid="miurahr" creationdate="20151205T131039Z">
         <seg>'''Android'''は、携帯電話やモバイル機器の[[Linux]]ベースの操作環境です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>'''Download the .gpx file''', and note where it is saved.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T053348Z" creationid="miurahr" creationdate="20200905T053348Z">
+        <seg>'''.gpxファイルをダウンロード'''し保存場所をメモします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42824,6 +42862,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>おそらく</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Potlatch should open in a new tab.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200905T053420Z" creationid="miurahr" creationdate="20200905T053420Z">
+        <seg>Potlatchが新しいタブで開きます。</seg>
       </tuv>
     </tu>
     <tu>
