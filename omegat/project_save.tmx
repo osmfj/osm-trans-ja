@@ -2225,6 +2225,14 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;html&gt;The child relation&lt;br&gt;{0}&lt;br&gt;is deleted on the server.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T082831Z" creationid="miurahr" creationdate="20200906T082831Z">
+        <seg>&lt;html&gt;サーバ上の子リレーション&lt;br&gt;{0}&lt;br&gt;が削除されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;html&gt;The combined ways are members in one or more relations.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T112918Z" creationid="miurahr" creationdate="20190107T112846Z">
@@ -2481,10 +2489,26 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;html&gt;You are trying to add a child relation which refers to the parent relation.&lt;br&gt;&lt;br&gt;This generates a circular dependency of parent/child elements and is therefore discouraged.&lt;br&gt;Skipping relation ''{0}''.&lt;br&gt;Relations that would generate the circular dependency:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T082915Z" creationid="miurahr" creationdate="20200906T082915Z">
+        <seg>&lt;html&gt;親リレーションを参照する子リレーションを追加しようとしています。&lt;br&gt;&lt;br&gt;これにより、親/子要素の循環を生成するため、推奨されません。&lt;br&gt;リレーション''{0}''をスキップします。&lt;br&gt;循環従属を生成するリレーション:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;html&gt;You are trying to add a relation to itself.&lt;br&gt;&lt;br&gt;This creates circular references and is therefore discouraged.&lt;br&gt;Skipping relation ''{0}''.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>&lt;html&gt;リレーション自身に追加しようとしています。&lt;br&gt;&lt;br&gt;これは循環参照を引き起こすので薦められません。&lt;br&gt;リレーション ''{0}'' をスキップします。&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;html&gt;You are trying to add a relation to itself.&lt;br&gt;&lt;br&gt;This generates a circular dependency of parent/child elements and is therefore discouraged.&lt;br&gt;Skipping relation ''{0}''.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T082902Z" creationid="miurahr" creationdate="20200906T082902Z">
+        <seg>&lt;html&gt;それ自体にリレーションを追加しようとしています。&lt;br&gt;&lt;br&gt;これは親/子要素の循環従属を生成するため、推奨されません。&lt;br&gt;リレーション''{0}''をスキップします。&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10315,6 +10339,14 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Change role for {0} in relation {1}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T082816Z" creationid="miurahr" creationdate="20200906T082816Z">
+        <seg>リレーション{1}の{0}の役割を変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Change string setting</seg>
       </tuv>
       <tuv lang="ja">
@@ -14295,6 +14327,14 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Copy selected {0} Key/Value</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T082741Z" creationid="miurahr" creationdate="20200906T082741Z">
+        <seg>選択した{0}キー/値をコピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Copy tags from previous selection</seg>
       </tuv>
       <tuv lang="ja">
@@ -14314,6 +14354,14 @@ After: wikipedia={0}:{2}</seg>
         <seg>Copy the key and value of the selected tag(s) to clipboard</seg>
       </tuv>
       <tuv lang="ja">
+        <seg>選択したタグのキーと値をクリップボードにコピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Copy the key and value of the selected tags to clipboard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T082730Z" creationid="miurahr" creationdate="20200906T082730Z">
         <seg>選択したタグのキーと値をクリップボードにコピー</seg>
       </tuv>
     </tu>
@@ -16105,6 +16153,14 @@ Do you want to keep it?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>自転車専用通行帯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cycle layer down</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T082722Z" creationid="miurahr" creationdate="20200906T082722Z">
+        <seg>レイヤーを下方へ循環</seg>
       </tuv>
     </tu>
     <tu>
@@ -22757,6 +22813,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Exception: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T082846Z" creationid="miurahr" creationdate="20200906T082846Z">
+        <seg>例外:{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Execute the script</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200825T233247Z" creationid="miurahr" creationdate="20200825T233247Z">
@@ -26271,6 +26335,22 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to OSM Tag History</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T082819Z" creationid="miurahr" creationdate="20200906T082819Z">
+        <seg>OS Mタグ履歴へ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to OSM wiki for relation help</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T082759Z" creationid="miurahr" creationdate="20200906T082759Z">
+        <seg>OSM wikiにアクセスして、リレーションのヘルプを参照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to OSM wiki for tag help</seg>
       </tuv>
       <tuv lang="ja">
@@ -26283,6 +26363,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>Taginfo で開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to Taginfo ({0})</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T082807Z" creationid="miurahr" creationdate="20200906T082807Z">
+        <seg>Taginfoへ移動({0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -28164,6 +28252,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T113454Z" creationid="miurahr" creationdate="20200818T113454Z">
         <seg>ダウンロードがキャンセルされるため、キャッチされた例外を無視します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ignoring exception because task was canceled.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T082843Z" creationid="miurahr" creationdate="20200906T082843Z">
+        <seg>タスクがキャンセルされたため、例外を無視します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30190,6 +30286,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200825T234925Z" creationid="miurahr" creationdate="20200825T234925Z">
         <seg>ローカルファイルシステムまたはjar/zipファイルからCommonJSモジュールをロードできます。&lt;br&gt;&lt;br&gt;デフォルトでは、プラグインjarのディレクトリ&lt;strong&gt;/js&lt;/strong&gt;からCommonJSモジュールをロードしますが、追加のディレクトリとjarファイルを追加することもできます。&lt;br&gt;&lt;br&gt;以下のリストでそれらを設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It cannot be loaded&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T082834Z" creationid="miurahr" creationdate="20200906T082834Z">
+        <seg>ロードできません&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -38788,6 +38892,15 @@ nodes and the new nodes will be selected.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>選択されたウェイのひとつが閉じていないので結合できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One or more members of this new relation have been deleted while the relation editor
+was open.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T082939Z" creationid="miurahr" creationdate="20200906T082939Z">
+        <seg>この新しいリレーションの1つまたは複数のメンバが、リレーションエディタの実行中に削除されました</seg>
       </tuv>
     </tu>
     <tu>
@@ -57503,6 +57616,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T112113Z" creationid="miurahr" creationdate="20190107T112113Z">
         <seg>これらの権利は制限無しに、複数階層にわたるサブライセンスを通して成果物にサブライセンスしたり、これらの規約に基づくOSMFの諸権利に直接つながるあらゆる著作権侵害の訴訟を起こすための権利を含みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They have been removed from the relation members list.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T082944Z" creationid="miurahr" creationdate="20200906T082944Z">
+        <seg>これらメンバーリストから削除されました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78024,6 +78145,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>ウェイは前のリレーションメンバーに接続されています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>way is connected to previous relation member but has a wrong oneway direction</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T083017Z" creationid="miurahr" creationdate="20200906T083017Z">
+        <seg>ウェイは前のリレーションのメンバに接続されていますが、方向が間違っています</seg>
       </tuv>
     </tu>
     <tu>
