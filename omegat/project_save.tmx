@@ -6192,6 +6192,14 @@ If you need further help on mapping an area see:
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An accumulation of loose angular rocks.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152249Z" creationid="miurahr" creationdate="20200906T152249Z">
+        <seg>緩い角岩の堆積。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An empty value deletes the tag.</seg>
       </tuv>
       <tuv lang="ja">
@@ -22973,6 +22981,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Especially old tree, often with a particular shape.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152211Z" creationid="miurahr" creationdate="20200906T152211Z">
+        <seg>特に古い木は特別な形をしています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Esso</seg>
       </tuv>
       <tuv lang="ja">
@@ -23105,6 +23121,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200906T082846Z" creationid="miurahr" creationdate="20200906T082846Z">
         <seg>例外:{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Excludes cultivated areas and wetlands.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152243Z" creationid="miurahr" creationdate="20200906T152243Z">
+        <seg>耕作地や湿地を除く。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38206,6 +38230,14 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Notary</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152133Z" creationid="miurahr" creationdate="20200906T152133Z">
+        <seg>公証人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Note</seg>
       </tuv>
       <tuv lang="ja">
@@ -44769,6 +44801,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>先頭または末尾が空白文字になっている属性値</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Protect Class</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152138Z" creationid="miurahr" creationdate="20200906T152138Z">
+        <seg>保護クラス</seg>
       </tuv>
     </tu>
     <tu>
@@ -63469,6 +63509,14 @@ Create a new one.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Usually protected for its uniqueness.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152220Z" creationid="miurahr" creationdate="20200906T152220Z">
+        <seg>通常、一意性のために保護されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Usually this should be fixed.</seg>
       </tuv>
       <tuv lang="ja">
@@ -65420,6 +65468,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ノードのタグをどこに設定しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Where vegetation is dominated by grasses (Poaceae) and other herbaceous (non-woody) plants.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152240Z" creationid="miurahr" creationdate="20200906T152240Z">
+        <seg>植生が草(イネ科)やその他の草質(非木質)植物に支配されている場所。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68408,6 +68464,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>border</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152224Z" creationid="miurahr" creationdate="20200906T152224Z">
+        <seg>境界</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>borough</seg>
       </tuv>
       <tuv lang="ja">
@@ -69528,6 +69592,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>coral</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152159Z" creationid="miurahr" creationdate="20200906T152159Z">
+        <seg>サンゴ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>corn</seg>
       </tuv>
       <tuv lang="ja">
@@ -69772,6 +69844,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>データ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>data_protection</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152021Z" creationid="miurahr" creationdate="20200906T152021Z">
+        <seg>データ保護</seg>
       </tuv>
     </tu>
     <tu>
@@ -70328,6 +70408,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>education</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152024Z" creationid="miurahr" creationdate="20200906T152024Z">
+        <seg>教育</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>eez</seg>
       </tuv>
       <tuv lang="ja">
@@ -70460,6 +70548,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>スタート地点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>environment</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152027Z" creationid="miurahr" creationdate="20200906T152027Z">
+        <seg>環境</seg>
       </tuv>
     </tu>
     <tu>
@@ -71752,6 +71848,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>healthcare</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152029Z" creationid="miurahr" creationdate="20200906T152029Z">
+        <seg>ヘルスケア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>heat</seg>
       </tuv>
       <tuv lang="ja">
@@ -72952,6 +73056,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>legislative</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152032Z" creationid="miurahr" creationdate="20200906T152032Z">
+        <seg>立法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>leisure type {0}</seg>
       </tuv>
       <tuv lang="ja">
@@ -73624,6 +73736,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>migration</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152047Z" creationid="miurahr" creationdate="20200906T152047Z">
+        <seg>移民</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>military</seg>
       </tuv>
       <tuv lang="ja">
@@ -73684,6 +73804,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>車間距離</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ministry</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152051Z" creationid="miurahr" creationdate="20200906T152051Z">
+        <seg>省</seg>
       </tuv>
     </tu>
     <tu>
@@ -74976,6 +75104,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>oyster</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152202Z" creationid="miurahr" creationdate="20200906T152202Z">
+        <seg>カキ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>pachinko</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200906T111306Z" creationid="miurahr" creationdate="20200906T111306Z">
@@ -75252,6 +75388,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>保留</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pension_fund</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152055Z" creationid="miurahr" creationdate="20200906T152055Z">
+        <seg>年金基金</seg>
       </tuv>
     </tu>
     <tu>
@@ -75824,6 +75968,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>public_service</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152107Z" creationid="miurahr" creationdate="20200906T152107Z">
+        <seg>公共サービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>public_transport</seg>
       </tuv>
       <tuv lang="ja">
@@ -76364,6 +76516,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>河川</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>rock</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152205Z" creationid="miurahr" creationdate="20200906T152205Z">
+        <seg>岩</seg>
       </tuv>
     </tu>
     <tu>
@@ -77480,6 +77640,22 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>social_security</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152111Z" creationid="miurahr" creationdate="20200906T152111Z">
+        <seg>社会保障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>social_services</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152118Z" creationid="miurahr" creationdate="20200906T152118Z">
+        <seg>社会サービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>sodium</seg>
       </tuv>
       <tuv lang="ja">
@@ -77788,6 +77964,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>静止型無効電力補償装置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>statistics</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152121Z" creationid="miurahr" creationdate="20200906T152121Z">
+        <seg>統計</seg>
       </tuv>
     </tu>
     <tu>
