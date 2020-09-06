@@ -1419,8 +1419,8 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
       <tuv lang="en-US">
         <seg>&lt;html&gt;&lt;p&gt; Sorry, it is impossible to paste tags from buffer.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20190107T122208Z" creationid="miurahr" creationdate="20190107T122208Z">
-        <seg>&lt;html&gt;&lt;p&gt;申し訳ございませんが、バッファからタグを貼り付けることはできません。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T084236Z" creationid="miurahr" creationdate="20190107T122208Z">
+        <seg>&lt;html&gt;&lt;p&gt;申し訳ありませんが、バッファからタグを貼り付けることはできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3552,6 +3552,22 @@ If you need further help on mapping an area see:
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A style of pillar hydrant where the barrel is pressurized at all times, with individual valves for each outlet.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111657Z" creationid="miurahr" creationdate="20200906T111657Z">
+        <seg>バレルが常に加圧され、各出口に個別のバルブがある、ピラー消火栓のスタイル。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A style of pillar hydrant where the water shutoff valve is below ground.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111645Z" creationid="miurahr" creationdate="20200906T111645Z">
+        <seg>止水栓が地下にあるタイプの柱上消火栓です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A tag with key &lt;i&gt;{0}&lt;/i&gt; is already present on the selected OSM object.</seg>
       </tuv>
       <tuv lang="ja">
@@ -3580,6 +3596,14 @@ If you need further help on mapping an area see:
       </tuv>
       <tuv lang="ja">
         <seg>壁に設置された消火栓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A water well.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111620Z" creationid="miurahr" creationdate="20200906T111620Z">
+        <seg>井戸</seg>
       </tuv>
     </tu>
     <tu>
@@ -4976,6 +5000,14 @@ If you need further help on mapping an area see:
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Additives:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T105516Z" creationid="miurahr" creationdate="20200906T105516Z">
+        <seg>添加物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Address</seg>
       </tuv>
       <tuv lang="ja">
@@ -5228,6 +5260,14 @@ If you need further help on mapping an area see:
       </tuv>
       <tuv lang="ja">
         <seg>管理レベル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adult gaming centre</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111246Z" creationid="miurahr" creationdate="20200906T111246Z">
+        <seg>アダルトゲームセンター</seg>
       </tuv>
     </tu>
     <tu>
@@ -6104,6 +6144,14 @@ If you need further help on mapping an area see:
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Amusement arcade</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111242Z" creationid="miurahr" creationdate="20200906T111242Z">
+        <seg>ゲームセンター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Amusement/Theme Park</seg>
       </tuv>
       <tuv lang="ja">
@@ -6329,6 +6377,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Animal enclosure</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110039Z" creationid="miurahr" creationdate="20200906T110039Z">
+        <seg>動物の囲い</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Animal watering place</seg>
       </tuv>
       <tuv lang="ja">
@@ -6373,6 +6429,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T015535Z" creationid="miurahr" creationdate="20200818T015535Z">
         <seg>そのようなデータは何であれ、オリジナルの著作権条項にしたがうことになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Apartment</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T105903Z" creationid="miurahr" creationdate="20200906T105903Z">
+        <seg>集合住宅</seg>
       </tuv>
     </tu>
     <tu>
@@ -6565,6 +6629,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>適用しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Approach lighting system</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T105829Z" creationid="miurahr" creationdate="20200906T105829Z">
+        <seg>進入灯</seg>
       </tuv>
     </tu>
     <tu>
@@ -6877,6 +6949,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>割り当てる値は</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Assisted Living</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111801Z" creationid="miurahr" creationdate="20200906T111801Z">
+        <seg>生活支援</seg>
       </tuv>
     </tu>
     <tu>
@@ -7665,6 +7745,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Barcelona</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111721Z" creationid="miurahr" creationdate="20200906T111721Z">
+        <seg>バルセロナ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Bare Rock</seg>
       </tuv>
       <tuv lang="ja">
@@ -7801,6 +7889,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bayonet</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111718Z" creationid="miurahr" creationdate="20200906T111718Z">
+        <seg>銃剣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Beach</seg>
       </tuv>
       <tuv lang="ja">
@@ -7821,6 +7917,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>ビーチバレー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Beacon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T105820Z" creationid="miurahr" creationdate="20200906T105820Z">
+        <seg>ビーコン</seg>
       </tuv>
     </tu>
     <tu>
@@ -8027,10 +8131,26 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Big Communication Tower</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T122124Z" creationid="miurahr" creationdate="20200906T122124Z">
+        <seg>高い通信塔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Big buildings mode</seg>
       </tuv>
       <tuv lang="ja">
         <seg>巨大建物モード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Big communication tower, usually higher than 100 meters.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T122059Z" creationid="miurahr" creationdate="20200906T122059Z">
+        <seg>通常100メートル以上の大きな通信塔。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8651,6 +8771,14 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Build an Overpass query using the query wizard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T083326Z" creationid="miurahr" creationdate="20200906T083326Z">
+        <seg>クエリウィザードを使用してOverpassクエリを作成する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Build query</seg>
       </tuv>
       <tuv lang="ja">
@@ -9111,6 +9239,14 @@ After: wikipedia={0}:{2}</seg>
       </tuv>
       <tuv lang="ja">
         <seg>カモジー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Camp pitch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T105917Z" creationid="miurahr" creationdate="20200906T105917Z">
+        <seg>キャンプピッチ</seg>
       </tuv>
     </tu>
     <tu>
@@ -9987,6 +10123,14 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Catenary mast</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T122715Z" creationid="miurahr" creationdate="20200906T122715Z">
+        <seg>カテナリー電柱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Caterer</seg>
       </tuv>
       <tuv lang="ja">
@@ -10845,8 +10989,8 @@ After: wikipedia={0}:{2}</seg>
       <tuv lang="en-US">
         <seg>Checks for deprecated features</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>推奨されない機能をチェックします</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T084154Z">
+        <seg>推奨されない地物をチェックします</seg>
       </tuv>
     </tu>
     <tu>
@@ -11323,6 +11467,14 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City gate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T123043Z" creationid="miurahr" creationdate="20200906T123043Z">
+        <seg>市門</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>City name</seg>
       </tuv>
       <tuv lang="ja">
@@ -11335,6 +11487,14 @@ After: wikipedia={0}:{2}</seg>
       </tuv>
       <tuv lang="ja">
         <seg>市区:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Citywalls</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T123040Z" creationid="miurahr" creationdate="20200906T123040Z">
+        <seg>市城壁</seg>
       </tuv>
     </tu>
     <tu>
@@ -12007,6 +12167,14 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to search for more places</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T083219Z" creationid="miurahr" creationdate="20200906T083219Z">
+        <seg>クリックして他の場所を検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to skip updating the activated modules</seg>
       </tuv>
       <tuv lang="ja">
@@ -12447,6 +12615,14 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Club</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110106Z" creationid="miurahr" creationdate="20200906T110106Z">
+        <seg>クラブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CmdLine:</seg>
       </tuv>
       <tuv lang="ja">
@@ -12691,6 +12867,14 @@ After: wikipedia={0}:{2}</seg>
       </tuv>
       <tuv lang="ja">
         <seg>帽子部分の色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Colour of the top section (bonnet)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111757Z" creationid="miurahr" creationdate="20200906T111757Z">
+        <seg>上部の色(ボンネット)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13691,6 +13875,14 @@ After: wikipedia={0}:{2}</seg>
       </tuv>
       <tuv lang="ja">
         <seg>接続失敗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Connection Point</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T122727Z" creationid="miurahr" creationdate="20200906T122727Z">
+        <seg>接続ポイント</seg>
       </tuv>
     </tu>
     <tu>
@@ -14949,6 +15141,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Coupling standard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111714Z" creationid="miurahr" creationdate="20200906T111714Z">
+        <seg>カップリング規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Course</seg>
       </tuv>
       <tuv lang="ja">
@@ -16017,6 +16217,14 @@ Do you want to keep it?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>現在の倍率: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Currently, there is no download area selected.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T083057Z" creationid="miurahr" creationdate="20200906T083057Z">
+        <seg>現在、ダウンロード領域が選択されていません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17367,8 +17575,8 @@ Do you want to keep it?</seg>
       <tuv lang="en-US">
         <seg>Deprecated features</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>推奨されない機能</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T084144Z">
+        <seg>推奨されない地物</seg>
       </tuv>
     </tu>
     <tu>
@@ -17661,6 +17869,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Diesel Exhaust Fluid (AdBlue/AUS32)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T105529Z" creationid="miurahr" creationdate="20200906T105529Z">
+        <seg>ディーゼル排気液(AdBlue/AUS32)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Diesel Power Generator</seg>
       </tuv>
       <tuv lang="ja">
@@ -17689,6 +17905,14 @@ Do you want to keep it?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>差分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Different tests</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T083046Z" creationid="miurahr" creationdate="20200906T083046Z">
+        <seg>異なる検査</seg>
       </tuv>
     </tu>
     <tu>
@@ -18361,6 +18585,14 @@ Do you want to keep it?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>濠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dive centre</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110103Z" creationid="miurahr" creationdate="20200906T110103Z">
+        <seg>ダイブセンター</seg>
       </tuv>
     </tu>
     <tu>
@@ -20535,6 +20767,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Driving range</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T121416Z" creationid="miurahr" creationdate="20200906T121416Z">
+        <seg>ゴルフ練習場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Drop existing path</seg>
       </tuv>
       <tuv lang="ja">
@@ -20827,6 +21067,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>EXIFの時刻: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each coupling diameter (separated by ;)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111751Z" creationid="miurahr" creationdate="20200906T111751Z">
+        <seg>各カップリング直径(;で区切る)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21559,6 +21807,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>緊急車両</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Emergency ward entrance</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111508Z" creationid="miurahr" creationdate="20200906T111508Z">
+        <seg>救急病棟入口</seg>
       </tuv>
     </tu>
     <tu>
@@ -25103,6 +25359,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Flow rate with unit of measure</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111638Z" creationid="miurahr" creationdate="20200906T111638Z">
+        <seg>単位付き流量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Flowerbed</seg>
       </tuv>
       <tuv lang="ja">
@@ -25343,6 +25607,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For the body</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T123313Z" creationid="miurahr" creationdate="20200906T123313Z">
+        <seg>身体用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For {0} the correct order of the new way parts could not be determined.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T114528Z" creationid="miurahr" creationdate="20200818T114528Z">
@@ -25419,6 +25691,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>2つのウェイとその交点から、格子状のウェイを作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fort</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T123009Z" creationid="miurahr" creationdate="20200906T123009Z">
+        <seg>とりで</seg>
       </tuv>
     </tu>
     <tu>
@@ -25579,6 +25859,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>どの情報源からMapillaryレイヤへ画像をインポートしますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Frontal Water hazard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T121338Z" creationid="miurahr" creationdate="20200906T121338Z">
+        <seg>前線性水災害</seg>
       </tuv>
     </tu>
     <tu>
@@ -26615,10 +26903,26 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Gravity drain for hose</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T112029Z" creationid="miurahr" creationdate="20200906T112029Z">
+        <seg>ホースの重力ドレン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Green</seg>
       </tuv>
       <tuv lang="ja">
         <seg>グリーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Green Waste</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111842Z" creationid="miurahr" creationdate="20200906T111842Z">
+        <seg>植物の廃棄物</seg>
       </tuv>
     </tu>
     <tu>
@@ -26719,6 +27023,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Group only access</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T105913Z" creationid="miurahr" creationdate="20200906T105913Z">
+        <seg>グループのみのアクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Groyne</seg>
       </tuv>
       <tuv lang="ja">
@@ -26795,6 +27107,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>道標</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Guillemin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111729Z" creationid="miurahr" creationdate="20200906T111729Z">
+        <seg>ギルマン</seg>
       </tuv>
     </tu>
     <tu>
@@ -26883,6 +27203,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ハンドボール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Handicap rating</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T112210Z" creationid="miurahr" creationdate="20200906T112210Z">
+        <seg>障害等級</seg>
       </tuv>
     </tu>
     <tu>
@@ -27495,6 +27823,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Holding Position</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T105816Z" creationid="miurahr" creationdate="20200906T105816Z">
+        <seg>待機位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hole</seg>
       </tuv>
       <tuv lang="ja">
@@ -27771,6 +28107,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>消火栓の位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hydrant is fed by the local distribution network.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111607Z" creationid="miurahr" creationdate="20200906T111607Z">
+        <seg>消火栓は地域の配水管網によって供給される。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29008,6 +29352,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In case of sport:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110958Z" creationid="miurahr" creationdate="20200906T110958Z">
+        <seg>スポーツの場合:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In case of traffic signals:</seg>
       </tuv>
       <tuv lang="ja">
@@ -29704,6 +30056,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Insulator</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T122723Z" creationid="miurahr" creationdate="20200906T122723Z">
+        <seg>碍子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Insurance</seg>
       </tuv>
       <tuv lang="ja">
@@ -29874,8 +30234,8 @@ or just retry</seg>
       <tuv lang="en-US">
         <seg>Intersection of three or more ways can not be solved.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20200818T023718Z" creationid="miurahr" creationdate="20200818T023718Z">
-        <seg>3つ以上のウエイの交差を解決できません。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T083507Z" creationid="miurahr" creationdate="20200818T023718Z">
+        <seg>3つ以上のウェイの交差を解決できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31392,6 +31752,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200826T013408Z" creationid="miurahr" creationdate="20200826T013408Z">
         <seg>ラベル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Laboratory</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111434Z" creationid="miurahr" creationdate="20200906T111434Z">
+        <seg>研究所</seg>
       </tuv>
     </tu>
     <tu>
@@ -33004,6 +33372,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Lockable</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T112049Z" creationid="miurahr" creationdate="20200906T112049Z">
+        <seg>ロック可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Locksmith</seg>
       </tuv>
       <tuv lang="ja">
@@ -33468,6 +33844,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Manor</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T123055Z" creationid="miurahr" creationdate="20200906T123055Z">
+        <seg>荘園</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Manual</seg>
       </tuv>
       <tuv lang="ja">
@@ -33844,6 +34228,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mast</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T121938Z" creationid="miurahr" creationdate="20200906T121938Z">
+        <seg>マスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Matches</seg>
       </tuv>
       <tuv lang="ja">
@@ -34144,6 +34536,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
       </tuv>
       <tuv lang="ja">
         <seg>メンバー(競合あり)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Membership card</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T105631Z" creationid="miurahr" creationdate="20200906T105631Z">
+        <seg>会員証</seg>
       </tuv>
     </tu>
     <tu>
@@ -34524,6 +34924,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Milestone</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T123248Z" creationid="miurahr" creationdate="20200906T123248Z">
+        <seg>マイルストーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Military</seg>
       </tuv>
       <tuv lang="ja">
@@ -34544,6 +34952,22 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
       </tuv>
       <tuv lang="ja">
         <seg>最短距離:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T123115Z" creationid="miurahr" creationdate="20200906T123115Z">
+        <seg>鉱山</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mine shaft</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T123119Z" creationid="miurahr" creationdate="20200906T123119Z">
+        <seg>坑道</seg>
       </tuv>
     </tu>
     <tu>
@@ -36290,6 +36714,14 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ネイティブの投影法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Natural</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T112213Z" creationid="miurahr" creationdate="20200906T112213Z">
+        <seg>ナチュラル</seg>
       </tuv>
     </tu>
     <tu>
@@ -38072,6 +38504,14 @@ nodes and the new nodes will be selected.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number of couplings</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111711Z" creationid="miurahr" creationdate="20200906T111711Z">
+        <seg>カップリングの数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of devices</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200819T133051Z" creationid="miurahr" creationdate="20200819T133051Z">
@@ -38684,6 +39124,14 @@ nodes and the new nodes will be selected.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>オフロード車: 重量オフロード車</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Offers repairs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T123253Z" creationid="miurahr" creationdate="20200906T123253Z">
+        <seg>修理を提供</seg>
       </tuv>
     </tu>
     <tu>
@@ -39413,6 +39861,14 @@ was open.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>選択された変更セットそれぞれにウェブページを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open air</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110056Z" creationid="miurahr" creationdate="20200906T110056Z">
+        <seg>屋外</seg>
       </tuv>
     </tu>
     <tu>
@@ -40303,6 +40759,14 @@ own copy and all nodes will be selected.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200813T124257Z" creationid="miurahr" creationdate="20200813T124111Z">
         <seg>Overpass QL集合はつねに大域的に有効な[https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%97) スコープ]をもちます。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overpass Query Wizard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T083154Z" creationid="miurahr" creationdate="20200906T083154Z">
+        <seg>Overpassクエリーウィザード</seg>
       </tuv>
     </tu>
     <tu>
@@ -41253,6 +41717,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Permanent camping only</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T105928Z" creationid="miurahr" creationdate="20200906T105928Z">
+        <seg>永久キャンプのみ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Permitted actions:</seg>
       </tuv>
       <tuv lang="ja">
@@ -41297,6 +41769,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>相数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Phone call</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T105608Z" creationid="miurahr" creationdate="20200906T105608Z">
+        <seg>電話</seg>
       </tuv>
     </tu>
     <tu>
@@ -41501,6 +41981,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pipeline Substation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T122148Z" creationid="miurahr" creationdate="20200906T122148Z">
+        <seg>パイプライン変電所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pipeline Valve</seg>
       </tuv>
       <tuv lang="ja">
@@ -41577,6 +42065,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>以下に Overpass クエリを配置するか、 Overpass Turbo クエリウィザードツールを使用して作成してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Place your Overpass query below or generate one using the query wizard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T083130Z" creationid="miurahr" creationdate="20200906T083130Z">
+        <seg>Overpassクエリーを下に配置するか、クエリーウィザードを使用してクエリーを生成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42435,6 +42931,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please select an area first.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T083054Z" creationid="miurahr" creationdate="20200906T083054Z">
+        <seg>最初に領域を選択してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please select an authorization procedure:</seg>
       </tuv>
       <tuv lang="ja">
@@ -42479,6 +42983,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>結合する閉じたウェイを1つ以上選んでください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please select at least one download source.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T083120Z" creationid="miurahr" creationdate="20200906T083120Z">
+        <seg>少なくとも1つのダウンロードソースを選択してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43035,6 +43547,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pole with Switch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T122508Z" creationid="miurahr" creationdate="20200906T122420Z">
+        <seg>開閉器付き電柱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pole with Transformer</seg>
       </tuv>
       <tuv lang="ja">
@@ -43079,6 +43599,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ポート:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Portal design</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T122312Z" creationid="miurahr" creationdate="20200906T122312Z">
+        <seg>門のデザイン</seg>
       </tuv>
     </tu>
     <tu>
@@ -43415,6 +43943,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>WMSを先行キャッシュ中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Precision approach path indicator</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T105842Z" creationid="miurahr" creationdate="20200906T105842Z">
+        <seg>進入角指示灯</seg>
       </tuv>
     </tu>
     <tu>
@@ -44521,6 +45057,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>公衆浴場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Public bookcase</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111325Z" creationid="miurahr" creationdate="20200906T111325Z">
+        <seg>公共の本棚</seg>
       </tuv>
     </tu>
     <tu>
@@ -45657,6 +46201,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>拒否</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Regina</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T112204Z" creationid="miurahr" creationdate="20200906T112204Z">
+        <seg>レジーナ</seg>
       </tuv>
     </tu>
     <tu>
@@ -48333,10 +48885,26 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Route marker</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T105936Z" creationid="miurahr" creationdate="20200906T105936Z">
+        <seg>ルートマーカー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Route patterns ...</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ルートパターン ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Route references</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T105745Z" creationid="miurahr" creationdate="20200906T105745Z">
+        <seg>ルート参照</seg>
       </tuv>
     </tu>
     <tu>
@@ -49277,6 +49845,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Schrader</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T112156Z" creationid="miurahr" creationdate="20200906T112156Z">
+        <seg>シュレイダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Scooter</seg>
       </tuv>
       <tuv lang="ja">
@@ -49561,6 +50137,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>メニュー項目を検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Search more...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T083228Z" creationid="miurahr" creationdate="20200906T083212Z">
+        <seg>さらに検索...</seg>
       </tuv>
     </tu>
     <tu>
@@ -51796,6 +52380,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shieling</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T123130Z" creationid="miurahr" creationdate="20200906T123130Z">
+        <seg>仮小屋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Shift all traces to east (degrees)</seg>
       </tuv>
       <tuv lang="ja">
@@ -51896,6 +52488,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>簡単な説明:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Short message</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T105604Z" creationid="miurahr" creationdate="20200906T105604Z">
+        <seg>ショートメッセージ</seg>
       </tuv>
     </tu>
     <tu>
@@ -53436,6 +54036,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Speciality</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111453Z" creationid="miurahr" creationdate="20200906T111453Z">
+        <seg>専門分野</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Specialized off-road: tractor, ATV</seg>
       </tuv>
       <tuv lang="ja">
@@ -54229,6 +54837,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Storz</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111741Z" creationid="miurahr" creationdate="20200906T111741Z">
+        <seg>シュトルツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Strait</seg>
       </tuv>
       <tuv lang="ja">
@@ -54589,6 +55205,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Suction pumpout</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T112003Z" creationid="miurahr" creationdate="20200906T112003Z">
+        <seg>排出上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Suggest Stops</seg>
       </tuv>
       <tuv lang="ja">
@@ -54865,6 +55489,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>スイス斜軸メルカトル図法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Switch Attributes:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T122637Z" creationid="miurahr" creationdate="20200906T122637Z">
+        <seg>開閉器の属性:</seg>
       </tuv>
     </tu>
     <tu>
@@ -55711,6 +56343,22 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Telescope</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T121816Z" creationid="miurahr" creationdate="20200906T121816Z">
+        <seg>望遠鏡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Telescope Diameter (meters)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T121922Z" creationid="miurahr" creationdate="20200906T121922Z">
+        <seg>望遠鏡の直径(メートル)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ten-pin Bowling</seg>
       </tuv>
       <tuv lang="ja">
@@ -55899,6 +56547,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>{0}/{1}:  {2}のテストを開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Test: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T083043Z" creationid="miurahr" creationdate="20200906T083043Z">
+        <seg>テスト:{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -57124,6 +57780,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The slippy map no longer shows the selected download bounds.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T083115Z" creationid="miurahr" creationdate="20200906T083115Z">
+        <seg>選択したダウンロード境界がスリッピーマップに表示されなくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The source code is on Github: https://github.com/hotosm/tasking-manager and inquiries, issues and bugs also [https://github.com/hotosm/tasking-manager/issues managed there].</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200905T055143Z" creationid="miurahr" creationdate="20200905T055143Z">
@@ -57270,8 +57934,8 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
       <tuv lang="en-US">
         <seg>The ways can not be combined in their current directions.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20200818T050521Z" creationid="miurahr" creationdate="20200818T050521Z">
-        <seg>一方通行の方向が違っているため接続できません。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T083550Z" creationid="miurahr" creationdate="20200818T050521Z">
+        <seg>一方通行の方向が違っているため結合できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58284,6 +58948,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Throw in times</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111818Z" creationid="miurahr" creationdate="20200906T111818Z">
+        <seg>スローインタイム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ticket</seg>
       </tuv>
       <tuv lang="ja">
@@ -59228,6 +59900,14 @@ or action canceled</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Trade</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T151433Z" creationid="miurahr" creationdate="20200906T151433Z">
+        <seg>トレード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Traffic</seg>
       </tuv>
       <tuv lang="ja">
@@ -59774,8 +60454,8 @@ or action canceled</seg>
       <tuv lang="en-US">
         <seg>Two parallels ways found.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20200818T023739Z" creationid="miurahr" creationdate="20200818T023739Z">
-        <seg>2つの並行したウエイが見つかりました。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T083520Z" creationid="miurahr" creationdate="20200818T023739Z">
+        <seg>2つの並行したウェイが見つかりました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59886,8 +60566,8 @@ or action canceled</seg>
       <tuv lang="en-US">
         <seg>Typical journey time in minutes</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>標準所用時間(分)</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T105359Z">
+        <seg>標準所要時間(分)</seg>
       </tuv>
     </tu>
     <tu>
@@ -59927,6 +60607,14 @@ or action canceled</seg>
         <seg>UIC reference</seg>
       </tuv>
       <tuv lang="ja">
+        <seg>UIC番号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>UIC-Reference</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T105752Z" creationid="miurahr" creationdate="20200906T105752Z">
         <seg>UIC番号</seg>
       </tuv>
     </tu>
@@ -60936,6 +61624,14 @@ or action canceled</seg>
       </tuv>
       <tuv lang="ja">
         <seg>両性別</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unit number</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T105922Z" creationid="miurahr" creationdate="20200906T105922Z">
+        <seg>ユニット番号</seg>
       </tuv>
     </tu>
     <tu>
@@ -63025,6 +63721,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Valve type</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T122217Z" creationid="miurahr" creationdate="20200906T122217Z">
+        <seg>バルブタイプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Valves</seg>
       </tuv>
       <tuv lang="ja">
@@ -63469,6 +64173,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ホームページはこちら</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Visual approach slope indicator</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T105850Z" creationid="miurahr" creationdate="20200906T105850Z">
+        <seg>進入角指示灯</seg>
       </tuv>
     </tu>
     <tu>
@@ -65848,6 +66560,14 @@ The tasking manager was designed and built for the [[Humanitarian OpenStreetMap 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Zip line</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T105509Z" creationid="miurahr" creationdate="20200906T105509Z">
+        <seg>ジップライン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Zone</seg>
       </tuv>
       <tuv lang="ja">
@@ -66514,8 +67234,8 @@ Click on the heading for one of the projects you have completed a square(s) for 
       <tuv lang="en-US">
         <seg>all children of objects matching the expression</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>条件に当てはまるすべての子要素</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T084336Z">
+        <seg>条件に当てはまるすべての子オブジェクト</seg>
       </tuv>
     </tu>
     <tu>
@@ -66602,8 +67322,8 @@ Click on the heading for one of the projects you have completed a square(s) for 
       <tuv lang="en-US">
         <seg>all parents of objects matching the expression</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>条件に当てはまるすべての親要素</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T084315Z">
+        <seg>条件に当てはまるすべての親オブジェクト</seg>
       </tuv>
     </tu>
     <tu>
@@ -66720,6 +67440,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>amateur_radio</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110110Z" creationid="miurahr" creationdate="20200906T110110Z">
+        <seg>アマチュア無線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>amenities type {0}</seg>
       </tuv>
       <tuv lang="ja">
@@ -66788,6 +67516,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>アンカー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>andesite</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T121930Z" creationid="miurahr" creationdate="20200906T121930Z">
+        <seg>安山岩</seg>
       </tuv>
     </tu>
     <tu>
@@ -67000,6 +67736,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>astronomy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110117Z" creationid="miurahr" creationdate="20200906T110117Z">
+        <seg>天文学</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>asymmetric</seg>
       </tuv>
       <tuv lang="ja">
@@ -67068,6 +67812,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>自動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>automobile</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110121Z" creationid="miurahr" creationdate="20200906T110121Z">
+        <seg>自動車</seg>
       </tuv>
     </tu>
     <tu>
@@ -67344,6 +68096,22 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>basketrotator</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111042Z" creationid="miurahr" creationdate="20200906T111042Z">
+        <seg>バスカトロテアトル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>basketswing</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111052Z" creationid="miurahr" creationdate="20200906T111052Z">
+        <seg>バスケトスウィング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>bauxite</seg>
       </tuv>
       <tuv lang="ja">
@@ -67384,10 +68152,26 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>bell_tower</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T122023Z" creationid="miurahr" creationdate="20200906T122023Z">
+        <seg>鐘楼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>bent_mast</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200819T233230Z" creationid="miurahr" creationdate="20200819T233230Z">
         <seg>ベントマスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>betting</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111316Z" creationid="miurahr" creationdate="20200906T111316Z">
+        <seg>賭け</seg>
       </tuv>
     </tu>
     <tu>
@@ -67432,10 +68216,26 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>bingo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111312Z" creationid="miurahr" creationdate="20200906T111312Z">
+        <seg>ビンゴ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>biogas</seg>
       </tuv>
       <tuv lang="ja">
         <seg>バイオガス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>biology</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111456Z" creationid="miurahr" creationdate="20200906T111456Z">
+        <seg>生物学</seg>
       </tuv>
     </tu>
     <tu>
@@ -67472,6 +68272,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>blood_check</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111459Z" creationid="miurahr" creationdate="20200906T111459Z">
+        <seg>血液検査</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>blue</seg>
       </tuv>
       <tuv lang="ja">
@@ -67488,6 +68296,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>board_games</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110124Z" creationid="miurahr" creationdate="20200906T110124Z">
+        <seg>ボードゲーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>boardwalk</seg>
       </tuv>
       <tuv lang="ja">
@@ -67500,6 +68316,22 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>泥炭地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>bollard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T105705Z" creationid="miurahr" creationdate="20200906T105705Z">
+        <seg>車止め杭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>booth</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111808Z" creationid="miurahr" creationdate="20200906T111808Z">
+        <seg>ブース</seg>
       </tuv>
     </tu>
     <tu>
@@ -67680,6 +68512,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>bunker</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T121525Z" creationid="miurahr" creationdate="20200906T121525Z">
+        <seg>貯蔵庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>burger</seg>
       </tuv>
       <tuv lang="ja">
@@ -67730,8 +68570,8 @@ Click on the heading for one of the projects you have completed a square(s) for 
       <tuv lang="en-US">
         <seg>cabin</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20200819T232757Z" creationid="miurahr" creationdate="20200819T232757Z">
-        <seg>船室</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T121542Z" creationid="miurahr" creationdate="20200819T232757Z">
+        <seg>小屋</seg>
       </tuv>
     </tu>
     <tu>
@@ -67740,6 +68580,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>斜張橋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>cable_tv</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T121654Z" creationid="miurahr" creationdate="20200906T121654Z">
+        <seg>ケーブルテレビ</seg>
       </tuv>
     </tu>
     <tu>
@@ -67828,6 +68676,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>カオダイ教</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>card_games</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110126Z" creationid="miurahr" creationdate="20200906T110126Z">
+        <seg>カードゲーム</seg>
       </tuv>
     </tu>
     <tu>
@@ -67932,6 +68788,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>石炭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>charity</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110134Z" creationid="miurahr" creationdate="20200906T110134Z">
+        <seg>チャリティー</seg>
       </tuv>
     </tu>
     <tu>
@@ -68048,6 +68912,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>cinema</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110137Z" creationid="miurahr" creationdate="20200906T110137Z">
+        <seg>映画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>city</seg>
       </tuv>
       <tuv lang="ja">
@@ -68104,10 +68976,26 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>climbingframe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111115Z" creationid="miurahr" creationdate="20200906T111115Z">
+        <seg>ジャングルジム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>climbingwall</seg>
       </tuv>
       <tuv lang="ja">
         <seg>クライミングウォール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>clinical_pathology</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111504Z" creationid="miurahr" creationdate="20200906T111504Z">
+        <seg>臨床病理学</seg>
       </tuv>
     </tu>
     <tu>
@@ -68256,6 +69144,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>columbarium</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T123139Z" creationid="miurahr" creationdate="20200906T123139Z">
+        <seg>地下要塞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>combinators</seg>
       </tuv>
       <tuv lang="ja">
@@ -68348,6 +69244,22 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>圧縮空気</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>compression</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T122155Z" creationid="miurahr" creationdate="20200906T122155Z">
+        <seg>圧縮</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>computer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110140Z" creationid="miurahr" creationdate="20200906T110140Z">
+        <seg>コンピューター</seg>
       </tuv>
     </tu>
     <tu>
@@ -68492,6 +69404,22 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>変換用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>cooking</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110143Z" creationid="miurahr" creationdate="20200906T110143Z">
+        <seg>料理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>cooling</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T122025Z" creationid="miurahr" creationdate="20200906T122025Z">
+        <seg>冷却</seg>
       </tuv>
     </tu>
     <tu>
@@ -68656,10 +69584,26 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>crypt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T123144Z" creationid="miurahr" creationdate="20200906T123144Z">
+        <seg>納骨堂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>cultural_centre</seg>
       </tuv>
       <tuv lang="ja">
         <seg>カルチャーセンター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>culture</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110146Z" creationid="miurahr" creationdate="20200906T110146Z">
+        <seg>文化</seg>
       </tuv>
     </tu>
     <tu>
@@ -68684,6 +69628,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>カレー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>cushion</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111130Z" creationid="miurahr" creationdate="20200906T111130Z">
+        <seg>クッション</seg>
       </tuv>
     </tu>
     <tu>
@@ -68752,6 +69704,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>dealer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T105639Z" creationid="miurahr" creationdate="20200906T105639Z">
+        <seg>ディーラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>deciduous</seg>
       </tuv>
       <tuv lang="ja">
@@ -68780,6 +69740,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>既定値</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>defensive</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T122047Z" creationid="miurahr" creationdate="20200906T122032Z">
+        <seg>防御</seg>
       </tuv>
     </tu>
     <tu>
@@ -68952,6 +69920,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>dish</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T121919Z" creationid="miurahr" creationdate="20200906T121919Z">
+        <seg>パラボラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>distribution</seg>
       </tuv>
       <tuv lang="ja">
@@ -68976,10 +69952,34 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>dog</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110148Z" creationid="miurahr" creationdate="20200906T110148Z">
+        <seg>犬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>dog_excrement</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111903Z" creationid="miurahr" creationdate="20200906T111903Z">
+        <seg>犬の排泄物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>dog_racing</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ドッグレース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>doityourself</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110212Z" creationid="miurahr" creationdate="20200906T110212Z">
+        <seg>DIY店</seg>
       </tuv>
     </tu>
     <tu>
@@ -69144,6 +70144,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>dry_barrel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111642Z" creationid="miurahr" creationdate="20200906T111642Z">
+        <seg>乾式バレル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>dry_stone</seg>
       </tuv>
       <tuv lang="ja">
@@ -69264,6 +70272,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>electro</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T123323Z" creationid="miurahr" creationdate="20200906T123323Z">
+        <seg>電化製品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>electronic</seg>
       </tuv>
       <tuv lang="ja">
@@ -69320,6 +70336,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>enclosure</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T105957Z" creationid="miurahr" creationdate="20200906T105957Z">
+        <seg>エンクロージャー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>end nodes</seg>
       </tuv>
       <tuv lang="ja">
@@ -69360,6 +70384,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>environment_protection</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110215Z" creationid="miurahr" creationdate="20200906T110215Z">
+        <seg>環境保護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>equestrian</seg>
       </tuv>
       <tuv lang="ja">
@@ -69388,6 +70420,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>エチオピア料理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ethnic</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110218Z" creationid="miurahr" creationdate="20200906T110218Z">
+        <seg>エスニック</seg>
       </tuv>
     </tu>
     <tu>
@@ -69472,6 +70512,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>exercise</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111133Z" creationid="miurahr" creationdate="20200906T111133Z">
+        <seg>運動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>exit</seg>
       </tuv>
       <tuv lang="ja">
@@ -69520,6 +70568,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>falconry</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110003Z" creationid="miurahr" creationdate="20200906T110003Z">
+        <seg>鷹狩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>false: the property ''{0}'' is explicitly switched off</seg>
       </tuv>
       <tuv lang="ja">
@@ -69540,6 +70596,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>家族</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>family_centre</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111412Z" creationid="miurahr" creationdate="20200906T111412Z">
+        <seg>ファミリーセンター</seg>
       </tuv>
     </tu>
     <tu>
@@ -69612,6 +70676,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>フィリピン料理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>filmmaking</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110224Z" creationid="miurahr" creationdate="20200906T110224Z">
+        <seg>映画制作</seg>
       </tuv>
     </tu>
     <tu>
@@ -69712,6 +70784,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>fishing</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110226Z" creationid="miurahr" creationdate="20200906T110226Z">
+        <seg>釣り</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>fission</seg>
       </tuv>
       <tuv lang="ja">
@@ -69808,6 +70888,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>florist</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T123325Z" creationid="miurahr" creationdate="20200906T123325Z">
+        <seg>花屋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>flush</seg>
       </tuv>
       <tuv lang="ja">
@@ -69872,6 +70960,22 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>fortification</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T123015Z" creationid="miurahr" creationdate="20200906T123015Z">
+        <seg>強化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>fortress</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T122826Z" creationid="miurahr" creationdate="20200906T122826Z">
+        <seg>要塞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>forward</seg>
       </tuv>
       <tuv lang="ja">
@@ -69912,10 +71016,26 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>freemasonry</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110230Z" creationid="miurahr" creationdate="20200906T110230Z">
+        <seg>フリーメイソン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>freeride</seg>
       </tuv>
       <tuv lang="ja">
         <seg>フリーライド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>freestanding</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T122010Z" creationid="miurahr" creationdate="20200906T122010Z">
+        <seg>自立型</seg>
       </tuv>
     </tu>
     <tu>
@@ -70008,6 +71128,22 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>game</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110232Z" creationid="miurahr" creationdate="20200906T110232Z">
+        <seg>ゲーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>gamma</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T121908Z" creationid="miurahr" creationdate="20200906T121833Z">
+        <seg>ガンマ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>gantry_crane</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200819T233152Z" creationid="miurahr" creationdate="20200819T233152Z">
@@ -70028,6 +71164,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>車庫(集合)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>gardening</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110236Z" creationid="miurahr" creationdate="20200906T110236Z">
+        <seg>ガーデニング</seg>
       </tuv>
     </tu>
     <tu>
@@ -70132,6 +71276,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>ガラス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>glass_cabinet</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111329Z" creationid="miurahr" creationdate="20200906T111329Z">
+        <seg>ガラスキャビネット</seg>
       </tuv>
     </tu>
     <tu>
@@ -70368,6 +71520,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>groundwater</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111610Z" creationid="miurahr" creationdate="20200906T111610Z">
+        <seg>地下水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>guidepost</seg>
       </tuv>
       <tuv lang="ja">
@@ -70436,6 +71596,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>集落</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>hammam</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110043Z" creationid="miurahr" creationdate="20200906T110043Z">
+        <seg>ハマム</seg>
       </tuv>
     </tu>
     <tu>
@@ -70664,6 +71832,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>hopscotch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111155Z" creationid="miurahr" creationdate="20200906T111155Z">
+        <seg>石蹴リ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>horizontal_axis</seg>
       </tuv>
       <tuv lang="ja">
@@ -70736,6 +71912,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>hot_spring</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110046Z" creationid="miurahr" creationdate="20200906T110046Z">
+        <seg>温泉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>hotel</seg>
       </tuv>
       <tuv lang="ja">
@@ -70800,6 +71984,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>hunting</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110239Z" creationid="miurahr" creationdate="20200906T110239Z">
+        <seg>狩猟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>hut</seg>
       </tuv>
       <tuv lang="ja">
@@ -70812,6 +72004,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>水車</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>hypogeum</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T123156Z" creationid="miurahr" creationdate="20200906T123156Z">
+        <seg>地下埋葬室</seg>
       </tuv>
     </tu>
     <tu>
@@ -71132,6 +72332,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>内側の区間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>inspection_gauge</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T122204Z" creationid="miurahr" creationdate="20200906T122204Z">
+        <seg>検査ゲージ</seg>
       </tuv>
     </tu>
     <tu>
@@ -71712,6 +72920,22 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>lighting</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T121944Z" creationid="miurahr" creationdate="20200906T121944Z">
+        <seg>照明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>lime</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T121650Z" creationid="miurahr" creationdate="20200906T121650Z">
+        <seg>石灰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>limestone</seg>
       </tuv>
       <tuv lang="ja">
@@ -71888,6 +73112,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>lottery</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111257Z" creationid="miurahr" creationdate="20200906T111250Z">
+        <seg>宝くじ売り場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>low</seg>
       </tuv>
       <tuv lang="ja">
@@ -71976,6 +73208,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>manor</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T122959Z" creationid="miurahr" creationdate="20200906T122959Z">
+        <seg>荘園</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>manual</seg>
       </tuv>
       <tuv lang="ja">
@@ -71984,10 +73224,26 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>manufacture</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T121602Z" creationid="miurahr" creationdate="20200906T121602Z">
+        <seg>工場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>manure</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200819T233129Z" creationid="miurahr" creationdate="20200819T233129Z">
         <seg>糞尿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>map</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111158Z" creationid="miurahr" creationdate="20200906T111158Z">
+        <seg>地図</seg>
       </tuv>
     </tu>
     <tu>
@@ -72040,6 +73296,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>mausoleum</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T123203Z" creationid="miurahr" creationdate="20200906T123203Z">
+        <seg>霊廟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>max lat</seg>
       </tuv>
       <tuv lang="ja">
@@ -72084,6 +73348,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>牧草地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>measurement</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T122207Z" creationid="miurahr" creationdate="20200906T122207Z">
+        <seg>測定</seg>
       </tuv>
     </tu>
     <tu>
@@ -72188,6 +73460,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>金属</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>metal_cabinet</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111336Z" creationid="miurahr" creationdate="20200906T111332Z">
+        <seg>金属キャビネット</seg>
       </tuv>
     </tu>
     <tu>
@@ -72304,6 +73584,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>minaret</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T122037Z" creationid="miurahr" creationdate="20200906T122037Z">
+        <seg>ミナレット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>mindistance</seg>
       </tuv>
       <tuv lang="ja">
@@ -72416,6 +73704,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>monitoring</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T121958Z" creationid="miurahr" creationdate="20200906T121950Z">
+        <seg>傍受</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>monopolar</seg>
       </tuv>
       <tuv lang="ja">
@@ -72512,6 +73808,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>movable_cabinet</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111343Z" creationid="miurahr" creationdate="20200906T111343Z">
+        <seg>可動キャビネット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>moved</seg>
       </tuv>
       <tuv lang="ja">
@@ -72596,6 +73900,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>壁画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>music</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110247Z" creationid="miurahr" creationdate="20200906T110247Z">
+        <seg>音楽</seg>
       </tuv>
     </tu>
     <tu>
@@ -73048,6 +74360,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>nudism</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110302Z" creationid="miurahr" creationdate="20200906T110302Z">
+        <seg>ヌーディズム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>numerical key</seg>
       </tuv>
       <tuv lang="ja">
@@ -73312,6 +74632,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>on the side of a road lane</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111627Z" creationid="miurahr" creationdate="20200906T111627Z">
+        <seg>車道の側で</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>one relation</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T114506Z" creationid="miurahr" creationdate="20200818T114506Z">
@@ -73376,6 +74704,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>onsen</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110052Z" creationid="miurahr" creationdate="20200906T110052Z">
+        <seg>温泉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>open</seg>
       </tuv>
       <tuv lang="ja">
@@ -73412,6 +74748,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>逆方向の車線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>optical</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T121828Z" creationid="miurahr" creationdate="20200906T121828Z">
+        <seg>光学</seg>
       </tuv>
     </tu>
     <tu>
@@ -73544,10 +74888,26 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>pachinko</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111306Z" creationid="miurahr" creationdate="20200906T111306Z">
+        <seg>パチンコ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>painting</seg>
       </tuv>
       <tuv lang="ja">
         <seg>絵画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>palace</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T123001Z" creationid="miurahr" creationdate="20200906T123001Z">
+        <seg>宮殿</seg>
       </tuv>
     </tu>
     <tu>
@@ -73596,6 +74956,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>宅配便受け取り</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>parish_hall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111417Z" creationid="miurahr" creationdate="20200906T111417Z">
+        <seg>教区</seg>
       </tuv>
     </tu>
     <tu>
@@ -73840,10 +75208,42 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>petting_zoo</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110013Z" creationid="miurahr" creationdate="20200906T110013Z">
+        <seg>ふれあい動物園</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pharmacy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T123335Z" creationid="miurahr" creationdate="20200906T123335Z">
+        <seg>薬局</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>phase_angle_regulator</seg>
       </tuv>
       <tuv lang="ja">
         <seg>位相変換機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>phone_box</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111345Z" creationid="miurahr" creationdate="20200906T111345Z">
+        <seg>電話ボックス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>photography</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110258Z" creationid="miurahr" creationdate="20200906T110258Z">
+        <seg>写真</seg>
       </tuv>
     </tu>
     <tu>
@@ -74024,6 +75424,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>playhouse</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111204Z" creationid="miurahr" creationdate="20200906T111204Z">
+        <seg>芝居小屋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>please select a turn restriction type</seg>
       </tuv>
       <tuv lang="ja">
@@ -74056,6 +75464,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>poker</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111319Z" creationid="miurahr" creationdate="20200906T111319Z">
+        <seg>ポーカー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>pole</seg>
       </tuv>
       <tuv lang="ja">
@@ -74076,6 +75492,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>選挙区・自治区</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>politics</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110315Z" creationid="miurahr" creationdate="20200906T110315Z">
+        <seg>政治</seg>
       </tuv>
     </tu>
     <tu>
@@ -74140,6 +75564,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>郵便番号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>postal_service</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T121657Z" creationid="miurahr" creationdate="20200906T121657Z">
+        <seg>郵便サービス</seg>
       </tuv>
     </tu>
     <tu>
@@ -74328,6 +75760,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>pyramid</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T123206Z" creationid="miurahr" creationdate="20200906T123206Z">
+        <seg>ピラミッド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>pyrolysis</seg>
       </tuv>
       <tuv lang="ja">
@@ -74380,6 +75820,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>ラケット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>radar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T122000Z" creationid="miurahr" creationdate="20200906T122000Z">
+        <seg>レーダー</seg>
       </tuv>
     </tu>
     <tu>
@@ -74640,6 +76088,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>repair</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T105646Z" creationid="miurahr" creationdate="20200906T105646Z">
+        <seg>修理工場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>replace selection</seg>
       </tuv>
       <tuv lang="ja">
@@ -74652,6 +76108,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>新しい{0}プラグインに置き換え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>reptile</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110018Z" creationid="miurahr" creationdate="20200906T110018Z">
+        <seg>爬虫類</seg>
       </tuv>
     </tu>
     <tu>
@@ -75088,6 +76552,22 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>sanitary</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T123341Z" creationid="miurahr" creationdate="20200906T123341Z">
+        <seg>衛生用品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>sarcophagus</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T123214Z" creationid="miurahr" creationdate="20200906T123214Z">
+        <seg>石棺</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>sausage</seg>
       </tuv>
       <tuv lang="ja">
@@ -75172,6 +76652,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>鐘状火山</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>scout</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110336Z" creationid="miurahr" creationdate="20200906T110336Z">
+        <seg>スカウト</seg>
       </tuv>
     </tu>
     <tu>
@@ -75480,6 +76968,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>share_taxi</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T105716Z" creationid="miurahr" creationdate="20200906T105716Z">
+        <seg>乗合タクシー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>sharp</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T142337Z" creationid="miurahr" creationdate="20190107T142337Z">
@@ -75492,6 +76988,22 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>格納庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>shelf</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111404Z" creationid="miurahr" creationdate="20200906T111404Z">
+        <seg>棚</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>shelter</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111408Z" creationid="miurahr" creationdate="20200906T111408Z">
+        <seg>シェルター</seg>
       </tuv>
     </tu>
     <tu>
@@ -75680,6 +77192,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>siren</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T122003Z" creationid="miurahr" creationdate="20200906T122003Z">
+        <seg>サイレン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>site</seg>
       </tuv>
       <tuv lang="ja">
@@ -75760,6 +77280,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>sledding</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111211Z" creationid="miurahr" creationdate="20200906T111211Z">
+        <seg>そり滑り</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>sleigh</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200819T232649Z" creationid="miurahr" creationdate="20200819T232649Z">
@@ -75784,6 +77312,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>slot_machines</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111309Z" creationid="miurahr" creationdate="20200906T111309Z">
+        <seg>スロットマシン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>slurry</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200819T233138Z" creationid="miurahr" creationdate="20200819T233138Z">
@@ -75796,6 +77332,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>正統派</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>smoke</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110341Z" creationid="miurahr" creationdate="20200906T110341Z">
+        <seg>喫煙</seg>
       </tuv>
     </tu>
     <tu>
@@ -75820,6 +77364,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>サッカー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>social</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110351Z" creationid="miurahr" creationdate="20200906T110351Z">
+        <seg>社交</seg>
       </tuv>
     </tu>
     <tu>
@@ -75972,6 +77524,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>柵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>sport</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110354Z" creationid="miurahr" creationdate="20200906T110354Z">
+        <seg>スポーツ</seg>
       </tuv>
     </tu>
     <tu>
@@ -76336,6 +77896,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>street_lighting</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T121659Z" creationid="miurahr" creationdate="20200906T121659Z">
+        <seg>街路灯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>structure</seg>
       </tuv>
       <tuv lang="ja">
@@ -76428,6 +77996,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>スーパールート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>surf_life_saving</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110401Z" creationid="miurahr" creationdate="20200906T110401Z">
+        <seg>サーフライフセービング</seg>
       </tuv>
     </tu>
     <tu>
@@ -76640,6 +78216,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>teenshelter</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111228Z" creationid="miurahr" creationdate="20200906T111228Z">
+        <seg>ターンシェルター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>telecom</seg>
       </tuv>
       <tuv lang="ja">
@@ -76764,6 +78348,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>メインのPotlatch 2スタイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>theatre</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110404Z" creationid="miurahr" creationdate="20200906T110404Z">
+        <seg>劇場</seg>
       </tuv>
     </tu>
     <tu>
@@ -77096,6 +78688,22 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>traffic_control</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T121711Z" creationid="miurahr" creationdate="20200906T121711Z">
+        <seg>交通制御</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>traffic_monitoring</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T121719Z" creationid="miurahr" creationdate="20200906T121719Z">
+        <seg>交通監視</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>traffic_signals</seg>
       </tuv>
       <tuv lang="ja">
@@ -77213,6 +78821,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>transport_management</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T121724Z" creationid="miurahr" creationdate="20200906T121724Z">
+        <seg>交通管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>transportation</seg>
       </tuv>
       <tuv lang="ja">
@@ -77241,6 +78857,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>ハッチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>trash</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111859Z" creationid="miurahr" creationdate="20200906T111859Z">
+        <seg>ゴミ箱</seg>
       </tuv>
     </tu>
     <tu>
@@ -77797,10 +79421,34 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>valve</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T122210Z" creationid="miurahr" creationdate="20200906T122210Z">
+        <seg>弁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>valve_group</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T122215Z" creationid="miurahr" creationdate="20200906T122215Z">
+        <seg>バルブグループ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>variant segment</seg>
       </tuv>
       <tuv lang="ja">
         <seg>別区間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>vault</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T123235Z" creationid="miurahr" creationdate="20200906T123235Z">
+        <seg>円蓋</seg>
       </tuv>
     </tu>
     <tu>
@@ -77857,6 +79505,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>とても困難</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>veterans</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110412Z" creationid="miurahr" creationdate="20200906T110412Z">
+        <seg>退役軍人</seg>
       </tuv>
     </tu>
     <tu>
@@ -77965,6 +79621,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>walk-in</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111559Z" creationid="miurahr" creationdate="20200906T111559Z">
+        <seg>予約不要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>wall</seg>
       </tuv>
       <tuv lang="ja">
@@ -77997,6 +79661,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>war_grave</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T123239Z" creationid="miurahr" creationdate="20200906T123239Z">
+        <seg>戦争の墓場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>war_memorial</seg>
       </tuv>
       <tuv lang="ja">
@@ -78017,6 +79689,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>倉庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>waste</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T121739Z" creationid="miurahr" creationdate="20200906T121739Z">
+        <seg>ごみ</seg>
       </tuv>
     </tu>
     <tu>
@@ -78049,6 +79729,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>水力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>water_management</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T121743Z" creationid="miurahr" creationdate="20200906T121743Z">
+        <seg>水管理</seg>
       </tuv>
     </tu>
     <tu>
@@ -78137,6 +79825,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>ウェイは次のリレーションメンバーに接続されています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>way is connected to next relation member but has a wrong oneway direction</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T083036Z" creationid="miurahr" creationdate="20200906T083036Z">
+        <seg>ウェイは次のリレーションのメンバに接続されていますが、方向が間違っています</seg>
       </tuv>
     </tu>
     <tu>
@@ -78265,6 +79961,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>西</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wet_barrel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111707Z" creationid="miurahr" creationdate="20200906T111707Z">
+        <seg>湿式バレル</seg>
       </tuv>
     </tu>
     <tu>
@@ -78405,6 +80109,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>wildlife_park</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110035Z" creationid="miurahr" creationdate="20200906T110035Z">
+        <seg>野生生物公園</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>will write all node elements with the tag &lt;code&gt;name=Foo&lt;/code&gt; into the named set &lt;code&gt;a&lt;/code&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200813T124642Z" creationid="miurahr" creationdate="20200813T124642Z">
@@ -78485,6 +80197,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>wooden_cabinet</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T111339Z" creationid="miurahr" creationdate="20200906T111339Z">
+        <seg>木製キャビネット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>workwear</seg>
       </tuv>
       <tuv lang="ja">
@@ -78529,6 +80249,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>Y形</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>yachting</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T110415Z" creationid="miurahr" creationdate="20200906T110415Z">
+        <seg>ヨット</seg>
       </tuv>
     </tu>
     <tu>
@@ -79173,8 +80901,8 @@ Click on the heading for one of the projects you have completed a square(s) for 
       <tuv lang="en-US">
         <seg>{0} nodes in way {1} exceed the max.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20200818T114136Z" creationid="miurahr" creationdate="20200818T114136Z">
-        <seg>{1}の{0}個のノードが最大数を超えています。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T084125Z" creationid="miurahr" creationdate="20200818T114136Z">
+        <seg>ウェイ{1}の{0}個のノードが最大数を超えています。</seg>
       </tuv>
     </tu>
     <tu>
