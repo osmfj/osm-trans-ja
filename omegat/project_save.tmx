@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_728e0f247" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_1056f9fb5" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6088,6 +6088,14 @@ If you need further help on mapping an area see:
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>American Express</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T151911Z" creationid="miurahr" creationdate="20200906T151911Z">
+        <seg>アメリカン・エキスプレス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>American Football</seg>
       </tuv>
       <tuv lang="ja">
@@ -8247,6 +8255,14 @@ After: wikipedia={0}:{2}</seg>
       </tuv>
       <tuv lang="ja">
         <seg>野鳥観察小屋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bitcoin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T151945Z" creationid="miurahr" creationdate="20200906T151945Z">
+        <seg>ビットコイン</seg>
       </tuv>
     </tu>
     <tu>
@@ -14055,6 +14071,14 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Contactless payment</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T151928Z" creationid="miurahr" creationdate="20200906T151928Z">
+        <seg>非接触決済</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Content</seg>
       </tuv>
       <tuv lang="ja">
@@ -18137,6 +18161,14 @@ Do you want to keep it?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>アップロードを抑制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Discover Card</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T151918Z" creationid="miurahr" creationdate="20200906T151918Z">
+        <seg>ディスカバー・カード</seg>
       </tuv>
     </tu>
     <tu>
@@ -34236,6 +34268,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mastercard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T151922Z" creationid="miurahr" creationdate="20200906T151922Z">
+        <seg>マスターカード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Matches</seg>
       </tuv>
       <tuv lang="ja">
@@ -50301,6 +50341,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Security</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T151822Z" creationid="miurahr" creationdate="20200906T151822Z">
+        <seg>セキュリティ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Security exception</seg>
       </tuv>
       <tuv lang="ja">
@@ -64145,6 +64193,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Visa Debit</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T151902Z" creationid="miurahr" creationdate="20200906T151902Z">
+        <seg>VISAデビット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Visibility</seg>
       </tuv>
       <tuv lang="ja">
@@ -67184,6 +67240,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>agricultural_supplies</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T151735Z" creationid="miurahr" creationdate="20200906T151735Z">
+        <seg>農業用品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>agritourism</seg>
       </tuv>
       <tuv lang="ja">
@@ -67780,6 +67844,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>オーディオ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>audit</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T151958Z" creationid="miurahr" creationdate="20200906T151958Z">
+        <seg>監査</seg>
       </tuv>
     </tu>
     <tu>
@@ -68504,6 +68576,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>building_supplies</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T151739Z" creationid="miurahr" creationdate="20200906T151739Z">
+        <seg>建築用品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>bungalow</seg>
       </tuv>
       <tuv lang="ja">
@@ -68716,6 +68796,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>城壁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>catering_supplies</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T151743Z" creationid="miurahr" creationdate="20200906T151743Z">
+        <seg>ケータリング用品</seg>
       </tuv>
     </tu>
     <tu>
@@ -74952,6 +75040,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>parcel_mail_in</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T151831Z" creationid="miurahr" creationdate="20200906T151831Z">
+        <seg>小包郵便</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>parcel_pickup</seg>
       </tuv>
       <tuv lang="ja">
@@ -75452,6 +75548,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200826T004635Z" creationid="miurahr" creationdate="20200826T004635Z">
         <seg>プラグイン ''{0}''のプラグインクラスローダーが見つかりません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>plumbing</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T151754Z" creationid="miurahr" creationdate="20200906T151754Z">
+        <seg>配管工業</seg>
       </tuv>
     </tu>
     <tu>
@@ -78472,6 +78576,22 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>tiles</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T151757Z" creationid="miurahr" creationdate="20200906T151757Z">
+        <seg>タイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>timber</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T151801Z" creationid="miurahr" creationdate="20200906T151801Z">
+        <seg>材木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>tin</seg>
       </tuv>
       <tuv lang="ja">
@@ -80129,6 +80249,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>運搬口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>windows</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T151809Z" creationid="miurahr" creationdate="20200906T151809Z">
+        <seg>窓</seg>
       </tuv>
     </tu>
     <tu>
