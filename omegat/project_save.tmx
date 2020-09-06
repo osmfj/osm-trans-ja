@@ -8883,6 +8883,14 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Building level</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152918Z" creationid="miurahr" creationdate="20200906T152918Z">
+        <seg>建物レベル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Building main menu</seg>
       </tuv>
       <tuv lang="ja">
@@ -17965,6 +17973,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Different number of lanes in the keys {0} and {1}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T153132Z" creationid="miurahr" creationdate="20200906T153132Z">
+        <seg>キー{0}と{1}のレーン数が異なる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Different tests</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200906T083046Z" creationid="miurahr" creationdate="20200906T083046Z">
@@ -22115,6 +22131,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>End node without housenumber in address interpolation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T153013Z" creationid="miurahr" creationdate="20200906T153013Z">
+        <seg>アドレス補間でハウスナンバーのない終了ノード。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ending #:</seg>
       </tuv>
       <tuv lang="ja">
@@ -23065,6 +23089,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>偶数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Even housenumber in odd address interpolation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152956Z" creationid="miurahr" creationdate="20200906T152956Z">
+        <seg>奇数アドレス補間の偶数番地</seg>
       </tuv>
     </tu>
     <tu>
@@ -31940,6 +31972,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Lane Connectivity</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152922Z" creationid="miurahr" creationdate="20200906T152922Z">
+        <seg>車線接続</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lane tags</seg>
       </tuv>
       <tuv lang="ja">
@@ -33512,6 +33552,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
       </tuv>
       <tuv lang="ja">
         <seg>長い区間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Long waterway with {0} but without a tag which defines it as tunnel or underground.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T153045Z" creationid="miurahr" creationdate="20200906T153045Z">
+        <seg>{0}があるが、トンネルまたは地下として定義するタグがない長い水路。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39048,6 +39096,14 @@ nodes and the new nodes will be selected.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Object has no {0}, however, it has {1} and {2} whose value looks like a housenumber.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T153019Z" creationid="miurahr" creationdate="20200906T153019Z">
+        <seg>オブジェクトには{0}はありませんが、{1}と{2}があり、その値はハウスナンバーに似ています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Object of type {0} with id {1} was marked to be deleted, but it''s missing in the source dataset</seg>
       </tuv>
       <tuv lang="ja">
@@ -39212,6 +39268,14 @@ nodes and the new nodes will be selected.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>奇数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Odd housenumber in even address interpolation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152959Z" creationid="miurahr" creationdate="20200906T152959Z">
+        <seg>偶数アドレス補間の奇数番地。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44547,6 +44611,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Probably {2} is meant.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T153206Z" creationid="miurahr" creationdate="20200906T153206Z">
+        <seg>おそらく{2}です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Problem loading tile</seg>
       </tuv>
       <tuv lang="ja">
@@ -47285,6 +47357,38 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Remove {0}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T153150Z" creationid="miurahr" creationdate="20200906T153150Z">
+        <seg>{0}を削除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remove {1} and {2}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T153121Z" creationid="miurahr" creationdate="20200906T153121Z">
+        <seg>{1}と{2}を削除します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remove {1} or add a tunnel tag if applicable.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T153056Z" creationid="miurahr" creationdate="20200906T153056Z">
+        <seg>1}を削除するか、トンネルタグを追加します(該当する場合)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remove {1}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T153158Z" creationid="miurahr" creationdate="20200906T153158Z">
+        <seg>{1}を削除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Removed Element from Relations</seg>
       </tuv>
       <tuv lang="ja">
@@ -48825,6 +48929,22 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ローラースケート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Roof edge</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152915Z" creationid="miurahr" creationdate="20200906T152915Z">
+        <seg>屋根エッジ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Roof ridge</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152911Z" creationid="miurahr" creationdate="20200906T152911Z">
+        <seg>屋根棟</seg>
       </tuv>
     </tu>
     <tu>
@@ -55995,6 +56115,22 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>タグの衝突</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tag each housenumber separately if possible.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T153009Z" creationid="miurahr" creationdate="20200906T153009Z">
+        <seg>可能な場合は、各番地に個別にタグを付けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tag each hydrant separately.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T153144Z" creationid="miurahr" creationdate="20200906T153144Z">
+        <seg>各消火栓に個別にタグを付けます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73408,6 +73544,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>local</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152941Z" creationid="miurahr" creationdate="20200906T152941Z">
+        <seg>ローカル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>local file</seg>
       </tuv>
       <tuv lang="ja">
@@ -76084,6 +76228,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>案内標示の位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>possibly missing {0} tag</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T153126Z" creationid="miurahr" creationdate="20200906T153126Z">
+        <seg>{0}タグがない可能性があります</seg>
       </tuv>
     </tu>
     <tu>
@@ -79208,6 +79360,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>toll</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152925Z" creationid="miurahr" creationdate="20200906T152925Z">
+        <seg>通行料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>toolbar</seg>
       </tuv>
       <tuv lang="ja">
@@ -81667,6 +81827,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{0} on an inner multipolygon ring without further tags</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T153030Z" creationid="miurahr" creationdate="20200906T153030Z">
+        <seg>追加タグのない内部マルチポリゴンリング上の{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{0} on suspicious object</seg>
       </tuv>
       <tuv lang="ja">
@@ -81807,6 +81975,22 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>{0}が{1}、{2}と一緒にある</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} together with {1} and {2}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T153117Z" creationid="miurahr" creationdate="20200906T153117Z">
+        <seg>{0}と{1}および{2}}。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} together with {1}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T153139Z" creationid="miurahr" creationdate="20200906T153139Z">
+        <seg>{0}を{1}と一緒に使用します。</seg>
       </tuv>
     </tu>
     <tu>
