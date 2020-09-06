@@ -3399,6 +3399,14 @@ If you need further help on mapping an area see:
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A notable rock or group of rocks, with at least one of them firmly attached to the underlying bedrock.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152331Z" creationid="miurahr" creationdate="20200906T152331Z">
+        <seg>注目すべき岩または岩のグループで、そのうち少なくとも1つは基盤となる岩盤にしっかりと付着しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A persistent body of dense ice that is constantly moving under its own weight.</seg>
       </tuv>
       <tuv lang="ja">
@@ -6196,6 +6204,14 @@ If you need further help on mapping an area see:
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200906T152249Z" creationid="miurahr" creationdate="20200906T152249Z">
         <seg>緩い角岩の堆積。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An accumulation of loose rounded rocks on a beach or riverbed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152326Z" creationid="miurahr" creationdate="20200906T152326Z">
+        <seg>海岸または河川敷に堆積した緩い丸い岩。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10231,6 +10247,14 @@ After: wikipedia={0}:{2}</seg>
       </tuv>
       <tuv lang="ja">
         <seg>外接長方形の中央:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Center pivot irrigation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152452Z" creationid="miurahr" creationdate="20200906T152452Z">
+        <seg>センターピボットかんがい</seg>
       </tuv>
     </tu>
     <tu>
@@ -52508,6 +52532,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shingle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152320Z" creationid="miurahr" creationdate="20200906T152320Z">
+        <seg>シングル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Shinto Shrine</seg>
       </tuv>
       <tuv lang="ja">
@@ -60244,6 +60276,14 @@ or action canceled</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Trees</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152459Z" creationid="miurahr" creationdate="20200906T152459Z">
+        <seg>樹木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Trees aligned along a road.</seg>
       </tuv>
       <tuv lang="ja">
@@ -67728,6 +67768,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>apricot_trees</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152502Z" creationid="miurahr" creationdate="20200906T152502Z">
+        <seg>杏の木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>aqueduct</seg>
       </tuv>
       <tuv lang="ja">
@@ -67976,6 +68024,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>avocado_trees</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152506Z" creationid="miurahr" creationdate="20200906T152506Z">
+        <seg>アボカドの木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>axleload (t)</seg>
       </tuv>
       <tuv lang="ja">
@@ -68124,6 +68180,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>鉄条網</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>barley</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152341Z" creationid="miurahr" creationdate="20200906T152341Z">
+        <seg>大麦</seg>
       </tuv>
     </tu>
     <tu>
@@ -68412,6 +68476,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>青</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>blueberry_plants</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152511Z" creationid="miurahr" creationdate="20200906T152511Z">
+        <seg>ブルーベリー植物</seg>
       </tuv>
     </tu>
     <tu>
@@ -68736,6 +68808,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>cacao_trees</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152515Z" creationid="miurahr" creationdate="20200906T152515Z">
+        <seg>カカオの木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>cake</seg>
       </tuv>
       <tuv lang="ja">
@@ -68904,6 +68984,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>cereal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152344Z" creationid="miurahr" creationdate="20200906T152344Z">
+        <seg>穀物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>chain_link</seg>
       </tuv>
       <tuv lang="ja">
@@ -68996,6 +69084,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200819T132934Z" creationid="miurahr" creationdate="20200819T132934Z">
         <seg>チェス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>chestnut_trees</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152529Z" creationid="miurahr" creationdate="20200906T152529Z">
+        <seg>くりの木</seg>
       </tuv>
     </tu>
     <tu>
@@ -69236,6 +69332,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>ココナッツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>coffea_plants</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152544Z" creationid="miurahr" creationdate="20200906T152544Z">
+        <seg>コーヒーの木</seg>
       </tuv>
     </tu>
     <tu>
@@ -72024,6 +72128,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>hop_plants</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152557Z" creationid="miurahr" creationdate="20200906T152557Z">
+        <seg>ホップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>hopscotch</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200906T111155Z" creationid="miurahr" creationdate="20200906T111155Z">
@@ -73068,6 +73180,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>レジャーの種別 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>lemon_trees</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152604Z" creationid="miurahr" creationdate="20200906T152604Z">
+        <seg>レモンの木</seg>
       </tuv>
     </tu>
     <tu>
@@ -76152,6 +76272,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>rape</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152419Z" creationid="miurahr" creationdate="20200906T152419Z">
+        <seg>アブラナ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>rc_car</seg>
       </tuv>
       <tuv lang="ja">
@@ -77720,6 +77848,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>soy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152426Z" creationid="miurahr" creationdate="20200906T152426Z">
+        <seg>大豆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>spanish</seg>
       </tuv>
       <tuv lang="ja">
@@ -78240,6 +78376,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>sugarcane</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152430Z" creationid="miurahr" creationdate="20200906T152430Z">
+        <seg>サトウキビ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>suits</seg>
       </tuv>
       <tuv lang="ja">
@@ -78492,6 +78636,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>税務</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>tea</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T152433Z" creationid="miurahr" creationdate="20200906T152433Z">
+        <seg>茶</seg>
       </tuv>
     </tu>
     <tu>
