@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_715283b25" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_266f7ebaa" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -27922,8 +27922,8 @@ or just retry</seg>
       <tuv lang="en-US">
         <seg>If you collect data from Google Maps in this way, you are creating a &amp;quot;derived work&amp;quot;.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20200818T015519Z" creationid="miurahr" creationdate="20200818T015519Z">
-        <seg>この方法で Google Maps からデータを収集すると、それは「派生作品」を作っているのと同じです。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T054105Z" creationid="miurahr" creationdate="20200818T015519Z">
+        <seg>この方法で Google Maps からデータを収集すると、それは「派生作品」を作っているのと同じになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57437,8 +57437,8 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
       <tuv lang="en-US">
         <seg>These easter eggs take the form of fake or missing streets, or features like churches and schools that don't in fact exist.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20200818T013714Z" creationid="miurahr" creationdate="20200818T013714Z">
-        <seg>これらのイースターエッグは実在しない道路、教会、学校などが含まれていたり、いなかったりすることで隠されています。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T053922Z" creationid="miurahr" creationdate="20200818T013714Z">
+        <seg>これらのイースターエッグは実在しない道路、教会、学校などの地物が含まれていたり、いなかったりすることで隠されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64170,8 +64170,8 @@ Do you want to continue without validating the file ?</seg>
       <tuv lang="en-US">
         <seg>We need a free dataset which will enable programmers, citizen scientists, social activists, cartographers and the like to fulfill their plans without being limited either by Google's API or by their [https://www.google.com/help/terms_maps/ Google Maps/Google Earth Additional Terms of Service]:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20200818T014856Z" creationid="miurahr" creationdate="20200818T014856Z">
-        <seg>私たちは、プログラマー、市中の研究者、社会活動家、地図情報技師などが、 Google API やその[https://www.google.com/intl/ja/policies/terms/regional.html 利用規約]の制約を受けずに構想を満たすことができる、自由なデータセットを必要としています。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T054042Z" creationid="miurahr" creationdate="20200818T014856Z">
+        <seg>プログラマー、市中の研究者、社会活動家、地図情報技師などが、 Google API やその[https://www.google.com/intl/ja/policies/terms/regional.html 利用規約]の制約を受けずに構想を満たせる、自由なデータセットが必要です。</seg>
       </tuv>
     </tu>
     <tu>
