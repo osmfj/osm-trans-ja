@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_266f7ebaa" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_728e0f247" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -45744,6 +45744,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>リレーションが存在しない追加の車線 {0} を参照しています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Relation should not contain mixed ''via'' ways and nodes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200906T082409Z" creationid="miurahr" creationdate="20200906T082328Z">
+        <seg>リレーションにはウェイとノードを混在させる「経由」はできません</seg>
       </tuv>
     </tu>
     <tu>
