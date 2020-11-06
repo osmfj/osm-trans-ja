@@ -2792,6 +2792,16 @@ Usually copyright in maps (and anything else) will expire over a certain length 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>== Don't confuse with Errata ==
+There's a fine line between easter eggs and errata.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T123850Z" creationid="miurahr" creationdate="20201106T123850Z">
+        <seg>== 誤りと混同しないでください ==
+イースターエッグと誤りは、似て非なるものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>== Future ==
 Map styles with different focus, using different languages are [[Featured tile layers/Guidelines for new tile layers|welcomed]] as a new layer on the OpenStreetMap website.</seg>
       </tuv>
@@ -11749,6 +11759,14 @@ After: wikipedia={0}:{2}</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ToDoリストをクリアする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clearly they don't display major errors like this deliberately (it makes their map unusable in the area!).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T123935Z" creationid="miurahr" creationdate="20201106T123935Z">
+        <seg>明らかに、故意にこれが大きなエラーとしては表示されないようになっています（この区域の地図が使えなくなってしまいますので）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25717,6 +25735,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example Google Maps/Tele Atlas has Patrick's Hill in Cork where Camden Quay should be.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T123906Z" creationid="miurahr" creationdate="20201106T123906Z">
+        <seg>たとえば、 Google マップや Tele Atlas には Cork 市の Camden Quay （カムデン埠頭）があるべき場所に Patrick's Hill があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example,</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T113343Z" creationid="miurahr" creationdate="20190107T113343Z">
@@ -28498,6 +28524,14 @@ or just retry</seg>
       <tuv lang="ja" changeid="miurahr" changedate="20200817T234933Z" creationid="miurahr" creationdate="20200817T234933Z">
         <seg>もし何らかの理由で相手の編集者と会話したくない場合は、次のうちひとりに連絡して紛争を調停してもらうことができます。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If he can show that his own unique feature appears in the defendant's work, it is easier to prove that the defendant's work is a copy of his.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T123836Z" creationid="miurahr" creationdate="20201106T123836Z">
+        <seg>現実のものを反映していない、その地図のみに存在する特徴が盗用を疑われている被告の地図にも存在していれば、被告の地図が盗用であることがより証明しやすくなります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58259,6 +58293,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The supposed main purpose of such a feature is to strengthen the author's case in a copyright dispute.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T123830Z" creationid="miurahr" creationdate="20201106T123830Z">
+        <seg>このような特徴は、地図の著作権についての争いが生じたときに、地図の著作権者の主張を補強するために使われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The target URL is empty.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T214859Z" creationid="miurahr" creationdate="20190107T214859Z">
@@ -58715,6 +58757,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>They have been known to [http://www.flickr.com/photos/harrywood/5702396769/ get London tube stations on the wrong side of the river].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T123925Z" creationid="miurahr" creationdate="20201106T123925Z">
+        <seg>これらは [http://www.flickr.com/photos/harrywood/5702396769/ get London tube stations on the wrong side of the river] で明らかになりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>They have been removed from the relation members list.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200906T082944Z" creationid="miurahr" creationdate="20200906T082944Z">
@@ -58927,6 +58977,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T220424Z" creationid="miurahr" creationdate="20200818T220424Z">
         <seg>これは重大なエラーではありません。作業を続行しても安全です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is probably just Google making a mistake.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T123912Z" creationid="miurahr" creationdate="20201106T123912Z">
+        <seg>これはおそらく Google が誤りを作ったのでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65524,6 +65582,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>道祖神</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We have a [[Catalog of Errors]] listing more examples.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T123940Z" creationid="miurahr" creationdate="20201106T123940Z">
+        <seg>他の例は [[Catalog of Errors]] に挙げてあります。</seg>
       </tuv>
     </tu>
     <tu>
