@@ -2776,7 +2776,7 @@ We have a number of wiki pages going into details of copyright law and how it ap
 ==Out of copyright maps==
 Usually copyright in maps (and anything else) will expire over a certain length of time.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201106T113652Z" creationid="miurahr" creationdate="20201106T113652Z">
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T113731Z" creationid="miurahr" creationdate="20201106T113652Z">
         <seg>== 著作権法の詳細 ==
 著作権法の詳細を説明したり、どのように地図や OpenStreetMap に適用したりするのかについては、数多くのウィキページがあります。
 * [[Statute law]]
@@ -2787,8 +2787,7 @@ Usually copyright in maps (and anything else) will expire over a certain length 
 *[[Copyright in the PRC]]
 
 ==著作権の切れた地図==
-ふつう、地図（またはその他）の著作権は一定の時間を経過すれば期限切れになります。つまり、'''古い地図'''は''著作権外''に分類することができ、自由に複写することができます。著作権の期限は国や地図の作成者によって異なります。
-</seg>
+ふつう、地図（またはその他）の著作権は一定の時間を経過すれば期限切れになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50660,6 +50659,22 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See [[Out-of-copyright maps]]
+
+==See also ==
+* [[Legal FAQ]] - Frequently asked questions about various legal aspects of OpenStreetMap (including copyright)
+* [[Lacking_proper_attribution]] - uses of OSM data where the product was or is still lacking proper attribution.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T114013Z" creationid="miurahr" creationdate="20201106T114013Z">
+        <seg>[[ JA:Out-of-copyright maps]] を参照してください。
+
+==関連項目==
+* [[Ja:Legal FAQ|Legal FAQ]] - OpenStreetMap の法的な様々な側面についてのよくある質問です。
+* [[Lacking_proper_attribution]] - 製品がある OSM データを使用するか、まだ適切な属性がない状態です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See also [[Wiki Help]].</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170522T000004Z" creationid="miurahr" creationdate="20170522T000004Z">
@@ -57361,6 +57376,15 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The copyright expiry date varies for different countries and map producers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T113748Z" creationid="miurahr" creationdate="20201106T113748Z">
+        <seg>著作権の期限は国や地図の作成者によって異なります。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The current JOSM version is {2}.&lt;br&gt;You have to update JOSM in order to use this plugin.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200819T132723Z" creationid="miurahr" creationdate="20200819T132723Z">
@@ -58903,6 +58927,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T112447Z" creationid="miurahr" creationdate="20190107T112447Z">
         <seg>この同意書に関わる主題に関して、これはあなたとOSMFとの間の包括的な合意であり、書面か口頭かその他であるかを問わず、これに先立つ合意全てに優先するものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This means '''old maps''' can be classed as "Out of copyright" and therefore available to copy freely.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T113717Z" creationid="miurahr" creationdate="20201106T113717Z">
+        <seg>これは、「古い地図」を「著作権の満了」として分類することができ、したがって自由にコピーできることを意味します。</seg>
       </tuv>
     </tu>
     <tu>
