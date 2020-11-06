@@ -30960,6 +30960,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It may be a nonexistent, or slightly or heavily distorted, map feature, or its name may be wrongly or unusually spelt.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T123815Z" creationid="miurahr" creationdate="20201106T123815Z">
+        <seg>存在しない地物であったり、多少歪ませたり、地物やその名称を故意に誤ったり通常とは異なるスペルを使ったりします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It might be viewable to the end user (perhaps using a search system or a map with pop-ups).</seg>
       </tuv>
       <tuv lang="ja">
@@ -82460,6 +82468,17 @@ OpenStreetMap では、データベース内でタグ付けや地物の存在が
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170521T221856Z" creationid="miurahr" creationdate="20170521T221856Z">
         <seg>{{Languages|Wiki Translation}} {{JA:Wiki/Tabs}} {{Translation not complete|art=Wiki Translation}} [[File:Chart_of_world_writing_systems.svg|250px|right]] '''ウィキの翻訳'''は、世界をまたぐプロジェクトの開発を助ける良い方法になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{Languages}}
+
+A '''Copyright Easter Egg''', in terms of mapping, is a feature that is drawn in a distinctive way in order to help identify its original author.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T123808Z" creationid="miurahr" creationdate="20201106T123808Z">
+        <seg>
+'''著作権イースターエッグ'''（Copyright Easter Egg）は、マッピングの用語で、地図の原作者を識別しやすくするために、特有の方法で描かれた地物のことです。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
