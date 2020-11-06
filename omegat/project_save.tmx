@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_1056f9fb5" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2736,8 +2736,9 @@ How do these guidelines apply in the OpenStreetMap Community?</seg>
         <seg>== Community cohesion ==
 Unlike Wikipedia, we are not aiming to capture vast amounts of knowledge in the wiki.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20170521T221907Z" creationid="miurahr" creationdate="20170521T221907Z">
-        <seg>== コミュニティの団結 == ウィキペディアとは異なり、我々は、ウィキに膨大な量の知識を集めようとしているわけではありません。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T104721Z" creationid="miurahr" creationdate="20170521T221907Z">
+        <seg>== コミュニティの団結 == 
+ウィキペディアとは異なり、我々は、ウィキに膨大な量の知識を集めようとしているわけではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2886,6 +2887,16 @@ The [[Foundation|OpenStreetMap Foundation]] has provided a document for governme
 ** http://tasks.openhistoricalmap.org – for [[OpenHistoricalMap]]
 
 [[Category:OSM Tasking Manager| ]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>== Reason for OpenStreetMap ==
+Copyright law, as it applies to maps, is in key part of the reason for making OpenStreetMap in the first place!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T110056Z" creationid="miurahr" creationdate="20201106T104517Z">
+        <seg>== OpenStreetMapの理由 ==
+地図に適用される著作権法は、 OpenStreetMap を作成する第一の意義の重要な部分になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3179,6 +3190,16 @@ If you need further help on mapping an area see:
 [[File:LearnOSM.png|800px]]&lt;br&gt;
 &lt;br&gt;
 [http://learnosm.org/en/ LearnOSM] は、HOT推奨の基本ガイドです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>==Proprietary data==
+'''Do not use data from [[wikipedia:Copyright|copyrighted]] maps or any other [[wikipedia:Proprietary|proprietary]] data!''' So copying, tracing or any act of reproduction of any copyrighted work is strictly prohibited.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T110207Z" creationid="miurahr" creationdate="20201106T110200Z">
+        <seg>==私有のデータ==
+'''[[wikipedia:ja:著作権|著作権のある]]地図やその他の[[wikipedia:ja:知的財産権|知的財産権のある]]データを使用しないでください！'''著作権のある作品を複写したりなぞったりする行為は厳しく禁じられています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50557,6 +50578,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See [[FAQ#Why OpenStreetMap?]] for the explanation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T110122Z" creationid="miurahr" creationdate="20201106T110122Z">
+        <seg>解説は[[FAQ#Why OpenStreetMap?]]を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See also [[Wiki Help]].</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170522T000004Z" creationid="miurahr" creationdate="20170522T000004Z">
@@ -58238,8 +58267,8 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
       <tuv lang="en-US">
         <seg>The wiki holds a lot of important help content and documentation.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20170521T221859Z" creationid="miurahr" creationdate="20170521T221859Z">
-        <seg>このウィキは、たくさん重要なヘルプや文章を持ってます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T104633Z" creationid="miurahr" creationdate="20170521T221859Z">
+        <seg>このウィキには、重要な助けになるコンテンツや文書が沢山あります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58848,6 +58877,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
       </tuv>
       <tuv lang="ja">
         <seg>このオプションは恒久的に保存されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This page groups some information about copyright, often as links to more detailed pages elsewhere.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T104447Z" creationid="miurahr" creationdate="20201106T104447Z">
+        <seg>このページでは、著作権に関する情報の一部を、他のページへのリンクとしてグループ化しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65411,8 +65448,8 @@ Do you want to continue without validating the file ?</seg>
       <tuv lang="en-US">
         <seg>We'd like to make at least some of this available in other languages.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20170521T221901Z" creationid="miurahr" creationdate="20170521T221901Z">
-        <seg>私たちは、いくつかの英語以外の言語でこれら文章が読めるようにしたいのです。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T104650Z" creationid="miurahr" creationdate="20170521T221901Z">
+        <seg>私たちは、英語以外のいろんな言語でこれら文章が読めるようにしたいのです。</seg>
       </tuv>
     </tu>
     <tu>
