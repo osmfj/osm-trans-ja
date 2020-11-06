@@ -212,6 +212,14 @@ On most maps you'll find a copyright, trademark symbol or something similar that
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>'''OpenStreetMap asks you not to reference maps when entering data'''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T124325Z" creationid="miurahr" creationdate="20201106T124325Z">
+        <seg>'''OpenStreetMap としては、決して他の地図を参照したデータを入力しないようお願いします。''' </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>'''Overpass QL''' (short for "Overpass Query Language") is the second query language created for the [[Overpass API]]; the first is [[Overpass_API/Language_Guide#The_languages|Overpass XML]].</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200813T120425Z" creationid="miurahr" creationdate="20200813T120425Z">
@@ -224,6 +232,14 @@ On most maps you'll find a copyright, trademark symbol or something similar that
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T014448Z" creationid="miurahr" creationdate="20200818T014448Z">
         <seg>'''短い答え:'''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>'''We create maps without copying at all'''!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T124409Z" creationid="miurahr" creationdate="20201106T124409Z">
+        <seg>'''我々は一切コピーをせずに地図を作っています。'''</seg>
       </tuv>
     </tu>
     <tu>
@@ -2870,6 +2886,16 @@ OpenStreetMapのWebサイトでは、異なる言語を使用した異なる焦�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>== OSM's view of the Topic ==
+Fake street features are fairly hard to find, and we really have no idea how many there are.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T124254Z" creationid="miurahr" creationdate="20201106T124254Z">
+        <seg>== この件について OSM がどう考えるか ==
+存在しない偽の地物を発見するのは非常に難しいものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>== OpenStreetMap Foundation position ==
 The [[Foundation|OpenStreetMap Foundation]] has provided a document for governments who want the OSM database to reflect what they think is the correct data:  [http://www.osmfoundation.org/w/images/d/d8/DisputedTerritoriesInformation.pdf "Information for officials and diplomats of countries and entities with disputed territories"]</seg>
       </tuv>
@@ -2946,6 +2972,23 @@ The [[Foundation|OpenStreetMap Foundation]] has provided a document for governme
 ** http://tasks.openhistoricalmap.org – for [[OpenHistoricalMap]]
 
 [[Category:OSM Tasking Manager| ]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>== Printed Maps that "Lye"&lt;!-- this is a deliberate spelling mistake--&gt; ==
+=== A–Z Map of Bristol ===
+[[File:Lye close.jpg|right]]
+
+To the right is a tiny scan from an A–Z map of central Bristol.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T124914Z" creationid="miurahr" creationdate="20201106T124757Z">
+        <seg>== ウソがある地図 (Printed Maps that "Lye") &lt;!-- this is a deliberate spelling mistake--&gt; ==
+=== ブリストルの A-Z 地図　A-Z Map of Bristol ===
+[[File:Lye close.jpg|right]]
+
+右の図はブリストルの A-Z 地図のごく一部です。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -3391,6 +3434,14 @@ If you need further help on mapping an area see:
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A campaign exists to change this ([http://www.freeourdata.org.uk/ 'Free Our Data']) but here at OpenStreetMap we are working around the problem by building an open-licensed free and accurate geodata from scratch.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T124353Z" creationid="miurahr" creationdate="20201106T124353Z">
+        <seg>このような著作権を変えさせようというキャンペーン（[http://www.freeourdata.org.uk/ 'Free Our Data']）も存在しますが、 OpenStreetMap はこの問題を回避するため、我々自身でオープンなライセンスの自由な地図を一から書き起こそうとしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A deprecated calibration geometry of {0} nodes by {1}</seg>
       </tuv>
       <tuv lang="ja">
@@ -3419,6 +3470,22 @@ If you need further help on mapping an area see:
       </tuv>
       <tuv lang="ja">
         <seg>水辺にある砂、砂利、小石などの平坦な場所です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A good example of how this can happen, is "paper street" errors.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T124021Z" creationid="miurahr" creationdate="20201106T124021Z">
+        <seg>たとえば、"paper street" と呼ばれる誤りがちょうど良い例でしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A highway developer submits a plan to the government, but never actually builds all the streets.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T124152Z" creationid="miurahr" creationdate="20201106T124152Z">
+        <seg>道路の開発者は開発計画を行政に提出しますが、そのすべての道路が実際に敷設されるとは限りません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3988,6 +4055,14 @@ If you need further help on mapping an area see:
       </tuv>
       <tuv lang="ja">
         <seg>アクセスタイプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Accidental errors and minor inaccuracies could also serve as copyright traps.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T124317Z" creationid="miurahr" creationdate="20201106T124317Z">
+        <seg>存在しない道、スペルミス、実際には存在しない幽霊教会などだけでなく、意図せず生じた間違いや、ちょっとした不正確さも著作権保護のためのトラップとして使われることがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5504,6 +5579,14 @@ If you need further help on mapping an area see:
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Again this is not a deliberate copyright easter egg by the map makers, though it may look a lot like one.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T124225Z" creationid="miurahr" creationdate="20201106T124225Z">
+        <seg>これらは地図作成者が意図的に仕組んだ著作権イースターエッグではありませんが、似たものに見えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Agricultural</seg>
       </tuv>
       <tuv lang="ja">
@@ -6108,6 +6191,14 @@ If you need further help on mapping an area see:
       </tuv>
       <tuv lang="ja">
         <seg>別名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Although some OSMers have deliberately added errors to the OSM data as well (see [https://lists.openstreetmap.org/pipermail/legal-talk/2008-February/000736.html posting on legal-talk] by [[User:80n]]), this is strictly discouraged and contrary to OSM policy.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T124735Z" creationid="miurahr" creationdate="20201106T124510Z">
+        <seg> OSM のマッパーの中には、意図的に OSM データに誤りを紛れ込ませる人もいます。（[[User:80n]] による [http://lists.openstreetmap.org/pipermail/legal-talk/2008-February/000736.html posting on legal-talk] も参照してください。）これは OSM の方針に反しますし、決して推奨されません。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -19047,6 +19138,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Does OSM have copyright easter eggs?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T124709Z" creationid="miurahr" creationdate="20201106T124709Z">
+        <seg>OS Mには著作権のイースターエッグがありますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Does not delete the associated file.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T051312Z" creationid="miurahr" creationdate="20200818T051312Z">
@@ -23093,6 +23192,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Errors can be introduced for all kinds of reasons, and may look a lot like copyright easter eggs.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T124040Z" creationid="miurahr" creationdate="20201106T124040Z">
+        <seg>誤ったデータが入力されるのにはさまざまな事情があり、著作権イースターエッグに似たものに見える部分もよくあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Errors during download</seg>
       </tuv>
       <tuv lang="ja">
@@ -23193,6 +23300,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200906T152956Z" creationid="miurahr" creationdate="20200906T152956Z">
         <seg>奇数アドレス補間の偶数番地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Even if we seek to represent reality perfectly, that will never be the reality of map data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T124532Z" creationid="miurahr" creationdate="20201106T124532Z">
+        <seg>我々は現実を完璧に表現しようとしていますが、実際に地図のデータがそうなることはありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24597,6 +24712,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fake streets, purpose mis-spellings and phantom churches are all thought to exist.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T124303Z" creationid="miurahr" creationdate="20201106T124303Z">
+        <seg>このようなものがどの程度存在するか、我々が把握することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>False easting and false northing</seg>
       </tuv>
       <tuv lang="ja">
@@ -25739,6 +25862,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T123906Z" creationid="miurahr" creationdate="20201106T123906Z">
         <seg>たとえば、 Google マップや Tele Atlas には Cork 市の Camden Quay （カムデン埠頭）があるべき場所に Patrick's Hill があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example in 2012 the OpenStreetMap foundation could [http://blog.osmfoundation.org/2012/03/08/welcome-apple/ issue a statement] with absolute confidence that Apple had used our maps (without crediting us) based on [http://alastaira.wordpress.com/2012/03/08/apple-maps-aka-apple-are-thieving-bastards/ very evident copying], and without the need for introduced errors.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T124608Z" creationid="miurahr" creationdate="20201106T124608Z">
+        <seg>たとえば、2012年、OpenStreetMap foundationは、[http://alastaira.wordpress.com/2012/03/08/apple-maps-aka-apple-are-thieving-bastards/ 非常に明らかなコピーの証拠]にもとづき、Apple が我々の地図を (我々をクレジットに入れることなく) 使ったということに対し、完全な確信をもって [http://blog.osmfoundation.org/2012/03/08/welcome-apple/ 声明を出す] ことができました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31074,6 +31205,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It's also very unnecessary.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T124648Z" creationid="miurahr" creationdate="20201106T124648Z">
+        <seg>それもまた、不必要なことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Item</seg>
       </tuv>
       <tuv lang="ja">
@@ -34176,6 +34315,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200817T232243Z" creationid="miurahr" creationdate="20200817T232243Z">
         <seg>多くの問題は、相手と穏やかに接触することで解決できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Many local maps will include these, since mapmakers often produce maps by referring to the plans.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T124206Z" creationid="miurahr" creationdate="20201106T124206Z">
+        <seg>地図を作る際にはこういった計画を参照することもあるため、計画倒れになった道路が地図に含まれるというケースもよくあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39424,6 +39571,14 @@ nodes and the new nodes will be selected.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Of course errors may also serve as a copyright trap in a legal dispute over copyright, but "copyright easter egg" refers to false features or inaccuracies ''deliberately'' introduced for the purpose of laying a copyright trap.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T124129Z" creationid="miurahr" creationdate="20201106T124129Z">
+        <seg>もちろん、著作権をめぐる法的論争では、誤りが著作権の罠として働くこともありますが、「著作権の罠」とは、著作権の罠を仕掛ける目的で「意図的に」導入された、誤った特徴や不正確さを指しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Off-Road: heavy duty off-road vehicle</seg>
       </tuv>
       <tuv lang="ja">
@@ -39789,6 +39944,14 @@ was open.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>OSMID ''{0}'' には数値のみが許されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only if you go and wander around Canynge Square in Bristol you see some nice houses (in the photo below the map) where that Close should be.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T124829Z" creationid="miurahr" creationdate="20201106T124829Z">
+        <seg>ブリストルに行って Canyge 広場のあたりを歩いてみると、地図の下の写真のように、路地があるはずの場所も小奇麗な家が並んでいるのを目にするでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40765,6 +40928,14 @@ was open.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>自然食品店</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Organisations like the UK's Ordnance Survey have placed their maps under copyright.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T124343Z" creationid="miurahr" creationdate="20201106T124343Z">
+        <seg>英国陸地測量部のような組織は、地図に著作権を設定しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57071,6 +57242,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>That is the challenge we have set for ourselves.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T124412Z" creationid="miurahr" creationdate="20201106T124412Z">
+        <seg>これは我々が自らに課した挑戦です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>That's exactly what OpenStreetMap is trying to avoid.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T015610Z" creationid="miurahr" creationdate="20200818T015610Z">
@@ -58001,6 +58180,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
       </tuv>
       <tuv lang="ja">
         <seg>プリセット &lt;i&gt;{0}&lt;/i&gt; は適切ではないのため適用できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The project is not an exercise in copying maps while trying to avoid copyright traps.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T124402Z" creationid="miurahr" creationdate="20201106T124402Z">
+        <seg>このプロジェクトは著作権トラップを避けて地図をコピーする練習ではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58977,6 +59164,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T220424Z" creationid="miurahr" creationdate="20200818T220424Z">
         <seg>これは重大なエラーではありません。作業を続行しても安全です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is partly to avoid such copyright traps, but also because we genuinely don't want to copy information from these sources.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T124337Z" creationid="miurahr" creationdate="20201106T124337Z">
+        <seg>これは、そのような著作権トラップを踏まないためだけでなく、 OSM の方針として他の地図を情報源にしないことを真摯に願っているからです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65722,6 +65917,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Weird, huh?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T124952Z" creationid="miurahr" creationdate="20201106T124952Z">
+        <seg>変だと思いますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Welcome to the&lt;/span&gt;&lt;br&gt;
 &lt;span style="font-size: xx-large;"&gt;AlignWay&lt;span style="color: rgb(204, 85, 0);"&gt;S&lt;/span&gt; Plugin&lt;br&gt;
 &lt;/span&gt;&lt;span style="font-size: medium;"&gt;&lt;br&gt;
@@ -66213,6 +66416,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>OAuth を使い、あなたはJOSMにマップデータとGPSトラックのアップロードをあなたの責任において許可します。(&lt;a href="{0}"&gt;詳細...&lt;/a&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With OpenStreetMap there's a very unique and distinct fingerprint evident in the data coverage and details included, and yes, in the errors made.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T124542Z" creationid="miurahr" creationdate="20201106T124542Z">
+        <seg>OpenStreetMapには、データの網羅している範囲、詳細部分、そしてもちろん誤りも含めて、他にはない要素を「指紋」として持っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67493,6 +67704,26 @@ The tasking manager was designed and built for the [[Humanitarian OpenStreetMap 
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200817T220457Z" creationid="miurahr" creationdate="20200817T220457Z">
         <seg>OpenStreetBugsの[[/Phase Out]]が開始され、ユーザは[[Notes]]の使用を推奨されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[File:Lyebuildings.jpg|right]]
+
+Lye Close isn't in the index either.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T124936Z" creationid="miurahr" creationdate="20201106T124936Z">
+        <seg>[[File:Lyebuildings.jpg|right]]
+
+ライ路地は索引にも載っていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[TIGER]] is full of these.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T124215Z" creationid="miurahr" creationdate="20201106T124215Z">
+        <seg>[[TIGER]] にはこれらが多く含まれています。</seg>
       </tuv>
     </tu>
     <tu>
