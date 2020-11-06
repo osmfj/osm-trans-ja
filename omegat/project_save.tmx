@@ -175,6 +175,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>'''If you find data within OpenStreetMap that you believe is an infringement of someone else's copyright, then please make contact with the [[Data_working_group|Data Working Group]].'''
+
+On most maps you'll find a copyright, trademark symbol or something similar that indicates it as proprietary.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T110354Z" creationid="miurahr" creationdate="20201106T110330Z">
+        <seg>'''もし OpenStreetMap に他人の著作権を侵害していると思われるデータがあった場合は、[[Data_working_group|Data Working Group]]に連絡を取ってください。'''
+
+ほとんどの地図に、あなたは著作権・商標・意匠・その他独占的であることを示す印を発見するでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>'''Long answer:'''</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T014533Z" creationid="miurahr" creationdate="20200818T014533Z">
@@ -14720,6 +14732,14 @@ After: wikipedia={0}:{2}</seg>
       </tuv>
       <tuv lang="ja">
         <seg>{0}のコピー({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Copyright is a "negative" or "prohibitive" right, meaning that it ''prevents'' certain groups from doing something with the copyrighted work.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T110255Z" creationid="miurahr" creationdate="20201106T110255Z">
+        <seg>著作権は「消極的」かつ「抑制的」な権利で、著作権のある作品で何かを始めようとする人たちを''妨害''します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57821,6 +57841,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
       </tuv>
       <tuv lang="ja">
         <seg>対応するボタンを押したときに何秒分進む・戻るのか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The original copyright holder has, what is called, [[wikipedia:Copyright#Exclusive_rights|exclusive rights]] over the work and is thus the only authority that has the ability to alter permissions and use.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T110308Z" creationid="miurahr" creationdate="20201106T110308Z">
+        <seg>原著作権者は、いわゆる[[wikipedia:ja:著作権|排他的権利]]を自身の作品に持っており、著作権者だけが許諾や利用の条件を変更できます。'</seg>
       </tuv>
     </tu>
     <tu>
