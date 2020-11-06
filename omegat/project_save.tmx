@@ -871,10 +871,26 @@ no_more_mappingを外してください)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* The Avenue, Finchley, London N3.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T125321Z" creationid="miurahr" creationdate="20201106T125321Z">
+        <seg>* The Avenue, Finchley, London N3. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* The best use of these guidelines is self governance.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200817T231817Z" creationid="miurahr" creationdate="20200817T225416Z">
         <seg>* このガイドラインを最大限に活用するには、自己統治が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* Torrington Place, Finchley, London N3, allegedly at the end of Arcadia Avenue N3.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T125255Z" creationid="miurahr" creationdate="20201106T125245Z">
+        <seg>* Torrington Place, Finchley, London N3, Arcadia Avenue N3 の終点にあるとされている場所です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3070,12 +3086,49 @@ Wiki translation is taking place on a somewhat ad-hoc basis, and you are encoura
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>=== Cartographic style easter eggs ===
+Vertices trick/mark.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T125540Z" creationid="miurahr" creationdate="20201106T125540Z">
+        <seg>
+=== 地図製作型のイースターエッグ ===
+Vertices trick（記号）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>=== Category ===
 * Use "Category:&amp;lt;languagecode&amp;gt;:&amp;lt;Adapted title&amp;gt;" convention.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170522T000032Z" creationid="miurahr" creationdate="20170522T000023Z">
         <seg>=== カテゴリ === 
 * "Category:&lt;言語コード&gt;:&lt;翻訳した題名&gt;" の命名規則を使ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>=== Digital easter eggs ===
+A class of Easter Eggs can be implemented by digital map providers who do not want their raw map data (vectors) copied.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T125447Z" creationid="miurahr" creationdate="20201106T125447Z">
+        <seg>=== デジタルなイースターエッグ ===
+A class of Easter Eggs can be implemented by digital map providers who do not want their raw map data (vectors) copied.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>=== Examples from Google Maps ===
+
+(These are examples from Google Maps gathered back when google used Tele Atlas for European data coverage)
+
+* [http://maps.google.co.uk/?q=Moat+Lane,+Finchley,+London+N3&amp;ie=UTF8&amp;ll=51.591223,-0.19122&amp;spn=0.006066,0.01251&amp;z=17&amp;layer=c&amp;cbll=51.591153,-0.191742&amp;panoid=BAXZH3K-fq6Ye3VArtVN6A&amp;cbp=12,110.84892024397425,,0,-2.487135506003425 Moat Lane, Finchley, London N3].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T125142Z" creationid="miurahr" creationdate="20201106T125142Z">
+        <seg>=== Google マップの例 ===
+
+（これらは Google がヨーロッパのデータを網羅するために Tele Atlas を使った時に、 Google マップに収録されたものです）
+
+* [http://maps.google.co.uk/?q=Moat+Lane,+Finchley,+London+N3&amp;ie=UTF8&amp;ll=51.591223,-0.19122&amp;spn=0.006066,0.01251&amp;z=17&amp;layer=c&amp;cbll=51.591153,-0.191742&amp;panoid=BAXZH3K-fq6Ye3VArtVN6A&amp;cbp=12,110.84892024397425,,0,-2.487135506003425 Moat Lane, Finchley, London N3].</seg>
       </tuv>
     </tu>
     <tu>
@@ -6600,6 +6653,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>注釈</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Another rumoured trick is use the seemingly random spacing of tree symbols in a forest area.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T125609Z" creationid="miurahr" creationdate="20201106T125609Z">
+        <seg>森林に一見ランダムに見える樹木のシンボルを配置するテクニックが使われているという噂もあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31277,6 +31338,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It’s an Easter egg, a surprise street (sometimes known as a "[[Wikipedia:Trap_street|trap street]]") inserted so that if you attempt to copy the map then the copyright holder can prove you copied it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T125026Z" creationid="miurahr" creationdate="20201106T125026Z">
+        <seg>これがイースターエッグです。（これは "[[Wikipedia:Trap_street|トラップストリート]]" とも呼ばれます。）つまり、もしあなたがこれを複製したら、それを著作権者が複製だと証明するために使えるように仕込んであるものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>JAR file</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200825T233814Z" creationid="miurahr" creationdate="20200825T233814Z">
@@ -31769,6 +31838,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200826T013404Z" creationid="miurahr" creationdate="20200826T013404Z">
         <seg>WikipediaがURLである場合のAutofixを使用して、Wikipediaタグの形式をチェックする(記事が存在する場合は検証なし)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Just off Meadow Farm Drive in Shrewsbury Google Maps shows a Kerbela Street, which does not physically exist at this location or even exist at all in Shrewsbury, according to Royal Mail.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T125231Z" creationid="miurahr" creationdate="20201106T125231Z">
+        <seg>Google マップでソールスベリーの牧草地の農場の道を見ると、Kerbela Street が描かれていますが、これは実際にはこの場所にはなく、それどころか郵便局の住所録によると、ソールスベリーにはこのような名前の通りは存在しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38545,6 +38622,14 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Not according to the Royal Mail, not according to Bartholomew, not according to personal experience.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T125201Z" creationid="miurahr" creationdate="20201106T125201Z">
+        <seg>郵便局の住所データ（訳注: イギリスでは通りの名前によって住所を表す）にもなく、バルトロマイによるものでも、個人的な経験に基づくものでもありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Not connected</seg>
       </tuv>
       <tuv lang="ja">
@@ -41090,6 +41175,14 @@ own copy and all nodes will be selected.</seg>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T092113Z" creationid="miurahr" creationdate="20200818T092113Z">
         <seg>そうでなければ、すべてのウェイのコピーがつくられ、
 そのすべてのノードが選択されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Otherwise, why would you have the nonsense street in your map if you didn’t get it from them?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T125032Z" creationid="miurahr" creationdate="20201106T125032Z">
+        <seg>そのような理由がなければ、実在しない通りをわざわざ地図に描く理由がありませんから。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46084,6 +46177,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ラスタイメージ取得倍率:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rather than placing them completely randomly, the spacing can be adjusted in some coded manner.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T130027Z" creationid="miurahr" creationdate="20201106T130027Z">
+        <seg>これらを完全にランダムに配置するのではなく、いくつかのコーディング方法でスペーシングを調整することができます</seg>
       </tuv>
     </tu>
     <tu>
@@ -54359,6 +54460,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some companies would place hidden words encoded along the edge of a feature represented by regular length segments representing dots and dashes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T125557Z" creationid="miurahr" creationdate="20201106T125557Z">
+        <seg>地物の縁にそって、一定の長さの区間ごとに点と線で表現することで、言葉を隠して配置する方法が一部の会社で使われていました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some entries have unmet dependencies:</seg>
       </tuv>
       <tuv lang="ja">
@@ -56914,6 +57023,30 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tele Atlas (as used by Google Maps) has this road, which doesn't exist.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T125147Z" creationid="miurahr" creationdate="20201106T125147Z">
+        <seg> Tele Atlas （Googleマップで使用されている）にこの存在しない道路があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tele Atlas has this road, which doesn't exist in reality.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T125257Z" creationid="miurahr" creationdate="20201106T125257Z">
+        <seg>Tele Atlas にはこの道が掲載されていますが、実際には存在しません。郵便局のデータにも実際に言ってみても存在しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tele Atlas has this short street at entirely the wrong angle, taking it straight through a block of flats, about 60 metres from its real location.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T125326Z" creationid="miurahr" creationdate="20201106T125326Z">
+        <seg>Tele Atlas にはこの短い通りが完全に間違った角度で掲載されています。アパートの中を通りぬけていて、本当の場所から 60 m ほど離れた場所に描かれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Telecom</seg>
       </tuv>
       <tuv lang="ja">
@@ -58876,6 +59009,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200819T112904Z" creationid="miurahr" creationdate="20200819T112904Z">
         <seg>そこでは、エラー情報がすでに入力されているはずです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There used to be a trick for marking cartography using Morse code, spread across the vectors defining geometry of features.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T125551Z" creationid="miurahr" creationdate="20201106T125551Z">
+        <seg>地物の形を定義している線でモールス符号を使うという地図作成法のトリックが使われていました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65940,6 +66081,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Well, not really.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T125104Z" creationid="miurahr" creationdate="20201106T125104Z">
+        <seg>そうでもないです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Wetland</seg>
       </tuv>
       <tuv lang="ja">
@@ -67732,6 +67881,20 @@ Lye Close isn't in the index either.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170523T123023Z" creationid="miurahr" creationdate="20170523T123023Z">
         <seg> [[Template:Languages]]は、利用可能な言語すべてを一覧表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[User:CrystalWalrein|CrystalWalrein]] 02:46, 20 October 2008 (UTC)
+
+== Other types of watermarking ==
+Beyond introducing blatantly false information, other tricks are employed by cartographers to protect their work from copying.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T125506Z" creationid="miurahr" creationdate="20201106T125506Z">
+        <seg>[[User:CrystalWalrein|CrystalWalrein]] 02:46, 20 October 2008 (UTC)
+
+== その他の「すかし」の例 ==
+故意に誤った情報を入れること以外にも、地図作成者がコピーからの防御のために使うテクニックはあります。</seg>
       </tuv>
     </tu>
     <tu>
