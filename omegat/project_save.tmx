@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_1056f9fb5" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8157,6 +8157,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200906T111718Z" creationid="miurahr" creationdate="20200906T111718Z">
         <seg>銃剣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Be sure that the [[Overpass_API#Public_Overpass_API_instances|Overpass API server you query]] has a new enough API version to support the features you wish to use.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201107T162017Z" creationid="miurahr" creationdate="20201107T162017Z">
+        <seg>[[Overpass_API]#Public_Overpass_API_instances[上書き API サーバー ( Overpass API server ) ] ] には、使用する機能をサポートするために十分な API バージョンが含まれていることを確認してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -82901,6 +82909,19 @@ OpenStreetMap では、データベース内でタグ付けや地物の存在が
 {{otheruses|モデリングの疑問|link=JA:Map Features}}
 {{otheruses|法的事項|link=Legal FAQ}}
 {{otheruses|開発者向け|link=Developer FAQ}}'''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{Languages|Map Features}}
+
+[[OpenStreetMap]] represents physical [[features]] on the ground (e.g., roads or buildings) using [[tags]] attached to its basic data structures (its [[nodes]], [[ways]], and [[relations]]).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201107T162202Z" creationid="miurahr" creationdate="20201107T162202Z">
+        <seg>{{Languages|Map Features}}
+
+[[OpenStreetMap]] は地上の物理的な[[地物]]（例えば道路や建物）を、基本的なデータ構造（ノード、ウェイ、リレーション）に[[タグ]]を付与して表現します。各タグで特定の[[ノード]]、[[ウェイ]]、[[リレーション]]で表された地物の地理的な属性を記述します。
+</seg>
       </tuv>
     </tu>
     <tu>
