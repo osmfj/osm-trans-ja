@@ -40833,6 +40833,14 @@ was open.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OpenStreetMap's [[tags|free tagging system]] allows the map to include an unlimited number of attributes describing each feature.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201107T162259Z" creationid="miurahr" creationdate="20201107T162259Z">
+        <seg>OpenStreetMap は[[tags|自由にタグ付けできるシステム]]なので、それぞれの地物を記述する属性を上限なしで地図に含めることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Opening Hours</seg>
       </tuv>
       <tuv lang="ja">
@@ -57715,6 +57723,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>クリップボードのデータは画像ではありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The community agrees on certain key and value combinations for the most commonly used tags, which act as informal standards.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201107T162339Z" creationid="miurahr" creationdate="20201107T162339Z">
+        <seg>各タグで特定のノード、ウェイ、リレーションで表された地物の地理的な属性を記述します。</seg>
       </tuv>
     </tu>
     <tu>
