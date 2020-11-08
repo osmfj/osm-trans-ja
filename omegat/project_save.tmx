@@ -21431,6 +21431,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each tag describes a geographic attribute of the feature being shown by that specific node, way or relation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T051549Z" creationid="miurahr" creationdate="20201108T051530Z">
+        <seg>各タグは、特定のノード、方法、またはリレーションによって示される地物の地理的属性を記述します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>East</seg>
       </tuv>
       <tuv lang="ja">
@@ -28467,6 +28475,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170521T235057Z" creationid="miurahr" creationdate="20170521T235057Z">
         <seg>しかし、保存した後でも、未翻訳の言語のボックスに黒い太字で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, users can create new tags to improve the style of the map or to support analyses that rely on previously unmapped attributes of the features.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T054639Z" creationid="miurahr" creationdate="20201108T054639Z">
+        <seg>ただし、ユーザは新しいタグを作成して、マップのスタイルを改善したり、以前にマップされていない地物の属性に依存する解析をサポートすることができます。</seg>
       </tuv>
     </tu>
     <tu>
