@@ -1,0 +1,1365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.0.0_0_c88a052c2" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A tag with key &lt;i&gt;{0}&lt;/i&gt; is already present on the selected OSM object.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190809T024844Z" creationid="miurahr" creationdate="20190809T024844Z">
+        <seg>キー&lt;i&gt;{0}&lt;/i&gt;が付いたタグが、選択したOSMオブジェクトにすでに存在しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Mapillary tag</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190809T024905Z" creationid="miurahr" creationdate="20190809T024905Z">
+        <seg>Mapillary タグを追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All images in a directory</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190809T024920Z" creationid="miurahr" creationdate="20190809T024920Z">
+        <seg>ディレクトリ中の全画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All map objects loaded.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190809T024945Z" creationid="miurahr" creationdate="20190809T024945Z">
+        <seg>読みこんだ全マップオブジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allows the user to work with pictures hosted at mapillary.com</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T014840Z" creationid="miurahr" creationdate="20190811T014840Z">
+        <seg>ユーザがmapillary.comで保持している写真で作業できるようにする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An exception occured while trying to submit a changeset.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190809T025004Z" creationid="miurahr" creationdate="20190809T025004Z">
+        <seg>変更セットを送信時に例外が発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>キャンセル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Center view on new image when using the buttons to jump to another image</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190809T025208Z" creationid="miurahr" creationdate="20190809T025208Z">
+        <seg>他の画像へボタンでジャンプしたときに、新しい画像は中央表示する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Changeset upload failed with {0} error ''{1} {2}''!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190809T030141Z" creationid="miurahr" creationdate="20190809T030141Z">
+        <seg>変更セットのアップロードに、{0} エラー "{1} {2}"で失敗しました!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose signs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190809T030200Z" creationid="miurahr" creationdate="20190809T030200Z">
+        <seg>標識を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy key</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190809T030214Z" creationid="miurahr" creationdate="20190809T030214Z">
+        <seg>キーをコピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not import a geotagged image to the Mapillary layer!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190809T030319Z" creationid="miurahr" creationdate="20190809T030247Z">
+        <seg>Mapillaryレイヤに、ジオタグされた画像のインポートができませんでした!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not import the directory ''{0}''!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190809T030313Z" creationid="miurahr" creationdate="20190809T030313Z">
+        <seg>ディレクトリ "{0}"をインポートできませんでした!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not import the image ''{0}''!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190809T030344Z" creationid="miurahr" creationdate="20190809T030344Z">
+        <seg>画像"{0}"をインポートできませんでした!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not open the URL {0} in a browser</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190809T030401Z" creationid="miurahr" creationdate="20190809T030401Z">
+        <seg>URL {0} をブラウザで開けませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not read from URL {0}!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190809T030412Z" creationid="miurahr" creationdate="20190809T030412Z">
+        <seg>URL {0}をよみこめません!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Current Mapillary changeset</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190809T030421Z" creationid="miurahr" creationdate="20190809T030421Z">
+        <seg>現在のMapillary変更セット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cut off sequences at download bounds</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190809T030438Z" creationid="miurahr" creationdate="20190809T030438Z">
+        <seg>ダウンロードした境界でシーケンスを分断する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dark mode for image display</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190809T030451Z" creationid="miurahr" creationdate="20190809T030451Z">
+        <seg>画像ウインドウでダークモードを使用する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Days</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete after upload</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190809T030459Z" creationid="miurahr" creationdate="20190809T030459Z">
+        <seg>アップロード後削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deleted {0} image</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190809T030518Z" creationid="miurahr" creationdate="20190809T030518Z">
+        <seg>{0} この画像を削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Display hour when the picture was taken</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190809T030533Z" creationid="miurahr" creationdate="20190809T030533Z">
+        <seg>写真のとられた時刻を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Displays detail information on the currently selected Mapillary image</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T010008Z" creationid="miurahr" creationdate="20190811T010008Z">
+        <seg>現在選択されているMapillary画像の詳細情報を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Displays objects detected by Mapillary from their street view imagery</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T010045Z" creationid="miurahr" creationdate="20190811T010045Z">
+        <seg>ストリートビュー画像からMapillaryが検出したオブジェクトを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Displays the layer displaying the map objects detected by Mapillary</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T010159Z" creationid="miurahr" creationdate="20190811T010159Z">
+        <seg>Mapillaryが検出したマップオブジェクトのレイヤーを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you really want to replace the current value &lt;i&gt;{0}&lt;/i&gt; with the new value &lt;i&gt;{1}&lt;/i&gt;?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T010244Z" creationid="miurahr" creationdate="20190811T010244Z">
+        <seg>本当に現在の値 &lt;i&gt;{0}&lt;/i&gt;を新しい&lt;i&gt;{1}&lt;/i&gt;に変更しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Download Mapillary images in current view</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T010303Z" creationid="miurahr" creationdate="20190811T010303Z">
+        <seg>現在のビューにMapillary画像をダウンロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Download mode</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T010311Z" creationid="miurahr" creationdate="20190811T010311Z">
+        <seg>ダウンロードモード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Downloaded images</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T010319Z" creationid="miurahr" creationdate="20190811T010319Z">
+        <seg>ダウンロードした画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Downloading Mapillary images</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T010332Z" creationid="miurahr" creationdate="20190811T010332Z">
+        <seg>Mapillary画像をダウンロード中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Downloading map objects failed!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T010345Z" creationid="miurahr" creationdate="20190811T010345Z">
+        <seg>マップオブジェクトのダウンロードに失敗!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Downloading map objects…</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T010355Z" creationid="miurahr" creationdate="20190811T010355Z">
+        <seg>マップオブジェクトのダウンロード中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Downloading…</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T010403Z" creationid="miurahr" creationdate="20190811T010403Z">
+        <seg>ダウンロード中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable experimental beta-features (might be unstable)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T010431Z" creationid="miurahr" creationdate="20190811T010431Z">
+        <seg>実験的ベータ機能を有効化(不安定です)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exiting walk mode…</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T013000Z" creationid="miurahr" creationdate="20190811T013000Z">
+        <seg>自動再生モードの中止...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export Mapillary images</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T010446Z" creationid="miurahr" creationdate="20190811T010446Z">
+        <seg>Mapillary画像をエクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export all images</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T010500Z" creationid="miurahr" creationdate="20190811T010500Z">
+        <seg>すべての画像をエクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export selected images</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T010511Z" creationid="miurahr" creationdate="20190811T010511Z">
+        <seg>選択した画像をエクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export selected sequence</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T010522Z" creationid="miurahr" creationdate="20190811T010522Z">
+        <seg>選択したシーケンスをエクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exporting Mapillary Images…</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T010536Z" creationid="miurahr" creationdate="20190811T010536Z">
+        <seg>Mapillary画像のエクスポート中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finished upload</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T010545Z" creationid="miurahr" creationdate="20190811T010545Z">
+        <seg>アップロード完了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Follow selected image</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T010552Z" creationid="miurahr" creationdate="20190811T010552Z">
+        <seg>選択した画像をフォロー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From existing image layer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T010603Z" creationid="miurahr" creationdate="20190811T010603Z">
+        <seg>画像レイヤーから出る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From which source do you want to import images to the Mapillary layer?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T010655Z" creationid="miurahr" creationdate="20190811T010655Z">
+        <seg>どの情報源からMapillaryレイヤへ画像をインポートしますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Give way</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>徐行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go forward</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T010705Z" creationid="miurahr" creationdate="20190811T010705Z">
+        <seg>次にすすむ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to setting and log in to Mapillary before uploading.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T010753Z" creationid="miurahr" creationdate="20190811T010739Z">
+        <seg>アップロードの前に、設定に行ってMapillaryにログインしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If this happens repeatedly, consider reporting a bug via the Help menu.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190809T025033Z" creationid="miurahr" creationdate="20190809T025033Z">
+        <seg>繰り返し発生する場合は、ヘルプメニューからバグ報告することを検討ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If this message appears for the first time, simply try it again.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190809T025111Z" creationid="miurahr" creationdate="20190809T025111Z">
+        <seg>このメッセージを初めて見た場合は、再実施してみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image detections</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T010826Z" creationid="miurahr" creationdate="20190811T010826Z">
+        <seg>画像検出物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image info</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T010830Z" creationid="miurahr" creationdate="20190811T010830Z">
+        <seg>画像情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image key</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T010834Z" creationid="miurahr" creationdate="20190811T010834Z">
+        <seg>画像キー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Images from my file system</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T010841Z" creationid="miurahr" creationdate="20190811T010841Z">
+        <seg>ファイルシステムからの画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>インポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import local pictures</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T010857Z" creationid="miurahr" creationdate="20190811T010857Z">
+        <seg>ローカルの写真をインポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import pictures</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T010902Z" creationid="miurahr" creationdate="20190811T010902Z">
+        <seg>写真をインポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import pictures into Mapillary layer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T010913Z" creationid="miurahr" creationdate="20190811T010913Z">
+        <seg>写真をMapillaryレイヤにインポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Imported images</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T010920Z" creationid="miurahr" creationdate="20190811T010920Z">
+        <seg>インポートした画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Imported {0} image</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T010929Z" creationid="miurahr" creationdate="20190811T010929Z">
+        <seg>インポートした {0}この画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jump to blue</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011000Z" creationid="miurahr" creationdate="20190811T011000Z">
+        <seg>青へとぶ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jump to red</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011006Z" creationid="miurahr" creationdate="20190811T011006Z">
+        <seg>赤へとぶ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jumps to the picture at the other side of the blue line</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011105Z" creationid="miurahr" creationdate="20190811T011036Z">
+        <seg>青い線のむこう側の写真にジャンプします</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jumps to the picture at the other side of the red line</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011100Z" creationid="miurahr" creationdate="20190811T011100Z">
+        <seg>赤い線のむこう側の写真にジャンプします</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Key copied to clipboard…</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011119Z" creationid="miurahr" creationdate="20190811T011119Z">
+        <seg>キーをクリップボードにコピー...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Login</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ログイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Login successful, return to JOSM.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011132Z" creationid="miurahr" creationdate="20190811T011132Z">
+        <seg>ログインに成功しました。JOSMにもどります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Logout</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ログアウト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mapillary Images</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Mapillary 画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mapillary changeset</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011150Z" creationid="miurahr" creationdate="20190811T011150Z">
+        <seg>Mapillaryの変更セット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mapillary filter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011159Z" creationid="miurahr" creationdate="20190811T011159Z">
+        <seg>Mapillaryフィルタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mapillary history</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011206Z" creationid="miurahr" creationdate="20190811T011206Z">
+        <seg>Mapillaryヒストリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mapillary image</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011217Z" creationid="miurahr" creationdate="20190811T011217Z">
+        <seg>Mapillary画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mapillary layer</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Mapillary レイヤ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mapillary login</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011225Z" creationid="miurahr" creationdate="20190811T011225Z">
+        <seg>Mapillaryログイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mapillary object layer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011232Z" creationid="miurahr" creationdate="20190811T011232Z">
+        <seg>Mapillaryオブジェクトレイヤ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mapillary objects</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011238Z" creationid="miurahr" creationdate="20190811T011238Z">
+        <seg>Mapillaryオブジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Months</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ヶ月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moved {0} image</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011249Z" creationid="miurahr" creationdate="20190811T011249Z">
+        <seg>{0}この画像を移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next picture</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>次の画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No entry</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011259Z" creationid="miurahr" creationdate="20190811T011259Z">
+        <seg>エントリー無し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No images found</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011306Z" creationid="miurahr" creationdate="20190811T011306Z">
+        <seg>画像がみつかりません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No overtaking</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011331Z" creationid="miurahr" creationdate="20190811T011331Z">
+        <seg>追い越し禁止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No parking</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011334Z" creationid="miurahr" creationdate="20190811T011334Z">
+        <seg>駐車禁止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No turn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011342Z" creationid="miurahr" creationdate="20190811T011342Z">
+        <seg>転回禁止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not logged in to Mapillary</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011351Z" creationid="miurahr" creationdate="20190811T011351Z">
+        <seg>Mapillaryにログインしていません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of images to be pre-fetched (forwards and backwards)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011511Z" creationid="miurahr" creationdate="20190811T011511Z">
+        <seg>先行して取得する画像数(前向きと後ろ向き)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only images with signs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011522Z" creationid="miurahr" creationdate="20190811T011522Z">
+        <seg>標識のある画像のみ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Mapillary changeset dialog</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011543Z" creationid="miurahr" creationdate="20190811T011543Z">
+        <seg>Mapillary変更セットダイアログを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Mapillary filter dialog</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011554Z" creationid="miurahr" creationdate="20190811T011554Z">
+        <seg>Mapillaryフィルタダイアログを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Mapillary history dialog</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011611Z" creationid="miurahr" creationdate="20190811T011611Z">
+        <seg>Mapillaryヒストリダイアログを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Mapillary layer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011619Z" creationid="miurahr" creationdate="20190811T011619Z">
+        <seg>Mapillaryレイヤを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Mapillary window</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011628Z" creationid="miurahr" creationdate="20190811T011628Z">
+        <seg>Mapillaryウインドウを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pause</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011639Z" creationid="miurahr" creationdate="20190811T011639Z">
+        <seg>一時停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pauses the walk.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T012104Z" creationid="miurahr" creationdate="20190811T011651Z">
+        <seg>自動再生を一時停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pedestrian crossing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011704Z" creationid="miurahr" creationdate="20190811T011704Z">
+        <seg>横断歩道</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Play</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011707Z" creationid="miurahr" creationdate="20190811T011707Z">
+        <seg>再生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press "{0}" to download images</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011808Z" creationid="miurahr" creationdate="20190811T011743Z">
+        <seg>画像をダウンロードするには"{0}"を押下</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preview images when hovering its icon</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>アイコンの上に移動したとき画像をプレビュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Previous picture</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>前の画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Redo</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>やり直し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>リセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rewrite imported images</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011832Z" creationid="miurahr" creationdate="20190811T011832Z">
+        <seg>インポートした画像を再書き込み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roundabout</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>環状交差点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a directory</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011840Z" creationid="miurahr" creationdate="20190811T011840Z">
+        <seg>ディレクトリを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select directory to import images from</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011905Z" creationid="miurahr" creationdate="20190811T011905Z">
+        <seg>画像をインポートするディレクトリを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select mode</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011908Z" creationid="miurahr" creationdate="20190811T011908Z">
+        <seg>選択モード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the images you want to import</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011918Z" creationid="miurahr" creationdate="20190811T011918Z">
+        <seg>インポートしたい画像を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sequence key</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011923Z" creationid="miurahr" creationdate="20190811T011923Z">
+        <seg>シーケンスキー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show detections on top of image</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011938Z" creationid="miurahr" creationdate="20190811T011938Z">
+        <seg>イメージ上に検出物を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shows the next picture in the sequence</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T011952Z" creationid="miurahr" creationdate="20190811T011952Z">
+        <seg>シーケンスの次の写真を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shows the previous picture in the sequence</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T012000Z" creationid="miurahr" creationdate="20190811T012000Z">
+        <seg>シーケンスの前の写真を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Speed limit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T012008Z" creationid="miurahr" creationdate="20190811T012008Z">
+        <seg>最高速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stop</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stops the walk.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T012057Z" creationid="miurahr" creationdate="20190811T012057Z">
+        <seg>自動再生を停止。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Submit changeset</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T012157Z" creationid="miurahr" creationdate="20190811T012157Z">
+        <seg>変更セット送信</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Submit the current changeset</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T012127Z" creationid="miurahr" creationdate="20190811T012127Z">
+        <seg>現在の変更セットの送信</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Submit the current changeset to Mapillary</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T012137Z" creationid="miurahr" creationdate="20190811T012137Z">
+        <seg>Mapillaryへ現在の変更セットを送信する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Submitting Mapillary Changeset</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T012144Z" creationid="miurahr" creationdate="20190811T012144Z">
+        <seg>Mapillary変更セット送信</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Submitting changeset to server…</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T012222Z" creationid="miurahr" creationdate="20190811T012222Z">
+        <seg>変更セットをサーバへ送信中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supported image formats (JPG and PNG)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T012212Z" creationid="miurahr" creationdate="20190811T012212Z">
+        <seg>サポートされる画像フォーマット(JPGとPNG)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tag conflict</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T012230Z" creationid="miurahr" creationdate="20190811T012230Z">
+        <seg>タグの衝突</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That is not possible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T014220Z" creationid="miurahr" creationdate="20190811T014220Z">
+        <seg>その処理はできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Mapillary layer has stopped downloading images, because the requested area is too big!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T012259Z" creationid="miurahr" creationdate="20190811T012259Z">
+        <seg>要求された領域が広すぎるため、Mapillaryレイヤは画像ダウンロードを停止しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Mapillary plugin now uses a separate panel to display extra information (like the image key) and actions for the currently selected Mapillary image (like viewing it in a browser).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T012449Z" creationid="miurahr" creationdate="20190811T012449Z">
+        <seg>Mapillaryプラグインは現在、(画像キー等の)追加情報を表示するパネルや、現在選択されているMapillary画像への(ブラウザ上への表示等の)処理のパネルが分割されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are currently no layers with geotagged images!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T012508Z" creationid="miurahr" creationdate="20190811T012508Z">
+        <seg>ジオタグされた画像があるレイヤーは、現在ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This might have been an issue with the internet connection.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190809T025122Z" creationid="miurahr" creationdate="20190809T025122Z">
+        <seg>インターネット接続に問題があるようです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To solve this problem, you could switch to download mode ''{0}'' and load Mapillary images for a smaller portion of the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T012556Z" creationid="miurahr" creationdate="20190811T012556Z">
+        <seg>この問題を解決するには、ダウンロードモード"{0}"に切りかえ、地図の小さな領域でMapillary画像を読みこんでみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To solve this problem, you could zoom in and load a smaller area of the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T012625Z" creationid="miurahr" creationdate="20190811T012625Z">
+        <seg>この問題を解決するには、ズームインして地図上のより小さな領域を読みこんでみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Too many map objects, zoom in to see all.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T012651Z" creationid="miurahr" creationdate="20190811T012651Z">
+        <seg>マップオブジェクトが多すぎます。全てをみるにはズームインしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Total Mapillary images: {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T012708Z" creationid="miurahr" creationdate="20190811T012708Z">
+        <seg>総Mapillaryイメージ数: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undo</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>元に戻す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>アップデート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upload Mapillary images</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T012734Z" creationid="miurahr" creationdate="20190811T012734Z">
+        <seg>Mapillary画像のアップロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upload selected sequence</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T012749Z" creationid="miurahr" creationdate="20190811T012749Z">
+        <seg>選択したシーケンスのアップロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uploading: {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T012757Z" creationid="miurahr" creationdate="20190811T012757Z">
+        <seg>アップロード中: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use 24 hour format</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T012810Z" creationid="miurahr" creationdate="20190811T012810Z">
+        <seg>24時間表記を使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ユーザー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View in browser</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T012815Z" creationid="miurahr" creationdate="20190811T012815Z">
+        <seg>ブラウザで表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wait for full quality pictures</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T012830Z" creationid="miurahr" creationdate="20190811T012830Z">
+        <seg>フル品質の写真を待つ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Walk mode</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T012842Z" creationid="miurahr" creationdate="20190811T012842Z">
+        <seg>自動再生モード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Walk mode: Waiting for next image takes too long!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T012946Z" creationid="miurahr" creationdate="20190811T012946Z">
+        <seg>自動再生モード： 次画像の表示に時間が掛りすぎます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When opening Mapillary image in web browser, show the blur editor instead of the image viewer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T014107Z" creationid="miurahr" creationdate="20190811T014107Z">
+        <seg>Mapillary画像をWebブラウザで開くときに、画像ビューアの代わりにブラー編集画面を開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Which image layers do you want to import into the Mapillary layer?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T014002Z" creationid="miurahr" creationdate="20190811T014002Z">
+        <seg>どの画像レイヤをMapillaryレイヤにインポートしますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Years</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>年</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are currently not logged in.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ログインしていません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are logged in as ''{0}''.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>''{0}'' としてログイン中です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are not logged in, please log in to Mapillary in the preferences</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T014129Z" creationid="miurahr" creationdate="20190811T014129Z">
+        <seg>まだログインしていません。Mapillaryに設定からログインしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are trying to upload a sequence to mapillary.com that you previously downloaded from there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T014205Z" creationid="miurahr" creationdate="20190811T014205Z">
+        <seg>以前ダウンロードしたシーケンスをMapillary.comへアップロードしようとしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have successfully uploaded {0} image to mapillary.com</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T014255Z" creationid="miurahr" creationdate="20190811T014255Z">
+        <seg>{0}この画像をmapillary.comへアップロード完了しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoom to selected image</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T014302Z" creationid="miurahr" creationdate="20190811T014302Z">
+        <seg>選択した画像へズーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoom to the currently selected Mapillary image</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T014314Z" creationid="miurahr" creationdate="20190811T014314Z">
+        <seg>現在選択しているMapillary画像へズームします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>areas with downloaded OSM-data</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T014332Z" creationid="miurahr" creationdate="20190811T014332Z">
+        <seg>OSMデータをダウンロードした領域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>everything in the visible area</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T014343Z" creationid="miurahr" creationdate="20190811T014343Z">
+        <seg>みえている領域全部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>image has no key</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T014353Z" creationid="miurahr" creationdate="20190811T014353Z">
+        <seg>画像にはキーがない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>no image selected</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T014357Z" creationid="miurahr" creationdate="20190811T014357Z">
+        <seg>画像が選択されていない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>only when manually requested</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T014408Z" creationid="miurahr" creationdate="20190811T014408Z">
+        <seg>手動で要求されたときのみ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>pending</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>保留</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>rejected</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T014413Z" creationid="miurahr" creationdate="20190811T014413Z">
+        <seg>却下</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>sequence has no key</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T014418Z" creationid="miurahr" creationdate="20190811T014418Z">
+        <seg>シーケンスにキーがない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>unknown user</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T014426Z" creationid="miurahr" creationdate="20190811T014426Z">
+        <seg>ユーザ不明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0}
+Could not read map objects from URL
+{1}!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T014548Z" creationid="miurahr" creationdate="20190811T014437Z">
+        <seg>{0}
+URL {1}
+からマップオブジェクトを読みこめません!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} ({1} image)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T014607Z" creationid="miurahr" creationdate="20190811T014607Z">
+        <seg>{0} ({1} 画像)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} detections</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T014621Z" creationid="miurahr" creationdate="20190811T014621Z">
+        <seg>{0} 検出物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} downloaded image</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T014638Z" creationid="miurahr" creationdate="20190811T014638Z">
+        <seg>{0} ダウンロードした画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} image in total</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T014649Z" creationid="miurahr" creationdate="20190811T014649Z">
+        <seg>全 {0} 画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} image submitted, Changeset key: {1}, State: {2}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T014739Z" creationid="miurahr" creationdate="20190811T014739Z">
+        <seg>変更セットキー: {1}, 状態: {2}で、{0} この画像が送信されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} images in {1} sequences</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T014753Z" creationid="miurahr" creationdate="20190811T014753Z">
+        <seg>{1}シーケンス中に画像が{0}こ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} imported image</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20190811T014807Z" creationid="miurahr" creationdate="20190811T014807Z">
+        <seg>{0}このインポートした画像</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

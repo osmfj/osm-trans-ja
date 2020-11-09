@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>* you own this project</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200726T010532Z" creationid="miurahr" creationdate="20200726T010532Z">
+        <seg>* あなたが所有するプロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt; Back</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T065416Z" creationid="miurahr" creationdate="20200725T065416Z">
+        <seg>&lt;もどる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt; Cancel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200726T010624Z" creationid="miurahr" creationdate="20200726T010624Z">
+        <seg>&lt;キャンセル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;x1/&gt; errors left</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T064923Z" creationid="miurahr" creationdate="20200725T064923Z">
+        <seg>エラー残&lt;x1/&gt; こ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;x1/&gt; notifications left</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T064952Z" creationid="miurahr" creationdate="20200725T064952Z">
+        <seg>通知残&lt;x1/&gt; こ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;x1/&gt; warnings left</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T064936Z" creationid="miurahr" creationdate="20200725T064936Z">
+        <seg>警告残&lt;x1/&gt; こ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;x1212860423/&gt;&lt;x1028090602/&gt;Changes in 1.1.0:&lt;x1212860424/&gt;&lt;x1212860425/&gt; New features: &lt;x1212860422/&gt; &lt;x972197808/&gt; Minor changes: &lt;x1212860422/&gt; &lt;x972197808/&gt; Internals: &lt;x1212860422/&gt; &lt;x972197808/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T064741Z" creationid="miurahr" creationdate="20200725T064725Z">
+        <seg>&lt;x1212860423/&gt;&lt;x1028090602/&gt;1.1.0での変更点:&lt;x1212860424/&gt;&lt;x1212860425/&gt; 新機能: &lt;x1212860422/&gt; &lt;x972197808/&gt; マイナーな変更点: &lt;x1212860422/&gt; &lt;x972197808/&gt; 内部の変更: &lt;x1212860422/&gt; &lt;x972197808/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Beware, all other shapes will be removed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T065050Z" creationid="miurahr" creationdate="20200725T065050Z">
+        <seg>他の全てのシェイプは削除されることに留意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on "Export"</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T065637Z" creationid="miurahr" creationdate="20200725T065637Z">
+        <seg>"Export"をクリック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on a polygon to delete it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200726T011915Z" creationid="miurahr" creationdate="20200726T011915Z">
+        <seg>ポリゴンをクリックして削除する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Copy the link after "raw data directly from" (right click and "copy link")</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T065727Z" creationid="miurahr" creationdate="20200725T065727Z">
+        <seg> "raw data directly from" (right click and "copy link")のあとのリンクをコピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Could not assign user</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200728T004930Z" creationid="miurahr" creationdate="20200728T004930Z">
+        <seg>アサインできません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Could not create project</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200729T084447Z" creationid="miurahr" creationdate="20200729T084447Z">
+        <seg>プロジェクトを作成できませんでした</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Could not delete project</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200728T014948Z" creationid="miurahr" creationdate="20200728T014948Z">
+        <seg>プロジェクトを削除できませんでした</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Could not initialize live-updates</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200728T004607Z" creationid="miurahr" creationdate="20200728T004607Z">
+        <seg>ライブアップデートを初期化できませんでした</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Could not invite user&lt;x1/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200729T002844Z" creationid="miurahr" creationdate="20200729T002844Z">
+        <seg>ユーザ '&lt;x1/&gt;'を招待できませんでした</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Could not leave project</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200728T015013Z" creationid="miurahr" creationdate="20200728T015013Z">
+        <seg>プロジェクトを離れられませんでした</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Could not load project '&lt;x1/&gt;'</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200728T014936Z" creationid="miurahr" creationdate="20200728T014936Z">
+        <seg>プロジェクト '&lt;x1/&gt;'を読みこめませんでした</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Could not load projects</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200728T014918Z" creationid="miurahr" creationdate="20200728T014918Z">
+        <seg>プロジェクトを読みこめませんでした</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Could not load user ID for user '&lt;x1/&gt;'</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200728T004857Z" creationid="miurahr" creationdate="20200728T004857Z">
+        <seg>ユーザ '&lt;x1/&gt;'のユーザIDを読みこめませんでした</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Could not remove user</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200728T015134Z" creationid="miurahr" creationdate="20200728T015134Z">
+        <seg>ユーザを削除できませんでした</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Could not set process points</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200728T005026Z" creationid="miurahr" creationdate="20200728T005015Z">
+        <seg>進捗率を設定できませんでした</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Could not unassign user</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200728T004938Z" creationid="miurahr" creationdate="20200728T004938Z">
+        <seg>アサイン解除できません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Could not upload file '&lt;x1/&gt;'</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200728T004623Z" creationid="miurahr" creationdate="20200728T004623Z">
+        <seg>ファイル'&lt;x1/&gt;'をアップロードできませんでした</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Create project</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200726T010522Z" creationid="miurahr" creationdate="20200726T010522Z">
+        <seg>プロジェクト作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Create shapes:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200726T011902Z" creationid="miurahr" creationdate="20200726T011902Z">
+        <seg>図形の作成:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Create your query</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T065352Z" creationid="miurahr" creationdate="20200725T065352Z">
+        <seg>クエリの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Delete Project</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T065434Z" creationid="miurahr" creationdate="20200725T065434Z">
+        <seg>プロジェクトの削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T065424Z" creationid="miurahr" creationdate="20200725T065424Z">
+        <seg>説明:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Divide</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T065157Z" creationid="miurahr" creationdate="20200725T065157Z">
+        <seg>分割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Draw</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200801T022416Z" creationid="miurahr" creationdate="20200801T022416Z">
+        <seg>描画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ERROR:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T065601Z" creationid="miurahr" creationdate="20200725T065601Z">
+        <seg>エラー:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each polygon will result in a single task.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T065305Z" creationid="miurahr" creationdate="20200725T065305Z">
+        <seg>各ポリゴンは一つのタスクに対応付けられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Error parsing loaded OSM data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200728T004657Z" creationid="miurahr" creationdate="20200728T004637Z">
+        <seg>OSMデータの解釈エラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Invite</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200726T011933Z" creationid="miurahr" creationdate="20200726T011933Z">
+        <seg>招待</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Leave project</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T065510Z" creationid="miurahr" creationdate="20200725T065510Z">
+        <seg>プロジェクトをはなれる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Load</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200726T010440Z" creationid="miurahr" creationdate="20200725T065332Z">
+        <seg>読み込み中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Loading ...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T065557Z" creationid="miurahr" creationdate="20200725T065557Z">
+        <seg>読み込み ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Loading data from Overpass:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T065343Z" creationid="miurahr" creationdate="20200725T065343Z">
+        <seg>Overpassから読み込み:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Login</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T064636Z" creationid="miurahr" creationdate="20200725T064636Z">
+        <seg>ログイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Logout</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T065408Z" creationid="miurahr" creationdate="20200725T065408Z">
+        <seg>ログアウト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Logout because authorization was not successful</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200728T004550Z" creationid="miurahr" creationdate="20200728T004550Z">
+        <seg>認証に失敗したのでログアウトしました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Max.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200726T020311Z" creationid="miurahr" creationdate="20200726T020311Z">
+        <seg>最大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Name:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T065545Z" creationid="miurahr" creationdate="20200725T065545Z">
+        <seg>名前:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T065451Z" creationid="miurahr" creationdate="20200725T065451Z">
+        <seg>やめます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open in JOSM</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200726T010603Z" creationid="miurahr" creationdate="20200726T010603Z">
+        <seg>JOSMで開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open in iD</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200801T033606Z" creationid="miurahr" creationdate="20200801T033606Z">
+        <seg>iDで開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Paste this URL in here</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T065625Z" creationid="miurahr" creationdate="20200725T065625Z">
+        <seg>URLをここへ貼りつけます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Points:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200726T010554Z" creationid="miurahr" creationdate="20200726T010554Z">
+        <seg>ポイント:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Project removed successfully</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200728T014959Z" creationid="miurahr" creationdate="20200728T014959Z">
+        <seg>プロジェクトを削除しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Projects</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200726T235645Z" creationid="miurahr" creationdate="20200726T235645Z">
+        <seg>プロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Properties:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T065541Z" creationid="miurahr" creationdate="20200725T065536Z">
+        <seg>プロパティ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Really delete Project?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T065442Z" creationid="miurahr" creationdate="20200725T065442Z">
+        <seg>本当にプロジェクトを削除しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Really leave Project?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T065523Z" creationid="miurahr" creationdate="20200725T065523Z">
+        <seg>本当にプロジェクトをはなれますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remote</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200801T022423Z" creationid="miurahr" creationdate="20200801T022423Z">
+        <seg>リモート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200801T022428Z" creationid="miurahr" creationdate="20200801T022428Z">
+        <seg>削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T065548Z" creationid="miurahr" creationdate="20200725T065548Z">
+        <seg>保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Settings</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T065428Z" creationid="miurahr" creationdate="20200725T065428Z">
+        <seg>設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shape size:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T065121Z" creationid="miurahr" creationdate="20200725T065112Z">
+        <seg>分割サイズ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shape:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T065136Z" creationid="miurahr" creationdate="20200725T065136Z">
+        <seg>形状:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SimpleTaskManager &lt;x1912332151/&gt;&lt;x1403162700/&gt;&lt;x1912332150/&gt;Code: &lt;x1912332152/&gt;github.com/hauke96/simple-task-manager&lt;x1912332153/&gt;&lt;x1403162700/&gt;&lt;x1912332150/&gt;Licensed under &lt;x459333577/&gt;GPLv3&lt;x1912332154/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200726T020302Z" creationid="miurahr" creationdate="20200726T020302Z">
+        <seg>SimpleTaskManager &lt;x1912332151/&gt;&lt;x1403162700/&gt;&lt;x1912332150/&gt;コード: &lt;x1912332152/&gt;github.com/hauke96/simple-task-manager&lt;x1912332153/&gt;&lt;x1403162700/&gt;&lt;x1912332150/&gt; &lt;x459333577/&gt;GPLv3&lt;x1912332154/&gt;でライセンスされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Succesfully logged in :)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T064751Z" creationid="miurahr" creationdate="20200725T064751Z">
+        <seg>ログイン成功! :)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Successfully updated project</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200728T015025Z" creationid="miurahr" creationdate="20200728T015025Z">
+        <seg>プロジェクト更新を完了しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tasks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T232718Z" creationid="miurahr" creationdate="20200725T232718Z">
+        <seg>タスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This divides the last drawn polygon into the selected shape.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T065024Z" creationid="miurahr" creationdate="20200725T065024Z">
+        <seg>これは、最後に描画したポリゴンを選択した形状へ分割します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This project has been removed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200728T015048Z" creationid="miurahr" creationdate="20200728T015048Z">
+        <seg>このプロジェクトは削除されました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>URL to OSM-XML:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T065325Z" creationid="miurahr" creationdate="20200725T065325Z">
+        <seg>OSM-XMLのURL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unable to load assigned user</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200728T004920Z" creationid="miurahr" creationdate="20200728T004920Z">
+        <seg>アサインしたユーザを読みこめませんでした</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unable to load data from remote URL</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200728T004732Z" creationid="miurahr" creationdate="20200728T004732Z">
+        <seg>リモートのURLからデータを読みこめませんでした</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unable to open JOSM. Is it running?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200728T005055Z" creationid="miurahr" creationdate="20200728T005055Z">
+        <seg>JOSMを開けません。実行中ですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unable to update project title and/or description</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200728T015040Z" creationid="miurahr" creationdate="20200728T015040Z">
+        <seg>プロジェクトのタイトルや説明を更新できません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Upload</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200801T022420Z" creationid="miurahr" creationdate="20200801T022420Z">
+        <seg>アップロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Upload a GPX, OSM or GeoJSON file, which contains polygons.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T065247Z" creationid="miurahr" creationdate="20200725T065247Z">
+        <seg>ポリゴンがはいっているGPXまたはOSM、GeoJSONのファイルをアップロードします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Upload file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T065312Z" creationid="miurahr" creationdate="20200725T065312Z">
+        <seg>ファイルアップロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>User '&lt;x1/&gt;' is already a member of this project</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200729T002916Z" creationid="miurahr" creationdate="20200729T002916Z">
+        <seg>ユーザ &lt;x1/&gt; はこのプロジェクトの既存メンバーです</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Users</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200726T010540Z" creationid="miurahr" creationdate="20200726T010540Z">
+        <seg>ユーザ管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Warning:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T064902Z" creationid="miurahr" creationdate="20200725T064902Z">
+        <seg>警告:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Welcome &lt;x1/&gt; :)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200726T020207Z" creationid="miurahr" creationdate="20200726T020207Z">
+        <seg>ようこそ &lt;x1/&gt; さん :)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Welcome to the SimpleTaskManager for &lt;x1/&gt;OpenStreetMap&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T064630Z" creationid="miurahr" creationdate="20200725T064630Z">
+        <seg> &lt;x1/&gt;OpenStreetMap&lt;x2/&gt;用シンプル タスク管理(STM) へようこそ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T065454Z" creationid="miurahr" creationdate="20200725T065454Z">
+        <seg>はい</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You currently don't have any projects.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200726T010516Z" creationid="miurahr" creationdate="20200726T010516Z">
+        <seg>現在、プロジェクトはひとつもありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have been removed from this project</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200728T015121Z" creationid="miurahr" creationdate="20200728T015121Z">
+        <seg>あなたは、このプロジェクトからすでに退場しています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>hexagon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T065150Z" creationid="miurahr" creationdate="20200725T065150Z">
+        <seg>六角形</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>meters</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T065124Z" creationid="miurahr" creationdate="20200725T065124Z">
+        <seg>メーター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>points per task:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200726T011854Z" creationid="miurahr" creationdate="20200726T011854Z">
+        <seg>タスクあたりのポイント数:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>square</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T065144Z" creationid="miurahr" creationdate="20200725T065144Z">
+        <seg>正方形</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>triangle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20200725T065154Z" creationid="miurahr" creationdate="20200725T065154Z">
+        <seg>三角形</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

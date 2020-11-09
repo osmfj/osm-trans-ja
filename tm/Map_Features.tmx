@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="TMPotter" o-tmf="tmpotter TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="0.8_5_" segtype="sentence" srclang="EN">
+</header>
+  <body>
+    <tu>
+      <tuv lang="EN">
+        <seg>OpenStreetMap's [[tags|free tagging system]] allows the map to include an unlimited number of attributes describing each feature.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>OpenStreetMap は[[JA:タグ|自由にタグ付けできるシステム]]なので、それぞれの地物を記述する属性を上限なしで地図に含めることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The community agrees on certain key and value combinations for the most commonly used tags, which act as informal standards.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>コミュニティでは、よく使われている特定のキーと値の組み合わせが、非公式の標準として機能することを認められています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, users can create new tags to improve the style of the map or to support analyses that rely on previously unmapped attributes of the features.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>しかし、ユーザーは地図のスタイルを拡張したり、以前はマッピングされていなかったと思われる地物の属性を解析するのに役立てたりするために、新しいタグを作成することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Short descriptions of tags that relate to particular topics or interests can be found using the [[:Category:Features|feature pages]].</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>[[:Category:JA:地物|地物のページ]]で、特定のトピックや関心事に関するタグの簡単な説明を見ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most features can be described using only a small number of tags, such as a path with a classification tag such as {{tag|highway|footway}}, and perhaps also a name using {{tag|name}}.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>多くの地物はわずかな数のタグだけで記述することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But, since this is a worldwide, inclusive map, there can be many different feature types in OpenStreetMap, almost all of them described by tags.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>しかし、これは世界規模の包括的な地図であり、 OpenStreetMap には多くの異なる地物の種類が存在する可能性があり、そのほぼすべてがタグで記述されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For details of more tags and proposed changes to existing tags see [[:Category:Proposed_features|Proposed Features]], [[:Category:Inactive_features|Inactive Features]] and [[Deprecated features]].</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>タグの追加と既存タグの変更の詳細については、[[:Category:Proposed_features|提案中の地物]]、[[:Category:Inactive_features|無効な地物]]、[[Deprecated features|非推奨の地物]]を確認してください。</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
