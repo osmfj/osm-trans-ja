@@ -947,8 +947,8 @@ no_more_mappingを外してください)</seg>
       <tuv lang="en-US">
         <seg>* [http://maps.google.com/maps?t=h&amp;ll=52.552128,-1.859822&amp;spn=0.004593,0.00839&amp;t=h Warwick Road and Tudor Close  - Sutton Coldfield] shows up a good example of a Tele Atlas Easter egg.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201110T074915Z" creationid="miurahr" creationdate="20201110T074915Z">
-        <seg>* [http://maps.google.com/maps?t=h&amp;ll=52.552128,-1.859822&amp;spn=0.004593,0.00839&amp;t=h Warwick Road and Tudor Close  - Sutton Coldfield] は、Tele Atlasのイースターエッグの良い例です。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T075144Z" creationid="miurahr" creationdate="20201110T074915Z">
+        <seg>* [http://maps.google.com/maps?t=h&amp;ll=52.552128,-1.859822&amp;spn=0.004593,0.00839&amp;t=h ワーウィック・ロードとチューダー・クローズ  - サットン・コードフィールド] は、Tele Atlasのイースターエッグの良い例です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6701,6 +6701,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T015535Z" creationid="miurahr" creationdate="20200818T015535Z">
         <seg>そのようなデータは何であれ、オリジナルの著作権条項にしたがうことになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Anyway, these roads don't exist in real life.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T075242Z" creationid="miurahr" creationdate="20201110T075242Z">
+        <seg>とにかく、これらの道路は実際には存在しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28611,6 +28619,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>準備完了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I'm not so sure though as the extension to Warwick runs through the back gardens of existing homes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T075234Z" creationid="miurahr" creationdate="20201110T075234Z">
+        <seg>ワーウィックへの拡張は既存の家の裏庭を通っているので、私にはよくわかりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68015,6 +68031,18 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170521T235107Z" creationid="miurahr" creationdate="20170521T235107Z">
         <seg>利用可能な言語を再構築するために、[http://www.mediawiki.org/wiki/Manual:FAQ#How_do_I_purge_a_cached_page.3F キャッシュを更新]してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[https://www.openstreetmap.org/index.html?lat=52.552128&amp;lon=-1.859822&amp;zoom=15 Here] is what the housing estate looks like on OSM as created from my GPX track.[[User:Blackadder|Blackadder]] 12:17, 3 Feb 2006 (GMT)
+
+* [http://maps.google.com/maps?f=q&amp;hl=en&amp;t=h&amp;ll=51.462283,-0.164773&amp;spn=0.006484,0.015492&amp;t=h Clapham Junction to Clapham Common] a Tele Atlas Easter Egg showed a road running diagonal from the main intersection of Clapham Junction to Clapham Common, through several streets, rows of houses, and a department store.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T075824Z" creationid="miurahr" creationdate="20201110T075824Z">
+        <seg>[https://www.openstreetmap.org/index.html?lat=52.552128&amp;lon=-1.859822&amp;zoom=15 これ]は、わたしのGPXトラックから作成された住宅がOSMでどのようにか見えるか、を示しています。[[User:Blackadder|Blackadder]] 12:17, 3 Feb 2006 (GMT)
+
+* [http://maps.google.com/maps?f=q&amp;hl=en&amp;t=h&amp;ll=51.462283,-0.164773&amp;spn=0.006484,0.015492&amp;t=h クラッパム・ジャンクションからクラパム・コモン] Tele Atlasのイースターエッグでは、クラッパム・ジャンクションの主要交差点からクラパム・コモンまで、いくつかの通り、家の列、デパートを横切って斜めに道路を引いています。.</seg>
       </tuv>
     </tu>
     <tu>
