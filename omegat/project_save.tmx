@@ -607,6 +607,14 @@ no_more_mappingを外してください)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(integer value, 0=entire earth, 18=street level)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T233325Z" creationid="miurahr" creationdate="20201110T233325Z">
+        <seg>(整数値、0=地球全体、18=街路レベル)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(no object)</seg>
       </tuv>
       <tuv lang="ja">
@@ -6809,6 +6817,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Applies to the last style loaded with the {0} option.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T233309Z" creationid="miurahr" creationdate="20201110T233309Z">
+        <seg>{0}オプションで最後にロードされたスタイルに適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Apply</seg>
       </tuv>
       <tuv lang="ja">
@@ -7181,6 +7197,22 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>地名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Argument {0} given, but scale cannot be determined from remaining arguments</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T233449Z" creationid="miurahr" creationdate="20201110T233449Z">
+        <seg>引数 {0} が指定されましたが、残りの引数から尺度を決定できません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Argument {0} given, expected {1} or {2}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T233454Z" creationid="miurahr" creationdate="20201110T233454Z">
+        <seg>引数{0}が指定されました。{1}または{2}が予期されました</seg>
       </tuv>
     </tu>
     <tu>
@@ -29096,6 +29128,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If neither ''{0}'' nor ''{1}'' is given, the default value {2} takes effect and the bounds of the download area in the .osm input file are used.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T233436Z" creationid="miurahr" creationdate="20201110T233436Z">
+        <seg>''{0}''も''{1}''も指定されていない場合、デフォルト値 {2} が有効になり、.osm入力ファイルのダウンロード領域の境界が使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the community is generally unhappy with moderation they can contact the board via the [[osmf:Working Groups#Communication Working Group|Communication Working Group]] to suggest a change in moderation.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200817T233005Z" creationid="miurahr" creationdate="20200817T233005Z">
@@ -30204,6 +30244,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>混在させる場合、オブジェクトの種類を指定します。例：{0}&lt;br/&gt;({1} は &lt;i&gt;ノード&lt;/i&gt;、{2}は &lt;i&gt;ウェイ&lt;/i&gt;、{3} は &lt;i&gt;リレーション&lt;/i&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In option {0}: {1}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T233252Z" creationid="miurahr" creationdate="20201110T233252Z">
+        <seg>オプション{0}: {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -35360,6 +35408,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
       </tuv>
       <tuv lang="ja">
         <seg>水域として判断する灰色の最大明度(0～255)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Maximum image width/height in pixel (''{0}'' means no limit), default value: {1}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T233412Z" creationid="miurahr" creationdate="20201110T233412Z">
+        <seg>最大イメージ幅/高さ(ピクセル単位)(''{0}''は無制限を意味します)、デフォルト値: {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -41545,6 +41601,14 @@ was open.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Options {0} and {1} are mutually exclusive.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T233330Z" creationid="miurahr" creationdate="20201110T233330Z">
+        <seg>オプション{0}と{1}は相互に排他的です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Or could it be that they planned to build the extension to Warwick Road and the Tudor Close spur but never did, in which case the detail for the map could have come from the planning stage.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201110T075035Z" creationid="miurahr" creationdate="20201110T075035Z">
@@ -41791,6 +41855,14 @@ own copy and all nodes will be selected.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>エネルギーの出力形式:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Output image file name (.png); defaults to ''{0}''</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T233304Z" creationid="miurahr" creationdate="20201110T233304Z">
+        <seg>出力イメージファイル名(.png)。デフォルトは''{0}''です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52822,6 +52894,14 @@ This automatically generates a language menu consisting of links to the original
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select zoom level to render.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T233313Z" creationid="miurahr" creationdate="20201110T233313Z">
+        <seg>レンダリングするズームレベルを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select, move, scale and rotate objects</seg>
       </tuv>
       <tuv lang="ja">
@@ -62637,6 +62717,14 @@ or action canceled</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unable to determine scale, one of the options {0}, {1}, {2} or {3} expected</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T233551Z" creationid="miurahr" creationdate="20201110T233551Z">
+        <seg>スケールを決定できません。オプション{0}、{1}、{2}または{3}のいずれかが期待されています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unable to find a data store for file {0}</seg>
       </tuv>
       <tuv lang="ja">
@@ -67485,6 +67573,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>島あり</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With keyword ''{0}'', the downloaded area in the .osm input file will be used (if recorded).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T233354Z" creationid="miurahr" creationdate="20201110T233354Z">
+        <seg>キーワード''{0}''を指定すると、.osm入力ファイルのダウンロード領域が使用されます(記録されている場合)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83374,6 +83470,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>{0} のミラーサーバー{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} mode, but no bounds found in osm data input file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T233458Z" creationid="miurahr" creationdate="20201110T233458Z">
+        <seg>{0}モードですが、osmデータ入力ファイルに境界が見つかりません</seg>
       </tuv>
     </tu>
     <tu>
