@@ -2190,6 +2190,14 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;html&gt;Select all tracks that you want to be displayed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T233043Z" creationid="miurahr" creationdate="20201110T233043Z">
+        <seg>&lt;html&gt;表示するすべてのトラックを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;html&gt;Select to display turn restrictions related to object in the current selection only.&lt;br&gt;Deselect to display all turn restrictions in the current data set.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ja">
@@ -5664,6 +5672,14 @@ If you need further help on mapping an area see:
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Aerial imagery "{0}" might be misaligned.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T232507Z" creationid="miurahr" creationdate="20201110T232507Z">
+        <seg>航空画像"{0}"の位置が正しくない可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Aerial or satellite photo</seg>
       </tuv>
       <tuv lang="ja">
@@ -6524,6 +6540,14 @@ If you need further help on mapping an area see:
       </tuv>
       <tuv lang="ja">
         <seg>JOSMインスタンスが最新のものかどうかを確認中にエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An error occurred while trying to match the photos to the GPX track.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T232946Z" creationid="miurahr" creationdate="20201110T232946Z">
+        <seg>写真をGPXトラックに一致させようとしたときにエラーが発生しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10211,6 +10235,14 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cannot reset state until the upload is finished.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T232627Z" creationid="miurahr" creationdate="20201110T232627Z">
+        <seg>アップロードが完了するまで状態をリセットできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cannot resolve undecided conflict.</seg>
       </tuv>
       <tuv lang="ja">
@@ -10359,6 +10391,14 @@ After: wikipedia={0}:{2}</seg>
       </tuv>
       <tuv lang="ja">
         <seg>岬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Caption: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T233011Z" creationid="miurahr" creationdate="20201110T233011Z">
+        <seg>キャプション:{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -11783,6 +11823,14 @@ After: wikipedia={0}:{2}</seg>
       </tuv>
       <tuv lang="ja">
         <seg>検索サーバーを選択:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choose track visibility and colors</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T233034Z" creationid="miurahr" creationdate="20201110T233034Z">
+        <seg>トラックの表示/非表示と色の選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -14223,6 +14271,14 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Conflicts will not be saved and handled as if you rejected all.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T232735Z" creationid="miurahr" creationdate="20201110T232735Z">
+        <seg>競合は保存されず、すべてを拒否した場合と同様に処理されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Connect existing way to node</seg>
       </tuv>
       <tuv lang="ja">
@@ -14627,6 +14683,14 @@ After: wikipedia={0}:{2}</seg>
       </tuv>
       <tuv lang="ja">
         <seg>すべてのフィールドを変換する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Convert and remember selection</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T233116Z" creationid="miurahr" creationdate="20201110T233116Z">
+        <seg>選択範囲の変換と記憶</seg>
       </tuv>
     </tu>
     <tu>
@@ -17653,6 +17717,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Delete the file from disk?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T232959Z" creationid="miurahr" creationdate="20201110T232959Z">
+        <seg>ディスクからファイルを削除しますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Delete the member from the turn restriction</seg>
       </tuv>
       <tuv lang="ja">
@@ -19177,6 +19249,14 @@ Do you want to keep it?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>今後このメッセージを表示しない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do not upload GPL licensed tracks.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T232341Z" creationid="miurahr" creationdate="20201110T232341Z">
+        <seg>GPLライセンスのトラックをアップロードしないでください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23195,6 +23275,22 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Error occurred while parsing gpx data for layer ''{0}''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T232414Z" creationid="miurahr" creationdate="20201110T232414Z">
+        <seg>レイヤー''{0}''のgpxデータの解析中にエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Error occurred while parsing gpx file ''{0}''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T232422Z" creationid="miurahr" creationdate="20201110T232422Z">
+        <seg>gpxファイル''{0}''の解析中にエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Error occurred with query ''{0}'': ''{1}''</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T214414Z" creationid="miurahr" creationdate="20190107T214414Z">
@@ -23353,6 +23449,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>検索式の解析中に {0} 文字目にエラーを検出しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Error while parsing the date.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T232935Z" creationid="miurahr" creationdate="20201110T232935Z">
+        <seg>日付の解析中にエラーが発生しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23801,6 +23905,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>''+zone=...'' パラメーターには 1-60 の範囲の整数値が求められます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Expected key and value, separated by '':'' character for option {0}, but got ''{1}''</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T233240Z" creationid="miurahr" creationdate="20201110T233240Z">
+        <seg>オプション{0}は'':''文字で区切られたキーと値を要求していますが、''{1}''が指定されました</seg>
       </tuv>
     </tu>
     <tu>
@@ -25511,6 +25623,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Filter layers:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T233135Z" creationid="miurahr" creationdate="20201110T233135Z">
+        <seg>フィルタレイヤー:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Filter mode</seg>
       </tuv>
       <tuv lang="ja">
@@ -26091,6 +26211,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>密集した岩で覆われている領域で、植物はまばらか全く生えていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For best image quality and performance, switch to one of the supported projections: {3}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T232842Z" creationid="miurahr" creationdate="20201110T232842Z">
+        <seg>最高の画質とパフォーマンスを得るには、サポートされている投影法のいずれかに切り替えます： {3}</seg>
       </tuv>
     </tu>
     <tu>
@@ -27951,6 +28079,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Headline: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T233015Z" creationid="miurahr" creationdate="20201110T233015Z">
+        <seg>見出し:{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Health</seg>
       </tuv>
       <tuv lang="ja">
@@ -28659,6 +28795,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200813T125830Z" creationid="miurahr" creationdate="20200813T125830Z">
         <seg>[[JA:Legal FAQ#OpenStreetMap のマップを使いたいのですが、どのようにクレジット表記をしたら良いですか？|法的なよくある質問]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How would you like to proceed?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T233113Z" creationid="miurahr" creationdate="20201110T233113Z">
+        <seg>どうされますか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -32388,6 +32532,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Keywords: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T233018Z" creationid="miurahr" creationdate="20201110T233018Z">
+        <seg>キーワード:{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Kiln</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200819T233104Z" creationid="miurahr" creationdate="20200819T233104Z">
@@ -35764,6 +35916,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Min.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T232542Z" creationid="miurahr" creationdate="20201110T232542Z">
+        <seg>最小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mine</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200906T123115Z" creationid="miurahr" creationdate="20200906T123115Z">
@@ -37065,6 +37225,14 @@ Select one of them first, then retry</seg>
         <seg>Multiple images have been selected</seg>
       </tuv>
       <tuv lang="ja">
+        <seg>複数の画像が選択されました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Multiple images selected</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T233029Z" creationid="miurahr" creationdate="20201110T233029Z">
         <seg>複数の画像が選択されました</seg>
       </tuv>
     </tu>
@@ -39086,6 +39254,14 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Note: GPL is not compatible with the OSM license.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T232334Z" creationid="miurahr" creationdate="20201110T232334Z">
+        <seg>注: GPLはOSMライセンスと互換性がありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Note: If a way is selected, this way will get fresh copies of the unglued
 nodes and the new nodes will be selected.</seg>
       </tuv>
@@ -39824,6 +40000,14 @@ nodes and the new nodes will be selected.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Object name: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T233024Z" creationid="miurahr" creationdate="20201110T233024Z">
+        <seg>オブジェクト名:{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Object of type {0} with id {1} was marked to be deleted, but it''s missing in the source dataset</seg>
       </tuv>
       <tuv lang="ja">
@@ -40301,6 +40485,14 @@ was open.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>直進のみ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only a part of the file will be available.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T232418Z" creationid="miurahr" creationdate="20201110T232418Z">
+        <seg>ファイルの一部のみが使用可能になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40965,6 +41157,14 @@ was open.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>OpenDataウィンドウを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the URLs by double clicking them, edit name and description by double clicking the cell.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T233104Z" creationid="miurahr" creationdate="20201110T233104Z">
+        <seg>URLをダブルクリックして開き、セルをダブルクリックして名前と説明を編集します。&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -43213,6 +43413,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please check its offset using GPS tracks!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T232511Z" creationid="miurahr" creationdate="20201110T232511Z">
+        <seg>GPSトラックを使用してオフセットをチェックしてください!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please check this server URL:
 {1}</seg>
       </tuv>
@@ -43915,6 +44123,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please select another one.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T232955Z" creationid="miurahr" creationdate="20201110T232955Z">
+        <seg>別のものを選択してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please select at least four nodes.</seg>
       </tuv>
       <tuv lang="ja">
@@ -44207,6 +44423,22 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T214430Z" creationid="miurahr" creationdate="20190107T214430Z">
         <seg>もう一度試してみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please use the requested format</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T232938Z" creationid="miurahr" creationdate="20201110T232938Z">
+        <seg>要求された形式を使用してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please wait until the upload is finished.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T232620Z" creationid="miurahr" creationdate="20201110T232620Z">
+        <seg>アップロードが完了するまでお待ちください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48413,6 +48645,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rendering {0} to {1}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T233139Z" creationid="miurahr" creationdate="20201110T233139Z">
+        <seg>{0}を{1}にレンダリングしています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Renders data and saves the result to an image file.</seg>
       </tuv>
       <tuv lang="ja">
@@ -48649,6 +48889,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>投影後のタイルの大きさ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reprojecting layer {0} from {1} to {2}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T232821Z" creationid="miurahr" creationdate="20201110T232821Z">
+        <seg>レイヤ{0}を{1}から{2}に再投影しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51494,6 +51742,14 @@ This automatically generates a language menu consisting of links to the original
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Segment settings</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T232849Z" creationid="miurahr" creationdate="20201110T232849Z">
+        <seg>セグメント設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Segment {0}: {1}</seg>
       </tuv>
       <tuv lang="ja">
@@ -53064,6 +53320,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>建物のサイズを設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set color for selected tracks...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T233107Z" creationid="miurahr" creationdate="20201110T233107Z">
+        <seg>選択したトラックの色を設定.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57047,6 +57311,22 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tag images at the closest end of a segment, when not interpolated</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T232914Z" creationid="miurahr" creationdate="20201110T232914Z">
+        <seg>補間されていない場合、セグメントの最も近い端にあるイメージにタグを付ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tag images at the closest end of a track, when not interpolated&lt;br&gt;(also applies before the first and after the last track)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T232930Z" creationid="miurahr" creationdate="20201110T232930Z">
+        <seg>補間されていない場合、トラックの最も近い端にあるイメージにタグを付ける。&lt;br&gt;(最初のトラックの前と最後のトラックの後にも適用)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tag key contains character with code less than 0x20</seg>
       </tuv>
       <tuv lang="ja">
@@ -57791,6 +58071,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Thank you for providing a changeset comment!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T232314Z" creationid="miurahr" creationdate="20201110T232314Z">
+        <seg>変更セットへのコメントありがとうございます!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Thank you for providing the data source!</seg>
       </tuv>
       <tuv lang="ja">
@@ -57923,6 +58211,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>GPXファイルにトラックやウェイポイントがありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The GPX layer contains fields that can be converted to OSM tags.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T233111Z" creationid="miurahr" creationdate="20201110T233111Z">
+        <seg>GPXレイヤには、OSMタグに変換できるフィールドが含まれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58475,6 +58771,22 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The image file will be permanently lost!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T233003Z" creationid="miurahr" creationdate="20201110T233003Z">
+        <seg>イメージファイルは永久に失われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The imported track "{0}" might not be visible because it has the same color as the background.&lt;br&gt;You can change this in the context menu of the imported layer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T232456Z" creationid="miurahr" creationdate="20201110T232456Z">
+        <seg>読み込まれたトラック"{0}"は背景と同じ色であるため、表示されない可能性があります。&lt;br&gt;これは読み込まれたレイヤのコンテキストメニューで変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The input is invalid.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200819T130101Z" creationid="miurahr" creationdate="20200819T130101Z">
@@ -58619,6 +58931,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
 課題やバグ報告も github: https://github.com/hotosm/osm-tasking-manager2/issues で管理しています。
 
 タスクマネージャーの開発/テストのインスタンスは、 http://tasks-dev.hotosm.org  で実行されていて、ときどき最新のコードのバージョンが実行されています。(注意:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The map is updated live in the background.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T233054Z" creationid="miurahr" creationdate="20201110T233054Z">
+        <seg>マップがバックグラウンドでライブで更新されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58921,6 +59241,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200825T234914Z" creationid="miurahr" creationdate="20200825T234914Z">
         <seg>このスクリプトプラグインには、Mozilla RhinoをベースにしたJavaScript用の組み込みスクリプトエンジンが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The selected GPX track does not contain timestamps.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T232952Z" creationid="miurahr" creationdate="20201110T232952Z">
+        <seg>選択したGPXトラックにタイムスタンプが含まれていません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59405,6 +59733,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are unresolved conflicts.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T232649Z" creationid="miurahr" creationdate="20201110T232649Z">
+        <seg>未解決の競合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There is an intersection between ways.</seg>
       </tuv>
       <tuv lang="ja">
@@ -59729,6 +60065,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T112401Z" creationid="miurahr" creationdate="20190107T112401Z">
         <seg>たとえどちらかの関係者がそのような打撃の可能性について助言されたとしても、この免責は適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This gives other mappers a better understanding of your intent.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T232325Z" creationid="miurahr" creationdate="20201110T232325Z">
+        <seg>これにより、他のマッパーがユーザーの意図をよりよく理解できるようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61661,6 +62005,14 @@ or action canceled</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Trying to delete the layer with background upload.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T232638Z" creationid="miurahr" creationdate="20201110T232615Z">
+        <seg>バックグラウンドでアップロード中のレイヤを削除しようとしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Trying to set a read only data layer as edit layer</seg>
       </tuv>
       <tuv lang="ja">
@@ -62289,6 +62641,14 @@ or action canceled</seg>
       </tuv>
       <tuv lang="ja">
         <seg>{0}ファイルのデータストアが見つかりませんでした</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unable to find supported projection for layer {0}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T232803Z" creationid="miurahr" creationdate="20201110T232803Z">
+        <seg>レイヤー{0}でサポートされている投影法が見つかりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64774,6 +65134,14 @@ Create a new one.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using {1}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T232810Z" creationid="miurahr" creationdate="20201110T232810Z">
+        <seg>{1}を使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Usual elevation at the bottom of the routes</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200819T133238Z" creationid="miurahr" creationdate="20200819T133238Z">
@@ -67231,6 +67599,14 @@ The tasking manager was designed and built for the [[Humanitarian OpenStreetMap 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Would you like to simplify the ways in the converted layer?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T233122Z" creationid="miurahr" creationdate="20201110T233122Z">
+        <seg>変換されたレイヤの方法を簡略化しますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Would you like to update now ?</seg>
       </tuv>
       <tuv lang="ja">
@@ -67657,6 +68033,14 @@ The tasking manager was designed and built for the [[Humanitarian OpenStreetMap 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can adjust the sliders to manually match the photos.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T232950Z" creationid="miurahr" creationdate="20201110T232950Z">
+        <seg>スライダを調整して、手動で写真に合わせることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can also enter east and north offset in the {0} coordinates.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T052035Z" creationid="miurahr" creationdate="20200818T052035Z">
@@ -67693,6 +68077,14 @@ The tasking manager was designed and built for the [[Humanitarian OpenStreetMap 
       </tuv>
       <tuv lang="ja">
         <seg>ここに動作ログの一覧をコピー＆ペーストできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can drag select a range of tracks or use CTRL+Click to select specific ones.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T233050Z" creationid="miurahr" creationdate="20201110T233050Z">
+        <seg>トラックの範囲をドラッグして選択するか、[Ctrl]を押しながらクリックして特定のトラックを選択できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -76535,6 +76927,46 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>only when the segments are less than # meters apart:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T232907Z" creationid="miurahr" creationdate="20201110T232907Z">
+        <seg>セグメントの間隔が#メートル未満の場合のみ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>only when the segments are less than # minutes apart:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T232903Z" creationid="miurahr" creationdate="20201110T232903Z">
+        <seg>セグメントの間隔が#分未満の場合のみ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>only when the tracks are less than # meters apart:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T232925Z" creationid="miurahr" creationdate="20201110T232925Z">
+        <seg>トラック間の距離が#メートル未満の場合のみ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>only when the tracks are less than # minutes apart:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T232922Z" creationid="miurahr" creationdate="20201110T232922Z">
+        <seg>トラック間の間隔が#分未満の場合のみ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>only within # minutes of the closest trackpoint:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T232919Z" creationid="miurahr" creationdate="20201110T232919Z">
+        <seg>最も近いトラックポイントから#分以内のみ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>only {0} tag</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T235257Z" creationid="miurahr" creationdate="20200818T235257Z">
@@ -82752,6 +83184,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>{0}このインポートした画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} incomplete</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T232645Z" creationid="miurahr" creationdate="20201110T232645Z">
+        <seg>{0}が不完全です</seg>
       </tuv>
     </tu>
     <tu>
