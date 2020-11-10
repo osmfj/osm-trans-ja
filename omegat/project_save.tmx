@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_1056f9fb5" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -941,6 +941,14 @@ no_more_mappingを外してください)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170522T034921Z" creationid="miurahr" creationdate="20170522T034921Z">
         <seg>* "Category:言語コード:元の題名" の名称でリダイレクトページを保持する必要があります（例: [[:Category:Beginners' guide|英語でのカテゴリ]], [{{FULLURL:Category:JA:Beginners' guide|redirect=no}} 日本語でのリダイレクト], [[:Category:JA:初心者ガイド|実際の日本語でのカテゴリ]]）。 そうすれば、言語間ナビゲーションバーが動作します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* [http://maps.google.com/maps?t=h&amp;ll=52.552128,-1.859822&amp;spn=0.004593,0.00839&amp;t=h Warwick Road and Tudor Close  - Sutton Coldfield] shows up a good example of a Tele Atlas Easter egg.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T074915Z" creationid="miurahr" creationdate="20201110T074915Z">
+        <seg>* [http://maps.google.com/maps?t=h&amp;ll=52.552128,-1.859822&amp;spn=0.004593,0.00839&amp;t=h Warwick Road and Tudor Close  - Sutton Coldfield] は、Tele Atlasのイースターエッグの良い例です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41029,6 +41037,14 @@ was open.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>描画パフォーマンス関連オプション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Or could it be that they planned to build the extension to Warwick Road and the Tudor Close spur but never did, in which case the detail for the map could have come from the planning stage.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T075035Z" creationid="miurahr" creationdate="20201110T075035Z">
+        <seg>あるいは、ワーウィック・ロードとチューダー・クローズ・スパーへの拡張を計画していたが、計画していなかったのかもしれない。その場合、マップの詳細は計画段階から来ることができたかもしれない。</seg>
       </tuv>
     </tu>
     <tu>
