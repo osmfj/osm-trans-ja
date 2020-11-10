@@ -468,6 +468,14 @@ On most maps you'll find a copyright, trademark symbol or something similar that
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Currently running: {2})</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235418Z" creationid="miurahr" creationdate="20201110T235418Z">
+        <seg>(現在実行中: {2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Hint: Select nodes in the middle of the way.)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T114420Z" creationid="miurahr" creationdate="20200818T114420Z">
@@ -1378,6 +1386,14 @@ no_more_mappingを外してください)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;br/&gt;You can reject preferences changes by pressing "Cancel" in preferences dialog &lt;br/&gt;To activate some changes JOSM restart may be needed.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235617Z" creationid="miurahr" creationdate="20201110T235617Z">
+        <seg>&lt;br/&gt;環境設定の変更を拒否するには、[環境設定]ダイアログボックスで[キャンセル]をクリックします。&lt;br/&gt;一部の変更を有効にするには、JOSM再起動が必要な場合があります。&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;br&gt;
 ===Setting up your editor===
 
@@ -1822,6 +1838,14 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;html&gt;Failed to access the OSM server ''{0}''&lt;br&gt;with the Access Token ''{1}''.&lt;br&gt;The server rejected the Access Token as unauthorized.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235247Z" creationid="miurahr" creationdate="20201110T235247Z">
+        <seg>&lt;html&gt;アクセストークン''{1}''を使用してOSMサーバ''{0}''&lt;br&gt;にアクセスできませんでした。&lt;br&gt;サーバはアクセストークンを未承認として拒否しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;html&gt;Failed to authenticate at the OSM server ''{0}''.&lt;br&gt;You are using OAuth to authenticate but currently there is no&lt;br&gt;OAuth Access Token configured.&lt;br&gt;Please open the Preferences Dialog and generate or enter an Access Token.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ja">
@@ -1950,6 +1974,14 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;html&gt;Failed to retrieve information about the current user from the OSM server ''{0}''.&lt;br&gt;This is probably not a problem caused by the tested Access Token, but&lt;br&gt;rather a problem with the server configuration.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235341Z" creationid="miurahr" creationdate="20201110T235341Z">
+        <seg>&lt;html&gt;OSMサーバ''{0}''から現在のユーザに関する情報を取得できませんでした。&lt;br&gt;これは、テストされたアクセストークンが原因で発生した問題ではなく、サーバ設定の問題である可能性があります。&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;html&gt;Failed to sign the request for the OSM server ''{0}'' with the token ''{1}''.&lt;br&gt;The token ist probably invalid.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ja">
@@ -1974,6 +2006,22 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;html&gt;Here is file import summary.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235551Z" creationid="miurahr" creationdate="20201110T235551Z">
+        <seg>&lt;html&gt;ファイルのインポートの概要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;html&gt;JOSM has successfully retrieved an Access Token.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235212Z" creationid="miurahr" creationdate="20201110T235212Z">
+        <seg>&lt;html&gt;JOSMはアクセストークンを正常に取得しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;html&gt;JOSM is about to reset the OAuth settings to default values.&lt;br&gt;The current custom settings are not saved.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ja">
@@ -1986,6 +2034,14 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T114658Z" creationid="miurahr" creationdate="20190107T114658Z">
         <seg>&lt;html&gt;JOSMは、現在、匿名ユーザで稼動しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;html&gt;JOSM successfully retrieved a Request Token.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235142Z" creationid="miurahr" creationdate="20201110T235142Z">
+        <seg>&lt;html&gt;JOSMは要求トークンを正常に取得しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2198,6 +2254,14 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;html&gt;Run a semi-automatic procedure to get an access token from the OSM website.&lt;br&gt;JOSM submits the standards OAuth requests to get a Request Token and an&lt;br&gt;Access Token.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T234925Z" creationid="miurahr" creationdate="20201110T234925Z">
+        <seg>&lt;html&gt;半自動手順を実行して、OSM Webサイトからアクセストークンを取得します。&lt;br&gt;JOSMは、要求トークンとアクセストークンを取得するために標準OAuth要求を送信します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;html&gt;Select all tracks that you want to be displayed.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201110T233043Z" creationid="miurahr" creationdate="20201110T233043Z">
@@ -2326,6 +2390,14 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;html&gt;The automatic process for retrieving an OAuth Access Token&lt;br&gt;from the OSM server failed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235039Z" creationid="miurahr" creationdate="20201110T235039Z">
+        <seg>&lt;html&gt;OSMサーバからOAuth Access Token&lt;br&gt;を取得するための自動プロセスが失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;html&gt;The automatic process for retrieving an OAuth Access Token&lt;br&gt;from the OSM server failed.&lt;br&gt;&lt;br&gt;Please try again or choose another kind of authorization process,&lt;br&gt;i.e. semi-automatic or manual authorization.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ja">
@@ -2442,6 +2514,14 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
       </tuv>
       <tuv lang="ja">
         <seg>&lt;html&gt;サーバーからオブジェクト削除の報告がありました。&lt;br&gt;このオブジェクトを更新または削除しようとしたのであれば&lt;strong&gt;アップロードは失敗&lt;/strong&gt;です。&lt;br&gt; このオブジェクトをダウンロードしようとしたのであれば&lt;strong&gt;ダウンロードは失敗&lt;/strong&gt;です。&lt;br&gt;&lt;br&gt;エラーメッセージ:&lt;br&gt;{0}&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;html&gt;The test failed because the server responded with an internal error.&lt;br&gt;JOSM could not decide whether the token is valid.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235358Z" creationid="miurahr" creationdate="20201110T235358Z">
+        <seg>&lt;html&gt;サーバが内部エラーで応答したため、テストに失敗しました。&lt;br&gt;JOSMはトークンが有効かどうかを判断できませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2642,6 +2722,14 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
       </tuv>
       <tuv lang="ja">
         <seg>&lt;html&gt;この競合に含まれる差異のマージが完了していません。&lt;br&gt;全ての差異が解決されないと、競合の解決は適用されません。&lt;br&gt;&lt;strong&gt;{0}&lt;/strong&gt;をクリックすると破棄して閉じます。&lt;br&gt;&lt;strong&gt;すでに解決した差異は適用されません。&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;{1}&lt;/strong&gt;をクリックすると、競合の解決に戻ります。&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;html&gt;You have successfully retrieved an OAuth Access Token from the OSM website.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235017Z" creationid="miurahr" creationdate="20201110T235017Z">
+        <seg>&lt;html&gt;OSM WebサイトからOAuthアクセストークンを正常に取得できました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10491,6 +10579,14 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Carefully check the server&lt;br&gt;URL and your Internet connection.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235353Z" creationid="miurahr" creationdate="20201110T235353Z">
+        <seg>サーバーのURLとインターネット接続を注意深く確認してください。&lt;br&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cargo</seg>
       </tuv>
       <tuv lang="ja">
@@ -12195,6 +12291,14 @@ After: wikipedia={0}:{2}</seg>
       </tuv>
       <tuv lang="ja">
         <seg>受信トレイを表示するにはここをクリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on &lt;strong&gt;{0}&lt;/strong&gt; to accept the token.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235021Z" creationid="miurahr" creationdate="20201110T235021Z">
+        <seg>&lt;strong&gt;{0}&lt;/strong&gt;をクリックして、トークンを受け入れます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21839,6 +21943,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Edit boundaries</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235447Z" creationid="miurahr" creationdate="20201110T235447Z">
+        <seg>境界を編集する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Edit features for OpenSeaMap</seg>
       </tuv>
       <tuv lang="ja">
@@ -23067,6 +23179,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Entry ''{0}'' requires JOSM Version {1}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235409Z" creationid="miurahr" creationdate="20201110T235409Z">
+        <seg>エントリ''{0}''にはJOSMバージョン{1}が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Entry {0}</seg>
       </tuv>
       <tuv lang="ja">
@@ -23423,6 +23543,22 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ファイル"{0}" を "{1}" に改名する 時にエラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Error was: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T234821Z" creationid="miurahr" creationdate="20201110T234821Z">
+        <seg>エラー: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Error was: {1}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T234915Z" creationid="miurahr" creationdate="20201110T234915Z">
+        <seg>エラー: {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -24701,6 +24837,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Failed to index validator rules.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T234813Z" creationid="miurahr" creationdate="20201110T234813Z">
+        <seg>妥当性検査ルールのインデックス作成に失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Failed to initialize preferences.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T114649Z" creationid="miurahr" creationdate="20200818T114624Z">
@@ -24721,6 +24865,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200825T233508Z" creationid="miurahr" creationdate="20200825T233508Z">
         <seg>プラグイン''{0}''のインスタンス化に失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Failed to load Mappaint styles from ''{0}''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T234830Z" creationid="miurahr" creationdate="20201110T234830Z">
+        <seg>''{0}''からMappaintスタイルを読み込めませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24881,6 +25033,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>MapCSS セレクタの解析に失敗しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Failed to parse Mappaint styles from ''{0}''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T234909Z" creationid="miurahr" creationdate="20201110T234909Z">
+        <seg>''{0}''からMappaintスタイルを解析できませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29672,6 +29832,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Image dimensions ({0}x{1}) exceeds maximum image size {2} (use option {3} to change limit)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T234728Z" creationid="miurahr" creationdate="20201110T234728Z">
+        <seg>イメージの寸法({0}x{1})がイメージの最大サイズ{2}を超えています(オプション{3}を使用して制限を変更してください)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Image file could not be deleted.</seg>
       </tuv>
       <tuv lang="ja">
@@ -30172,6 +30340,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>下絵を強化する(ラスタ画像のみ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In .osm data file ''{0}'' -</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T234719Z" creationid="miurahr" creationdate="20201110T234719Z">
+        <seg>.osmデータファイル''{0}'' -</seg>
       </tuv>
     </tu>
     <tu>
@@ -30952,6 +31128,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Internal JOSM boundaries</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235521Z" creationid="miurahr" creationdate="20201110T235521Z">
+        <seg>内部JOSM境界</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Internal Preset</seg>
       </tuv>
       <tuv lang="ja">
@@ -31522,6 +31706,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It dispatches the user to the OSM website in an external browser&lt;br&gt;to authenticate itself and to accept the request token submitted by JOSM.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T234930Z" creationid="miurahr" creationdate="20201110T234930Z">
+        <seg>ユーザーは外部ブラウザのOSM Webサイトに送信され、&lt;br&gt;自身を認証し、JOSMから送信された要求トークンを受け入れます。&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It does not contain any JOSM object or suitable text.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T122217Z" creationid="miurahr" creationdate="20190107T122217Z">
@@ -31890,6 +32082,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>JOSM failed to log into {0}&lt;br&gt;for user {1}.&lt;br&gt;&lt;br&gt;Please check username and password and try again.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235053Z" creationid="miurahr" creationdate="20201110T235053Z">
+        <seg>JOSMはユーザー{1}の{0}&lt;br&gt;にログインできませんでした。&lt;br&gt;&lt;br&gt;ユーザー名とパスワードを確認し、再試行してください。&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>JOSM found {0} unsaved osm data layer.</seg>
       </tuv>
       <tuv lang="ja">
@@ -31902,6 +32102,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T142305Z" creationid="miurahr" creationdate="20190107T142305Z">
         <seg>JOSMは現在、匿名ユーザーによって実行されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JOSM is now launching an authorization page in an external browser.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235145Z" creationid="miurahr" creationdate="20201110T235145Z">
+        <seg>JOSMは現在、外部ブラウザで認証ページを起動している。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32022,6 +32230,22 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
       </tuv>
       <tuv lang="ja">
         <seg>JOSMは間もなくこのバージョンでは動作しなくなります。Java{0}にアップデートすることを強くお勧めします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JOSM will use it in subsequent requests to gain access to the OSM API.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235031Z" creationid="miurahr" creationdate="20201110T235031Z">
+        <seg>JOSMは、OSM APIでOSM APIへのアクセスを取得するためにこのAPIを使用します。&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JOSM will use it in the future for authentication and authorization to the OSM server.&lt;br&gt;&lt;br&gt;The access token is: &lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235225Z" creationid="miurahr" creationdate="20201110T235225Z">
+        <seg>JOSMでは、今後、OSMサーバに対する認証および認可に使用する予定です。&lt;br&gt;&lt;br&gt;アクセストークン:&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36088,6 +36312,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
       </tuv>
       <tuv lang="ja">
         <seg>選択したノードやウェイの鏡像を作ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Missing argument - input data file ({0})</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T234705Z" creationid="miurahr" creationdate="20201110T234705Z">
+        <seg>引数がありません - 入力データファイル ({0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -43959,6 +44191,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please enter your OSM user name and password.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T234942Z" creationid="miurahr" creationdate="20201110T234942Z">
+        <seg>OSM ユーザ名とパスワードを入力してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please enter your OSM user name in the preferences first.&lt;/em&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T142138Z" creationid="miurahr" creationdate="20190107T142138Z">
@@ -44003,6 +44243,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>写真をロードしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please login with your OSM username and password and follow the instructions to authorize the Request Token.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235156Z" creationid="miurahr" creationdate="20201110T235156Z">
+        <seg>OSMユーザ名とパスワードを使用してログインし、指示に従って要求トークンを認証してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44487,6 +44735,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200819T132809Z" creationid="miurahr" creationdate="20200819T132809Z">
         <seg>後でもう一度試してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please try again later.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235401Z" creationid="miurahr" creationdate="20201110T235401Z">
+        <seg>後でもう一度実行してください。&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -47553,6 +47809,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>名前のない登録済みのツールバーのアクション: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Registered toolbar action {0} overwritten: {1} gets {2}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235443Z" creationid="miurahr" creationdate="20201110T235443Z">
+        <seg>登録されたツールバーアクション{0}が上書きされました: {1}は{2}を取得します</seg>
       </tuv>
     </tu>
     <tu>
@@ -51870,6 +52134,14 @@ This automatically generates a language menu consisting of links to the original
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select ''Info'' from the right click menu for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T234752Z" creationid="miurahr" creationdate="20201110T234752Z">
+        <seg>詳細については、右クリックメニューから''情報''を選択してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select All</seg>
       </tuv>
       <tuv lang="ja">
@@ -53656,6 +53928,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>Wikipediaの記事について既定の言語を設定する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Setting Preference entries directly.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235545Z" creationid="miurahr" creationdate="20201110T235526Z">
+        <seg>設定項目を直接設定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56637,6 +56917,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Subsequent data upload requests don''t use your password any more.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235011Z" creationid="miurahr" creationdate="20201110T235011Z">
+        <seg>以降のデータアップロード要求では、パスワードは使用されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Subtype of waterway (largest one of members)</seg>
       </tuv>
       <tuv lang="ja">
@@ -58287,6 +58575,22 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Access Token Key must not be empty.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235057Z" creationid="miurahr" creationdate="20201110T235057Z">
+        <seg>アクセストークンキーを空にすることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Access Token Secret must not be empty.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235135Z" creationid="miurahr" creationdate="20201110T235111Z">
+        <seg>アクセストークン秘密鍵は空にしないでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The GPX file contained no tracks or waypoints.</seg>
       </tuv>
       <tuv lang="ja">
@@ -59173,6 +59477,22 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The password cannot be empty.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235035Z" creationid="miurahr" creationdate="20201110T235035Z">
+        <seg>パスワードを空にすることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The password will &lt;strong&gt;not&lt;/strong&gt; be saved in clear text in the JOSM preferences and it will be submitted to the OSM server &lt;strong&gt;only once&lt;/strong&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T234956Z" creationid="miurahr" creationdate="20201110T234956Z">
+        <seg>パスワードは、JOSMの環境設定にクリアテキストで保存されることは&lt;strong&gt;ありません&lt;/strong&gt;。OSMサーバに送信されるのは&lt;strong&gt;1回だけです&lt;/strong&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The plugin file ''{0}'' does not include a Manifest.</seg>
       </tuv>
       <tuv lang="ja">
@@ -59733,6 +60053,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Then switch back to this dialog and click on &lt;strong&gt;{0}&lt;/strong&gt;&lt;br&gt;&lt;br&gt;If launching the external browser fails you can copy the following authorize URL and paste it into the address field of your browser.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235209Z" creationid="miurahr" creationdate="20201110T235209Z">
+        <seg>次に、このダイアログボックスに戻り、[&lt;strong&gt;{0}&lt;/strong&gt;&lt;br&gt;&lt;br&gt;]をクリックします。外部ブラウザの起動に失敗した場合は、次の認証URLをコピーして、ブラウザのアドレスフィールドに貼り付けることができます。&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Then there would occur a double redirection, and that causes problems because the Wiki-System will stop the second redirection (see [[Special:DoubleRedirects]]).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170522T122228Z" creationid="miurahr" creationdate="20170522T122202Z">
@@ -59929,6 +60257,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T125551Z" creationid="miurahr" creationdate="20201106T125551Z">
         <seg>地物の形を定義している線でモールス符号を使うという地図作成法のトリックが使われていました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There was an error when loading this style.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T234736Z" creationid="miurahr" creationdate="20201110T234736Z">
+        <seg>このスタイルのロード中にエラーが発生しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61155,6 +61491,14 @@ projections and retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Toggle all settings</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T234732Z" creationid="miurahr" creationdate="20201110T234732Z">
+        <seg>すべての設定を切り替え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Toggle dialogs panel</seg>
       </tuv>
       <tuv lang="ja">
@@ -61343,6 +61687,14 @@ projections and retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>名前のないツールバーのアクション: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toolbar action {0} overwritten: {1} gets {2}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235433Z" creationid="miurahr" creationdate="20201110T235433Z">
+        <seg>ツールバーアクション{0}が上書きされました: {1}は{2}を取得します</seg>
       </tuv>
     </tu>
     <tu>
@@ -65078,6 +65430,14 @@ Create a new one.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use with caution!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235532Z" creationid="miurahr" creationdate="20201110T235532Z">
+        <seg>注意して使用してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use {0}</seg>
       </tuv>
       <tuv lang="ja">
@@ -68201,6 +68561,14 @@ The tasking manager was designed and built for the [[Humanitarian OpenStreetMap 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can now accept this token.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235216Z" creationid="miurahr" creationdate="20201110T235216Z">
+        <seg>これで、このトークンを受け入れることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can often find evidence of this in far end corners of the map itself or on/inside map covers.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T112629Z" creationid="miurahr" creationdate="20201106T112629Z">
@@ -68461,6 +68829,14 @@ The tasking manager was designed and built for the [[Humanitarian OpenStreetMap 
       </tuv>
       <tuv lang="ja">
         <seg>JOSMソフトウエアが更新されました。&lt;br&gt;問題が起こらないよう、プラグインも同様に更新すべきです。&lt;br&gt;&lt;br&gt;プラグインを更新しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You will not&lt;br&gt;be able to access any protected resource on this server using this token.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235251Z" creationid="miurahr" creationdate="20201110T235251Z">
+        <seg>このトークンを使用して、このサーバー上の保護リソースにアクセスすることは&lt;br&gt;できません。&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
