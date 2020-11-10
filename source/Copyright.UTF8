@@ -1,0 +1,35 @@
+{{Languages|Copyright}}
+'''Copyright''' as a concept, and copyright law, are hugely important to OpenStreetMap for several different reasons. This page groups some information about copyright, often as links to more detailed pages elsewhere.
+
+== Reason for OpenStreetMap ==
+Copyright law, as it applies to maps, is in key part of the reason for making OpenStreetMap in the first place!
+
+See [[FAQ#Why OpenStreetMap?]] for the explanation.
+
+==Proprietary data==
+'''Do not use data from [[wikipedia:Copyright|copyrighted]] maps or any other [[wikipedia:Proprietary|proprietary]] data!''' So copying, tracing or any act of reproduction of any copyrighted work is strictly prohibited. Copyright is a "negative" or "prohibitive" right, meaning that it ''prevents'' certain groups from doing something with the copyrighted work. The original copyright holder has, what is called, [[wikipedia:Copyright#Exclusive_rights|exclusive rights]] over the work and is thus the only authority that has the ability to alter permissions and use. '''If you find data within OpenStreetMap that you believe is an infringement of someone else's copyright, then please make contact with the [[Data_working_group|Data Working Group]].'''
+
+On most maps you'll find a copyright, trademark symbol or something similar that indicates it as proprietary. This is accompanied by the copyright holder and a date of publication. You can often find evidence of this in far end corners of the map itself or on/inside map covers. Like physical copyrighted works, electronic data sources should have a terms of condition, disclaimer or copyright notice attached with it. '''If unsure, do not use'''.
+
+Learn here about [[Copyright Easter Eggs]].
+
+== Copyright Law in detail ==
+We have a number of wiki pages going into details of copyright law and how it applies to maps and OpenStreetMap:
+* [[Statute law]]
+* [[Case law]]
+* [[Copyright in deriving from aerial photography]]
+
+===Copyright around the world===
+*[[Copyright in the PRC]]
+
+==Out of copyright maps==
+Usually copyright in maps (and anything else) will expire over a certain length of time. This means '''old maps''' can be classed as "Out of copyright" and therefore available to copy freely. The copyright expiry date varies for different countries and map producers. 
+
+See [[Out-of-copyright maps]]
+
+==See also ==
+* [[Legal FAQ]] - Frequently asked questions about various legal aspects of OpenStreetMap (including copyright)
+* [[Lacking_proper_attribution]] - uses of OSM data where the product was or is still lacking proper attribution. 
+
+[[Category:Legal]]
+[[Category:License]]
