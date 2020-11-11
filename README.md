@@ -35,9 +35,7 @@ JOSMのメッセージ翻訳では、 https://translations.launchpad.net/josm/tr
 OmegaTの利用方法
 ===
 
-OmegaTの利用マニュアルについてはHackMDで公開しています。
-マニュアルは、[omegat-manualリポジトリ](https://github.com/osmfj/omegat-manual)を参照してください。
-
+OmegaTの利用方法については[HackMDで公開](https://hackmd.io/@osmfj/r14oK7MXv/https%3A%2F%2Fhackmd.io%2F%40osmfj%2FH1FAQy0mv)しています。
 
 必要なプラグイン
 ---
