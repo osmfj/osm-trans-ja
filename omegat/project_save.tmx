@@ -1974,6 +1974,14 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;html&gt;Failed to retrieve a list of changesets from the OSM API server at&lt;br&gt;''{1}''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000239Z" creationid="miurahr" creationdate="20201111T000239Z">
+        <seg>&lt;html&gt;''{1}''で&lt;br&gt;OSM APIサーバからチェンジセットのリストを取得できませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;html&gt;Failed to retrieve information about the current user from the OSM server ''{0}''.&lt;br&gt;This is probably not a problem caused by the tested Access Token, but&lt;br&gt;rather a problem with the server configuration.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201110T235341Z" creationid="miurahr" creationdate="20201110T235341Z">
@@ -2358,6 +2366,14 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;html&gt;Tagging preset source {0} can be loaded but it contains errors.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000000Z" creationid="miurahr" creationdate="20201111T000000Z">
+        <seg>&lt;html&gt;タグ付けプリセットソース{0}はロードできますが、エラーが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;html&gt;Take a photo of your GPS receiver while it displays the time.&lt;br&gt;Display that photo here.&lt;br&gt;And then, simply capture the time you read on the photo and select a timezone&lt;hr&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ja">
@@ -2598,6 +2614,14 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;html&gt;Unable to parse tagging preset source: {0}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000029Z" creationid="miurahr" creationdate="20201111T000029Z">
+        <seg>&lt;html&gt;タグ付けのプリセットソースを解析できません:{0}。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;html&gt;Upload of unprocessed GPS data as map data is considered harmful.&lt;br&gt;If you want to upload traces, look here:&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ja">
@@ -2770,6 +2794,22 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T114230Z" creationid="miurahr" creationdate="20200818T114203Z">
         <seg>&lt;html&gt;{0}リレーションは互いを参照するため、循環参照になります。&lt;br&gt;JOSMはリレーションをアップロードできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;i&gt;(Autosave stores the changed data layers in periodic intervals.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235908Z" creationid="miurahr" creationdate="20201110T235908Z">
+        <seg>&lt;i&gt;(自動保存では、変更されたデータレイヤーが定期的に保存されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;i&gt;(JOSM can keep a backup file when saving data layers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235920Z" creationid="miurahr" creationdate="20201110T235920Z">
+        <seg>&lt;i&gt;(JOSMでは、データレイヤーを保存するときにバックアップファイルを保存できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6064,6 +6104,14 @@ If you need further help on mapping an area see:
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All installed plugins are up to date.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000111Z" creationid="miurahr" creationdate="20201111T000111Z">
+        <seg>インストールされているプラグインはすべて最新です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All intersecting ways</seg>
       </tuv>
       <tuv lang="ja">
@@ -9011,6 +9059,14 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Boundaries of selected imagery entries:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235848Z" creationid="miurahr" creationdate="20201110T235848Z">
+        <seg>選択した画像エントリの境界:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Boundary</seg>
       </tuv>
       <tuv lang="ja">
@@ -10891,6 +10947,14 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Change colors used in program dialogs and in map paint styles.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235622Z" creationid="miurahr" creationdate="20201110T235622Z">
+        <seg>プログラムダイアログおよびマップペイントスタイルで使用される色を変更します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Change directions?</seg>
       </tuv>
       <tuv lang="ja">
@@ -11879,6 +11943,14 @@ After: wikipedia={0}:{2}</seg>
       </tuv>
       <tuv lang="ja">
         <seg>矢印の先端色の選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choose default layer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235826Z" creationid="miurahr" creationdate="20201110T235813Z">
+        <seg>既定のレイヤーを選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -13929,8 +14001,8 @@ After: wikipedia={0}:{2}</seg>
       <tuv lang="en-US">
         <seg>Configure whether to use a proxy server</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>プロクシサーバーを使用するかどうか構成を決める</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000522Z">
+        <seg>プロキシサーバーを使用するかどうか構成を決める</seg>
       </tuv>
     </tu>
     <tu>
@@ -14703,6 +14775,14 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Continue anyway?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000124Z" creationid="miurahr" creationdate="20201111T000124Z">
+        <seg>続行しますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Continue as is</seg>
       </tuv>
       <tuv lang="ja">
@@ -15131,6 +15211,14 @@ After: wikipedia={0}:{2}</seg>
       </tuv>
       <tuv lang="ja">
         <seg>選択したキーと値をコピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Copy selected default entries from the list above into the list below.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235858Z" creationid="miurahr" creationdate="20201110T235858Z">
+        <seg>選択したデフォルトエントリを上のリストから下のリストにコピーします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19437,6 +19525,30 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Do you really want to use it?&lt;br&gt;&lt;br&gt;&lt;table width=400&gt;Error is: [{1}:{2}] {3}&lt;/table&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000037Z" creationid="miurahr" creationdate="20201111T000037Z">
+        <seg>本当に使用しますか?&lt;br&gt;&lt;br&gt;&lt;table width=400&gt;エラー: [{1}:{2}]{3}&lt;/table&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do you really want to use it?&lt;br&gt;&lt;br&gt;&lt;table width=600&gt;Error is: [{1}:{2}] {3}&lt;/table&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000022Z" creationid="miurahr" creationdate="20201111T000022Z">
+        <seg>本当に使用しますか?&lt;br&gt;&lt;br&gt;&lt;table width=600&gt;エラー: [{1}:{2}]{3}&lt;/table&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do you really want to use it?&lt;br&gt;&lt;br&gt;&lt;table width=600&gt;Error is: {1}&lt;/table&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000047Z" creationid="miurahr" creationdate="20201111T000047Z">
+        <seg>本当に使用しますか?&lt;br&gt;&lt;br&gt;&lt;table width=600&gt;エラー: {1}&lt;/table&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Do you want to allow this?</seg>
       </tuv>
       <tuv lang="ja">
@@ -23323,6 +23435,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Error getting layers: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235823Z" creationid="miurahr" creationdate="20201110T235823Z">
+        <seg>レイヤーの取得中にエラーが発生しました:{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Error header "{0}" did not match with an expected pattern</seg>
       </tuv>
       <tuv lang="ja">
@@ -26535,6 +26655,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For user-based bandwith limit instead of IP-based one</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000419Z" creationid="miurahr" creationdate="20201111T000419Z">
+        <seg>IPベースの帯域幅制限ではなく、ユーザベースの帯域幅制限の場合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For {0} the correct order of the new way parts could not be determined.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T114528Z" creationid="miurahr" creationdate="20200818T114528Z">
@@ -27691,6 +27819,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T014520Z" creationid="miurahr" creationdate="20200818T014520Z">
         <seg> Google などはそのデータのライセンスを受けています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Got ''{1}''</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235955Z" creationid="miurahr" creationdate="20201110T235955Z">
+        <seg> ''{1}''を取得しました</seg>
       </tuv>
     </tu>
     <tu>
@@ -30368,6 +30504,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In case of a crash, JOSM tries to recover the unsaved changes on next start.)&lt;/i&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235914Z" creationid="miurahr" creationdate="20201110T235914Z">
+        <seg>クラッシュした場合、JOSMは保存されていない変更を次の起動時に復元しようとします。)&lt;/i&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In case of sport:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200906T110958Z" creationid="miurahr" creationdate="20200906T110958Z">
@@ -31666,6 +31810,14 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It appends ''~'' to the file name and saves it in the same folder.)&lt;/i&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235923Z" creationid="miurahr" creationdate="20201110T235923Z">
+        <seg>ファイル名に「~」が追加され、同じフォルダに保存されます。)&lt;/i&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It can be activated by clicking the left button at the bottom of this message or the button in the toolbar on the left, which uses the same icon.</seg>
       </tuv>
       <tuv lang="ja">
@@ -32066,6 +32218,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>JOSM does not have to download newer versions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000114Z" creationid="miurahr" creationdate="20201111T000114Z">
+        <seg>JOSMでは、新しいバージョンをダウンロードする必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>JOSM expected to find primitive [{0} {1}] in dataset but it is not there.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T220411Z" creationid="miurahr" creationdate="20200818T220411Z">
@@ -32094,6 +32254,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
       </tuv>
       <tuv lang="ja">
         <seg>まだ保存していないデータレイヤーが{0}枚あります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JOSM is configured to use proxies from the system setting, but the JVM is not configured to retrieve them.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000604Z" creationid="miurahr" creationdate="20201111T000604Z">
+        <seg>JOSMはシステム設定からプロキシを使用するように設定されていますが、JVMはプロキシを取得するように設定されていません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40048,6 +40216,14 @@ nodes and the new nodes will be selected.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OSM API URL must not be empty.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000448Z" creationid="miurahr" creationdate="20201111T000448Z">
+        <seg>OSM APIのURLを空にすることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OSM Data</seg>
       </tuv>
       <tuv lang="ja">
@@ -43717,6 +43893,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please authorize first.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000435Z" creationid="miurahr" creationdate="20201111T000435Z">
+        <seg>最初に認証してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please check its offset using GPS tracks!</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201110T232511Z" creationid="miurahr" creationdate="20201110T232511Z">
@@ -46321,6 +46505,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>都道府県</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Proxy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000512Z" creationid="miurahr" creationdate="20201111T000512Z">
+        <seg>プロキシ</seg>
       </tuv>
     </tu>
     <tu>
@@ -49409,6 +49601,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>デフォルトに戻す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Resetting preferences to ''No proxy''</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000612Z" creationid="miurahr" creationdate="20201111T000612Z">
+        <seg>環境設定を「プロキシなし」にリセットしています</seg>
       </tuv>
     </tu>
     <tu>
@@ -53096,8 +53296,8 @@ This automatically generates a language menu consisting of links to the original
       <tuv lang="en-US">
         <seg>Select to use HTTP basic authentication with your OSM username and password</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>OSMのユーザー名とパスワードをHTTPのBasic認証で利用する場合</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000408Z">
+        <seg>OSMのユーザー名とパスワードをHTTPのベーシック認証で利用する場合</seg>
       </tuv>
     </tu>
     <tu>
@@ -53700,6 +53900,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set default layer?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235810Z" creationid="miurahr" creationdate="20201110T235810Z">
+        <seg>既定レイヤーに設定しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Set input focus to the command line.</seg>
       </tuv>
       <tuv lang="ja">
@@ -53984,6 +54192,22 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>リモート制御機能の設定です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Settings that control the drawing of GPS tracks.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235649Z" creationid="miurahr" creationdate="20201110T235649Z">
+        <seg>GPSトラックの描画をコントロールする設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Settings that control the drawing of OSM data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235639Z" creationid="miurahr" creationdate="20201110T235639Z">
+        <seg>OSMデータの図面を制御する設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56192,6 +56416,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>星の数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start JOSM with &lt;tt&gt;-Djava.net.useSystemProxies=true&lt;/tt&gt; to enable)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000558Z" creationid="miurahr" creationdate="20201111T000558Z">
+        <seg>有効にするには、&lt;tt&gt;-Djava.net.useSystemProxies=true&lt;/tt&gt;オプションをつけてJOSMを開始します)</seg>
       </tuv>
     </tu>
     <tu>
@@ -58575,6 +58807,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The API URL seems to be invalid.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000440Z" creationid="miurahr" creationdate="20201111T000440Z">
+        <seg>APIのURLが無効です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Access Token Key must not be empty.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201110T235057Z" creationid="miurahr" creationdate="20201110T235057Z">
@@ -58779,6 +59019,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ダウンロードしようとしたエリアが大きすぎるか、リクエストが大きすぎます。&lt;br&gt;もっと小さいエリアでリクエストするか、OSMコミュニティから提供されたエクスポートファイルを使用してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The backups are saved in JOSM''s preference folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235910Z" creationid="miurahr" creationdate="20201110T235910Z">
+        <seg>バックアップはJOSMの環境設定フォルダに保存されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59043,6 +59291,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The filter returned no results.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000107Z" creationid="miurahr" creationdate="20201111T000107Z">
+        <seg>フィルタが結果を返しませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The first selected object ''{0}'' is not part of any relation</seg>
       </tuv>
       <tuv lang="ja">
@@ -59111,6 +59367,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja">
         <seg>次のプラグインは不要になったので無効化しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following plugins were not found.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000116Z" creationid="miurahr" creationdate="20201111T000116Z">
+        <seg>次のプラグインが見つかりませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59533,6 +59797,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The projection {0} could not be activated.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000139Z" creationid="miurahr" creationdate="20201111T000139Z">
+        <seg>投影{0}をアクティブ化できませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The proxy will not be used.</seg>
       </tuv>
       <tuv lang="ja">
@@ -59777,6 +60049,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T223235Z" creationid="miurahr" creationdate="20190107T223235Z">
         <seg>サーバは、現在の変更セットが閉じられたことを報告しました。&lt;br&gt;これは、変更セットのサイズが最大値を超えた可能性が高いためです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The server responded with the return code {0} instead of 200.&lt;br&gt;Please check the spelling of ''{1}'' and validate again.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000258Z" creationid="miurahr" creationdate="20201111T000258Z">
+        <seg>サーバーは、200ではなく{0}という戻りコードで応答しました。&lt;br&gt;''{1}''のスペルをチェックし、もう一度検証してください。&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -64262,6 +64542,14 @@ Create a new one.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unsupported value in preference ''{0}'', got ''{1}''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000307Z" creationid="miurahr" creationdate="20201111T000307Z">
+        <seg>プレファレンス''{0}''でサポートされていない値です。''{1}''を取得しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unsupported version: {0}</seg>
       </tuv>
       <tuv lang="ja">
@@ -65088,8 +65376,8 @@ Create a new one.</seg>
       <tuv lang="en-US">
         <seg>Use Basic Authentication</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>Basic認証を使用する</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000355Z">
+        <seg>ベーシック認証を使用する</seg>
       </tuv>
     </tu>
     <tu>
@@ -65122,6 +65410,14 @@ Create a new one.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>OAuthを使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use OAuth for all requests to {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000416Z" creationid="miurahr" creationdate="20201111T000416Z">
+        <seg>{0}へのすべての要求に対してOAuthを使用</seg>
       </tuv>
     </tu>
     <tu>
@@ -65366,6 +65662,14 @@ Create a new one.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use standard system settings (disabled.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000537Z" creationid="miurahr" creationdate="20201111T000537Z">
+        <seg>標準のシステム設定を使用(無効。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use tag ''addr:street'' or ''addr:place''</seg>
       </tuv>
       <tuv lang="ja">
@@ -65582,6 +65886,22 @@ Create a new one.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using Mercator</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000142Z" creationid="miurahr" creationdate="20201111T000142Z">
+        <seg>メルカトルの使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using authentication method ''Basic Authentication''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000331Z" creationid="miurahr" creationdate="20201111T000331Z">
+        <seg>認証方法「ベーシック認証」を使用しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using {1}.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201110T232810Z" creationid="miurahr" creationdate="20201110T232810Z">
@@ -65758,6 +66078,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>妥当性検査エラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Validation failed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000437Z" creationid="miurahr" creationdate="20201111T000437Z">
+        <seg>検証に失敗しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66726,6 +67054,22 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200825T235018Z" creationid="miurahr" creationdate="20200825T235018Z">
         <seg>警告:リソースファイル''{0}''を開くことができませんでした</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Warning: illegal format of entry in preset list ''{0}''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000100Z" creationid="miurahr" creationdate="20201111T000100Z">
+        <seg>警告: プリセットリスト''{0}''のエントリの形式が正しくありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Warning: illegal format of entry in style list ''{0}''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235936Z" creationid="miurahr" creationdate="20201110T235936Z">
+        <seg>警告: スタイルリスト''{0}''のエントリの形式が正しくありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68641,6 +68985,14 @@ The tasking manager was designed and built for the [[Humanitarian OpenStreetMap 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You do not have an Access Token yet to access the OSM server using OAuth.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000424Z" creationid="miurahr" creationdate="20201111T000424Z">
+        <seg>OAuthを使用してOSMサーバにアクセスするためのアクセストークンがまだありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You entered an empty query.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T114152Z" creationid="miurahr" creationdate="20190107T114152Z">
@@ -68789,6 +69141,14 @@ The tasking manager was designed and built for the [[Humanitarian OpenStreetMap 
       </tuv>
       <tuv lang="ja">
         <seg>再生ヘッドを、再生しているサウンドトラックに対応するGPXトラックの近くにドラッグする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You need to get fetch layers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235830Z" creationid="miurahr" creationdate="20201110T235830Z">
+        <seg>レイヤーを取得する必要があります</seg>
       </tuv>
     </tu>
     <tu>
@@ -83320,6 +83680,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>もっとタイルを読み込むには拡大してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>zoom level:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T235902Z" creationid="miurahr" creationdate="20201110T235902Z">
+        <seg>ズームレベル:</seg>
       </tuv>
     </tu>
     <tu>
