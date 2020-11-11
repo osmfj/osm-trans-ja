@@ -38,3 +38,32 @@ OmegaTの利用方法
 OmegaTの利用マニュアルについてはHackMDで公開しています。
 マニュアルは、[omegat-manualリポジトリ](https://github.com/osmfj/omegat-manual)を参照してください。
 
+翻訳対象プロジェクト、ページ、情報源
+===
+
+JOSM
+----
+
+* プロジェクトURL: https://josm.openstreetmap.de/
+* 翻訳プロジェクト: https://translations.launchpad.net/josm/trunk
+* 翻訳への参加方法文書: https://josm.openstreetmap.de/wiki/Translations
+
+iD Editor
+---
+
+* プロジェクトURL: http://ideditor.com/
+* 翻訳プロジェクト: https://www.transifex.com/openstreetmap/id-editor/
+* 翻訳への参加方法文書: https://github.com/openstreetmap/iD/blob/develop/CONTRIBUTING.md#translating
+
+Merkaator Editor
+---
+
+* プロジェクトURL:　http://merkaartor.be/
+* 翻訳プロジェクト: https://www.transifex.com/merkaartor/merkaartor/dashboard/
+* 翻訳への参加方法文書：　https://wiki.openstreetmap.org/wiki/Merkaartor
+
+OSM Wiki
+----
+
+* プロジェクトURL: https://wiki.openstreetmap.org/
+
