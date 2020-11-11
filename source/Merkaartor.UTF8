@@ -1,0 +1,75 @@
+{{Languages|Merkaartor}}
+{{Software
+|name=Merkaartor
+|author=Bart Vanhauwaert, Chris Browet, Ladislav Láska and others.
+|wiki=Merkaartor
+|web=http://merkaartor.be
+|svn=https://github.com/openstreetmap/merkaartor
+|platform=win;linux;unix;macos
+|code=C++;Qt
+|framework=Qt4;Qt5
+|languages=EN
+|genre=editor
+|license=GPL
+|price=free
+|version=0.18.4
+|date=2019-11-14
+|screenshot=Merkaartor v0.18.2 Screenshot.png
+|description=Good editor with styling
+|addPOI=yes
+|addWay=yes
+|editSource=offline
+|editPOI=yes
+|editTags=yes
+|editGeom=yes
+|editRelations=yes
+|uploadOSMData=yes
+|offsetDBsupport=no
+}}
+
+'''Merkaartor''' is an OpenStreetMap editor for Linux, macOS and Windows, distributed under the [[Wikipedia:GNU General Public License|GNU General Public License]].
+
+* '''Homepage:''' http://merkaartor.be/
+* '''Download:''' Binary packages are available for various Linux distributions, Windows and MacOS X from the [http://merkaartor.be/p/download Merkaartor download page].
+** Nightly builded versions are available for ''Windows'' and ''Mac OS X'' systems at [https://bintray.com/krakonos/nightly/Merkaartor/view bintray.com]
+* OpenStreetMap Wiki Merkaartor [[Merkaartor/Documentation|Documentation]].
+* '''[http://wayback.archive.org/web/20131017015118/http://merkaartor.be/wiki/merkaartor/Screenshots Screenshots]''' (archived version as of 2013-10-17)
+* '''Need help?''' Get support from the [https://lists.openstreetmap.org/listinfo/merkaartor Merkaartor mailing list]
+* '''Want to help?'''  Take a look on how to [http://merkaartor.be/p/contribute contribute] or offer your help at the mailing list! Source code and issue tracker are hosted at [https://github.com/openstreetmap/merkaartor github].
+* '''Localization''' of menu text etc is managed via [https://www.transifex.com/merkaartor/merkaartor/ Transifex]
+
+== Features ==
+Merkaartor has some unique features such as...
+* Map view near-WYSIWYG, [[Wikipedia:anti-aliasing|anti-alias]]ed, with road names
+* Transparent display of [[map features]] like roads, amenities and areas
+* Style editor for the map display, including [[/Styles|multiple styles]]
+* Support for handling separated highways
+* Easy up/download from OpenStreetMap data
+* Render an area with the current style (SVG or Bitmap)
+* Native application (developed with the Qt4 toolkit), thus no need for installing a Java Runtime Environment.
+* Import [[NMEA]] files
+* Live connection to your GPS
+* Experimental mobile device support (Pocket PCs)
+* View your GPS tracks and geotagged photos without the need to upload them
+
+== Problems and solutions ==
+
+'''multi polygon causes program crash'''
+
+Sometimes the function ''add to multi polygon'' causes a program crash. Therefore before creating one, the file should be saved. If it crashes again, ''add to relation'' can be used, which doesn't crash. Then the roles ''inner'' and ''outer'' must be added manually.
+
+
+'''precondition failed'''
+
+When uploading, a error message can appear, which says ''precondition failed. Node <xy> still in use''. This might happen on deleting objects. If so, export the file to .osc-format and open it. In the <modify></modify> section you must delete these named objects manually (xml-editor or notepad). After that, import it again and try uploading again.
+
+
+'''<object with negative number> not found'''
+
+This might occur on upload, if an already uploaded object is modified again. For solving, export to .osc-format, open the file and delete the part (xml-editor or notepad). Then import the file again. 
+
+==See also==
+* [[Component overview|OpenStreetMap component overview]]
+* [[Comparison of editors]]
+
+[[Category:Merkaartor| ]]
