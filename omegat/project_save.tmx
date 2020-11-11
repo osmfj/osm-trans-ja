@@ -10459,6 +10459,14 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cannot set participation in synchronized adjustment.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000646Z" creationid="miurahr" creationdate="20201111T000646Z">
+        <seg>同期調整への参加を設定できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cannot split since another split operation is already in progress</seg>
       </tuv>
       <tuv lang="ja">
@@ -40240,6 +40248,14 @@ nodes and the new nodes will be selected.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OSM Server</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000619Z" creationid="miurahr" creationdate="20201111T000619Z">
+        <seg>OSMサーバ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OSM Server Files</seg>
       </tuv>
       <tuv lang="ja">
@@ -45823,6 +45839,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>プリセット設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Preset preferences...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000636Z" creationid="miurahr" creationdate="20201111T000636Z">
+        <seg>環境設定のプリセット.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51977,6 +52001,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>プリセットからオブジェクトを検索...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Search for objects by their presets.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000632Z" creationid="miurahr" creationdate="20201111T000632Z">
+        <seg>プリセットでオブジェクトを検索します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60165,6 +60197,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The user name cannot be empty.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000622Z" creationid="miurahr" creationdate="20201111T000622Z">
+        <seg>ユーザー名を空にすることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The username and password is protected by {0}.</seg>
       </tuv>
       <tuv lang="ja">
@@ -67062,6 +67102,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201111T000100Z" creationid="miurahr" creationdate="20201111T000100Z">
         <seg>警告: プリセットリスト''{0}''のエントリの形式が正しくありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Warning: illegal format of entry in rule list ''{0}''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201111T000630Z" creationid="miurahr" creationdate="20201111T000630Z">
+        <seg>警告: 規則リスト''{0}''のエントリの形式が正しくありません。</seg>
       </tuv>
     </tu>
     <tu>
