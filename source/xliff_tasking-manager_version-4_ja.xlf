@@ -1,0 +1,3743 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file datatype="KEYVALUEJSON" original="version-4" source-language="en" target-language="ja">
+    <body>
+      <trans-unit id="1" resname="969bbb8c894f721c1fa06375bea8e15b">
+        <source>About the information we collect</source>
+        <target>収集している情報について</target>
+      </trans-unit>
+      <trans-unit id="2" resname="4bcf24bed63f3b68ea63c1131a0a0cdb">
+        <source>I do not agree</source>
+        <target>承認しない</target>
+      </trans-unit>
+      <trans-unit id="3" resname="70c95ed471fffb0805ad7e870747ba40">
+        <source>I agree</source>
+        <target>承認する</target>
+      </trans-unit>
+      <trans-unit id="4" resname="69e1218f37e40e86adbbd4df94833a2a">
+        <source>privacy policy</source>
+        <target>プライバシーポリシー</target>
+      </trans-unit>
+      <trans-unit id="5" resname="1f8467ac3a78aa3fb68e3d07ec89e7d3">
+        <source>We use cookies and similar technologies to recognize and analyze your visits, and measure traffic usage and activity. You can learn about how we use the data about your visit or information you provide reading our {link}. By clicking &quot;I Agree&quot;, you consent to the use of cookies.</source>
+        <target>本ウェブサイトでは、あなたの閲覧状況やトラフィックの利用状況等を計測するため、cookieあるいは類似の技術を利用しています。私達が利用するデータの利用法や用途についてはこちら {link} を御覧ください。&quot;承認する/I Agree&quot; をクリックすることで、cookieの利用に同意したとみなされます。</target>
+      </trans-unit>
+      <trans-unit id="6" resname="29faa4f858db344335645655c4c024c6">
+        <source>The image upload failed.</source>
+        <target>画像のアップロードに失敗しました。</target>
+      </trans-unit>
+      <trans-unit id="7" resname="a6cd8aa29925e1c656a3179daab2ea6a">
+        <source>Uploading file...</source>
+      </trans-unit>
+      <trans-unit id="8" resname="8752c7a83cfb0a0c180accad23974f63">
+        <source>Sending message...</source>
+      </trans-unit>
+      <trans-unit id="9" resname="76ae7592bd64d8b0b19bf9f076cd7fdc">
+        <source>Message sent.</source>
+      </trans-unit>
+      <trans-unit id="10" resname="224b09cfad482496fd184b8c1ee80dd9">
+        <source>An error ocurred while sending message.</source>
+      </trans-unit>
+      <trans-unit id="11" resname="96fd9b501f20d258e599d5f3c6d9b024">
+        <source>Add &quot;{hashtag}&quot; to notify the project managers about your comment.</source>
+      </trans-unit>
+      <trans-unit id="12" resname="68d6e1424a490ba70c3310c1cbf39f9f">
+        <source>Add &quot;{hashtag}&quot; to notify the project author about your comment.</source>
+      </trans-unit>
+      <trans-unit id="13" resname="db3ad4bfbd614bd7ca62070792c6e26b">
+        <source>My Tasks</source>
+        <target>自分のタスク</target>
+      </trans-unit>
+      <trans-unit id="14" resname="910420db7de608056a49859812bbefaa">
+        <source>Contribution</source>
+        <target>協力</target>
+      </trans-unit>
+      <trans-unit id="15" resname="dcb52d68f8832d148a05c3a9874f6825">
+        <source>All</source>
+        <target>すべて</target>
+      </trans-unit>
+      <trans-unit id="16" resname="ad71395f2361ae713a0b607ee9c8b668">
+        <source>Mapped</source>
+        <target>マッピング済</target>
+      </trans-unit>
+      <trans-unit id="17" resname="fad86efd9e8efabe119ffe7c462e60bf">
+        <source>Validated</source>
+        <target>検証済み</target>
+      </trans-unit>
+      <trans-unit id="18" resname="868f93888b71e4fc9e947bb7d72a5d46">
+        <source>More mapping needed</source>
+        <target>追加のマッピングが必要</target>
+      </trans-unit>
+      <trans-unit id="19" resname="dbb83d2fc0736a9ec1e5472c0a9f2e4b">
+        <source>Archived projects</source>
+        <target>アーカイブ済みプロジェクト</target>
+      </trans-unit>
+      <trans-unit id="20" resname="3fb626bc3466e7ada6da7e33c2578949">
+        <source>Search by project id</source>
+        <target>プロジェクトIDで検索</target>
+      </trans-unit>
+      <trans-unit id="21" resname="535eabc3f77167be8a100d16a3f4c9c9">
+        <source>Projects</source>
+        <target>プロジェクト</target>
+      </trans-unit>
+      <trans-unit id="22" resname="336f45530674da15aa1735acb8e80013">
+        <source>Tasks</source>
+        <target>タスク</target>
+      </trans-unit>
+      <trans-unit id="23" resname="045298dcffe88872bca1ae1b7fddff5a">
+        <source>Clear filters</source>
+        <target>フィルタを解除</target>
+      </trans-unit>
+      <trans-unit id="24" resname="c75b29738a76328bab2cb9a0c702e28c">
+        <source>Error while loading the tasks</source>
+        <target>タスクのロード中にエラーが発生</target>
+      </trans-unit>
+      <trans-unit id="25" resname="88df805dbf2c999780b934da0956ac86">
+        <source>Showing {number} of {total}</source>
+        <target>全 {total} 中、{number} を表示</target>
+      </trans-unit>
+      <trans-unit id="26" resname="af4958f42c2370732690896e436aff4c">
+        <source>Last updated {time}</source>
+        <target>最終更新 {time}</target>
+      </trans-unit>
+      <trans-unit id="27" resname="da0a8c14ad63776d8aecfdb97a661cf8">
+        <source>View All</source>
+        <target>すべてを表示</target>
+      </trans-unit>
+      <trans-unit id="28" resname="d1d8d2ecdefa87ca65c0a687e872edd2">
+        <source>Delete</source>
+        <target>削除</target>
+      </trans-unit>
+      <trans-unit id="29" resname="b6f8c23043432fc3937b446cf7631de0">
+        <source>No Contributed Items</source>
+        <target>未参加状態</target>
+      </trans-unit>
+      <trans-unit id="30" resname="fb57368c49bba3eb9ad72fa3b6c47388">
+        <source>Resume task</source>
+        <target>タスクの再開</target>
+      </trans-unit>
+      <trans-unit id="31" resname="00452e12335c980aad4105386f3b217d">
+        <source>Locked by {lockholder}</source>
+        <target>{lockholder} によりロック中</target>
+      </trans-unit>
+      <trans-unit id="32" resname="e18dbfcb96f1dc3f30932699c4c85a86">
+        <source>unlock {time}</source>
+        <target>アンロック {time}</target>
+      </trans-unit>
+      <trans-unit id="33" resname="85ee2c15c34bc4a1485a5689e94aa7d9">
+        <source>Task #{task} · Project #{project}</source>
+        <target>タスク #{task} · プロジェクト #{project}</target>
+      </trans-unit>
+      <trans-unit id="34" resname="f46f58cdd447d7c9d50751e2b1c8c828">
+        <source>Retry</source>
+        <target>再実行</target>
+      </trans-unit>
+      <trans-unit id="35" resname="3056ac39f8f32afd4a09669060feb349">
+        <source>Processing</source>
+        <target>処理中</target>
+      </trans-unit>
+      <trans-unit id="36" resname="dc0bb8bc55143abbe4777e7b358f0a18">
+        <source>{type} deleted successfully.</source>
+        <target>{type} が正常に削除されました。</target>
+      </trans-unit>
+      <trans-unit id="37" resname="298673db7d7fa02eda0d0f5a82ca8e94">
+        <source>An error occurred when trying to delete this project.</source>
+        <target>このプロジェクトの削除中にエラーが発生しました。</target>
+      </trans-unit>
+      <trans-unit id="38" resname="7c9aa5eccbb23825dc3923b3ccf48c6a">
+        <source>An error occurred when trying to delete this organization.</source>
+        <target>組織情報の削除中にエラーが発生しました。</target>
+      </trans-unit>
+      <trans-unit id="39" resname="5cd04628d0476c28b74edcb0ab48473e">
+        <source>An error occurred when trying to delete this interest.</source>
+        <target>このインタレストの削除中にエラーが発生しました。</target>
+      </trans-unit>
+      <trans-unit id="40" resname="1bd3ad72068ba36cf814e483b425320a">
+        <source>An error occurred when trying to delete this license.</source>
+        <target>ライセンスの削除中にエラーが発生しました。</target>
+      </trans-unit>
+      <trans-unit id="41" resname="7931477cc5943072f1c9243a6f7e30be">
+        <source>An error occurred when trying to delete this campaign.</source>
+        <target>このキャンペーンの削除中にエラーが発生しました。</target>
+      </trans-unit>
+      <trans-unit id="42" resname="d3733d48772b45971113081c42ec50fa">
+        <source>An error occurred when trying to delete this notification.</source>
+        <target>この通知の削除中にエラーが発生しました。</target>
+      </trans-unit>
+      <trans-unit id="43" resname="175ffb9876150a83265b8883c4ad2f2d">
+        <source>An error occurred when trying to delete this team.</source>
+        <target>このチームの削除中にエラーが発生しました。</target>
+      </trans-unit>
+      <trans-unit id="44" resname="cebda38ea591fff2d0fba830e45372bb">
+        <source>Delete</source>
+        <target>削除</target>
+      </trans-unit>
+      <trans-unit id="45" resname="590ea4f71fcd09391594ffcdb8c665df">
+        <source>Cancel</source>
+        <target>キャンセル</target>
+      </trans-unit>
+      <trans-unit id="46" resname="db13bff9dc39572761ce99ee81a1a5e5">
+        <source>Are you sure you want to delete this project?</source>
+        <target>このプロジェクトを削除しますか?</target>
+      </trans-unit>
+      <trans-unit id="47" resname="f0fd8071b292ca810d583c7e3579bdfc">
+        <source>Are you sure you want to delete this organization?</source>
+        <target>組織情報を削除してよいですか？</target>
+      </trans-unit>
+      <trans-unit id="48" resname="440e6c1051f1d24e0ac0cecd4e3b5765">
+        <source>Are you sure you want to delete this license?</source>
+        <target>このライセンスを削除してよろしいですか？</target>
+      </trans-unit>
+      <trans-unit id="49" resname="2ec80017b673093dc69bb43d7766d47f">
+        <source>Are you sure you want to delete this category?</source>
+        <target>このカテゴリを削除しますか?</target>
+      </trans-unit>
+      <trans-unit id="50" resname="2673a5f4bf4a42b518fe25cafef54b94">
+        <source>Are you sure you want to delete this campaign?</source>
+        <target>このキャンペーンを削除しますか？</target>
+      </trans-unit>
+      <trans-unit id="51" resname="e30c8d6b7366d277b84c3ed72343a9e8">
+        <source>Are you sure you want to delete this notification?</source>
+        <target>この通知を削除しますか？</target>
+      </trans-unit>
+      <trans-unit id="52" resname="6fc2c9fd690a35214e70441fef40d58a">
+        <source>Are you sure you want to delete this team?</source>
+        <target>このチームを削除しますか?</target>
+      </trans-unit>
+      <trans-unit id="53" resname="3fe4c259aa50d65e0d33aa707c480be8">
+        <source>Explore projects</source>
+        <target>プロジェクト</target>
+      </trans-unit>
+      <trans-unit id="54" resname="77c08e7b5dae65d25c0882a9649dda00">
+        <source>Learn</source>
+        <target>解説</target>
+      </trans-unit>
+      <trans-unit id="55" resname="a8ef1722bd19bf7009ab503c1f6c22c6">
+        <source>About</source>
+        <target>概要</target>
+      </trans-unit>
+      <trans-unit id="56" resname="cdb1f14eedc130ee58c9d3ef0fc67f14">
+        <source>My contributions</source>
+        <target>協力履歴</target>
+      </trans-unit>
+      <trans-unit id="57" resname="84d9391374f72124c31174d9c462a99e">
+        <source>Manage</source>
+        <target>管理</target>
+      </trans-unit>
+      <trans-unit id="58" resname="629784e44d026d2f639604bd6aca9462">
+        <source>Log in</source>
+        <target>ログイン</target>
+      </trans-unit>
+      <trans-unit id="59" resname="c2b0d39f19fb17ae0538f4f407880272">
+        <source>Sign up</source>
+        <target>登録</target>
+      </trans-unit>
+      <trans-unit id="60" resname="1572469570bda24f5a66c76601052521">
+        <source>Log in</source>
+        <target>ログイン</target>
+      </trans-unit>
+      <trans-unit id="61" resname="91958b460f5677852fb4c6ab8d9a2108">
+        <source>Have you finished the registration on OpenStreetMap?</source>
+        <target>OpenStreetMapへの登録は済んでいますか？</target>
+      </trans-unit>
+      <trans-unit id="62" resname="50fdfd1b32f0fcc6c42d93ca3625b3c0">
+        <source>Start mapping now! Just login to the Tasking Manager with your new OpenStreetMap account.</source>
+        <target>マッピングをはじめましょう！ あなたのOpenStreetMapアカウントでTasking Managerにログインしてください。</target>
+      </trans-unit>
+      <trans-unit id="63" resname="ae20844c5ab810e935d35e2920300378">
+        <source>Do you still need an OpenStreetMap account?</source>
+        <target>OpenStreetMapアカウントが必要ですか？</target>
+      </trans-unit>
+      <trans-unit id="64" resname="29fb4bbb1964ac441711e2e4a7ccbafa">
+        <source>Sign up</source>
+        <target>登録</target>
+      </trans-unit>
+      <trans-unit id="65" resname="2698dde8b1412e678e719f5fe5a4921f">
+        <source>Email</source>
+        <target>Eメール</target>
+      </trans-unit>
+      <trans-unit id="66" resname="ed96c0a9aff287ffd2a89828b5637933">
+        <source>Name</source>
+        <target>名称</target>
+      </trans-unit>
+      <trans-unit id="67" resname="8e21f506931e21186b411dceee513605">
+        <source>Do you have an OpenStreetMap account?</source>
+        <target>OpenStreetMapのアカウントを持っていますか？</target>
+      </trans-unit>
+      <trans-unit id="68" resname="541c51295b699f37336a70a9e50272b7">
+        <source>The Tasking Manager works with OpenStreetMap, a collaborative, open-source map of the world. Everything you map on the Tasking Manager is going to be available on OpenStreetMap.</source>
+        <target>Tasking Managerは、誰でも参加可能なオープンソースの世界地図 OpenStreetMapと連動しています。Tasking Managerでマッピングした内容は、OpenStreetMapを通じて利用することができます。</target>
+      </trans-unit>
+      <trans-unit id="69" resname="920de983094dadf6cf6c6f49a97c7fd0">
+        <source>First, you'll need an account on OpenStreetMap.org in order to get started.</source>
+        <target>まずはOpenStreetMapのアカウントを取得しましょう。</target>
+      </trans-unit>
+      <trans-unit id="70" resname="c170dfe2c206b5827aaf15ccc021887d">
+        <source>I already have an OpenStreetMap account</source>
+        <target>OpenStreetMapアカウントを所持しています</target>
+      </trans-unit>
+      <trans-unit id="71" resname="03965527fb97df1d8caa7c628ffaf732">
+        <source>Your email address</source>
+        <target>Emailアドレス</target>
+      </trans-unit>
+      <trans-unit id="72" resname="09ef4b66b5da1b3b67c3e295a11abf6e">
+        <source>Invalid email address</source>
+        <target>無効なEmailアドレス</target>
+      </trans-unit>
+      <trans-unit id="73" resname="0bb876947026f21ee19118221f52b920">
+        <source>Invalid name</source>
+        <target>無効な名前</target>
+      </trans-unit>
+      <trans-unit id="74" resname="a9e526393475d623db0f5adbe2744a55">
+        <source>Your Name</source>
+        <target>名前</target>
+      </trans-unit>
+      <trans-unit id="75" resname="d5c624d01fe9d4d9e0eae12839c5eb00">
+        <source>Mapping our world together</source>
+        <target>Mapping our world together</target>
+      </trans-unit>
+      <trans-unit id="76" resname="96a10d4db5270e76e9a1cb46674eec65">
+        <source>Settings</source>
+        <target>設定</target>
+      </trans-unit>
+      <trans-unit id="77" resname="682bf7c4fa083de27d6efd6913307561">
+        <source>My teams</source>
+        <target>自分のチーム</target>
+      </trans-unit>
+      <trans-unit id="78" resname="53e751819e1eb4441c792d095b30d174">
+        <source>Logout</source>
+        <target>ログアウト</target>
+      </trans-unit>
+      <trans-unit id="79" resname="77644c395188c22205cfbd1874c005ed">
+        <source>Email</source>
+        <target>Eメール</target>
+      </trans-unit>
+      <trans-unit id="80" resname="7665d606711d8fc6e185533bac769394">
+        <source>Next</source>
+        <target>次</target>
+      </trans-unit>
+      <trans-unit id="81" resname="07958f975e2a5cbb5adabb3d4dd11cac">
+        <source>Create OpenStreetMap account</source>
+        <target>OpenStreetMapアカウントを作成</target>
+      </trans-unit>
+      <trans-unit id="82" resname="9471d01d0113d59d31f8000c8e54b91f">
+        <source>Please provide your name and email address:</source>
+        <target>あなたの名前とEmailアドレスを入力してください: </target>
+      </trans-unit>
+      <trans-unit id="83" resname="eaddcc843124e11c722aba34c32cc4f0">
+        <source>Update</source>
+        <target>更新</target>
+      </trans-unit>
+      <trans-unit id="84" resname="2df2f5470017ee88742be66b9ad4b64c">
+        <source>Email updated successfully</source>
+        <target>Eメールが正常に更新されました</target>
+      </trans-unit>
+      <trans-unit id="85" resname="cb92e34d04dcb6d6e46df79dc5553ec1">
+        <source>Update your email</source>
+        <target>メールの更新</target>
+      </trans-unit>
+      <trans-unit id="86" resname="7f9cc3fa5ed3cc40105883d618c317d1">
+        <source>Before you begin mapping, please add your email address.</source>
+        <target>マッピングを開始する前に、メールアドレスを追加してください。</target>
+      </trans-unit>
+      <trans-unit id="87" resname="8e7faf325054078438e72fba60801113">
+        <source>We are mapping together! Providing your email address is necessary for mapping feedback and direct messages to reach you.</source>
+        <target>マッピングは一人ではなく、みんなで行うものです！ あなたにフィードバックやダイレクトメッセージを届けるため、メールアドレスの登録が必要です。</target>
+      </trans-unit>
+      <trans-unit id="88" resname="f4e0d57dd9c645e9798e8f87763b8754">
+        <source>Read our Privacy Policy for more information on how we protect users' personal data.</source>
+        <target>プロジェクトに参加しているユーザの個人情報取り扱いに関しては、プライバシーポリシーに詳細が記載されています。</target>
+      </trans-unit>
+      <trans-unit id="89" resname="112783e1ac4bb55b98c64f9b0df1dc0f">
+        <source>Map for people in need</source>
+        <target>地図を届けよう 必要とする人へ</target>
+      </trans-unit>
+      <trans-unit id="90" resname="cdfae48f389cd43d7788b6c603ee191f">
+        <source>Join a global community putting the world's most vulnerable people and places on the map to support humanitarian aid and sustainable development.</source>
+        <target>人道支援に携わる人々や持続的な開発を支援するため、世界に広がるコミュニティとともに、地図を必要とする地域をマッピングしましょう</target>
+      </trans-unit>
+      <trans-unit id="91" resname="9e4d0d2a9d4c32454569d8c89922f347">
+        <source>We can't do it without you</source>
+        <target>あなたの協力が必要です。</target>
+      </trans-unit>
+      <trans-unit id="92" resname="c1cb6ea01677ecb5df5878dba20abb47">
+        <source>Anyone can contribute to the map. If you have never mapped before and would like to get started, visit our {link} page.</source>
+        <target>マッピングには誰でも参加できます。これからマッピングを始めてみたいかたは{link}ページをご覧ください</target>
+      </trans-unit>
+      <trans-unit id="93" resname="5615ffa158a33a1b374ddec9e4006fb4">
+        <source>Are you an experienced mapper? Click below to see what projects are available for mapping.</source>
+        <target>マッピング経験豊富なみなさんは、以下をクリックしてプロジェクトを探してみてください</target>
+      </trans-unit>
+      <trans-unit id="94" resname="2999247698cccb04e1570de055b875d7">
+        <source>Featured Projects</source>
+        <target>注目のプロジェクト</target>
+      </trans-unit>
+      <trans-unit id="95" resname="28039f0642c7a1455278389ad9951496">
+        <source>How it works</source>
+        <target>動作の仕組み</target>
+      </trans-unit>
+      <trans-unit id="96" resname="e815f45d0eb990239fcc4dff8a3a6e9c">
+        <source>Start mapping</source>
+        <target>マッピング開始</target>
+      </trans-unit>
+      <trans-unit id="97" resname="ba78f4aa6cdfd80126272e9fead337ca">
+        <source>Join the community</source>
+        <target>コミュニティに参加</target>
+      </trans-unit>
+      <trans-unit id="98" resname="3966400828484b6f064bea5a6026bee3">
+        <source>Buildings Mapped</source>
+        <target>マッピングされた建物数</target>
+      </trans-unit>
+      <trans-unit id="99" resname="2cd0f22f809c53dbc8cd8ddb9486879f">
+        <source>Mapped Roads (Km)</source>
+        <target>マップ済み道路総延長 (km)</target>
+      </trans-unit>
+      <trans-unit id="100" resname="d18b55c1fbf10e535dbc24627483dcc2">
+        <source>Total Map Edits</source>
+        <target>マップ編集総計</target>
+      </trans-unit>
+      <trans-unit id="101" resname="78fef7349695c01e35760ed556878580">
+        <source>Total Mappers</source>
+        <target>参加マッパー数</target>
+      </trans-unit>
+      <trans-unit id="102" resname="e88d569f7a54461d57494f6fe2ce22ae">
+        <source>Mappers Online</source>
+        <target>オンラインのマッパー</target>
+      </trans-unit>
+      <trans-unit id="103" resname="300e44a9d342cd49f17e4c02893bd633">
+        <source>Each year, disasters around the world kill nearly {number} and affect or displace 200 million people. Mapping can help change this.</source>
+        <target>災害によって毎年約{number}人が命を落とし、2億人が被災や避難を強いられています。この状況を変える手段のひとつが、マッピングです。</target>
+      </trans-unit>
+      <trans-unit id="104" resname="c251cf199a3fe0b2d024375e112faac6">
+        <source>Organizations use Tasking Manager to create mapping projects for areas around the world where they urgently need data to save or improve lives.</source>
+        <target>Tasking Managerで作成されるマッピングプロジェクトは、緊急度の高い救命活動を遂行し、その手法を改善するために地域のデータを必要とする組織や団体が作成しています。</target>
+      </trans-unit>
+      <trans-unit id="105" resname="3be824965e47e404b71d7a515e856618">
+        <source>Mapping</source>
+        <target>マッピング</target>
+      </trans-unit>
+      <trans-unit id="106" resname="ffb1a99fd7b316af4c8d21a2c276145a">
+        <source>Validation</source>
+        <target>検証</target>
+      </trans-unit>
+      <trans-unit id="107" resname="6f5c41f588709995386811ba92795a5c">
+        <source>Using the data</source>
+        <target>データの使用</target>
+      </trans-unit>
+      <trans-unit id="108" resname="ec46cc1bfe1b709c785c5a5833cb982f">
+        <source>Volunteers use satellite imagery from OpenStreetMap to trace buildings, roadways, and other features.</source>
+        <target>ボランティアはOpenStreetMapの衛星画像を使用して、建物、道路、その他の地物をトレースします。</target>
+      </trans-unit>
+      <trans-unit id="109" resname="f85451279b9b8a534d7da6ea57828801">
+        <source>Experienced volunteers check the map data to ensure it is high quality.</source>
+        <target>経験豊富なボランティアが地図データをチェックし、品質が確かであることを確認します。</target>
+      </trans-unit>
+      <trans-unit id="110" resname="c82ce15324a33acf28ac4d9795aa2da1">
+        <source>Humanitarian organizations use the map data to plan for disaster response and other life saving activities.</source>
+        <target>人道支援団体は地図データを使用して、災害対応やその他の救命活動を計画します。</target>
+      </trans-unit>
+      <trans-unit id="111" resname="94c6d6c81c930d5a90a0ecab1b9403c7">
+        <source>Who uses the maps?</source>
+        <target>地図を使う団体と人々</target>
+      </trans-unit>
+      <trans-unit id="112" resname="013859c6f2c95d2f80ef1e84e1e5578e">
+        <source>Trusted global organizations use Tasking Manager to get the map data they need to reach those in need.</source>
+        <target>必要となるデータを探し、世界規模の組織もTasking Managerを利用しています。
+信頼できるグローバル組織は、TaskManager を使用して、必要としているユーザーに到達するために必要な地図データを作成します。</target>
+      </trans-unit>
+      <trans-unit id="113" resname="93ced4328656ebcebd28c580cf6aa367">
+        <source>Does your organization want to work with us?</source>
+        <target>組織としての参加をご希望のかたはこちらから</target>
+      </trans-unit>
+      <trans-unit id="114" resname="c54dce04a6cbd8bc9f435364beac45e4">
+        <source>Contact us</source>
+        <target>連絡先</target>
+      </trans-unit>
+      <trans-unit id="115" resname="61e0a462028212b9601878b49b57809d">
+        <source>Error loading the {xWord}</source>
+        <target>{xWord} の読み込み失敗</target>
+      </trans-unit>
+      <trans-unit id="116" resname="d64ce9f292685956c05bc9485b4638da">
+        <source>Send us a message</source>
+        <target>メッセージをお送りください</target>
+      </trans-unit>
+      <trans-unit id="117" resname="a3b0b97197dd53b271cd083199388907">
+        <source>Name</source>
+        <target>名称</target>
+      </trans-unit>
+      <trans-unit id="118" resname="17cbd2631881f4010a40a4c8cfe066e7">
+        <source>Email</source>
+        <target>Eメール</target>
+      </trans-unit>
+      <trans-unit id="119" resname="4648b994777aad4a492758ed1c81cd6c">
+        <source>Message</source>
+        <target>メッセージ</target>
+      </trans-unit>
+      <trans-unit id="120" resname="482513bb0ff136493c96f6da836abace">
+        <source>Want to discuss working with us? Or, have a question or feedback that you would like to share? Fill out the form below to contact our team.</source>
+        <target>一緒に手を動かしませんか？ 質問やフィードバックがあるようでしたら、以下のフォームからチームへ連絡できます。</target>
+      </trans-unit>
+      <trans-unit id="121" resname="fb73d34bce0d8b653df4052ac7a785d0">
+        <source>Send</source>
+        <target>送信</target>
+      </trans-unit>
+      <trans-unit id="122" resname="9b8f81f2ccae16362ec8204b4d58c80e">
+        <source>You can make a difference</source>
+        <target>あなたの手で世界に変化を</target>
+      </trans-unit>
+      <trans-unit id="123" resname="3125b107820c8d764409ed126b1044e6">
+        <source>In the early days of the Cyclone Idai response, IFRC was looking for detailed maps to get a sense of the scale of the flooding, which were also used for search and rescue operations. Later on, we had requests to identify where certain buildings, such as health centres or hospitals, were located so our health team could assess the damage and medical needs of patients.</source>
+        <target>IFRCはサイクロン・アイダイ（Cyclone Idai）に対応するにあたり、洪水の浸水域を把握し、被災者の探索と救助を行うために必要な地図を探し求めていました。病院など医療施設として利用されている建物の特定作業という依頼を受けた私達は、チームでその作業に対応することにより、被災状況のアセスメントや医療ニーズの把握に成功しました。</target>
+      </trans-unit>
+      <trans-unit id="124" resname="4f0df1a887b02ac83d18f3dd5d209a27">
+        <source>Remote Coordinator for the IFRC Information Management Team for Cyclone Idai</source>
+        <target>サイクロン・アイダイに対応するIFRC情報管理チームへの、遠隔からの協力作業</target>
+      </trans-unit>
+      <trans-unit id="125" resname="cada2f921b34bb212a3b0621c241b527">
+        <source>Language</source>
+        <target>言語</target>
+      </trans-unit>
+      <trans-unit id="126" resname="d770ac6ba7a75cbf1cc9d1fddf1078b8">
+        <source>Select organization</source>
+        <target>組織を選択</target>
+      </trans-unit>
+      <trans-unit id="127" resname="a29e2d856ae62c5b498009a427a10ae8">
+        <source>Country</source>
+        <target>国名</target>
+      </trans-unit>
+      <trans-unit id="128" resname="e4c94436a1fdd5fb04f6183b7090aa30">
+        <source>Tasking Manager is a platform where individuals can team up for mapping in OpenStreetMap</source>
+        <target>Tasking Managerは、OpenStreetMapをマッピングする個人をチームとしてまとめあげるプラットフォームです</target>
+      </trans-unit>
+      <trans-unit id="129" resname="38b59ada02af830daa874de0808dc394">
+        <source>Free and Open Source Software brought to you by the Humanitarian OpenStreetMap Team.</source>
+        <target>フリーでオープンな本ソフトウェアは、Humanitarian OpenStreetMapの提供でお届けします。</target>
+      </trans-unit>
+      <trans-unit id="130" resname="c970b5cca6c3ae0f9e5b348713765805">
+        <source>Learn more about OpenStreetMap.</source>
+        <target>OpenStreetMapについて</target>
+      </trans-unit>
+      <trans-unit id="131" resname="6cf32e4ecb72be0c7255a001f90d7930">
+        <source>Privacy Policy</source>
+        <target>プライバシーポリシー</target>
+      </trans-unit>
+      <trans-unit id="132" resname="2cc32329bdede11a858d02d655e9e76a">
+        <source>All levels</source>
+        <target>すべてのレベル</target>
+      </trans-unit>
+      <trans-unit id="133" resname="c74a808a66ea73619812b3601f858ed4">
+        <source>Advanced mapper</source>
+        <target>上級マッパー</target>
+      </trans-unit>
+      <trans-unit id="134" resname="866a99cd8bca1b4bdaa8a11b0db6f18b">
+        <source>Intermediate mapper</source>
+        <target>中級マッパー</target>
+      </trans-unit>
+      <trans-unit id="135" resname="3be14056a0c5ab9c880fa678dca7f2f6">
+        <source>Beginner mapper</source>
+        <target>初心者マッパー</target>
+      </trans-unit>
+      <trans-unit id="136" resname="59ac0cdcf4d0a0edbc79858b2a364e53">
+        <source>Roads</source>
+        <target>道路</target>
+      </trans-unit>
+      <trans-unit id="137" resname="b761ad4c7d29cdc7d5ea9a15809e4c57">
+        <source>Buildings</source>
+        <target>建物</target>
+      </trans-unit>
+      <trans-unit id="138" resname="f114d70f3d19b35ef57e20ef04f759e2">
+        <source>Land use</source>
+        <target>土地利用</target>
+      </trans-unit>
+      <trans-unit id="139" resname="ec361b15dda376daf49136a53b815eb5">
+        <source>Waterways</source>
+        <target>河川・水路</target>
+      </trans-unit>
+      <trans-unit id="140" resname="09847d859d8976cfc526530bc52469f6">
+        <source>Other</source>
+        <target>その他</target>
+      </trans-unit>
+      <trans-unit id="141" resname="c6e87d23e4e18a50f8f786850b86fe40">
+        <source>Points of interest</source>
+      </trans-unit>
+      <trans-unit id="142" resname="641b9c10915fa1f276a0a8b092134149">
+        <source>Notifications</source>
+        <target>通知</target>
+      </trans-unit>
+      <trans-unit id="143" resname="6882c71f77e8f2660d10bc88d2461608">
+        <source>All</source>
+        <target>すべて</target>
+      </trans-unit>
+      <trans-unit id="144" resname="404a9f41e8441cbc906623888f21c3c3">
+        <source>Messages</source>
+        <target>メッセージ</target>
+      </trans-unit>
+      <trans-unit id="145" resname="7c3886b6c998591e9059e7a159d3a1f5">
+        <source>Message</source>
+        <target>メッセージ</target>
+      </trans-unit>
+      <trans-unit id="146" resname="2f0bc17f717390c2dcdae979cbae9585">
+        <source>Tasks</source>
+        <target>タスク</target>
+      </trans-unit>
+      <trans-unit id="147" resname="f5b3eee68ce26cce7067a3c6b162b463">
+        <source>Teams</source>
+        <target>チーム</target>
+      </trans-unit>
+      <trans-unit id="148" resname="18707e5a44d9e6e510b0487b6a80566c">
+        <source>Projects</source>
+        <target>プロジェクト</target>
+      </trans-unit>
+      <trans-unit id="149" resname="dd4bebab06ea09d7680bd4f10e6263b4">
+        <source>Clear filters</source>
+        <target>フィルタを解除</target>
+      </trans-unit>
+      <trans-unit id="150" resname="b2d0d9aed570c22ea092f50c2b9de52c">
+        <source>Mark as read</source>
+        <target>既読にする</target>
+      </trans-unit>
+      <trans-unit id="151" resname="4ea19bbab33d8b2058709ade1720cea6">
+        <source>Error loading the {xWord} for {yWord}</source>
+        <target>Error loading the {xWord} for {yWord}</target>
+      </trans-unit>
+      <trans-unit id="152" resname="029d348b6f3458a31a96d01b0924f08d">
+        <source>Error loading the {xWord}</source>
+        <target>{xWord} の読み込み失敗</target>
+      </trans-unit>
+      <trans-unit id="153" resname="0832533ced68b59d9759bb127e3d50c6">
+        <source>Showing {number} of {total}</source>
+        <target>全 {total} 中、{number} を表示</target>
+      </trans-unit>
+      <trans-unit id="154" resname="2438c26f13495ce71fd4bf5a4689fad6">
+        <source>1 new message</source>
+      </trans-unit>
+      <trans-unit id="155" resname="90cc06eb53250666c314b16a809301da">
+        <source>{n} new messages</source>
+      </trans-unit>
+      <trans-unit id="156" resname="37b8d4d4fda10737c10f781bc4dd848c">
+        <source>View all</source>
+        <target>すべてを表示</target>
+      </trans-unit>
+      <trans-unit id="157" resname="ba90283db24357780b7a797ef2599388">
+        <source>Go to notifications</source>
+        <target>通知表示</target>
+      </trans-unit>
+      <trans-unit id="158" resname="f2c706a796d0995857ce61b131354f9c">
+        <source>No unread messages</source>
+        <target>未読メッセージはありません。</target>
+      </trans-unit>
+      <trans-unit id="159" resname="13d6d3eb2e6b5c0e6a79e8e481d03134">
+        <source>You don't have any messages.</source>
+        <target>メッセージはありません。</target>
+      </trans-unit>
+      <trans-unit id="160" resname="a1d914a75ebf1f214ab38a9e91aed2b5">
+        <source>Sort by</source>
+        <target>並び替え</target>
+      </trans-unit>
+      <trans-unit id="161" resname="1d881058fa1014efb15428777bf2ad32">
+        <source>New projects first</source>
+        <target>新しいプロジェクト順</target>
+      </trans-unit>
+      <trans-unit id="162" resname="430ec54ae726b9f87a12dad9254bca8c">
+        <source>Old projects first</source>
+        <target>古いプロジェクト順</target>
+      </trans-unit>
+      <trans-unit id="163" resname="cb976a34c4f2388d9c672fc82dee7a10">
+        <source>Read notifications first</source>
+        <target>既読通知順</target>
+      </trans-unit>
+      <trans-unit id="164" resname="e105a00ccf5d5fc95a58106ad176aef7">
+        <source>New notifications first</source>
+        <target>新規通知順</target>
+      </trans-unit>
+      <trans-unit id="165" resname="6b55eeaf0e0bd25d6aacac663bfbcbaf">
+        <source>Old notifications first</source>
+        <target>過去通知順</target>
+      </trans-unit>
+      <trans-unit id="166" resname="bffc4eedb2bad155425a01fe609138a8">
+        <source>Try Again</source>
+        <target>再度実行</target>
+      </trans-unit>
+      <trans-unit id="167" resname="ef6ca54cf26bb55033890c53afc2f969">
+        <source>Refresh</source>
+        <target>更新</target>
+      </trans-unit>
+      <trans-unit id="168" resname="c681b0874c8c6c8da79062c2cdb6dbc6">
+        <source>System</source>
+        <target>システム</target>
+      </trans-unit>
+      <trans-unit id="169" resname="8c5055b73352bbd02c7eec3975e37e68">
+        <source>Broadcast</source>
+        <target>ブロードキャスト</target>
+      </trans-unit>
+      <trans-unit id="170" resname="5b40b2597c92abba20d3d79d2f285cfd">
+        <source>Team announcement</source>
+      </trans-unit>
+      <trans-unit id="171" resname="ba18c529452299d557918f97621abc23">
+        <source>Mention</source>
+        <target>メンション</target>
+      </trans-unit>
+      <trans-unit id="172" resname="681174a4d06a2d4aa070e796baaecd93">
+        <source>Validation</source>
+        <target>検証</target>
+      </trans-unit>
+      <trans-unit id="173" resname="73b2b0178450c6012850b88e9d3db48e">
+        <source>Invalidation</source>
+        <target>差し戻し</target>
+      </trans-unit>
+      <trans-unit id="174" resname="d90a1d40af7f9819d8ab6f3717d6af2f">
+        <source>Request team</source>
+        <target>チームへの参加リクエスト</target>
+      </trans-unit>
+      <trans-unit id="175" resname="51f111709382ee87b0d8c7c35519d257">
+        <source>Invitation</source>
+        <target>招待</target>
+      </trans-unit>
+      <trans-unit id="176" resname="8066f0667abb9f59ae42b1e553ee2770">
+        <source>Task comment</source>
+        <target>タスクコメント</target>
+      </trans-unit>
+      <trans-unit id="177" resname="f47fb6276d68739f75f06cee8dade19c">
+        <source>Project chat</source>
+        <target>プロジェクトチャット</target>
+      </trans-unit>
+      <trans-unit id="178" resname="7f7eb1279db4ac73cf3469471d91b22e">
+        <source>Project activity</source>
+        <target>プロジェクト活動</target>
+      </trans-unit>
+      <trans-unit id="179" resname="2933bddd57ee300171f1c0e9412c8b24">
+        <source>{number} total contributors</source>
+        <target>協力者の合計 {number} 人</target>
+      </trans-unit>
+      <trans-unit id="180" resname="05b2e853ef64ca71bd4fd6e4a74bb087">
+        <source>Last contribution</source>
+        <target>以前の参加</target>
+      </trans-unit>
+      <trans-unit id="181" resname="ffb3eb4c8106321027d7dcc0ca45ed87">
+        <source>{n}% mapped</source>
+      </trans-unit>
+      <trans-unit id="182" resname="e21de331973a3e3aac9420e78199525c">
+        <source>{n}% validated</source>
+      </trans-unit>
+      <trans-unit id="183" resname="2c877d302e75a03669db85dbc75058ed">
+        <source>{n}% bad imagery</source>
+      </trans-unit>
+      <trans-unit id="184" resname="1f60dd9bf7abec178ba6ad02b1cb6b84">
+        <source>Urgent</source>
+        <target>緊急</target>
+      </trans-unit>
+      <trans-unit id="185" resname="ec509147464ef44b37f9364c8ba8587d">
+        <source>High</source>
+        <target>高</target>
+      </trans-unit>
+      <trans-unit id="186" resname="ed26d158bda96d1d84589dbb19a929f6">
+        <source>Medium</source>
+        <target>中</target>
+      </trans-unit>
+      <trans-unit id="187" resname="bab5053d984f36d26b1ef0f9c61867ff">
+        <source>Low</source>
+        <target>低</target>
+      </trans-unit>
+      <trans-unit id="188" resname="38e2a3d82e7566f21fc8954c281e7271">
+        <source>Urgent priority</source>
+        <target>緊急優先度</target>
+      </trans-unit>
+      <trans-unit id="189" resname="ac8bc237a35f4e2589d54ba807e37316">
+        <source>High priority</source>
+        <target>優先度高</target>
+      </trans-unit>
+      <trans-unit id="190" resname="39bb9745c59a8aaf878504e94fd37f42">
+        <source>Medium priority</source>
+        <target>通常優先度</target>
+      </trans-unit>
+      <trans-unit id="191" resname="37f8bbd72f43d301c260819f719c2c97">
+        <source>Low priority</source>
+        <target>低優先度</target>
+      </trans-unit>
+      <trans-unit id="192" resname="0de51b703c4d457b127a4c190a6661f7">
+        <source>{daysLeftHumanize} left</source>
+        <target>残り {daysLeftHumanize}</target>
+      </trans-unit>
+      <trans-unit id="193" resname="6bcc8ca730ab4d55128409d5c3e6ca5d">
+        <source>Edit</source>
+        <target>編集</target>
+      </trans-unit>
+      <trans-unit id="194" resname="9b3f87b1e9d39c480808c79c514f8200">
+        <source>Project Page</source>
+        <target>プロジェクトページ</target>
+      </trans-unit>
+      <trans-unit id="195" resname="9ed3df3d5a17c6c3cdf878a4b1fb9a8b">
+        <source>Tasks</source>
+        <target>タスク</target>
+      </trans-unit>
+      <trans-unit id="196" resname="2d41a73fde94114ba7a21c43afe1d669">
+        <source>Create project</source>
+        <target>プロジェクト作成</target>
+      </trans-unit>
+      <trans-unit id="197" resname="f4ee148201c67f984c5d5a09c0bc55f4">
+        <source>The new project will be a clone of the project #{id} ({name}).</source>
+        <target>新規プロジェクトは #{id} ({name}) のクローンです。</target>
+      </trans-unit>
+      <trans-unit id="198" resname="6ea3391a8ad435436d68d46af95b6ca0">
+        <source>Clone</source>
+        <target>複製</target>
+      </trans-unit>
+      <trans-unit id="199" resname="e0081a0b2b3840901102ee66069b51dc">
+        <source>Area size: {area} km{sq}</source>
+        <target>エリア面積：{area} km {sq}</target>
+      </trans-unit>
+      <trans-unit id="200" resname="ed8925d3658a2d7b80710343c28b3059">
+        <source>Project area is higher than {n} squared kilometers.</source>
+      </trans-unit>
+      <trans-unit id="201" resname="9843e9529ed252ffe4d35b974a9aaed9">
+        <source>Number of tasks: {n}</source>
+        <target>タスク数:{n}</target>
+      </trans-unit>
+      <trans-unit id="202" resname="548ed8db6b827a4498b673c05b875536">
+        <source>Step 1: define area</source>
+        <target>ステップ1: エリアを指定</target>
+      </trans-unit>
+      <trans-unit id="203" resname="faba98401bf8d6e626986fd884e83bcd">
+        <source>Step 2: set tasks sizes</source>
+        <target>ステップ 2: タスクのサイズを指定</target>
+      </trans-unit>
+      <trans-unit id="204" resname="763673f21bbe1feeb0a13e4e13f797e1">
+        <source>Step 3: trim task grid</source>
+        <target>ステップ3：タスクグリッドの範囲を調整</target>
+      </trans-unit>
+      <trans-unit id="205" resname="ff370fc73c492b4e395b738384b73451">
+        <source>Step 4: review</source>
+        <target>ステップ 4: レビュー</target>
+      </trans-unit>
+      <trans-unit id="206" resname="a799d1aebe7d9682d468d320941b0aaf">
+        <source>Name</source>
+        <target>名称</target>
+      </trans-unit>
+      <trans-unit id="207" resname="05e651be707c82d0a362197a62e72b29">
+        <source>It was not possible to save your project due to an error: {error}</source>
+        <target>以下のエラーが発生したため、プロジェクト保存に失敗しました: {error}</target>
+      </trans-unit>
+      <trans-unit id="208" resname="16f62997a47930a5e906f5d72e6b421b">
+        <source>Create</source>
+        <target>作成</target>
+      </trans-unit>
+      <trans-unit id="209" resname="69c2b94a9940934f319e8804cd46aa32">
+        <source>Your project will be created with {n} tasks.</source>
+        <target>プロジェクトは {n} 個のタスクで作成されます。</target>
+      </trans-unit>
+      <trans-unit id="210" resname="7524e6af33531ce841dcd7be2f04ba62">
+        <source>task</source>
+        <target>タスク</target>
+      </trans-unit>
+      <trans-unit id="211" resname="6fac95957fc4d59cfb44d3821116fb4a">
+        <source>tasks</source>
+        <target>タスク</target>
+      </trans-unit>
+      <trans-unit id="212" resname="2c03bc22fcd835bc81b0259b50268773">
+        <source>Trim the task grid to the area of interest (optional).</source>
+        <target>タスクグリッドをトリムして Area of interestを作成 (オプション)</target>
+      </trans-unit>
+      <trans-unit id="213" resname="a041d1f6e50c262f290cc246135511a4">
+        <source>You can keep the current tasks or trim the area for your project. This can take some time to execute.</source>
+        <target>現在のタスクを続行するか、プロジェクト対象地域の切り取りを行うことができます。切り取り処理には少し時間がかかります。</target>
+      </trans-unit>
+      <trans-unit id="214" resname="b0be7fc28402836defedaae63bfb6b41">
+        <source>Trim the tasks to define the exact Area of Interest for mapping.</source>
+        <target>タスクを切り取って、マッピング対象のArea of Interestを指定します。</target>
+      </trans-unit>
+      <trans-unit id="215" resname="9b844c9f04e36a428d019ed7eabb8d79">
+        <source>General task size</source>
+        <target>通常のタスクのサイズ</target>
+      </trans-unit>
+      <trans-unit id="216" resname="a25773fab684ba46f5771b84591644ad">
+        <source>Smaller</source>
+        <target>縮小</target>
+      </trans-unit>
+      <trans-unit id="217" resname="479aa9de33468b9f799eab73c2ce23d1">
+        <source>Larger</source>
+        <target>拡大</target>
+      </trans-unit>
+      <trans-unit id="218" resname="c7f063cdc1a4fad800502650ad853c27">
+        <source>It was not possible to read the geometries on the file. Verify it and upload again.</source>
+        <target>このファイルのジオメトリを読み込むことができませんでした。確認して再度アップロードしてください。</target>
+      </trans-unit>
+      <trans-unit id="219" resname="1fc870f8a854c2a9cb33cac8457baea6">
+        <source>Unsupported geometry type {geometry}</source>
+        <target>未対応のジオメトリタイプ {geometry}</target>
+      </trans-unit>
+      <trans-unit id="220" resname="8d308a6a4d04986e02d7334b51534ebc">
+        <source>type field is not FeatureCollection</source>
+        <target>タイプフィールドが FeatureCollection ではありません</target>
+      </trans-unit>
+      <trans-unit id="221" resname="c4124bc7249d2ea182965bab194684b4">
+        <source>Points do not form a closed linestring</source>
+        <target>ポイントが、閉じたラインストリングを構成していません</target>
+      </trans-unit>
+      <trans-unit id="222" resname="2dbad97dd52d617a0491a0c9a02fd1de">
+        <source>We only accept files up to {fileSize} MB. Please reduce the size of your file and try again.</source>
+        <target>アップロードできるファイルの大きさは {fileSize} MBまでです。ファイルのサイズを縮小して、再度アップロードを実行してください。</target>
+      </trans-unit>
+      <trans-unit id="223" resname="fd4d391a4117ff7df823f8d8d039a9fa">
+        <source>Make tasks smaller by clicking on specific tasks or drawing an area on the map.</source>
+        <target>特定のタスクをクリックするか、マップ上の領域を描画して、タスクを小さくします。</target>
+      </trans-unit>
+      <trans-unit id="224" resname="cd7ee9ae63ed14bdce99ff6b15c2ea54">
+        <source>Reset</source>
+        <target>リセット</target>
+      </trans-unit>
+      <trans-unit id="225" resname="4f0d7ea0b2f3ddf31b08dca55fd9e4f8">
+        <source>A new project will be created with {n} tasks.</source>
+        <target>新しいプロジェクトが {n} 個のタスクで作成されます。</target>
+      </trans-unit>
+      <trans-unit id="226" resname="e0875cc8144b0c67ff030bd5a2763c0e">
+        <source>The size of each task is approximately {area} km{sq}.</source>
+        <target>各タスクのサイズは約 {area} km {sq} です。</target>
+      </trans-unit>
+      <trans-unit id="227" resname="e910b3830ce4ad5a470aeb37e159fbbe">
+        <source>Draw area to split</source>
+        <target>分割するエリアを描画</target>
+      </trans-unit>
+      <trans-unit id="228" resname="4b24db48ebfc4aae37ea5c698f931eb4">
+        <source>Click to split</source>
+        <target>クリックして分割</target>
+      </trans-unit>
+      <trans-unit id="229" resname="0f1e8db05d89595889b4a025f8ed7e6e">
+        <source>Error when importing geometry. Verify if the file you uploaded is correct.</source>
+        <target>ジオメトリのインポート中にエラーが発生しました。 アップロードしたファイルが正しいかどうか確認してください。</target>
+      </trans-unit>
+      <trans-unit id="230" resname="961add39d64878c6d2e7d738cfda1160">
+        <source>Back to previous</source>
+        <target>前に戻る</target>
+      </trans-unit>
+      <trans-unit id="231" resname="7915e611bc995f0a8b5ce65f8d4e420c">
+        <source>Next</source>
+        <target>次</target>
+      </trans-unit>
+      <trans-unit id="232" resname="2045b255a480ccbaaefc84a3ffe6b105">
+        <source>Trim</source>
+        <target>トリム</target>
+      </trans-unit>
+      <trans-unit id="233" resname="2f4b12fe0b8db08f11a271907f51ab13">
+        <source>Draw</source>
+        <target>描く</target>
+      </trans-unit>
+      <trans-unit id="234" resname="8d6cdaa226a2c637686ed708243ceb63">
+        <source>Select file</source>
+      </trans-unit>
+      <trans-unit id="235" resname="0168c67e08c66f300bf483b1a4175fb8">
+        <source>Set tasks using uploaded polygons</source>
+      </trans-unit>
+      <trans-unit id="236" resname="ae160ab800789578c3dfb90f909defa5">
+        <source>Draw the Area of Interest on the map or import a file.</source>
+      </trans-unit>
+      <trans-unit id="237" resname="4714b9a0301c59400ea4d378b80a10e1">
+        <source>Your can import a GeoJSON, KML, OSM or zipped Shapefile.</source>
+      </trans-unit>
+      <trans-unit id="238" resname="e5a7d349f26045f07980fc40b23215b4">
+        <source>This project doesn't have any teams associated with.</source>
+        <target>プロジェクトへのチーム割当はありません。</target>
+      </trans-unit>
+      <trans-unit id="239" resname="1036f4e36934a327300fb947df4e0c54">
+        <source>Coordination</source>
+        <target>コーディネート</target>
+      </trans-unit>
+      <trans-unit id="240" resname="041c65beb06c8a8db34abce04582e3b4">
+        <source>This project is coordinated by {organisation} and was created by {user}.</source>
+        <target>このプロジェクトは {user} が作成し、 {organisation} がコーディネートしています。</target>
+      </trans-unit>
+      <trans-unit id="241" resname="a2610e444dda69abeaa1bd6b85f09ff0">
+        <source>Project created by {user}.</source>
+        <target>プロジェクト作成者 {user}</target>
+      </trans-unit>
+      <trans-unit id="242" resname="066bdf1cbe813c38fdf8cbc352f34842">
+        <source>{number} total contributors</source>
+        <target>協力者の合計 {number} 人</target>
+      </trans-unit>
+      <trans-unit id="243" resname="6cd32fa9ec4f786e905383df34b36f86">
+        <source>Last contribution</source>
+        <target>以前の参加</target>
+      </trans-unit>
+      <trans-unit id="244" resname="bd4f235ec95128b99762a71fd174d979">
+        <source>Mapped</source>
+        <target>マッピング済</target>
+      </trans-unit>
+      <trans-unit id="245" resname="4b1d7c5963c3918bb5bab59e8c5fae80">
+        <source>Validated</source>
+        <target>検証済み</target>
+      </trans-unit>
+      <trans-unit id="246" resname="a3761ef3f9f031be874a5f80e1e34c0b">
+        <source>Urgent</source>
+        <target>緊急</target>
+      </trans-unit>
+      <trans-unit id="247" resname="07aaf59a5ba494e3a30408480863215c">
+        <source>High</source>
+        <target>高</target>
+      </trans-unit>
+      <trans-unit id="248" resname="644d9db4c3cc6830d752f2ca0dde4779">
+        <source>Medium</source>
+        <target>中</target>
+      </trans-unit>
+      <trans-unit id="249" resname="eae72e71f32b05f5c5baf1503876a53b">
+        <source>Low</source>
+        <target>低</target>
+      </trans-unit>
+      <trans-unit id="250" resname="b47175039c5bcd16d647d3d2bfedd072">
+        <source>{daysLeftHumanize} left</source>
+        <target>残り {daysLeftHumanize}</target>
+      </trans-unit>
+      <trans-unit id="251" resname="98a3a7ed152c32f55ecb81b6a0ab3508">
+        <source>Types of Mapping</source>
+        <target>マッピング対象</target>
+      </trans-unit>
+      <trans-unit id="252" resname="f6acfe4f462ddc6bc8150fd0175669e7">
+        <source>Edit project</source>
+        <target>プロジェクト編集</target>
+      </trans-unit>
+      <trans-unit id="253" resname="d10cfd7c54cd81aa203ec90eca9ccf4c">
+        <source>Editor</source>
+        <target>エディタ</target>
+      </trans-unit>
+      <trans-unit id="254" resname="0b722573091c8be2b8cdf4fd161a9c73">
+        <source>Select editor</source>
+        <target>エディタの選択</target>
+      </trans-unit>
+      <trans-unit id="255" resname="c2b650de2c5e50ee27a35ee5f534e082">
+        <source>Tasks</source>
+        <target>タスク</target>
+      </trans-unit>
+      <trans-unit id="256" resname="dbe7cf7d4419c2241d807a047b7b8904">
+        <source>Instructions</source>
+        <target>マッピング方法解説</target>
+      </trans-unit>
+      <trans-unit id="257" resname="fe1b1c465ae897807f44a02d2d1b6326">
+        <source>Imagery</source>
+        <target>航空写真</target>
+      </trans-unit>
+      <trans-unit id="258" resname="9cf5f5466e43d910aa5702c8f389126e">
+        <source>Custom TMS Layer</source>
+        <target>カスタム TMS レイヤ</target>
+      </trans-unit>
+      <trans-unit id="259" resname="9527b0c7210a2db4b3f0d8fba0cb9e86">
+        <source>Custom WMS Layer</source>
+        <target>カスタム WMS レイヤ</target>
+      </trans-unit>
+      <trans-unit id="260" resname="9f0a4168ff279a7cb0a75482c2bfa606">
+        <source>Custom WMTS Layer</source>
+        <target>カスタム WMTS レイヤ</target>
+      </trans-unit>
+      <trans-unit id="261" resname="2e76245d857a6e1d35492dfd8056b7d2">
+        <source>Contribute</source>
+        <target>協力</target>
+      </trans-unit>
+      <trans-unit id="262" resname="fb8f2dbc471b991aaa4121209e072204">
+        <source>Read more</source>
+        <target>続きを読む</target>
+      </trans-unit>
+      <trans-unit id="263" resname="67cadb9eade6a64b1e78eb22ac6adde9">
+        <source>Read less</source>
+        <target>続きを非表示</target>
+      </trans-unit>
+      <trans-unit id="264" resname="ef88912851191a5d605424c05c59cee8">
+        <source>Add to Favorites</source>
+        <target>お気に入りに追加</target>
+      </trans-unit>
+      <trans-unit id="265" resname="0d48433f0e9eeaf57a0f29808982f738">
+        <source>Remove from Favorites</source>
+        <target>お気に入りから削除</target>
+      </trans-unit>
+      <trans-unit id="266" resname="f4e36f7eb78400d7769f98192090de19">
+        <source>There are currently no questions or comments on this project. Be the first to post one!</source>
+        <target>現在、このプロジェクトに関する質問やコメントはありません。 最初の投稿をしましょう。</target>
+      </trans-unit>
+      <trans-unit id="267" resname="8dc388628d50603632ac4eddc3e06116">
+        <source>Post</source>
+        <target>投稿</target>
+      </trans-unit>
+      <trans-unit id="268" resname="a2875aadd105e25bd15f027e76b1c11c">
+        <source>Share</source>
+        <target>共有</target>
+      </trans-unit>
+      <trans-unit id="269" resname="64464366c12b46b26c7367ec76d82a67">
+        <source>Team</source>
+        <target>チーム</target>
+      </trans-unit>
+      <trans-unit id="270" resname="f0a439aad5917cf28a9ba20556963e37">
+        <source>Validation team</source>
+        <target>検証チーム</target>
+      </trans-unit>
+      <trans-unit id="271" resname="32ebe6b18ceb63ae9ba42a4cc450b004">
+        <source>Teams &amp; Permissions</source>
+        <target>チームと権限</target>
+      </trans-unit>
+      <trans-unit id="272" resname="71a4ffcb030429c7f83ccbfd7e0b2339">
+        <source>Author</source>
+        <target>著者</target>
+      </trans-unit>
+      <trans-unit id="273" resname="e08f011ccad17a8699e272c197a1e7d3">
+        <source>Who can map?</source>
+        <target>誰がマッピングできますか？</target>
+      </trans-unit>
+      <trans-unit id="274" resname="d30ce8fa45a164ee995da168ab9f0ab4">
+        <source>Who can validate?</source>
+        <target>誰が検証できますか？</target>
+      </trans-unit>
+      <trans-unit id="275" resname="9484d57b6a94c7bdbdb4c3a35ee55eb9">
+        <source>Zoom to tasks</source>
+        <target>タスクにズーム</target>
+      </trans-unit>
+      <trans-unit id="276" resname="75a97fd76004163557c85d9451103d60">
+        <source>1. Select a task</source>
+        <target>1. タスクの選択</target>
+      </trans-unit>
+      <trans-unit id="277" resname="0d6a01a3809d37896472be19043d28da">
+        <source>2. Map with OpenStreetMap</source>
+        <target>2. OpenStreetMapでマッピング</target>
+      </trans-unit>
+      <trans-unit id="278" resname="d9ec635714c6cf1e053e0ccc95281219">
+        <source>3. Submit your work</source>
+        <target>3. 作業を完了する</target>
+      </trans-unit>
+      <trans-unit id="279" resname="67abe809807c3bb5d7585e1c75267d5c">
+        <source>Projects are divided into sets of smaller tasks and adapted to fit your skill level.</source>
+        <target>プロジェクトは、より小さなタスクに分割され、あなたのスキルレベルに合わせて適応されます。</target>
+      </trans-unit>
+      <trans-unit id="280" resname="244480e7acea1c56caeaaf2aac358ec0">
+        <source>If you are new to mapping, we recommend checking the Learn page for instructions before you begin.</source>
+        <target>マッピングを初めて行う場合は、開始する前に学習ページで手順を確認することをお勧めします。</target>
+      </trans-unit>
+      <trans-unit id="281" resname="6e745f7dba93e5d469f396b9cbaab9c9">
+        <source>Submitting your work is crucial to make sure your data is saved.</source>
+        <target>データを保存するには、作業内容を登録することが必要です。</target>
+      </trans-unit>
+      <trans-unit id="282" resname="5f219306b627961e13e86f5c6b4f0529">
+        <source>Overview</source>
+        <target>概要</target>
+      </trans-unit>
+      <trans-unit id="283" resname="2fd6c94f62266c97f634b50913529a00">
+        <source>Description</source>
+        <target>解説</target>
+      </trans-unit>
+      <trans-unit id="284" resname="960f02ca48331a7d4b57211ee8585adb">
+        <source>Questions and comments</source>
+        <target>質問とコメント</target>
+      </trans-unit>
+      <trans-unit id="285" resname="b8f2ab88835546e30c19910a8c511bdb">
+        <source>Contributions</source>
+        <target>協力</target>
+      </trans-unit>
+      <trans-unit id="286" resname="f78c8093f789def01b3e8200b30ebcc9">
+        <source>Contributions timeline</source>
+        <target>マッピング結果のタイムライン</target>
+      </trans-unit>
+      <trans-unit id="287" resname="20907dd0b6c5e3a0fc9dba7eb60b2d4d">
+        <source>Changesets in OSMCha</source>
+        <target>OSMChaで変更セットを表示</target>
+      </trans-unit>
+      <trans-unit id="288" resname="da8f806685d45c2d13edbe912fb5fb7e">
+        <source>Changesets</source>
+      </trans-unit>
+      <trans-unit id="289" resname="c6dc8617821d080db4a5e8db01269d0e">
+        <source>Contributors</source>
+        <target>参加者</target>
+      </trans-unit>
+      <trans-unit id="290" resname="ad79f21c46701ba05ee9e36cf50edf1d">
+        <source>Related projects</source>
+        <target>関連プロジェクト</target>
+      </trans-unit>
+      <trans-unit id="291" resname="ce82a5e791fbb12f4ccdff0f20d3a168">
+        <source>A timeline is going to be available after the first task has been mapped.</source>
+        <target>タイムラインを表示するには、1つ以上のタスクをマップする必要があります。</target>
+      </trans-unit>
+      <trans-unit id="292" resname="d86ee5001a3ad4f9dcc153c705931401">
+        <source>Draft</source>
+        <target>下書き</target>
+      </trans-unit>
+      <trans-unit id="293" resname="1f8fd749b51961dbaffc65e59848eef2">
+        <source>Archived</source>
+        <target>アーカイブ済み</target>
+      </trans-unit>
+      <trans-unit id="294" resname="12ad0db3448208d5f65e47dc2308b3ea">
+        <source>Published</source>
+        <target>公開中</target>
+      </trans-unit>
+      <trans-unit id="295" resname="7e1c3d8cb8e10e8d7bcae320082895e9">
+        <source>All users</source>
+        <target>すべてのユーザ</target>
+      </trans-unit>
+      <trans-unit id="296" resname="ab32f819194a81ca6df456ff86a3ea23">
+        <source>Users with intermediate or advanced level</source>
+        <target>中級または上級レベルのユーザー</target>
+      </trans-unit>
+      <trans-unit id="297" resname="19e9f8ff42811c463ba776cb25a31de3">
+        <source>{team} members</source>
+        <target>{team} のメンバー</target>
+      </trans-unit>
+      <trans-unit id="298" resname="8f5e34a3b9291f4a55e5f1d4725d9fb8">
+        <source>Intermediate and advanced {team} members</source>
+        <target>中級および上級の {team} メンバー</target>
+      </trans-unit>
+      <trans-unit id="299" resname="981cf55a0f76c57bbbeceb558ae96a37">
+        <source>Download AOI</source>
+        <target>AOIをダウンロード</target>
+      </trans-unit>
+      <trans-unit id="300" resname="922031960947b3fb727a991734c55a56">
+        <source>Download Tasks Grid</source>
+      </trans-unit>
+      <trans-unit id="301" resname="f1958eb4eaa0bcce24e4d027d290d077">
+        <source>More statistics</source>
+      </trans-unit>
+      <trans-unit id="302" resname="756ecd483839a58f76fc34703bb72a30">
+        <source>Contribute mapping the project #{id} on {site}</source>
+      </trans-unit>
+      <trans-unit id="303" resname="553930e2b7e99a6f568767517a4c5c31">
+        <source>Post on Facebook</source>
+        <target>フェイスブックで投稿する</target>
+      </trans-unit>
+      <trans-unit id="304" resname="c6b54efec9fb76cfaa508777350c2c79">
+        <source>Share on LinkedIn</source>
+      </trans-unit>
+      <trans-unit id="305" resname="d904dabf0f1a805e4041bcb01aec05e4">
+        <source>Privacy</source>
+        <target>プライバシー</target>
+      </trans-unit>
+      <trans-unit id="306" resname="020e386edd69fb0f3977726f0f3001e0">
+        <source>Private project</source>
+      </trans-unit>
+      <trans-unit id="307" resname="38b9e50c5a9d1fdd23c5d781720c5418">
+        <source>Private means that only the users that are project team members can access, map or validate this project. This option overrides the mapping and validation permissions.</source>
+        <target>プライベート状態のプロジェクトには、特定のチームメンバーだけがアクセスし、マッピングと確認作業を行うことができます。このオプション設定は、マッピングと確認作業の権限設定よりも優先して適用されます。</target>
+      </trans-unit>
+      <trans-unit id="308" resname="c35e4d07a9adb74ebd4e4855dcf26b6d">
+        <source>Teams</source>
+        <target>チーム</target>
+      </trans-unit>
+      <trans-unit id="309" resname="8a43780df93c19d246554c70ac880886">
+        <source>Organization</source>
+        <target>組織</target>
+      </trans-unit>
+      <trans-unit id="310" resname="be0e387913903e4b6abb05221ac8e9f8">
+        <source>Campaign</source>
+        <target>キャンペーン</target>
+      </trans-unit>
+      <trans-unit id="311" resname="68bc36b125acace0f2e45d16511831f3">
+        <source>Categories</source>
+        <target>カテゴリ</target>
+      </trans-unit>
+      <trans-unit id="312" resname="b5285f4bbd73370b286dd3d0430b4f71">
+        <source>Organization that is coordinating the project, if there is any. The managers of that organization will have administration rights over the project.</source>
+        <target>このプロジェクトの調整役になっている組織名。必ず設定されているわけではありません。組織の管理者は対象となるプロジェクトの管理権限を有しています。</target>
+      </trans-unit>
+      <trans-unit id="313" resname="a1bb1e3ca952c77f272a8e2caeb60369">
+        <source>Select license</source>
+        <target>ライセンス選択</target>
+      </trans-unit>
+      <trans-unit id="314" resname="0c53efe46f194560165016d946e5ac79">
+        <source>Select organization</source>
+        <target>組織を選択</target>
+      </trans-unit>
+      <trans-unit id="315" resname="790d89675b5988cf32ed0731d9bd6f49">
+        <source>Select campaigns</source>
+        <target>キャンペーン選択</target>
+      </trans-unit>
+      <trans-unit id="316" resname="518e9574f3c14fc7de6b2e7d596b34d5">
+        <source>Any user</source>
+        <target>任意のユーザ</target>
+      </trans-unit>
+      <trans-unit id="317" resname="75cf2cf6b41a14d3e041e0d33879f6f3">
+        <source>Only users with intermediate or advanced level</source>
+        <target>中級レベルまたは上級レベルのユーザーのみ</target>
+      </trans-unit>
+      <trans-unit id="318" resname="b9b55b8bd158311ac113d9e5632448b4">
+        <source>Only team members</source>
+        <target>チームメンバのみ</target>
+      </trans-unit>
+      <trans-unit id="319" resname="7795868cedac7c1b0d43cef1f28cc6cc">
+        <source>Only intermediate and advanced team members</source>
+        <target>中級および上級のチームメンバーのみ</target>
+      </trans-unit>
+      <trans-unit id="320" resname="13f39998063590b85560624825a4444c">
+        <source>Define which users can map this project.</source>
+        <target>このプロジェクトをマッピングできるユーザを定義します。</target>
+      </trans-unit>
+      <trans-unit id="321" resname="027bbf621ed315a4bcea4cacd6a07f06">
+        <source>Define which users can validate this project.</source>
+        <target>このプロジェクトを検証できるユーザを定義します。</target>
+      </trans-unit>
+      <trans-unit id="322" resname="6b70b523ad92e4ff21e02b0b2f827874">
+        <source>Mapping permissions</source>
+        <target>マッピングの許可</target>
+      </trans-unit>
+      <trans-unit id="323" resname="a3c7f62b3f5d60fe9f1a042f00fa7d59">
+        <source>Validation permissions</source>
+        <target>検証の許可</target>
+      </trans-unit>
+      <trans-unit id="324" resname="38237ebd74383cd1f2be3f85074e6c5e">
+        <source>Mapping, validation and invalidation</source>
+        <target>マッピング、検証、差し戻し</target>
+      </trans-unit>
+      <trans-unit id="325" resname="bb6b8c4d9ea7db2f95313e5195532a9d">
+        <source>Use this if for some reason you need to map, validate or invalidate all tasks in this project in a single step.</source>
+        <target>もし何らかの理由により、このプロジェクト内の全てのタスクを一度にマッピング、検証済み、あるいは差し戻ししたい場合に利用してください。</target>
+      </trans-unit>
+      <trans-unit id="326" resname="363cc983683e9013a0ad0c7092b78125">
+        <source>Message all contributors</source>
+        <target>全ての協力者にメッセージ</target>
+      </trans-unit>
+      <trans-unit id="327" resname="a984a98c6675e3f1144074f7ff6c45f9">
+        <source>This will send a message to every contributor of the current project. Please use this feature carefully.</source>
+        <target>現在プロジェクトに参加しているすべての参加者にメッセージを送付します。この機能は慎重に取り扱ってください。</target>
+      </trans-unit>
+      <trans-unit id="328" resname="ff9f2ff4f177c736c43d633b9923f81d">
+        <source>This message will not be translated to the different languages of the users, so you may want to include your own translations.</source>
+        <target>このメッセージを複数のユーザの言語に翻訳できません。自身で翻訳作業を行ってください。</target>
+      </trans-unit>
+      <trans-unit id="329" resname="1a3eb5fccdb3b92264482f50716729b2">
+        <source>Contributors were messaged successfully.</source>
+        <target>人の協力者にメッセージを送付しました。</target>
+      </trans-unit>
+      <trans-unit id="330" resname="f872b424cb636fae26668189dfb1e9fb">
+        <source>Failed to message all contributors for an unknown reason.</source>
+        <target>なんらかの理由により、すべてのユーザへのメッセージ送付に失敗しました。</target>
+      </trans-unit>
+      <trans-unit id="331" resname="ef98c9224f0b6e9255d53662e97630b8">
+        <source>Map all tasks</source>
+        <target>全タスクをマッピング</target>
+      </trans-unit>
+      <trans-unit id="332" resname="3fefa2fd486e6fdcab7f97ff7b2bec50">
+        <source>Are you sure you want to mark all tasks in this project as mapped? You cannot undo this.</source>
+        <target>このプロジェクトのすべてのタスクをマッピング済みにしますか？ この作業は取り消せません。</target>
+      </trans-unit>
+      <trans-unit id="333" resname="67b64c8b3e96cb727cd0b54d6dc20377">
+        <source>This will mark all tasks (except 'unavailable' ones) as mapped. Please use this only if you are sure of what you are doing.</source>
+        <target>すべてのタスク（「利用できない」タスクを除く）がマッピング済みとしてマークされます。ほんとうに実施してしまって問題がない場合だけ実行してください。</target>
+      </trans-unit>
+      <trans-unit id="334" resname="7c5faf7a6be3f56cbee1cad01249d5ba">
+        <source>The tasks were mapped successfully.</source>
+        <target>タスクは正常にマッピングされました。</target>
+      </trans-unit>
+      <trans-unit id="335" resname="f97fac6adb4781a4b91429af3074e2a6">
+        <source>Mapping all the tasks failed for an unknown reason.</source>
+        <target>なんらかの理由により全てのタスクのマッピングに失敗しました。</target>
+      </trans-unit>
+      <trans-unit id="336" resname="0b31a445d0bae3d3e89bbc5ca807029c">
+        <source>Invalidate all tasks</source>
+        <target>全タスクを差し戻し</target>
+      </trans-unit>
+      <trans-unit id="337" resname="07e2c930361c71872da45991efc6c9ab">
+        <source>Are you sure you want to invalidate all tasks in this project? You cannot undo this.</source>
+        <target>プロジェクト内のすべてのタスクを差し戻しますか？ この作業は取り消せません</target>
+      </trans-unit>
+      <trans-unit id="338" resname="1faae78e518a1aab97c6cffb822906e6">
+        <source>This will mark all tasks (except 'unavailable' ones) as 'more mapping needed'. Please use this only if you are sure of what you are doing.</source>
+        <target>すべてのタスク（「利用できない」タスクを除く）が「追加のマッピングが必要」とマークされます。 ほんとうに実施してしまって問題がない場合だけ実行してください。</target>
+      </trans-unit>
+      <trans-unit id="339" resname="c20601aa987aac07c1aae497e0c82d58">
+        <source>The tasks were set as 'more mapping needed' successfully.</source>
+        <target>タスクは「追加のマッピングが必要」として設定されました。</target>
+      </trans-unit>
+      <trans-unit id="340" resname="fc79f6f69a2e56228ee6597207a308f0">
+        <source>Invalidating all the tasks failed for an unknown reason.</source>
+        <target>なんらかの理由により全てのタスクの差し戻しに失敗しました。</target>
+      </trans-unit>
+      <trans-unit id="341" resname="7e5f9173875a1c0dcd5ada0c618f52d8">
+        <source>Validate all tasks</source>
+        <target>全タスクを検証</target>
+      </trans-unit>
+      <trans-unit id="342" resname="0e9110813c46ac29f0c5f3950d63c1e3">
+        <source>Are you sure you want to validate all tasks? You cannot undo this.</source>
+        <target>すべてのタスクを検証済みにしますか？ この作業は取り消せません。</target>
+      </trans-unit>
+      <trans-unit id="343" resname="f05cafc47ec5f1474bb235996ca4e543">
+        <source>This will change the status of all tasks (except 'unavailable' ones) to 'finished'. Please use this only if you are sure of what you are doing.</source>
+        <target>すべてのタスク（ '利用できない' タスクを除く）が 'マッピング済み' 状態となります。ほんとうに実施してしまって問題がない場合だけ実行してください。</target>
+      </trans-unit>
+      <trans-unit id="344" resname="366562b96ad25106c3503be3cf74cdf6">
+        <source>The tasks were validated successfully.</source>
+        <target>タスクは正常に検証されました。</target>
+      </trans-unit>
+      <trans-unit id="345" resname="374297040eb41e3a249499cd7506d74e">
+        <source>Validating all the tasks failed for an unknown reason.</source>
+      </trans-unit>
+      <trans-unit id="346" resname="e7118a50044002dcc8a1d2762f136de1">
+        <source>Reset tasks marked as unavailable</source>
+        <target>使用不可としてマークされたタスクをリセットする</target>
+      </trans-unit>
+      <trans-unit id="347" resname="2cefbf75ff2c8eae105e401b163beff0">
+        <source>Are you sure you want to reset all tasks marked as unavailable in this project? You cannot undo this.</source>
+        <target>プロジェクト内のすべてのタスクを利用不可としてマークしますか？ この作業は取り消せません。</target>
+      </trans-unit>
+      <trans-unit id="348" resname="705b1482ccf03b3fea6fb756d8fa48f0">
+        <source>This will change the status of those tasks to 'ready for mapping'. Please use this only if you are sure of what you are doing.</source>
+        <target>すべてのタスクが '準備完了' 状態となります。ほんとうに実施してしまって問題がない場合だけ実行してください。</target>
+      </trans-unit>
+      <trans-unit id="349" resname="3abe3de80935b4ce86e26080e09e20be">
+        <source>Reset all unavailable tasks</source>
+        <target>「使用不可」のタスクをすべてリセットする</target>
+      </trans-unit>
+      <trans-unit id="350" resname="abd2d7b7ae004976e2f6988a5647d53c">
+        <source>The tasks marked as unavailable were reset successfully.</source>
+        <target>「使用不可」のマークのタスクをリセットしました。</target>
+      </trans-unit>
+      <trans-unit id="351" resname="7809986d0df84a02e311be793e75ab66">
+        <source>Resetting the tasks failed for an unknown reason.</source>
+        <target>なんらかの理由によりタスクのリセットに失敗しました。</target>
+      </trans-unit>
+      <trans-unit id="352" resname="d2df9fafe2b0e7f08b6f7a631e9606fc">
+        <source>Reset tasks</source>
+        <target>タスクのリセット</target>
+      </trans-unit>
+      <trans-unit id="353" resname="336a6474e8376e812ff1bc82eaea18fd">
+        <source>Reset all tasks</source>
+        <target>すべてのタスクをリセット</target>
+      </trans-unit>
+      <trans-unit id="354" resname="b3c5a6834ec155e543fc2dba69746db1">
+        <source>Reset all tasks in the project to ready to map, preserving history.</source>
+        <target>プロジェクト内のすべてのタスクを準備完了状態に設定します。履歴は保持されます。</target>
+      </trans-unit>
+      <trans-unit id="355" resname="d0371a3a399d084fd1246792d7d52eea">
+        <source>All tasks were reset successfully.</source>
+        <target>タスクのリセットに成功しました。</target>
+      </trans-unit>
+      <trans-unit id="356" resname="6154d9fb9726d2fc3132a29dfb26ceab">
+        <source>Resetting all the tasks failed for an unknown reason.</source>
+        <target>なんらかの理由により全てのタスクのリセットに失敗しました。</target>
+      </trans-unit>
+      <trans-unit id="357" resname="8062cc7ee7e574d28295aacc44de1627">
+        <source>Clone project</source>
+        <target>クローンプロジェクト</target>
+      </trans-unit>
+      <trans-unit id="358" resname="70064ed0a04d45f5e8344bdf624d607a">
+        <source>This will copy all descriptions, instructions, metadata etc to a new project. The Area of Interest, tasks and the priority areas will not be copied. You will have to redraw/import these. Your newly cloned project will be in draft status.</source>
+        <target>概要や解説文、メタデータ等すべての情報を新しいプロジェクトへコピーします。Area of Interestやタスク、優先エリアはコピーされませんので、再度対象指定したり、矩形をインポートしたりする必要があります。この方法で複製したプロジェクトのステータスは下書き状態になります。</target>
+      </trans-unit>
+      <trans-unit id="359" resname="2e1b20e682f740d41a98c54bcb145c50">
+        <source>Transfer project</source>
+        <target>プロジェクトを転送</target>
+      </trans-unit>
+      <trans-unit id="360" resname="2f619d31dc27c59b77d98411706f4d46">
+        <source>Transfer project ownership</source>
+        <target>プロジェクト管理権限の移譲</target>
+      </trans-unit>
+      <trans-unit id="361" resname="e7aa2b3f6fe418645e2d3e0b45b1ba0c">
+        <source>In case of wrong transfer, contact the new owner to revert the change.</source>
+        <target>間違って権限移譲を実施してしまった場合、新しい権利保持者に変更を取り消ししてもらうよう依頼してください。</target>
+      </trans-unit>
+      <trans-unit id="362" resname="0b0c4548bf14e98353c7e6d493192cab">
+        <source>The project was transfered successfully.</source>
+        <target>権限委譲が完了しました。</target>
+      </trans-unit>
+      <trans-unit id="363" resname="54e0c06d2bef9a046cb8b6bcf550aee9">
+        <source>The project transfer failed.</source>
+        <target>権限委譲に失敗しました。</target>
+      </trans-unit>
+      <trans-unit id="364" resname="b7189ad62db85bd94c0262fca44601b1">
+        <source>Delete project</source>
+        <target>プロジェクト削除</target>
+      </trans-unit>
+      <trans-unit id="365" resname="ae6839cab248b57783aa6a8ac001c0fe">
+        <source>You can only delete projects that has no received contributions.</source>
+        <target>プロジェクトを削除できるのは、参加者が居ない場合のみです。</target>
+      </trans-unit>
+      <trans-unit id="366" resname="531b3a2237c2c7236fb4370b8be4231a">
+        <source>The project was deleted successfully.</source>
+        <target>プロジェクトが正常に削除されました。</target>
+      </trans-unit>
+      <trans-unit id="367" resname="d774bae6b0098924cfea82aa78ac1819">
+        <source>The project deletion failed. If this project has received some contributions, you should archive it instead.</source>
+        <target>プロジェクトの削除に失敗しました。 このプロジェクトに協力者が参加している場合は、代わりにアーカイブしてください。</target>
+      </trans-unit>
+      <trans-unit id="368" resname="726f503bd77028ab132f280fcf78e15c">
+        <source>Task reset</source>
+        <target>タスクのリセット</target>
+      </trans-unit>
+      <trans-unit id="369" resname="5ffdbc74315bf1497f635a17ee646802">
+        <source>Reset all tasks</source>
+        <target>すべてのタスクをリセット</target>
+      </trans-unit>
+      <trans-unit id="370" resname="0c132e59715f9d7879c875695684c8b9">
+        <source>Cancel</source>
+        <target>キャンセル</target>
+      </trans-unit>
+      <trans-unit id="371" resname="8e5a82a703822e8bddce036324c91e98">
+        <source>This cannot be undone.</source>
+        <target>やり直しできない作業です。</target>
+      </trans-unit>
+      <trans-unit id="372" resname="0b7e75982a3abd22aba0b3d4bebfa687">
+        <source>Warning</source>
+        <target>警告</target>
+      </trans-unit>
+      <trans-unit id="373" resname="bfbfad46533bcd7125c896f0a2c4422b">
+        <source>Are you sure you want to reset all tasks? You cannot undo this.</source>
+        <target>すべてのタスクをリセットしますか? この操作は取り消せません。</target>
+      </trans-unit>
+      <trans-unit id="374" resname="a173ccd76b668f87c6481d95bdd38509">
+        <source>Status</source>
+        <target>ステータス</target>
+      </trans-unit>
+      <trans-unit id="375" resname="695ad23102af3de013402ed16ddce87c">
+        <source>Priority</source>
+        <target>優先度</target>
+      </trans-unit>
+      <trans-unit id="376" resname="fd3a614673a6bd07a8f7987940a7970f">
+        <source>Required license</source>
+        <target>要ライセンス</target>
+      </trans-unit>
+      <trans-unit id="377" resname="17c49582a5b03da3d9c2aec758726c1d">
+        <source>Default language</source>
+        <target>デフォルトの言語</target>
+      </trans-unit>
+      <trans-unit id="378" resname="03efe746a75c6bca1bcdc1c31e18ca70">
+        <source>Editors for mapping</source>
+        <target>マッピング用のエディタ</target>
+      </trans-unit>
+      <trans-unit id="379" resname="aa4b542f77923bee5105c7fe5c873ba1">
+        <source>Editors for validation</source>
+        <target>検証用のエディタ</target>
+      </trans-unit>
+      <trans-unit id="380" resname="7420aff78d5901f95a6a23d8764606d4">
+        <source>Custom editor</source>
+        <target>カスタムエディタ</target>
+      </trans-unit>
+      <trans-unit id="381" resname="e7259664458a94366f7c76b440bc4ea6">
+        <source>Enforce random task selection</source>
+        <target>ランダムにタスクを選択する</target>
+      </trans-unit>
+      <trans-unit id="382" resname="0d99f110cc80ed1f481e490c04a93672">
+        <source>Enforce random task selection on mapping</source>
+        <target>マッピングのタスクをランダムに選択する</target>
+      </trans-unit>
+      <trans-unit id="383" resname="c13e84aa4ef47fecb6fc0fca3f201537">
+        <source>If checked, users must edit tasks at random for the initial editing stage (managers and admins are exempt).</source>
+        <target>チェックを入れると、ユーザーは最初の編集タスクをランダムで行う必要があります（マネージャと管理者は例外）。</target>
+      </trans-unit>
+      <trans-unit id="384" resname="f3048cbf82dccc0850884f93348c6923">
+        <source>Imagery URL</source>
+        <target>航空写真のURL</target>
+      </trans-unit>
+      <trans-unit id="385" resname="e21a90be8a2ce94f6aeb059f38075315">
+        <source>Follow this format for TMS URLs: {exampleUrl}</source>
+        <target>TMS URLs: {exampleUrl} の書式に従ってください。</target>
+      </trans-unit>
+      <trans-unit id="386" resname="01b804345ad5efc04a8482b8974001af">
+        <source>Draw polygon</source>
+        <target>ポリゴンを描く</target>
+      </trans-unit>
+      <trans-unit id="387" resname="d104b3460625c00cdb8e2eb3e74e4949">
+        <source>Draw rectangle</source>
+        <target>四角形を描く</target>
+      </trans-unit>
+      <trans-unit id="388" resname="85b1e4c1f63c53363c8dc1b89b0f9f30">
+        <source>Clear all</source>
+        <target>選択解除</target>
+      </trans-unit>
+      <trans-unit id="389" resname="5f0925f2bfa6a8c6713cdaca68961dec">
+        <source>Name of the project</source>
+        <target>プロジェクト名</target>
+      </trans-unit>
+      <trans-unit id="390" resname="e05ad19864ac2e65d25b77b3ac839df7">
+        <source>Due date</source>
+      </trans-unit>
+      <trans-unit id="391" resname="068bde51abc4948cf87cfc1925bf37ea">
+        <source>Define the ideal date to have the project finished. The date format is day/month/year.</source>
+      </trans-unit>
+      <trans-unit id="392" resname="8ed441bbfae1126d37f2d95dc449d985">
+        <source>Description</source>
+        <target>解説</target>
+      </trans-unit>
+      <trans-unit id="393" resname="f607d7d14d56d78041ac1d8c0eee5698">
+        <source>Short description</source>
+        <target>概略</target>
+      </trans-unit>
+      <trans-unit id="394" resname="819b831ee93cf12112808dd81cd7bc36">
+        <source>Detailed instructions</source>
+        <target>詳しい説明</target>
+      </trans-unit>
+      <trans-unit id="395" resname="5ad4ce4587bd6b128f0b4ca5b9a7fa9f">
+        <source>OSMCha filter ID</source>
+        <target>OSMChaフィルタID</target>
+      </trans-unit>
+      <trans-unit id="396" resname="39c747ed74db4d7006ed9842350188ce">
+        <source>Optional id of a saved OSMCha filter to apply when viewing the project in OSMCha, if you desire custom filtering. Note that this replaces all standard filters. Example: 095e8b31-b3cb-4b36-a106-02826fb6a109 (for convenience, you can also paste an OSMCha URL here that uses a saved filter and the filter id will be extracted for you).</source>
+        <target>OSMChaのフィルタIDを指定しておくことで、このプロジェクトをOSMChaで表示する際にカスタムフィルタを適用することができます。この設定を行うことで、標準のフィルタ設定がすべて上書きされることに注意してください。例: 095e8b31-b3cb-4b36-a106-02826fb6a109 (OSMChaで保存されているフィルタのURLを入力してもかまいｍせん。システムは自動的にフィルタのIDを抽出し、適用します)</target>
+      </trans-unit>
+      <trans-unit id="397" resname="8f8e6c57f64deb288fa88e36ee481330">
+        <source>If you want mappers to work on the highest priority areas first, draw one or more polygons within the project area.</source>
+        <target>もし優先度の高いエリアをマッパーに示したい場合、プロジェクト対象エリアの中に1つ以上のポリゴンを描いてください。</target>
+      </trans-unit>
+      <trans-unit id="398" resname="06f2f4a27225a55dfcc20d1f2fcb0e08">
+        <source>Types of mapping</source>
+        <target>マッピング対象</target>
+      </trans-unit>
+      <trans-unit id="399" resname="f5cb3a8b8ef263e19fdafbe3a81cd56e">
+        <source>iD editor presets</source>
+      </trans-unit>
+      <trans-unit id="400" resname="385770a38d0d5df0f76c80026e65b34c">
+        <source>User role</source>
+        <target>ユーザのロール</target>
+      </trans-unit>
+      <trans-unit id="401" resname="0d1837b5771cb5ce7201b3ccecdf0eae">
+        <source>Mapper level</source>
+        <target>マッパーレベル</target>
+      </trans-unit>
+      <trans-unit id="402" resname="0874a6e742d2571b6e7d355f3db77310">
+        <source>Setting the level will help mappers to find suitable projects to work on.</source>
+        <target>レベルを設定することで、マッパーが最適なプロジェクトを探す際に役立ちます。</target>
+      </trans-unit>
+      <trans-unit id="403" resname="0e5b3d4a401bcc71ff9012e82b919fe1">
+        <source>Per task instructions</source>
+        <target>タスク単位での説明</target>
+      </trans-unit>
+      <trans-unit id="404" resname="49ceb01c6467165528175022664a6649">
+        <source>Add any information that can be useful to users while mapping a task. &quot;{x}&quot;, &quot;{y}&quot; and &quot;{z}&quot; will be replaced by the corresponding parameters for each task. &quot;{x}&quot;, &quot;{y}&quot; and &quot;{z}&quot; parameters can only be be used on tasks generated in the Tasking Manager and not on imported tasks.</source>
+        <target>タスクを実行するにあたり、利用者にとって有益な情報を記入してください。&quot;{x}&quot; と &quot;{y}&quot; と &quot;{z}&quot; の値は、それぞれのタスクにおいて適切なパラメータに置換されます。&quot;{x}&quot; と &quot;{y}&quot; と &quot;{z}&quot; の値はTasking Managerで生成されたタスク上のみで有効となり、インポートされたタスク上では有効となりません。</target>
+      </trans-unit>
+      <trans-unit id="405" resname="89d7eaf9867a646219628d8f1d700223">
+        <source>Example: This task involves loading extra data. Click [here](http://localhost:8111/import?new_layer=true&amp;amp;url=http://www.domain.com/data/{x}/{y}/{z}/routes_2009.osm) to load the data into JOSM.</source>
+        <target>例:このタスクでは追加のデータを読み込みます。[here](http://localhost:8111/import?new_layer=true&amp;amp;url=http://www.domain.com/data/{x}/{y}/{z}/routes_2009.osm) をクリックして、データをJOSMに読み込んでください。</target>
+      </trans-unit>
+      <trans-unit id="406" resname="9ad228c348aef12f6e51cc7731e0a268">
+        <source>Changeset comment</source>
+        <target>変更セットコメント</target>
+      </trans-unit>
+      <trans-unit id="407" resname="0c58a356b90c7eaf8ca2dc1cb4b3c1bb">
+        <source>Example: #hotosm-project-470 #missingmaps Buildings mapping.</source>
+        <target>例: #hotosm-project-470 #missingmaps 建物の追加</target>
+      </trans-unit>
+      <trans-unit id="408" resname="181c89c14f7d3e8bc42c9319cf78af1f">
+        <source>Default comments added to uploaded changeset comment field. Users should also be encouraged to add text describing what they mapped. Hashtags are sometimes used for analysis later, but should be human informative and not overused, #group #event for example.</source>
+        <target>アップロードしたチェンジセットに表示されるデフォルトのコメントです。ユーザーは、マッピングした内容を説明するテキストを追加することが推奨されます。ハッシュタグは、後で分析するために使用されることがありますが、人間に有益である必要があり、過度に使用してはいけません。例：#group #event</target>
+      </trans-unit>
+      <trans-unit id="409" resname="e61696a373f322a200ea6eba07eb5fed">
+        <source>Urgent</source>
+        <target>緊急</target>
+      </trans-unit>
+      <trans-unit id="410" resname="684c5432ed7dc08fdd988b70cba66ac9">
+        <source>High</source>
+        <target>高</target>
+      </trans-unit>
+      <trans-unit id="411" resname="e993172d3b75a63ca29197d8d989a297">
+        <source>Medium</source>
+        <target>中</target>
+      </trans-unit>
+      <trans-unit id="412" resname="173e85ebca5c21b230fe69890332cfce">
+        <source>Low</source>
+        <target>低</target>
+      </trans-unit>
+      <trans-unit id="413" resname="b53cf475a1b926a8b93f9710bd88af18">
+        <source>Draft</source>
+        <target>下書き</target>
+      </trans-unit>
+      <trans-unit id="414" resname="a0a67984f79c3b65b8041266acff5634">
+        <source>Archived</source>
+        <target>アーカイブ済み</target>
+      </trans-unit>
+      <trans-unit id="415" resname="2978acca3e9532beab69a7e3d128f5e2">
+        <source>Published</source>
+        <target>公開中</target>
+      </trans-unit>
+      <trans-unit id="416" resname="1ac3918fc6f0712c60746691084680f4">
+        <source>All roles</source>
+        <target>すべてのロール</target>
+      </trans-unit>
+      <trans-unit id="417" resname="1e73dca506faaaa0977147c4448630c5">
+        <source>Mapper</source>
+        <target>マッパー</target>
+      </trans-unit>
+      <trans-unit id="418" resname="03d9a2f1cc2e5f9170fa03152976541c">
+        <source>Subject *</source>
+        <target>表題 *</target>
+      </trans-unit>
+      <trans-unit id="419" resname="9ba6e29cce76448859ba6195b2fd9d56">
+        <source>Message *</source>
+        <target>メッセージ *</target>
+      </trans-unit>
+      <trans-unit id="420" resname="88e3d97a7e42c3daa75857cc17c33ebf">
+        <source>All levels</source>
+        <target>すべてのレベル</target>
+      </trans-unit>
+      <trans-unit id="421" resname="85b2ee6d28f56415e0efde96f86edd64">
+        <source>Advanced</source>
+        <target>上級者</target>
+      </trans-unit>
+      <trans-unit id="422" resname="ff6315e68e3d11435b42d055d6ce02ee">
+        <source>Intermediate</source>
+        <target>中級者</target>
+      </trans-unit>
+      <trans-unit id="423" resname="9cab16e008a70d74b4b4e827e092ef01">
+        <source>Beginner</source>
+        <target>初心者</target>
+      </trans-unit>
+      <trans-unit id="424" resname="3cc697204be816820d52c46b3016ef33">
+        <source>Filter teams by organizations</source>
+        <target>組織によってチームを絞り込み</target>
+      </trans-unit>
+      <trans-unit id="425" resname="7d33a1fa55871202db0a48ef23a274d4">
+        <source>Select a team...</source>
+        <target>チームを選択</target>
+      </trans-unit>
+      <trans-unit id="426" resname="ad3eb62560b803ff17af7b044bd861ef">
+        <source>Select a role...</source>
+        <target>ロールの選択</target>
+      </trans-unit>
+      <trans-unit id="427" resname="2fe31c32c13de1ab7d11fd381dea7e48">
+        <source>Add</source>
+        <target>追加</target>
+      </trans-unit>
+      <trans-unit id="428" resname="092a6ccdf86db40a0ec134f6dea0b19e">
+        <source>Update</source>
+        <target>更新</target>
+      </trans-unit>
+      <trans-unit id="429" resname="7ab55cd7784d790fdceead7ad2b63e2f">
+        <source>Preview</source>
+        <target>プレビュー</target>
+      </trans-unit>
+      <trans-unit id="430" resname="518c886e42be319aa601adcb3a51ee9a">
+        <source>Name</source>
+        <target>名称</target>
+      </trans-unit>
+      <trans-unit id="431" resname="f2261d6a6286ccf97847d178ef9d2abc">
+        <source>Description</source>
+        <target>解説</target>
+      </trans-unit>
+      <trans-unit id="432" resname="5191cdeef90b876dfb26c10964a49110">
+        <source>URL</source>
+        <target>URL</target>
+      </trans-unit>
+      <trans-unit id="433" resname="e0b7806452eab422bc4dabbc9e198ecd">
+        <source>Enabled</source>
+        <target>有効化</target>
+      </trans-unit>
+      <trans-unit id="434" resname="00622f4af632d471aa9a7c386fad29ea">
+        <source>Delete Custom Editor</source>
+        <target>カスタムエディタを除去</target>
+      </trans-unit>
+      <trans-unit id="435" resname="61d2a881b20bcf1ee6247c0427e64126">
+        <source>Remove Custom Editor</source>
+        <target>カスタムエディタを削除</target>
+      </trans-unit>
+      <trans-unit id="436" resname="96303296e98d70c51f56f052995a53a4">
+        <source>This will remove the custom editor from the project. Are you sure you don't want to disable the custom editor by toggling the &quot;Enabled&quot; checkbox above?</source>
+        <target>プロジェクトからカスタムエディタ設定を削除します。カスタムエディタの &quot;有効化&quot; チェックボックスを変更することで、削除を行うことなくエディタの利用可否を変更することが可能です。</target>
+      </trans-unit>
+      <trans-unit id="437" resname="366f45893cf867083d9d07534f912ce1">
+        <source>Generic project</source>
+        <target>汎用プロジェクト</target>
+      </trans-unit>
+      <trans-unit id="438" resname="0cef7a545fe8a5fad9a26e78934fdaaf">
+        <source>Difficulty level</source>
+        <target>難易度</target>
+      </trans-unit>
+      <trans-unit id="439" resname="1fd4ec9b8b14bc223b8fe28e359a149a">
+        <source>More filters</source>
+        <target>その他のフィルタ</target>
+      </trans-unit>
+      <trans-unit id="440" resname="cc046006c121bd59f37a4bc885d2133a">
+        <source>Campaign</source>
+        <target>キャンペーン</target>
+      </trans-unit>
+      <trans-unit id="441" resname="937baa3350b090550bed416740f169e4">
+        <source>Show map</source>
+        <target>地図を表示</target>
+      </trans-unit>
+      <trans-unit id="442" resname="2a78f4d3c83c216c52db452aaf56dcfd">
+        <source>List view</source>
+        <target>リスト表示</target>
+      </trans-unit>
+      <trans-unit id="443" resname="da953c91d65057b76c66a1cd496b928c">
+        <source>Types of mapping</source>
+        <target>マッピング対象</target>
+      </trans-unit>
+      <trans-unit id="444" resname="abeaae1cbf637b839f5d6b7ca281c985">
+        <source>All campaigns</source>
+        <target>すべてのキャンペーン</target>
+      </trans-unit>
+      <trans-unit id="445" resname="b820a29b53b39346a93e7eb194ca8486">
+        <source>Show {typeOfTag}</source>
+        <target>{typeOfTag} を表示</target>
+      </trans-unit>
+      <trans-unit id="446" resname="5430283d57dadb02fcc22390739b6dd6">
+        <source>Search project</source>
+        <target>プロジェクトを検索</target>
+      </trans-unit>
+      <trans-unit id="447" resname="310f7501b9c04036653b3212d7630f20">
+        <source>Organization</source>
+        <target>組織</target>
+      </trans-unit>
+      <trans-unit id="448" resname="b832476bd6b658ded0d9b6d9f7c39d28">
+        <source>All Organizations</source>
+        <target>すべての組織</target>
+      </trans-unit>
+      <trans-unit id="449" resname="0c258cdf7d69492c11500de7caaf016c">
+        <source>Location</source>
+        <target>地域</target>
+      </trans-unit>
+      <trans-unit id="450" resname="fd3e66ff8fd6be8a7c297d851dfa00a7">
+        <source>Locations</source>
+        <target>地域</target>
+      </trans-unit>
+      <trans-unit id="451" resname="d2d375fa4d8ffca5baf6b851e4f7de12">
+        <source>Error loading the {xWord} for {yWord}</source>
+        <target>Error loading the {xWord} for {yWord}</target>
+      </trans-unit>
+      <trans-unit id="452" resname="ecd69b010e4ee211f1c68eff48bbfcac">
+        <source>Filters</source>
+        <target>フィルタ</target>
+      </trans-unit>
+      <trans-unit id="453" resname="d9f650f5f4ca8e443edf11c15ec94859">
+        <source>Projects</source>
+        <target>プロジェクト</target>
+      </trans-unit>
+      <trans-unit id="454" resname="8be5f691992d5d5c0dd2da07fdd55dbd">
+        <source>My Projects</source>
+        <target>自分のプロジェクト</target>
+      </trans-unit>
+      <trans-unit id="455" resname="de60fbdabc89a7e841359a4ce7b5e935">
+        <source>Manage Projects</source>
+        <target>プロジェクト管理</target>
+      </trans-unit>
+      <trans-unit id="456" resname="7ee779c3343f8dd8128e67df20838596">
+        <source>Favorited</source>
+        <target>お気に入り</target>
+      </trans-unit>
+      <trans-unit id="457" resname="3b70cdceb56eaeff0cb1c86d06965076">
+        <source>Contributed</source>
+        <target>参加済み</target>
+      </trans-unit>
+      <trans-unit id="458" resname="e3ab344cff3741345323d195502db454">
+        <source>All</source>
+        <target>すべて</target>
+      </trans-unit>
+      <trans-unit id="459" resname="9a0f41eab7023253efb6dea737714a4c">
+        <source>Active</source>
+        <target>有効</target>
+      </trans-unit>
+      <trans-unit id="460" resname="838943b396bcbcf52348ab84e6efaa1a">
+        <source>Managed by me</source>
+      </trans-unit>
+      <trans-unit id="461" resname="368e75c6d695f53e23f770390510ca10">
+        <source>Created by me</source>
+        <target>自分で作成</target>
+      </trans-unit>
+      <trans-unit id="462" resname="3c461898c1a28609a3dbf89a9bdac3e5">
+        <source>Draft</source>
+        <target>下書き</target>
+      </trans-unit>
+      <trans-unit id="463" resname="f2801ebab9320c1d98e10a2961a351db">
+        <source>Archived</source>
+        <target>アーカイブ済み</target>
+      </trans-unit>
+      <trans-unit id="464" resname="9219a82cb7021c4cdbbb70dd87e54503">
+        <source>Showing {number} of {total}</source>
+        <target>全 {total} 中、{number} を表示</target>
+      </trans-unit>
+      <trans-unit id="465" resname="8f83ba7d5d8659b91e6903578a6e26b7">
+        <source>Clear filters</source>
+        <target>フィルタを解除</target>
+      </trans-unit>
+      <trans-unit id="466" resname="1af668b2ac3fe987f2943a53e2a0bc62">
+        <source>Sort by</source>
+        <target>並び替え</target>
+      </trans-unit>
+      <trans-unit id="467" resname="e16af12eeddc37a172bfc28f7620cf7d">
+        <source>New projects</source>
+        <target>新規プロジェクト</target>
+      </trans-unit>
+      <trans-unit id="468" resname="11367053089c54c806e0035b529ad4c7">
+        <source>Old projects</source>
+        <target>古いプロジェクト</target>
+      </trans-unit>
+      <trans-unit id="469" resname="0a65a810e395e11879c081ce55c45cfa">
+        <source>Urgent projects</source>
+        <target>緊急プロジェクト</target>
+      </trans-unit>
+      <trans-unit id="470" resname="adc9e611c7afd7fc326be14ca7376448">
+        <source>Beginner projects</source>
+        <target>初心者向けプロジェクト</target>
+      </trans-unit>
+      <trans-unit id="471" resname="84a04dc961a934d85ea6ed93e9189838">
+        <source>Advanced projects</source>
+        <target>上級者向けプロジェクト</target>
+      </trans-unit>
+      <trans-unit id="472" resname="e5f6da3567ec6f65d3c5157490e5026e">
+        <source>Active projects</source>
+        <target>アクティブプロジェクト</target>
+      </trans-unit>
+      <trans-unit id="473" resname="6135318a167e7f8d54545030c5f84bab">
+        <source>Apply</source>
+        <target>適用</target>
+      </trans-unit>
+      <trans-unit id="474" resname="2d55191b0436b1b7014c6beac60f113b">
+        <source>Clear</source>
+        <target>解除</target>
+      </trans-unit>
+      <trans-unit id="475" resname="79bb0d32fcd1aec98badd934e53c8eb7">
+        <source>Retry</source>
+        <target>再実行</target>
+      </trans-unit>
+      <trans-unit id="476" resname="3f75827c15f1b245182eaf22c8afecaa">
+        <source>Time statistics</source>
+      </trans-unit>
+      <trans-unit id="477" resname="6b521164054ee819a6e41279d178482a">
+        <source>Average mapping time</source>
+      </trans-unit>
+      <trans-unit id="478" resname="07479eacff7e539cd048ac9e396c8546">
+        <source>Average validation time</source>
+      </trans-unit>
+      <trans-unit id="479" resname="686f5ef4a7d4aff7d9e87dcbd404fea7">
+        <source>Time to finish mapping</source>
+      </trans-unit>
+      <trans-unit id="480" resname="f96684bae6d9536430365e5589753b48">
+        <source>Time to finish validation</source>
+      </trans-unit>
+      <trans-unit id="481" resname="03c70c19f1c7c814b000bf221f07929d">
+        <source>Tasks by status</source>
+      </trans-unit>
+      <trans-unit id="482" resname="3e1c7d3610a9d1d147ce609b0be591d9">
+        <source>Tasks to map</source>
+      </trans-unit>
+      <trans-unit id="483" resname="e4b9db5ce3a311d8b48fd0e83ac1937b">
+        <source>Tasks to validate</source>
+      </trans-unit>
+      <trans-unit id="484" resname="e2f7200272bf81819da62a54b5040472">
+        <source>Contributors</source>
+        <target>参加者</target>
+      </trans-unit>
+      <trans-unit id="485" resname="ff25df7344d6de5432068918446fa6f7">
+        <source>Total contributors</source>
+      </trans-unit>
+      <trans-unit id="486" resname="a88df2dae9c3ef231a7b1d230945fe2f">
+        <source>Users by experience on Tasking Manager</source>
+      </trans-unit>
+      <trans-unit id="487" resname="036425deb4ad9e5481f98037cd0b5aed">
+        <source>Users by level</source>
+      </trans-unit>
+      <trans-unit id="488" resname="4a2703ba654fa6228ade76e4abb4335b">
+        <source>Mappers</source>
+      </trans-unit>
+      <trans-unit id="489" resname="321ceeca009d273c81554fe3b0c83e15">
+        <source>Validators</source>
+      </trans-unit>
+      <trans-unit id="490" resname="243bc434e1ddde99be6ee9ef0a52f9af">
+        <source>Less than 1 month</source>
+      </trans-unit>
+      <trans-unit id="491" resname="1bbc62921d56d20c0da48371cecca246">
+        <source>1 to 3 months</source>
+      </trans-unit>
+      <trans-unit id="492" resname="40c754f487f95e46d270a76d54db059e">
+        <source>3 to 6 months</source>
+      </trans-unit>
+      <trans-unit id="493" resname="3fde434cefdb21a6f84f5def6dcaeb8e">
+        <source>6 to 12 months</source>
+      </trans-unit>
+      <trans-unit id="494" resname="c23301ab0c06459ef8e9ba0eedea1adb">
+        <source>More than 1 year</source>
+      </trans-unit>
+      <trans-unit id="495" resname="d75183f178c306f0b4fcbdf5187864d6">
+        <source>Total map edits</source>
+      </trans-unit>
+      <trans-unit id="496" resname="2a242924f2f2a1e5031bc346e8cc15c8">
+        <source>Changesets</source>
+      </trans-unit>
+      <trans-unit id="497" resname="206d172112a96cd6be93756e7390cf40">
+        <source>Edits</source>
+      </trans-unit>
+      <trans-unit id="498" resname="6d592f652375e2f8f63e06fa29b38182">
+        <source>You have some unsaved map changes</source>
+        <target>地図への変更が保存されていません</target>
+      </trans-unit>
+      <trans-unit id="499" resname="4652d66985970188cfa3f66f87089473">
+        <source>Save or undo it to be able to split the task</source>
+        <target>タスクを分割するには、変更を保存するか、変更の取り消しを行ってください</target>
+      </trans-unit>
+      <trans-unit id="500" resname="b3dd392507e3fdf750f6a370fe684bd6">
+        <source>Save or undo it to be able to select another task</source>
+        <target>別のタスクを選択するには、変更の保存か取り消しを行ってください。</target>
+      </trans-unit>
+      <trans-unit id="501" resname="685a0799de80c1b03f799fef3e489498">
+        <source>Close</source>
+        <target>閉じる</target>
+      </trans-unit>
+      <trans-unit id="502" resname="61eb216aba990a2d936d783d6408290f">
+        <source>Connection with JOSM failed</source>
+      </trans-unit>
+      <trans-unit id="503" resname="a76e1855eb90d8c17092470720e478d8">
+        <source>Please verify if JOSM is running on your computer and the remote control is enabled.</source>
+      </trans-unit>
+      <trans-unit id="504" resname="b82826b511f76a6e485aafdd11076dc1">
+        <source>It wasn't possible to lock this task for you...</source>
+        <target>このタスクをロックすることができませんでした。</target>
+      </trans-unit>
+      <trans-unit id="505" resname="85f78c5a0a5dc12d810055c0ef0b59e9">
+        <source>Some error occurred when trying to lock this task. Check if your user matches the level, role and permissions required by this project.</source>
+        <target>タスクのロック時にエラーが発生しました。プロジェクトに設定したレベルや役割、権限がユーザと合致しているか、確認してください。</target>
+      </trans-unit>
+      <trans-unit id="506" resname="beb0cce39c7c0f755cfb05482d5480ef">
+        <source>This project has a required license.</source>
+        <target>プロジェクトにライセンス要求が設定されています。</target>
+      </trans-unit>
+      <trans-unit id="507" resname="165ea7e2b4592712943451431f7820f8">
+        <source>Please accept this license in order to colaborate in this project. </source>
+        <target>プロジェクトに参加するには、ライセンスを了承してください。</target>
+      </trans-unit>
+      <trans-unit id="508" resname="30a3a821b384ddbbea1e7c01740ae05d">
+        <source>Accept</source>
+        <target>承諾</target>
+      </trans-unit>
+      <trans-unit id="509" resname="e03d6900c318943e1f72877fcf00f2c1">
+        <source>Cancel</source>
+        <target>キャンセル</target>
+      </trans-unit>
+      <trans-unit id="510" resname="86722fb746a6f71688b6a0d91e238722">
+        <source>We found another mapping task already locked by you</source>
+        <target>すでにロックしている別のマッピングタスクが見つかりました。</target>
+      </trans-unit>
+      <trans-unit id="511" resname="9ca30845e554f431f8d00b56323a6bdd">
+        <source>It is on the Project #{project}. You will need to update the status of that task before you can map another task.</source>
+        <target>#{project} のプロジェクトです。 別のタスクをマッピングする前に、このタスクのステータスを更新する必要があります。</target>
+      </trans-unit>
+      <trans-unit id="512" resname="8be9eabf85e6386adce3443dda950fa5">
+        <source>It is on the Project #{project}. You will need to update the status of that task before you can map another task.</source>
+        <target>#{project} のプロジェクトです。 別のタスクをマッピングする前に、このタスクのステータスを更新する必要があります。</target>
+      </trans-unit>
+      <trans-unit id="513" resname="5cb210bdfab7fdd524b245a226028f3a">
+        <source>The task #{taskId} was previously locked by you. You will need to update the status of that task before you can map another task.</source>
+        <target>タスク #{taskId} が先にロックされています。 別のタスクをマッピングする前に、そのタスクのステータスを更新する必要があります。</target>
+      </trans-unit>
+      <trans-unit id="514" resname="bef505e38a0c5c28100bec22d5472cf4">
+        <source>Some tasks were previously locked by you on this project. You will need to update the status of those tasks before you can map another task.</source>
+        <target>このプロジェクトでいくつかのタスクをロックしています。 別のタスクをマッピングする前に、これらのタスクのステータスを更新する必要があります。</target>
+      </trans-unit>
+      <trans-unit id="515" resname="79fce4e718520451a44b1a6c77b860fb">
+        <source>Go to Project #{project}</source>
+        <target>#{project} のプロジェクトに移動</target>
+      </trans-unit>
+      <trans-unit id="516" resname="f192090d0a2cb59ed93d66fef08f2182">
+        <source>{mapOrValidate} that task</source>
+        <target>{mapOrValidate} タスク</target>
+      </trans-unit>
+      <trans-unit id="517" resname="6204ac124adb17348ea233a958660c58">
+        <source>{mapOrValidate} those tasks</source>
+        <target>{mapOrValidate} タスク</target>
+      </trans-unit>
+      <trans-unit id="518" resname="3bd7d56897b9241a5962962582ff8790">
+        <source>Legend</source>
+        <target>凡例</target>
+      </trans-unit>
+      <trans-unit id="519" resname="e51e36d2ab6e2de5c230f8481ea6906e">
+        <source>Types of Mapping</source>
+        <target>マッピングの種類</target>
+      </trans-unit>
+      <trans-unit id="520" resname="4e9d386ae28ebe1103fcf2fb18f2f919">
+        <source>Editor</source>
+        <target>エディタ</target>
+      </trans-unit>
+      <trans-unit id="521" resname="6193a1b1f3566e547b72fa01b5f2a6fc">
+        <source>Select editor</source>
+        <target>エディタの選択</target>
+      </trans-unit>
+      <trans-unit id="522" resname="65d706a117abfb0e47aae341da4d3fce">
+        <source>Filter tasks by id or username</source>
+        <target>IDやユーザ名でタスクをフィルタ</target>
+      </trans-unit>
+      <trans-unit id="523" resname="208e12bd0e47b09181c045e4b1f71733">
+        <source>Reload editor</source>
+        <target>エディタを再読込</target>
+      </trans-unit>
+      <trans-unit id="524" resname="150b262a2fda777523fde3b66c174e18">
+        <source>Open editor</source>
+        <target>エディタで開く</target>
+      </trans-unit>
+      <trans-unit id="525" resname="4ef58ad4751a21107687be58c87f00b1">
+        <source>Show sidebar</source>
+        <target>サイドバー表示</target>
+      </trans-unit>
+      <trans-unit id="526" resname="7b1e0bf29252492791688e64ce51b208">
+        <source>Hide sidebar</source>
+        <target>サイドバー非表示</target>
+      </trans-unit>
+      <trans-unit id="527" resname="b065a50a428b2fe2051ce02becfdc1c6">
+        <source>Task</source>
+        <target>タスク</target>
+      </trans-unit>
+      <trans-unit id="528" resname="ac0262ebcefb3eb46ae165e5938978e2">
+        <source>Tasks</source>
+        <target>タスク</target>
+      </trans-unit>
+      <trans-unit id="529" resname="c824d8aba01212c1127544ffdf3d6502">
+        <source>Task #{id}</source>
+        <target>タスク #{id}</target>
+      </trans-unit>
+      <trans-unit id="530" resname="a08061b699e9401a5c5d1e971a4454af">
+        <source>Instructions</source>
+        <target>マッピング方法解説</target>
+      </trans-unit>
+      <trans-unit id="531" resname="ab10175bf1a9bbbc7d64bf40db5f8dd8">
+        <source>Changeset comment</source>
+        <target>変更セットコメント</target>
+      </trans-unit>
+      <trans-unit id="532" resname="edc6ddf1754c96be852e5e58e23e6fc1">
+        <source>contributions</source>
+        <target>協力</target>
+      </trans-unit>
+      <trans-unit id="533" resname="14f469991bd4c3225a7613a2bd321ac3">
+        <source>Registered on</source>
+      </trans-unit>
+      <trans-unit id="534" resname="d51137717139785db7f2a03cb7e04a92">
+        <source>Imagery</source>
+        <target>航空写真</target>
+      </trans-unit>
+      <trans-unit id="535" resname="b852576db0d26ef65109ca8ee81a45b3">
+        <source>Custom TMS Layer</source>
+        <target>カスタム TMS レイヤ</target>
+      </trans-unit>
+      <trans-unit id="536" resname="bbba1f2b35e7b168406f3fdee005093b">
+        <source>Custom WMS Layer</source>
+        <target>カスタム WMS レイヤ</target>
+      </trans-unit>
+      <trans-unit id="537" resname="49791887c7b0bc62b2c36cf1c2fd3cd2">
+        <source>Custom WMTS Layer</source>
+        <target>カスタム WMTS レイヤ</target>
+      </trans-unit>
+      <trans-unit id="538" resname="d6af2d7b16b77f5c7dd5ef2d866e954b">
+        <source>Custom Layer</source>
+        <target>カスタムレイヤ</target>
+      </trans-unit>
+      <trans-unit id="539" resname="d72b9ae9ac8b09f40c2288d878931623">
+        <source>Any available source</source>
+        <target>利用可能なソース</target>
+      </trans-unit>
+      <trans-unit id="540" resname="5ea2dd4a00cad19b9f898c55d7d4b3d7">
+        <source>Map a task</source>
+        <target>タスクのマッピング</target>
+      </trans-unit>
+      <trans-unit id="541" resname="c1ec6c3790cfc803cc21a64f95e77e97">
+        <source>Map selected task</source>
+        <target>選択したタスクをマッピング</target>
+      </trans-unit>
+      <trans-unit id="542" resname="18bb30ff12a99af0058ceb4a3c515887">
+        <source>Map another task</source>
+        <target>他のタスクをマッピング</target>
+      </trans-unit>
+      <trans-unit id="543" resname="6ef5a7625aa64b2e8706a8b9ce666c9d">
+        <source>Validate a task</source>
+        <target>タスクの検証</target>
+      </trans-unit>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="544[0]" resname="23ce0a2363e521c716085b9ad77886cd">
+          <source>Validate # selected tasks</source>
+        </trans-unit>
+      </group>
+      <trans-unit id="545" resname="923b42bb4befe8dcd7ff74ace4a54672">
+        <source>Validate another task</source>
+        <target>他のタスクを検証</target>
+      </trans-unit>
+      <trans-unit id="546" resname="e32cebb2ddae228c536d73cf85c30381">
+        <source>Select another project</source>
+        <target>他のプロジェクトを選択</target>
+      </trans-unit>
+      <trans-unit id="547" resname="2dc15732f2db08511d60f486847b3227">
+        <source>Resume mapping</source>
+        <target>マッピングの再開</target>
+      </trans-unit>
+      <trans-unit id="548" resname="ba52925e55b63420b6762aafa259e467">
+        <source>Resume validation</source>
+        <target>検証再開</target>
+      </trans-unit>
+      <trans-unit id="549" resname="dab4da367f0571ba3756432bbc6bdab1">
+        <source>Last updated by {user}</source>
+        <target>{user} が最終更新</target>
+      </trans-unit>
+      <trans-unit id="550" resname="7780cb0c3a405452f6c777f103ebd256">
+        <source>See task history</source>
+      </trans-unit>
+      <trans-unit id="551" resname="f2c3f8bc19d070dadb0d9bdcbfb5433b">
+        <source>Zoom map to task</source>
+        <target>地図上のタスク部分を拡大する</target>
+      </trans-unit>
+      <trans-unit id="552" resname="02bdb56992d464a95c162f030b0688bf">
+        <source>Copy task link</source>
+        <target>タスクのリンクをコピーする</target>
+      </trans-unit>
+      <trans-unit id="553" resname="295c18f20580bcaac371c4994ed92120">
+        <source>Task link copied to the clipboard</source>
+      </trans-unit>
+      <trans-unit id="554" resname="833015dc053e9dcf249f6880751f52b8">
+        <source>Priority areas</source>
+        <target>優先エリア</target>
+      </trans-unit>
+      <trans-unit id="555" resname="08289396f03db662d937cc884f0f3400">
+        <source>Available for mapping</source>
+        <target>マッピング可能</target>
+      </trans-unit>
+      <trans-unit id="556" resname="6e945d1802cf05f2bdb39ed0b5b6f2ef">
+        <source>Ready for validation</source>
+        <target>検証準備完了</target>
+      </trans-unit>
+      <trans-unit id="557" resname="aee5ef4f37c041dc5a88e8cddd27729b">
+        <source>Locked</source>
+        <target>ロック</target>
+      </trans-unit>
+      <trans-unit id="558" resname="9adc33301f413d6192eff351adc852c7">
+        <source>Locked for mapping</source>
+        <target>マッピング実施中</target>
+      </trans-unit>
+      <trans-unit id="559" resname="ed927094882885454ed88383a6e65e27">
+        <source>Locked for validation</source>
+        <target>検証作業実施中</target>
+      </trans-unit>
+      <trans-unit id="560" resname="8848c309de4dccf391fdc4fbcb3454cd">
+        <source>Finished</source>
+        <target>終了しました</target>
+      </trans-unit>
+      <trans-unit id="561" resname="238ea185674aa98d153ef996bde65bd2">
+        <source>More mapping needed</source>
+        <target>追加のマッピングが必要</target>
+      </trans-unit>
+      <trans-unit id="562" resname="3d069e7132acef338b369975561890e0">
+        <source>Unavailable</source>
+        <target>無効</target>
+      </trans-unit>
+      <trans-unit id="563" resname="85127a243a109db45cab902eeb259b1a">
+        <source>Split</source>
+        <target>分割</target>
+      </trans-unit>
+      <trans-unit id="564" resname="3720fa8e750e0eb763368ab5b11e4b0a">
+        <source>Sort by task number</source>
+        <target>タスク番号で並べ替え</target>
+      </trans-unit>
+      <trans-unit id="565" resname="7a1e6a476d60368273fd125f91b2c014">
+        <source>Last updated first</source>
+        <target>最終更新順</target>
+      </trans-unit>
+      <trans-unit id="566" resname="3711e2e7388a5d62af0909dbfb9f10c3">
+        <source>All</source>
+        <target>すべて</target>
+      </trans-unit>
+      <trans-unit id="567" resname="df9de7471b1a12e7a56e8476d9bc41ac">
+        <source>Ready for validation</source>
+        <target>検証準備完了</target>
+      </trans-unit>
+      <trans-unit id="568" resname="6196757f753b3a1bba14beccd318b961">
+        <source>Available for mapping</source>
+        <target>マッピング可能</target>
+      </trans-unit>
+      <trans-unit id="569" resname="e64355c0769bc3543c5f5b8762218581">
+        <source>No tasks were found.</source>
+        <target>タスクが見つかりませんでした。</target>
+      </trans-unit>
+      <trans-unit id="570" resname="73c9de9eeeb15683ba6c951228fc244f">
+        <source>Completion</source>
+        <target>完了</target>
+      </trans-unit>
+      <trans-unit id="571" resname="1d048413209158210db353e476f7f794">
+        <source>History</source>
+        <target>履歴</target>
+      </trans-unit>
+      <trans-unit id="572" resname="4c472fe6ce4615876c2f4c7199696bcc">
+        <source>Once you have finished mapping</source>
+        <target>マッピングが完了したら、</target>
+      </trans-unit>
+      <trans-unit id="573" resname="81dd49728236894779fdc65e02a323d3">
+        <source>Select one of the options below that matches your edit status</source>
+        <target>編集のステータスに一致するオプションを 1 つ選択します。</target>
+      </trans-unit>
+      <trans-unit id="574" resname="56fb2842b47d1e1b1e454a01ca1e840b">
+        <source>Write a comment</source>
+        <target>コメントを書く</target>
+      </trans-unit>
+      <trans-unit id="575" resname="d82597c518e76cc173d8ca7478c7ffbb">
+        <source>Leave a comment (optional)</source>
+        <target>コメントを残す (オプション)</target>
+      </trans-unit>
+      <trans-unit id="576" resname="633be1c209a6a32a494df5e1a3b0307c">
+        <source>Submit your work</source>
+        <target>作業を完了する</target>
+      </trans-unit>
+      <trans-unit id="577" resname="4676ae61ac27a27ea12a909cd7a29e6b">
+        <source>Comment</source>
+        <target>コメント</target>
+      </trans-unit>
+      <trans-unit id="578" resname="829bfc64d93538bfdf5a12a82382519b">
+        <source>Write a comment on this task</source>
+        <target>このタスクにコメントを書く</target>
+      </trans-unit>
+      <trans-unit id="579" resname="a21bb89c611079f7bbe54ad1d6940bea">
+        <source>Task status</source>
+        <target>タスクの状態</target>
+      </trans-unit>
+      <trans-unit id="580" resname="5d58fdbd92a548c00aeaf632101069db">
+        <source>Request revalidation</source>
+        <target>再検証を依頼</target>
+      </trans-unit>
+      <trans-unit id="581" resname="d165b2e8ec6cf28ad97e7f5968e03722">
+        <source>Task status will be changed to &quot;Ready for validation&quot;.</source>
+        <target>タスクのステータスが&quot;検証待ち&quot;状態に変更されます。</target>
+      </trans-unit>
+      <trans-unit id="582" resname="7d206335ea9b8b5cb668a77ccc116201">
+        <source>Request mapping</source>
+        <target>マッピング要請</target>
+      </trans-unit>
+      <trans-unit id="583" resname="41be40710cbd3a83d1bfe602a91c4daf">
+        <source>Task status will be changed to &quot;Available for mapping&quot;.</source>
+        <target>タスクのステータスが&quot;マッピング可能&quot;状態に変更されます。</target>
+      </trans-unit>
+      <trans-unit id="584" resname="baa04ecb7b867f90ac50b52ee2766190">
+        <source>Do want to proceed?</source>
+        <target>実施してもよろしいですか？</target>
+      </trans-unit>
+      <trans-unit id="585" resname="b707aba2e3b6ab05cb7396de1ed65c71">
+        <source>Yes</source>
+        <target>はい</target>
+      </trans-unit>
+      <trans-unit id="586" resname="df93a503cf6bb24a913d52f1fc367278">
+        <source>No</source>
+        <target>いいえ</target>
+      </trans-unit>
+      <trans-unit id="587" resname="71fa7d8de4d4e548e0e87a5acd961180">
+        <source>Is this task completely mapped?</source>
+        <target>このタスクは完璧にマップされていますか？</target>
+      </trans-unit>
+      <trans-unit id="588" resname="e812c5fcc6967a9b1a10d6c967fbc3c8">
+        <source>Is this task well mapped?</source>
+        <target>このタスクのマッピングは十分ですか？</target>
+      </trans-unit>
+      <trans-unit id="589" resname="65b176b0911d40f0c232ec58f07b4112">
+        <source>Yes</source>
+        <target>はい</target>
+      </trans-unit>
+      <trans-unit id="590" resname="adec1d591011044418c2772b9e8f7785">
+        <source>No</source>
+        <target>いいえ</target>
+      </trans-unit>
+      <trans-unit id="591" resname="ad5bb1d6ceda32207a9526b12a4d2069">
+        <source>The imagery is bad</source>
+        <target>低品質の画像</target>
+      </trans-unit>
+      <trans-unit id="592" resname="7b023c447ac78feb4405df00b32c69f1">
+        <source>Split task</source>
+        <target>タスクの分割</target>
+      </trans-unit>
+      <trans-unit id="593" resname="33e1d6f340a22c929db50bfbd5ce588a">
+        <source>Select another task</source>
+        <target>他のタスクを選択</target>
+      </trans-unit>
+      <trans-unit id="594" resname="a7074f1e14b8bfefb0c349350cc18d70">
+        <source>Stop validation</source>
+        <target>検証を中断</target>
+      </trans-unit>
+      <trans-unit id="595" resname="44efbf587288d7c7e74ff8150c667693">
+        <source>Tasks map</source>
+        <target>タスクマッピング済</target>
+      </trans-unit>
+      <trans-unit id="596" resname="cc9ba7618aba4c25c3514bc68b20bd36">
+        <source>Submit task</source>
+        <target>タスクを投稿</target>
+      </trans-unit>
+      <trans-unit id="597" resname="c0404611170d484390ff78e72e35248a">
+        <source>Submit tasks</source>
+        <target>タスクを投稿</target>
+      </trans-unit>
+      <trans-unit id="598" resname="ef83eccdd513738fb373a39974050c29">
+        <source>Task {n}</source>
+      </trans-unit>
+      <trans-unit id="599" resname="194b42ca760696c5c7a590b301878469">
+        <source>Task unavailable</source>
+        <target>タスク実施不可</target>
+      </trans-unit>
+      <trans-unit id="600" resname="10e79d7c5413f9fe0d6c4045152b458d">
+        <source>The task {id} was split and its history is not available anymore</source>
+      </trans-unit>
+      <trans-unit id="601" resname="1b8aae989b2b46552451d2e5db8458d9">
+        <source>Task data</source>
+        <target>データをタスクにする</target>
+      </trans-unit>
+      <trans-unit id="602" resname="5908729bc3a7af342360f06316758eb7">
+        <source>Project #{id}</source>
+        <target>プロジェクト #{id}</target>
+      </trans-unit>
+      <trans-unit id="603" resname="13af0694824e5b42bcc83b35d5924056">
+        <source>Download from Overpass</source>
+        <target>Overpassダウンロード</target>
+      </trans-unit>
+      <trans-unit id="604" resname="6b8d639b8aa17d8eae1e5f506f607200">
+        <source>Visualize with Overpass</source>
+        <target>Overpassで可視化</target>
+      </trans-unit>
+      <trans-unit id="605" resname="c69cab6ce5a0d0fcccda408ee97ed095">
+        <source>View changesets in OSMCha</source>
+        <target>OSMChaで変更セットを表示</target>
+      </trans-unit>
+      <trans-unit id="606" resname="2fcaa1dea00dbe51014231e64505b749">
+        <source>commented</source>
+        <target>コメント済</target>
+      </trans-unit>
+      <trans-unit id="607" resname="5ab7f451baea6d44564ed8a4696be199">
+        <source>locked for mapping</source>
+        <target>マッピング実施中</target>
+      </trans-unit>
+      <trans-unit id="608" resname="5b5f717255ca7deea631a69ffeb404e8">
+        <source>locked for validation</source>
+        <target>検証作業実施中</target>
+      </trans-unit>
+      <trans-unit id="609" resname="62b50d5ea6a7093be08c337b1f036d17">
+        <source>automatically unlocked for mapping</source>
+        <target>マッピングのために自動的にロックを解除</target>
+      </trans-unit>
+      <trans-unit id="610" resname="41c556f64db43cd6f6be6229ae2da510">
+        <source>automatically unlocked for validation</source>
+        <target>検証のために自動的にロックを解除</target>
+      </trans-unit>
+      <trans-unit id="611" resname="e361957dc626225789ef2d73d44b19aa">
+        <source>marked as unavailable</source>
+        <target>使用不可としてマーク</target>
+      </trans-unit>
+      <trans-unit id="612" resname="29d05d65d9729dfa9b15db765a550641">
+        <source>marked as mapped</source>
+        <target>マッピング完了としてマーク</target>
+      </trans-unit>
+      <trans-unit id="613" resname="db96a09bda9b4ee6b496b2a8dcb8cfed">
+        <source>marked as validated</source>
+        <target>検証済みとしてマーク</target>
+      </trans-unit>
+      <trans-unit id="614" resname="64cad09aa3d8d05a14804e92efaeb8e1">
+        <source>marked as more mapping needed</source>
+        <target>追加のマッピングが必要としてマーク</target>
+      </trans-unit>
+      <trans-unit id="615" resname="7aedd4b3099533c5debbcd0fbd59eaa4">
+        <source>split a task</source>
+        <target>タスクを分割</target>
+      </trans-unit>
+      <trans-unit id="616" resname="a620a2d2257b4d00dabdc992cf44dcb0">
+        <source>marked as ready for mapping</source>
+        <target>マッピングの準備が完了とマーク</target>
+      </trans-unit>
+      <trans-unit id="617" resname="e16b3adcb612986e20399cfea6a25f76">
+        <source>Map</source>
+        <target>マッピング</target>
+      </trans-unit>
+      <trans-unit id="618" resname="b85127d8ff6e74efe37d6b93c17c5b3f">
+        <source>Mapped</source>
+        <target>マッピング済</target>
+      </trans-unit>
+      <trans-unit id="619" resname="a4ac8afbd251bd1a96ece2623c7e8e9b">
+        <source>Validate</source>
+        <target>検証</target>
+      </trans-unit>
+      <trans-unit id="620" resname="72742499e463e04ea4f11a2372b2b16e">
+        <source>Validated</source>
+        <target>検証済み</target>
+      </trans-unit>
+      <trans-unit id="621" resname="ce153ec3573a52f1f517348e1ea22e76">
+        <source>Total</source>
+        <target>合計</target>
+      </trans-unit>
+      <trans-unit id="622" resname="835805e8898683ea7256f68037455660">
+        <source>{lockStatus} by {user}</source>
+        <target>{user} により {lockStatus}</target>
+      </trans-unit>
+      <trans-unit id="623" resname="6a592929644fc18d33774c6a4ee498de">
+        <source>Specific task information</source>
+        <target>特別タスク情報</target>
+      </trans-unit>
+      <trans-unit id="624" resname="628b3d91ee4b50316ded1c6ef2c82248">
+        <source>All levels</source>
+        <target>すべてのレベル</target>
+      </trans-unit>
+      <trans-unit id="625" resname="3fed789700b0c431f1662dfe15a03f46">
+        <source>Advanced</source>
+        <target>上級者</target>
+      </trans-unit>
+      <trans-unit id="626" resname="f6ba1b8524cbf0a9a9cda324eb54e149">
+        <source>Intermediate</source>
+        <target>中級者</target>
+      </trans-unit>
+      <trans-unit id="627" resname="228d87cdc124edcdc5f9913d77d495eb">
+        <source>Beginner</source>
+        <target>初心者</target>
+      </trans-unit>
+      <trans-unit id="628" resname="186f5a0aa82f6e906e0be6badaa85e24">
+        <source>New users</source>
+      </trans-unit>
+      <trans-unit id="629" resname="6ad4d4386f52f920218c9097f21ae799">
+        <source>Statistics</source>
+      </trans-unit>
+      <trans-unit id="630" resname="68fdf3d821b8b47b62820149c41cb503">
+        <source>Select tasks mapped by {username}</source>
+      </trans-unit>
+      <trans-unit id="631" resname="72dedd05e226e1e54650016ea9b2547d">
+        <source>Select tasks validated by {username}</source>
+      </trans-unit>
+      <trans-unit id="632" resname="58f54324f16cff30dc592db840bdf12b">
+        <source>Select all tasks mapped or validated by {username}</source>
+      </trans-unit>
+      <trans-unit id="633" resname="857305a924ead248391a0c3520b80db2">
+        <source>You are not ready to work on this project...</source>
+        <target>プロジェクトへの参加条件を満たしていません。。。</target>
+      </trans-unit>
+      <trans-unit id="634" resname="5c2b00b6177ad4b9def593b185fbe7a3">
+        <source>Only users with intermediate or advanced experience level can validate this project.</source>
+        <target>確認作業は中級レベルまたは上級レベルのユーザーだけが実施できます。</target>
+      </trans-unit>
+      <trans-unit id="635" resname="1355280e6d345d516e5160c73c068e36">
+        <source>Only users with intermediate or advanced experience level can map this project.</source>
+        <target>中級レベルまたは上級レベルのユーザーだけがマッピングに参加できます。</target>
+      </trans-unit>
+      <trans-unit id="636" resname="24c4d61c6945e7e29760939f3d2f7514">
+        <source>You need to be member of one of the validation teams to be able to validate this project.</source>
+        <target>このプロジェクトで確認作業に参加するには、確認作業チームのメンバーになる必要があります。</target>
+      </trans-unit>
+      <trans-unit id="637" resname="e3eceafc64673e6e4fb1302990d513b5">
+        <source>You need to be member of one of the mapping teams to be able to map this project.</source>
+        <target>このプロジェクトでマッピング作業に参加するには、確認作業チームのメンバーになる必要があります。</target>
+      </trans-unit>
+      <trans-unit id="638" resname="19c6386be119bd7b2fdacf7ddc5fb165">
+        <source>You are not allowed to manage organizations.</source>
+        <target>組織を管理することはできません。</target>
+      </trans-unit>
+      <trans-unit id="639" resname="55e4388e5b4873f06c737d96ddb5832f">
+        <source>The image upload failed.</source>
+        <target>画像のアップロードに失敗しました。</target>
+      </trans-unit>
+      <trans-unit id="640" resname="e8ebc6a2984d6c929dabe1d8ca623a3b">
+        <source>Managers</source>
+        <target>管理者</target>
+      </trans-unit>
+      <trans-unit id="641" resname="37f9411d30248dab4362ec5674685b34">
+        <source>Manage {entity}</source>
+        <target>{entity} 管理</target>
+      </trans-unit>
+      <trans-unit id="642" resname="1e119636f4d95454c457891991d3c789">
+        <source>Edit team</source>
+      </trans-unit>
+      <trans-unit id="643" resname="3f7f143294b929cc33116b5526b08bbb">
+        <source>Members</source>
+        <target>メンバ</target>
+      </trans-unit>
+      <trans-unit id="644" resname="0a0b6e8e950ad1797d526007041b4b52">
+        <source>Mapping teams</source>
+        <target>マッピングチーム</target>
+      </trans-unit>
+      <trans-unit id="645" resname="84d69847f6bc07413a04ab1f84ed688d">
+        <source>Validation teams</source>
+        <target>検証チーム</target>
+      </trans-unit>
+      <trans-unit id="646" resname="8a7804d03e23422bc262fef44aec338b">
+        <source>Team members</source>
+        <target>チームメンバ</target>
+      </trans-unit>
+      <trans-unit id="647" resname="a0b29614c43c8c551e0e9bc1fbc5847d">
+        <source>Team messaging</source>
+      </trans-unit>
+      <trans-unit id="648" resname="ec7b44cbdc0bcf88de9dbd4cc91e0e06">
+        <source>Send</source>
+        <target>送信</target>
+      </trans-unit>
+      <trans-unit id="649" resname="8e5cdc6e2be2ef70502dd6bc09173943">
+        <source>Subject</source>
+        <target>対象</target>
+      </trans-unit>
+      <trans-unit id="650" resname="9f6e5f1612031341b686229e7a10a708">
+        <source>Join requests</source>
+        <target>参加リクエスト</target>
+      </trans-unit>
+      <trans-unit id="651" resname="ba2bf439463132fa57ac50277cbb9cf2">
+        <source>There isn't requests to join the team.</source>
+        <target>チームへの参加条件はありません。</target>
+      </trans-unit>
+      <trans-unit id="652" resname="a2873ddfed2879cd949e7eb1fe5b3a9e">
+        <source>Teams</source>
+        <target>チーム</target>
+      </trans-unit>
+      <trans-unit id="653" resname="1acde555e667dd278c181c17d99ca13e">
+        <source>Team</source>
+        <target>チーム</target>
+      </trans-unit>
+      <trans-unit id="654" resname="36cb91d1af40d9a65fc1db3e61de1076">
+        <source>Projects</source>
+        <target>プロジェクト</target>
+      </trans-unit>
+      <trans-unit id="655" resname="509df9a8d3c942b5636a18ff85835be8">
+        <source>Campaigns</source>
+        <target>キャンペーン</target>
+      </trans-unit>
+      <trans-unit id="656" resname="1be8df989ef45b78533777509f569f3b">
+        <source>Campaign</source>
+        <target>キャンペーン</target>
+      </trans-unit>
+      <trans-unit id="657" resname="4e6e1f7487efdf038ad6c199877f80b6">
+        <source>Categories</source>
+        <target>カテゴリ</target>
+      </trans-unit>
+      <trans-unit id="658" resname="5ee7852cc95e52a2e41a1e6cc2284b52">
+        <source>Licenses</source>
+        <target>ライセンス</target>
+      </trans-unit>
+      <trans-unit id="659" resname="672195a5b1f080d7e0481c58ded79559">
+        <source>Users</source>
+        <target>ユーザ</target>
+      </trans-unit>
+      <trans-unit id="660" resname="e38b93fe54e5c4a67489c9c1b2e8367c">
+        <source>User</source>
+        <target>ユーザ</target>
+      </trans-unit>
+      <trans-unit id="661" resname="98ad83ae01a87d7805a47e1db78a67b2">
+        <source>Category</source>
+        <target>カテゴリ</target>
+      </trans-unit>
+      <trans-unit id="662" resname="0eee9600a3bb72e2eb94aa9b7b9516af">
+        <source>Category information</source>
+        <target>カテゴリ情報</target>
+      </trans-unit>
+      <trans-unit id="663" resname="af01c4da96a9071c91395aba6f68ba16">
+        <source>You will be able to add more users after you save for the first time.</source>
+        <target>最初に保存した後でもさらにユーザーを追加することができます。</target>
+      </trans-unit>
+      <trans-unit id="664" resname="2e55d56cbee14aa74f791265d3969afd">
+        <source>My Organizations</source>
+        <target>自分の組織</target>
+      </trans-unit>
+      <trans-unit id="665" resname="a8e2567b91aca02303010557f03edc54">
+        <source>All</source>
+        <target>すべて</target>
+      </trans-unit>
+      <trans-unit id="666" resname="9a1726307848b08cbc7b33444f086508">
+        <source>My teams</source>
+        <target>自分のチーム</target>
+      </trans-unit>
+      <trans-unit id="667" resname="921c41936610ac2f172e73b46db7e0d7">
+        <source>Add</source>
+        <target>追加</target>
+      </trans-unit>
+      <trans-unit id="668" resname="4af91a20447c03422daf6a9f845cb8a5">
+        <source>Delete</source>
+        <target>削除</target>
+      </trans-unit>
+      <trans-unit id="669" resname="15764de3178389ea105b4a7f58beb313">
+        <source>Accept</source>
+        <target>承諾</target>
+      </trans-unit>
+      <trans-unit id="670" resname="70e10b5f68a52f7087dac93ce271cac5">
+        <source>Reject</source>
+        <target>却下</target>
+      </trans-unit>
+      <trans-unit id="671" resname="af99db1d0c482f4c3721199c781c67f1">
+        <source>View all</source>
+        <target>すべてを表示</target>
+      </trans-unit>
+      <trans-unit id="672" resname="71a49ab44e7ade406291e7f8175cbae3">
+        <source>Organization</source>
+        <target>組織</target>
+      </trans-unit>
+      <trans-unit id="673" resname="c08af4bcba8ab0e6a767584feae1dcef">
+        <source>Organizations</source>
+        <target>組織</target>
+      </trans-unit>
+      <trans-unit id="674" resname="8100e4cc96738282857d1cab3603fd62">
+        <source>Organization information</source>
+        <target>組織の情報</target>
+      </trans-unit>
+      <trans-unit id="675" resname="833d5ce9f2065656e2dc63d9aab8924c">
+        <source>Team information</source>
+        <target>チームの情報</target>
+      </trans-unit>
+      <trans-unit id="676" resname="fbc16343904ee7969422699fac72bae5">
+        <source>Campaign information</source>
+        <target>キャンペーン情報</target>
+      </trans-unit>
+      <trans-unit id="677" resname="df8f8a85f6f8d95fca7293d28eac7767">
+        <source>License information</source>
+        <target>ライセンス情報</target>
+      </trans-unit>
+      <trans-unit id="678" resname="f8670ef31eaa8635d53a1812dc95b736">
+        <source>Name</source>
+        <target>名称</target>
+      </trans-unit>
+      <trans-unit id="679" resname="409f2b78a732801fd9e10b9a871eb92a">
+        <source>Plain Text</source>
+        <target>プレーンテキスト</target>
+      </trans-unit>
+      <trans-unit id="680" resname="4c12728b8e6fa11060f67fc089bb5a84">
+        <source>Description</source>
+        <target>解説</target>
+      </trans-unit>
+      <trans-unit id="681" resname="ac2b18f2f4e059e0bd3c00806e2c3035">
+        <source>Invite only</source>
+        <target>招待のみ</target>
+      </trans-unit>
+      <trans-unit id="682" resname="d890dcf89268adaf628d6b75801cf7a3">
+        <source>Visibility</source>
+        <target>視認性</target>
+      </trans-unit>
+      <trans-unit id="683" resname="40e07921caaab5aa93f151323d51c2bf">
+        <source>Image</source>
+        <target>画像</target>
+      </trans-unit>
+      <trans-unit id="684" resname="50d0138c18490e635fabd50a08a19eb9">
+        <source>Website</source>
+        <target>ウェブサイト</target>
+      </trans-unit>
+      <trans-unit id="685" resname="8be7ef1980943f1034378d01f86710eb">
+        <source>Settings</source>
+        <target>設定</target>
+      </trans-unit>
+      <trans-unit id="686" resname="24ec7bc86d4d92200846c3b951fe0658">
+        <source>Search for Tasking Manager users</source>
+        <target>Tasking Managerユーザ名で検索</target>
+      </trans-unit>
+      <trans-unit id="687" resname="680d9b1b0b9ff6169cbdcba615c60181">
+        <source>Save</source>
+        <target>保存</target>
+      </trans-unit>
+      <trans-unit id="688" resname="e986a2610ff81cd2168bf6feef28ae51">
+        <source>Done</source>
+        <target>完了</target>
+      </trans-unit>
+      <trans-unit id="689" resname="74777053bdd4c7102dbcf1550088b6f2">
+        <source>Cancel</source>
+        <target>キャンセル</target>
+      </trans-unit>
+      <trans-unit id="690" resname="049d35ad7fba910f005d18e1c83d939d">
+        <source>Administrators</source>
+        <target>管理者</target>
+      </trans-unit>
+      <trans-unit id="691" resname="174bcf16d5bed0467244d7f4fd60947a">
+        <source>You are not a member of a team yet.</source>
+        <target>あなたはまだチームのメンバーではありません。</target>
+      </trans-unit>
+      <trans-unit id="692" resname="ac376f3ab7ab435189f1233c41a56d51">
+        <source>There are no campaigns yet.</source>
+        <target>キャンペーンはまだありません。</target>
+      </trans-unit>
+      <trans-unit id="693" resname="380098a798802ec27f5c5539c4e34a71">
+        <source>There are no categories yet.</source>
+        <target>カテゴリはまだありません。</target>
+      </trans-unit>
+      <trans-unit id="694" resname="ece149e8c8e5bff64c81b5910cd143b6">
+        <source>There are no licenses yet.</source>
+        <target>ライセンス情報が設定されていません。</target>
+      </trans-unit>
+      <trans-unit id="695" resname="62639091bbbbd2eca139040975967ec1">
+        <source>Public</source>
+        <target>公開</target>
+      </trans-unit>
+      <trans-unit id="696" resname="a89029f1999e8deea06f5b236d9d171c">
+        <source>Private</source>
+        <target>プライベート</target>
+      </trans-unit>
+      <trans-unit id="697" resname="2e5da26e6d83275d5ca252a2fbb4816d">
+        <source>Managers need to approve a member's request to join.</source>
+        <target>メンバーの新規参加には管理者の承認が必要です。</target>
+      </trans-unit>
+      <trans-unit id="698" resname="33538fa599d38fbf1177ef7fa8eac3e4">
+        <source>Your request to join this team is waiting for approval.</source>
+        <target>このチームへの参加リクエストは承認待ちです。</target>
+      </trans-unit>
+      <trans-unit id="699" resname="e660cf3df9574539dd34494cc2fbc1d0">
+        <source>This {entity} doesn't have projects yet.</source>
+        <target>この {entity} にはまだプロジェクトがありません。</target>
+      </trans-unit>
+      <trans-unit id="700" resname="f351315c2f2a24fe38d24104727f882b">
+        <source>No teams found.</source>
+        <target>チームが見つかりません。</target>
+      </trans-unit>
+      <trans-unit id="701" resname="6d36b3feeeeeaaa95d87d995a10f968e">
+        <source>{changesets} / {nextLevelThreshold} changesets to {level}</source>
+        <target>{changesets} /  {level} まで {nextLevelThreshold} 変更セット</target>
+      </trans-unit>
+      <trans-unit id="702" resname="d993419ccc72a2578a021ca6f250f168">
+        <source>Personal information</source>
+        <target>個人情報</target>
+      </trans-unit>
+      <trans-unit id="703" resname="d69e0eaa895a8de1875f046b4c0dce58">
+        <source>Name</source>
+        <target>名称</target>
+      </trans-unit>
+      <trans-unit id="704" resname="c3ff5e5235e96d6407a25a5bd5e0815d">
+        <source>Organizations</source>
+        <target>組織</target>
+      </trans-unit>
+      <trans-unit id="705" resname="937bfd3b3530eaa79f9d60a82b612451">
+        <source>City</source>
+        <target>市</target>
+      </trans-unit>
+      <trans-unit id="706" resname="362cde1e42ae5ff89a1c3707c8111a5e">
+        <source>Country</source>
+        <target>国名</target>
+      </trans-unit>
+      <trans-unit id="707" resname="d88caba7b5d5d3ec091d616650bd83fb">
+        <source>Email</source>
+        <target>Eメール</target>
+      </trans-unit>
+      <trans-unit id="708" resname="428ecb7af056a60e7dc0e89a822907e8">
+        <source>Gender</source>
+        <target>性別</target>
+      </trans-unit>
+      <trans-unit id="709" resname="d368aa34a93fc52f76c554f83469cb7e">
+        <source>Female</source>
+        <target>女性</target>
+      </trans-unit>
+      <trans-unit id="710" resname="d0c5c9c2258368bc89b4b80b2ed3a4b7">
+        <source>Male</source>
+        <target>男性</target>
+      </trans-unit>
+      <trans-unit id="711" resname="0b725bf1cc8e24840fd8593aacd3e9c9">
+        <source>Prefer not to say</source>
+        <target>言明したくない</target>
+      </trans-unit>
+      <trans-unit id="712" resname="6ee74f58f0660b3a4c36da3814010b87">
+        <source>Prefer to self-describe:</source>
+        <target>自分で記述: </target>
+      </trans-unit>
+      <trans-unit id="713" resname="e3cbf6f55e4e25521f9d75a48af31421">
+        <source>Username on {org} Slack</source>
+      </trans-unit>
+      <trans-unit id="714" resname="8743916a0f0eba156656995309359ae1">
+        <source>Type only your username, not the URL.</source>
+      </trans-unit>
+      <trans-unit id="715" resname="43a0962c89aa5d29896ff23ea9465f08">
+        <source>Save</source>
+        <target>保存</target>
+      </trans-unit>
+      <trans-unit id="716" resname="617902b3c7c4d6d3b366bc2d9d541178">
+        <source>Settings</source>
+        <target>設定</target>
+      </trans-unit>
+      <trans-unit id="717" resname="88f7b33a5420ab854d5f9d1278735647">
+        <source>Notifications</source>
+        <target>通知</target>
+      </trans-unit>
+      <trans-unit id="718" resname="9d5307fe0117b76776d2b549bef329f3">
+        <source>Expert mode</source>
+        <target>エキスパートモード</target>
+      </trans-unit>
+      <trans-unit id="719" resname="b705a41d87f18b94b718832456c60aae">
+        <source>Expert mode makes advanced and experimental features available. Most users should leave this off.</source>
+        <target>エキスパートモードでは、高度な機能や実験的な機能を利用できます。 ほとんどのユーザーは、この機能をオフにしておきます。</target>
+      </trans-unit>
+      <trans-unit id="720" resname="3d6beb131e2dff923f817a1a9dfbbb3c">
+        <source>Default editor</source>
+        <target>デフォルトのエディタ</target>
+      </trans-unit>
+      <trans-unit id="721" resname="c2900a88333d1f77d4c2cbd42d2c52b7">
+        <source>Select default editor</source>
+        <target>デフォルトのエディタを選択</target>
+      </trans-unit>
+      <trans-unit id="722" resname="3629e396166bb0fbdfb3d5ea35816276">
+        <source>Select the default editor you want to use when mapping tasks. By selecting a default option, you will not need to select an editor each time you map.</source>
+        <target>タスクのマッピング時に使用するデフォルトのエディタを選択します。 デフォルトのオプションを選択することで、マッピングするたびにエディタを選択する必要がなくなります。</target>
+      </trans-unit>
+      <trans-unit id="723" resname="831475813186a91a1892398379ec193b">
+        <source>Language</source>
+        <target>言語</target>
+      </trans-unit>
+      <trans-unit id="724" resname="31ac33e678666e5610491d6e4f3c3fa4">
+        <source>Define your preferred language. It will also affect the language of the maps you see on Tasking Manager.</source>
+        <target>使用する言語を設定します。Tasking Managerに表示されるマップの表示言語にも影響します。</target>
+      </trans-unit>
+      <trans-unit id="725" resname="4deeb6d893cfe3a08bcc89f332d46805">
+        <source>Become a validator</source>
+        <target>確認者になる</target>
+      </trans-unit>
+      <trans-unit id="726" resname="c60f3d7a028051333319c80ec77ffb30">
+        <source>Validators check the quality of map edits completed and provide feedback for mappers on how to improve. If you are an experienced mapper, apply to become a validator.</source>
+        <target>確認者は完了したマッピングの品質をチェックし、改善方法をマッパーにフィードバックします。 経験豊富なマッパーであれば、確認者になることができます。</target>
+      </trans-unit>
+      <trans-unit id="727" resname="7995cdc3026ff1632469c225b6a7d818">
+        <source>Mentions emails</source>
+      </trans-unit>
+      <trans-unit id="728" resname="7392f177383eaeab4438720733a9bf0e">
+        <source>Receive an email every time your username is mentioned on a comment.</source>
+      </trans-unit>
+      <trans-unit id="729" resname="442bbb36ec353c36a7f43745fa239442">
+        <source>Team announcements emails</source>
+      </trans-unit>
+      <trans-unit id="730" resname="2b1b521f90bd5d2b46bd5bce651b1d20">
+        <source>Receive emails with announcements sent by team managers.</source>
+      </trans-unit>
+      <trans-unit id="731" resname="0f148c85acfaa0859f1e7177427034bf">
+        <source>Project updates</source>
+        <target>プロジェクト更新</target>
+      </trans-unit>
+      <trans-unit id="732" resname="90c903f83bc4355fb928f0b7cdd4af4a">
+        <source>Tasks validation emails</source>
+      </trans-unit>
+      <trans-unit id="733" resname="50000dc8a077aa84ded2577360d81e15">
+        <source>Required fields</source>
+        <target>必須項目</target>
+      </trans-unit>
+      <trans-unit id="734" resname="f089ad41de33d35b0e9f1a7fc5e5de72">
+        <source>You get a notification when a project you have contributed to makes progress.</source>
+        <target>あなたが参加したプロジェクトが進行すると通知を受け取ります。</target>
+      </trans-unit>
+      <trans-unit id="735" resname="4f231533d3f1b005b16ee893186c6616">
+        <source>Receive an email when a task you have contributed to is validated.</source>
+      </trans-unit>
+      <trans-unit id="736" resname="b3384da334f3ad2971541a6eb345b997">
+        <source>Comments</source>
+        <target>コメント</target>
+      </trans-unit>
+      <trans-unit id="737" resname="3299c15281cc74da5fcb8dcb9367dfeb">
+        <source>Receive a notification every time someone posts a comment on projects or tasks you have contributed to.</source>
+      </trans-unit>
+      <trans-unit id="738" resname="d78f900bf3802d71862e2994429b996d">
+        <source>Learn how</source>
+        <target>解説</target>
+      </trans-unit>
+      <trans-unit id="739" resname="ee6af4bd559935b3348fbddc3e78d808">
+        <source>Welcome to Tasking Manager!</source>
+        <target>Tasking Managerにようこそ！</target>
+      </trans-unit>
+      <trans-unit id="740" resname="f91ac672373b2d3e6101276b49b97788">
+        <source>Interests updated successfully.</source>
+        <target>関心分野が正常に更新されました。</target>
+      </trans-unit>
+      <trans-unit id="741" resname="46d552a7f8469d57c5b5a3d8f982051a">
+        <source>Interests update failed.</source>
+        <target>関心分野の更新に失敗しました。</target>
+      </trans-unit>
+      <trans-unit id="742" resname="a58e8f213e0fba4e65d6aff2fd9baa12">
+        <source>Interests</source>
+        <target>関心分野</target>
+      </trans-unit>
+      <trans-unit id="743" resname="d6b7960249ccf8ef07c6e16e276d4f88">
+        <source>Select causes of interest to help us recommend the right projects for you.</source>
+        <target>関心分野を記入することで、適切なプロジェクトを紹介できるかもしれません。</target>
+      </trans-unit>
+      <trans-unit id="744" resname="ed1a38496b20b41f460b6bc9fbf69af9">
+        <source>Complete your profile</source>
+        <target>プロフィールを完成させる</target>
+      </trans-unit>
+      <trans-unit id="745" resname="2b207c4b70990d3404dcff33c8f446d4">
+        <source>Please provide your information</source>
+        <target>情報を入力してください</target>
+      </trans-unit>
+      <trans-unit id="746" resname="5fffde122b5aabe255d8e742adf55acb">
+        <source>You're almost done!</source>
+        <target>もう少しで終わります！</target>
+      </trans-unit>
+      <trans-unit id="747" resname="4be99635bfd372dfdca3106cd6be9d76">
+        <source>Your profile is complete!</source>
+        <target>プロフィールが完成しました。</target>
+      </trans-unit>
+      <trans-unit id="748" resname="a9133bf7f4c65b02212f67cc1991be2e">
+        <source>Complete my profile</source>
+        <target>プロフィールを完成させる</target>
+      </trans-unit>
+      <trans-unit id="749" resname="ea00f5bd1f88a68d31e6eaff8f4f46e9">
+        <source>Need help?</source>
+        <target>ヘルプが必要ですか？</target>
+      </trans-unit>
+      <trans-unit id="750" resname="73e670bd7e98dbbf3142dff2ff10ddd2">
+        <source>How to map?</source>
+        <target>どのようにマッピングするのですか？</target>
+      </trans-unit>
+      <trans-unit id="751" resname="ab8aaa80439c6f42b4a01f3f2b237f37">
+        <source>Quickstart guide</source>
+        <target>クイックスタートガイド</target>
+      </trans-unit>
+      <trans-unit id="752" resname="75940e727e25ab5aff5c926e57af4b2a">
+        <source>What is OpenStreetMap?</source>
+        <target>オープンストリートマップとは</target>
+      </trans-unit>
+      <trans-unit id="753" resname="7354d7ecf1a865d67134dd16b59045d7">
+        <source>Contribute to your first project</source>
+        <target>最初のプロジェクトへの協力</target>
+      </trans-unit>
+      <trans-unit id="754" resname="a536dbb0bd3bed8300e4155289048ee9">
+        <source>Looks like you haven't mapped any tasks yet.</source>
+        <target>まだタスクをマッピングしていないようです。</target>
+      </trans-unit>
+      <trans-unit id="755" resname="410e50a64962082a6d564547106d5873">
+        <source>Fortunately, it's very easy to map one!</source>
+        <target>幸いにも、マッピングするのはとても簡単です！</target>
+      </trans-unit>
+      <trans-unit id="756" resname="bcd654a91ea71ad31d5bbb7ad2b26990">
+        <source>You can start mapping by choosing one of the projects below, recommended just for you!</source>
+        <target>あなたにお勧めする以下のプロジェクトのいずれかを選択することで、マッピングを開始することができます！</target>
+      </trans-unit>
+      <trans-unit id="757" resname="1da02561bb511ddc47761105dcd64047">
+        <source>OpenStreetMap details</source>
+        <target>OpenStreetMapの詳細</target>
+      </trans-unit>
+      <trans-unit id="758" resname="20d3f7c26c4074d4a8b2c010f141b413">
+        <source>Joined OpenStreetMap</source>
+        <target>OpenStreetMapに参加</target>
+      </trans-unit>
+      <trans-unit id="759" resname="236ac54f42f8565698efd9bd9ee0d2c3">
+        <source>Total changesets</source>
+        <target>全ての変更セット</target>
+      </trans-unit>
+      <trans-unit id="760" resname="f3b1931daad9376c879d089516e764ba">
+        <source>Changesets history</source>
+        <target>変更セットの履歴</target>
+      </trans-unit>
+      <trans-unit id="761" resname="0a18a4891c7de2b1963c3df4aa52b19c">
+        <source>Edit OpenStreetMap profile</source>
+        <target>OpenStreetMapのプロファイルを編集</target>
+      </trans-unit>
+      <trans-unit id="762" resname="2c62589e495f72df12e658cb8bfa5bd8">
+        <source>API Key</source>
+        <target>API キー</target>
+      </trans-unit>
+      <trans-unit id="763" resname="2f8cfef40ab2f365fb9c2314b5f2c55d">
+        <source>API Documentation</source>
+        <target>APIドキュメンテーション</target>
+      </trans-unit>
+      <trans-unit id="764" resname="dc4a215cb63c13bd2a052f3d7046c59a">
+        <source>With this API Key, you can authenticate and use all the resources of the Tasking Manager API. For more details, checkout the {link}.</source>
+        <target>APIキーを入力することで、Tasking Managerの認証やそのリソースを利用することができるようになります。詳細は {link} を参照ください。</target>
+      </trans-unit>
+      <trans-unit id="765" resname="dd0a48b873889f39625a4c12a6f0a494">
+        <source>Please check your email account in order to confirm your email address.</source>
+        <target>メールアドレス確認を行います。メールアカウントをチェックしてください。</target>
+      </trans-unit>
+      <trans-unit id="766" resname="23552834ebb9f1ea09b57850889ee7d6">
+        <source>Resend validation email</source>
+        <target>検証メールを再送</target>
+      </trans-unit>
+      <trans-unit id="767" resname="cc6d9127763ce6fb202718129707735c">
+        <source>My projects</source>
+        <target>自分のプロジェクト</target>
+      </trans-unit>
+      <trans-unit id="768" resname="7762c0b27f4db5ab225d6e9d85677f34">
+        <source>My tasks</source>
+        <target>自分のタスク</target>
+      </trans-unit>
+      <trans-unit id="769" resname="f3e2c329157640209c36b2bbfb997a4b">
+        <source>My teams</source>
+        <target>自分のチーム</target>
+      </trans-unit>
+      <trans-unit id="770" resname="f76964725d7411c028f5cd697b5c3b24">
+        <source>My contributions</source>
+        <target>自分の協力</target>
+      </trans-unit>
+      <trans-unit id="771" resname="4c821225e145fe9f93c1adcada1e2842">
+        <source>My stats</source>
+        <target>自分の統計</target>
+      </trans-unit>
+      <trans-unit id="772" resname="65c33228a3baac3ca49cd7a09f769491">
+        <source>Search by username</source>
+        <target>ユーザ名で検索</target>
+      </trans-unit>
+      <trans-unit id="773" resname="682c7cf77dfe5bdb6d7d2af544b6e939">
+        <source>Total number of users: {total}</source>
+        <target>ユーザ総数: {total}</target>
+      </trans-unit>
+      <trans-unit id="774" resname="03fd545129e32d20175670cdee77d628">
+        <source>Set role</source>
+        <target>ロール登録</target>
+      </trans-unit>
+      <trans-unit id="775" resname="77eb3dfd66d3c02c0ddcad9c03170a92">
+        <source>Set mapper level</source>
+        <target>マッパーレベル登録</target>
+      </trans-unit>
+      <trans-unit id="776" resname="0768b404e019e779f120045c35f5bc53">
+        <source>All levels</source>
+        <target>すべてのレベル</target>
+      </trans-unit>
+      <trans-unit id="777" resname="2805309ffe1a13f30d8d8469fe9d4c6b">
+        <source>Advanced</source>
+        <target>上級者</target>
+      </trans-unit>
+      <trans-unit id="778" resname="87f492a09230b3a3fe89ae9fe806d336">
+        <source>Intermediate</source>
+        <target>中級者</target>
+      </trans-unit>
+      <trans-unit id="779" resname="f5084b0fc2ec2f3f7cec8535c7155b26">
+        <source>Beginner</source>
+        <target>初心者</target>
+      </trans-unit>
+      <trans-unit id="780" resname="b4c2e99e2267a59c6f1262530a670d6c">
+        <source>All roles</source>
+        <target>すべてのロール</target>
+      </trans-unit>
+      <trans-unit id="781" resname="cfb747df9c90b8c4c39ea530f59733ab">
+        <source>Admin</source>
+        <target>管理者</target>
+      </trans-unit>
+      <trans-unit id="782" resname="386b7bffd99902512bb57c3269466a37">
+        <source>Blocked</source>
+        <target>ブロック済</target>
+      </trans-unit>
+      <trans-unit id="783" resname="11113355fec220c601ee4e7989f0f7fd">
+        <source>Mapper</source>
+        <target>マッパー</target>
+      </trans-unit>
+      <trans-unit id="784" resname="f42d4fb2e22fba05404ac3d5aabd6111">
+        <source>Clear filters</source>
+        <target>フィルタを解除</target>
+      </trans-unit>
+      <trans-unit id="785" resname="de09b9f9808fb800d28f8b4963dee8ae">
+        <source>loading</source>
+        <target>読み込み中</target>
+      </trans-unit>
+      <trans-unit id="786" resname="c2e1a8868ee2b9f56c924c93819a1f0f">
+        <source>Contribution Timeline</source>
+        <target>協力タイムライン</target>
+      </trans-unit>
+      <trans-unit id="787" resname="14b70ec1874b8e0ce77861b2f91a67ca">
+        <source>Projects</source>
+        <target>プロジェクト</target>
+      </trans-unit>
+      <trans-unit id="788" resname="de88fbf1ba34cc1d57461076f5bd0b4f">
+        <source>Countries</source>
+      </trans-unit>
+      <trans-unit id="789" resname="84c73d97a9222062929bbbcf2491220b">
+        <source>Time spent mapping</source>
+        <target>マッピング時間</target>
+      </trans-unit>
+      <trans-unit id="790" resname="e46cc173a6369f0087865cfd8174469e">
+        <source>Buildings mapped</source>
+        <target>マッピングした建物数</target>
+      </trans-unit>
+      <trans-unit id="791" resname="622f9d6679d5537e9b35eb04a50a5383">
+        <source>Km road mapped</source>
+        <target>マッピングした道路</target>
+      </trans-unit>
+      <trans-unit id="792" resname="bf85b15737484f57271eae9f62861ac4">
+        <source>Points of interests mapped</source>
+        <target>マッピングされた地物数</target>
+      </trans-unit>
+      <trans-unit id="793" resname="44bee684bcf89a1dbdcaed02af990a46">
+        <source>Waterways mapped</source>
+        <target>マッピングした水路</target>
+      </trans-unit>
+      <trans-unit id="794" resname="078b557f6190bcdb5c3dda1ca31bb315">
+        <source>{user} mapped</source>
+      </trans-unit>
+      <trans-unit id="795" resname="4adeacbce2b61a94504b285cd348933e">
+        <source>You</source>
+      </trans-unit>
+      <trans-unit id="796" resname="6660ef662548fe097a4d6ac028f81c52">
+        <source>{user} validated</source>
+      </trans-unit>
+      <trans-unit id="797" resname="7e1848e9591f0dfbc5fd08ac2f9c6f5c">
+        <source>Needed more mapping</source>
+      </trans-unit>
+      <trans-unit id="798" resname="525aacee904d52acaea5c7f62bfc12a6">
+        <source>Validated</source>
+        <target>検証済み</target>
+      </trans-unit>
+      <trans-unit id="799" resname="ea7f0cd9a2836b93a487279109f2d498">
+        <source>Finished</source>
+        <target>終了しました</target>
+      </trans-unit>
+      <trans-unit id="800" resname="f229f9ce9c79fd9516f6a1b6988133a7">
+        <source>Top 5 projects contributed</source>
+        <target>参加プロジェクトの上位 5 件</target>
+      </trans-unit>
+      <trans-unit id="801" resname="67e788813bef479bbf40789a844906c6">
+        <source>No projects mapped until now.</source>
+      </trans-unit>
+      <trans-unit id="802" resname="2760376a0c230392bb01d22d41cc3af5">
+        <source>Top causes contributed to</source>
+        <target>参加理由トップ</target>
+      </trans-unit>
+      <trans-unit id="803" resname="8caf30a8c540772011e650b873c97e7f">
+        <source>Information is not available because no projects were mapped until now.</source>
+      </trans-unit>
+      <trans-unit id="804" resname="08389d216561e6ccbc47fbe7afee743a">
+        <source>Edits by numbers</source>
+        <target>番号で編集</target>
+      </trans-unit>
+      <trans-unit id="805" resname="7289df0836afe8f5a5cff434c08b2bb0">
+        <source>No data to show yet. OpenStreetMap edits stats are updated with a delay of one hour.</source>
+      </trans-unit>
+      <trans-unit id="806" resname="7ab92a65dfc3250b9c2f6a388bad4289">
+        <source>Top 5 countries most mapped</source>
+        <target>最もマッピングされている上位5カ国</target>
+      </trans-unit>
+      <trans-unit id="807" resname="73b34f48b1178cf94b3bf40930a65026">
+        <source>tasks</source>
+        <target>タスク</target>
+      </trans-unit>
+      <trans-unit id="808" resname="ff75c74da3113f769d8c8a61eb910b7c">
+        <source>No contribution</source>
+        <target>参加なし</target>
+      </trans-unit>
+      <trans-unit id="809" resname="30e984e363921b7de7062a4d3a1b4ae3">
+        <source>contribution</source>
+        <target>協力</target>
+      </trans-unit>
+      <trans-unit id="810" resname="c2a4afa9dda339635086643cca09f3d8">
+        <source>contributions</source>
+        <target>協力</target>
+      </trans-unit>
+      <trans-unit id="811" resname="5cc3a4d5a5c8ed58909a7dd272366bdc">
+        <source>more</source>
+        <target>さらに表示</target>
+      </trans-unit>
+      <trans-unit id="812" resname="ee9b1312bd03b658d64db2e18d270592">
+        <source>less</source>
+        <target>非表示</target>
+      </trans-unit>
+      <trans-unit id="813" resname="351ef4c7edf2452c5d1135b126222b60">
+        <source>These statistics need heavy calculations and changes are showing up with a delay of around one hour.</source>
+        <target>統計の処理は負荷が高いため、数値の変化の反映には1時間ほどかかります。</target>
+      </trans-unit>
+      <trans-unit id="814" resname="2e7a066c99fc1c292b5a3f57df17d65a">
+        <source>Teams</source>
+        <target>チーム</target>
+      </trans-unit>
+      <trans-unit id="815" resname="b64f9704b3e036e86a3b56f4b1523671">
+        <source>An error ocurred</source>
+      </trans-unit>
+      <trans-unit id="816" resname="987207f2d9a2cc80b627c87ffec27b2b">
+        <source>Something did not work well...</source>
+      </trans-unit>
+      <trans-unit id="817" resname="51b3a34813fae866cf31e3d0a7818a95">
+        <source>Return</source>
+        <target>戻る</target>
+      </trans-unit>
+      <trans-unit id="818" resname="e901b3b7a742e509bd813ceae0ebdba6">
+        <source>Page not found</source>
+        <target>ページが見つかりません</target>
+      </trans-unit>
+      <trans-unit id="819" resname="e73b7f7ade626ca94792cca600e00066">
+        <source>Project {id} not found</source>
+        <target>プロジェクト {id} が見つかりません</target>
+      </trans-unit>
+      <trans-unit id="820" resname="8b54c1d3b743cebe0670a3e85de1896a">
+        <source>Check the URL or report this error.</source>
+        <target>URL を確認するか、このエラーを報告してください。</target>
+      </trans-unit>
+      <trans-unit id="821" resname="750ac70bbdba2c708d570c8eb6e70c55">
+        <source>Project timeline</source>
+      </trans-unit>
+      <trans-unit id="822" resname="99d96c7735ed533115b809ab93c57480">
+        <source>You are not allowed to access the management area.</source>
+        <target>管理エリアへのアクセスはできません。</target>
+      </trans-unit>
+      <trans-unit id="823" resname="6e9dca876af8531fd4792e0f03ba6e2b">
+        <source>You are not allowed to edit this project.</source>
+        <target>プロジェクトへの参加権限がありません。</target>
+      </trans-unit>
+      <trans-unit id="824" resname="a7a66174f44eb5b2657a8b83406066f2">
+        <source>You are not allowed to edit this team.</source>
+        <target>あなたはこのチームを編集することが許可されていません</target>
+      </trans-unit>
+      <trans-unit id="825" resname="b1148d220d2d8d8e4ce443fbf17dcabb">
+        <source>Login or register an account</source>
+        <target>ログインまたはアカウント登録</target>
+      </trans-unit>
+      <trans-unit id="826" resname="57077c216e67be18f6d4d7b6e5d10a31">
+        <source>Manage users</source>
+        <target>ユーザーの管理</target>
+      </trans-unit>
+      <trans-unit id="827" resname="43944176fc7554b82f15fadff57d1caf">
+        <source>Create new organization</source>
+        <target>組織を新規作成</target>
+      </trans-unit>
+      <trans-unit id="828" resname="56f8e8b4cfb6ad3b1fa3ab7051211e60">
+        <source>Create new team</source>
+        <target>チームを新規作成</target>
+      </trans-unit>
+      <trans-unit id="829" resname="d3944d95e0273928b3a84d3fe781b2eb">
+        <source>Create new campaign</source>
+        <target>キャンペーンを新規作成</target>
+      </trans-unit>
+      <trans-unit id="830" resname="63dcfab8fbc49e695787628f7048c070">
+        <source>Create organization</source>
+        <target>組織の作成</target>
+      </trans-unit>
+      <trans-unit id="831" resname="bf76713660d569beede01d653fd7664e">
+        <source>Create team</source>
+        <target>チームの作成</target>
+      </trans-unit>
+      <trans-unit id="832" resname="dacf42c26599eac3dc49a6c68c75edf6">
+        <source>Create campaign</source>
+        <target>キャンペーンの作成</target>
+      </trans-unit>
+      <trans-unit id="833" resname="5a225aa4d0ba11d07a31a2f236648bf1">
+        <source>My teams</source>
+        <target>自分のチーム</target>
+      </trans-unit>
+      <trans-unit id="834" resname="da94c184ab9afe2037341beda639b93e">
+        <source>Join team</source>
+        <target>チームに参加</target>
+      </trans-unit>
+      <trans-unit id="835" resname="78c4aaca9372375f9e10949dbb4d0844">
+        <source>Cancel request</source>
+        <target>リクエストをキャンセル</target>
+      </trans-unit>
+      <trans-unit id="836" resname="796b96a51a67e5626e6d3304e536c9c3">
+        <source>Leave team</source>
+        <target>チームから離脱</target>
+      </trans-unit>
+      <trans-unit id="837" resname="0b882b09ab8e4f36c3c2a4e922e00b86">
+        <source>Cancel</source>
+        <target>キャンセル</target>
+      </trans-unit>
+      <trans-unit id="838" resname="7defd5812e09488e3cc58f95df8e395d">
+        <source>You are not a manager of this organisation, so you are not allowed to edit it.</source>
+      </trans-unit>
+      <trans-unit id="839" resname="d267c277a46e5208c36543a6d8ea40a6">
+        <source>Manage organization</source>
+        <target>組織の管理</target>
+      </trans-unit>
+      <trans-unit id="840" resname="e67be45822dbb16b0bb2e4953f3cf4e9">
+        <source>Manage team</source>
+        <target>チームの管理</target>
+      </trans-unit>
+      <trans-unit id="841" resname="86fbd96f3cee8228aadbf57e1780cb49">
+        <source>Manage campaign</source>
+        <target>キャンペーンの管理</target>
+      </trans-unit>
+      <trans-unit id="842" resname="0b6c68d7a0324914ac6057acc8c0faa0">
+        <source>Team information</source>
+        <target>チームの情報</target>
+      </trans-unit>
+      <trans-unit id="843" resname="bd863a5985eb12ec77772d8a8ff30228">
+        <source>Campaign information</source>
+        <target>キャンペーン情報</target>
+      </trans-unit>
+      <trans-unit id="844" resname="cd730d7bf89ee4b5e157e272e40f7ca1">
+        <source>Manage license</source>
+        <target>ライセンス情報管理</target>
+      </trans-unit>
+      <trans-unit id="845" resname="1215246a7ba95e8bfb7a94685836de20">
+        <source>Manage category</source>
+        <target>カテゴリの管理</target>
+      </trans-unit>
+      <trans-unit id="846" resname="ea48b0973f24eb208c53d4b271fb0d88">
+        <source>Category information</source>
+        <target>カテゴリ情報</target>
+      </trans-unit>
+      <trans-unit id="847" resname="1636192be3963990facd6e9a42bd4e5b">
+        <source>License information</source>
+        <target>ライセンス情報</target>
+      </trans-unit>
+      <trans-unit id="848" resname="d6f11af1f57391f6e87297147802366a">
+        <source>Create new category</source>
+        <target>カテゴリを新規作成</target>
+      </trans-unit>
+      <trans-unit id="849" resname="2a739c89b3da5bc2ecc0c338cae6ae4d">
+        <source>Create new license</source>
+        <target>ライセンス新規設定</target>
+      </trans-unit>
+      <trans-unit id="850" resname="a21e019c43ddaa369ebde970515a6381">
+        <source>Create license</source>
+        <target>ライセンス情報設定</target>
+      </trans-unit>
+      <trans-unit id="851" resname="e87e524779f34d62511feab1b419e159">
+        <source>Create category</source>
+        <target>カテゴリの作成</target>
+      </trans-unit>
+      <trans-unit id="852" resname="71cdbe22c3c4af426b49dd7217960de8">
+        <source>You don't have any locked tasks. Access the Project #{currentProject} to select a task to map.</source>
+        <target>ロックされたタスクはありません。 #{currentProject} プロジェクトにアクセスして、マッピングするタスクを選択します。</target>
+      </trans-unit>
+      <trans-unit id="853" resname="0c84c340bca2a357e6205a9238609561">
+        <source>Go to Project #{project}</source>
+        <target>#{project} のプロジェクトに移動</target>
+      </trans-unit>
+      <trans-unit id="854" resname="5a97d12e8f79fdc8bd0b6164a41a06ef">
+        <source>Your profile settings</source>
+        <target>プロフィール設定</target>
+      </trans-unit>
+      <trans-unit id="855" resname="f9da5fe61f47b7d70511139529c6a328">
+        <source>Email confirmed successfully!</source>
+        <target>メールの確認ができました。</target>
+      </trans-unit>
+      <trans-unit id="856" resname="75b552db769fabf585356a1fdbfad635">
+        <source>Verification failed.</source>
+        <target>検証に失敗しました。</target>
+      </trans-unit>
+      <trans-unit id="857" resname="3ee5fc4323fd150bf67c20a8aed2e7d8">
+        <source>The verification of your email failed. Check if the URL on the browser matches with the URL sent to your email.</source>
+        <target>メールの確認に失敗しました。 ブラウザのURLがメールで送信されたURLと一致しているか確認してください。</target>
+      </trans-unit>
+      <trans-unit id="858" resname="46baf1bc45949e4b9e99315d6a260077">
+        <source>Thanks for providing your email address.</source>
+        <target>メールアドレスを登録いただきありがとうございます。</target>
+      </trans-unit>
+      <trans-unit id="859" resname="f27fb42a9fc028f569d9629850e5e131">
+        <source>From now on, we will keep you updated on how you can make the difference by mapping on Tasking Manager. You can customize your notification preferences on {link}.</source>
+        <target>今後、Tasking Managerであなたが行った編集作業の状況が随時報告されます。 {link} から通知設定を変更することが可能です。</target>
+      </trans-unit>
+      <trans-unit id="860" resname="cdcce788491320176986d4ca6b017df8">
+        <source>About</source>
+        <target>概要</target>
+      </trans-unit>
+      <trans-unit id="861" resname="53bcee127e8f58fabfdf7c67c4453825">
+        <source>Every day, a global community works tirelessly behind the scenes to literally put people on the map. They contribute to the online Open Data map of the world. Universal access to geospatial information is heavily changing how people use maps and what they build with them.</source>
+        <target>世界中に広がるコミュニティは、日々休むことなく、文字通り人々をマップの上に配置し続けています。コミュニティが参加するのは、オンラインに広がる、オープンデータの世界地図です。世界各地から地理空間情報へ行われるアクセスを通じて、人々がどのように地図を使うか、そして地図を使ってどのように活動を行うか、それらは劇的に変化しています。</target>
+      </trans-unit>
+      <trans-unit id="862" resname="f2daaec8a7a98b3a74f9b03896dbfe00">
+        <source>Learn</source>
+        <target>解説</target>
+      </trans-unit>
+      <trans-unit id="863" resname="ebbf3f249d56523592bf2d58bcc6823b">
+        <source>Learn pages</source>
+        <target>学習ページ</target>
+      </trans-unit>
+      <trans-unit id="864" resname="99d6fe3950fa023b54b1e98ad0537668">
+        <source>Learn to map</source>
+        <target>地図について</target>
+      </trans-unit>
+      <trans-unit id="865" resname="64b28c0b6693c7f2344029bd31a9ebab">
+        <source>Mapping in OpenStreetMap is a team effort, continually growing due to a community of hundreds of thousands of dedicated global contributors. Everybody can participate in this open map of the world, and it needs responsible people, who are open to learn and show love for the details.</source>
+        <target>OpenStreetMapでのマッピングはチーム作業であり、世界各地から参加する幾千幾万のコミュニティの活動によってその視野は広がり続けています。このオープンな世界地図には誰もが参加することができ、地図を必要とする人々に対して、学習とより詳細を知る機会を提供しています。</target>
+      </trans-unit>
+      <trans-unit id="866" resname="f58b26ef9334d8ea267a766c048d23d1">
+        <source>You can start your journey now. You do not have to ask permission before adding or modifying existing data. If you believe that you can improve something, then do it. But always remember, with great power comes great responsibility.</source>
+        <target>さぁ、あなたの旅の始まりです。データを追加したり、既に存在するデータを編集したりすることに、誰かの許可は必要ありません。あなたの編集によってデータが改善できると思われるならば、実施してしまって問題ありません。ただし、強い力には強い責任が伴うことを忘れないでください。</target>
+      </trans-unit>
+      <trans-unit id="867" resname="e31f842a5a240299ed18fac76e5e0b20">
+        <source>Videos</source>
+        <target>動画</target>
+      </trans-unit>
+      <trans-unit id="868" resname="4dc9e45373771d5511f1c044b341ab1f">
+        <source>Manuals</source>
+        <target>マニュアル</target>
+      </trans-unit>
+      <trans-unit id="869" resname="21f031290a3c91c373c82759a01ae963">
+        <source>Quickstart guide</source>
+        <target>クイックスタートガイド</target>
+      </trans-unit>
+      <trans-unit id="870" resname="e58ec57cee9e8013bb77174f713a6031">
+        <source>Step by step instructions to get you mapping as fast as possible.</source>
+        <target>なるべく早くマッピングができるよう、ステップバイステップでレッスンを行いましょう。</target>
+      </trans-unit>
+      <trans-unit id="871" resname="b55f882b5e43754f803a840ba5f01202">
+        <source>Tasking Manager User Manual</source>
+        <target>Tasking Managerユーザマニュアル</target>
+      </trans-unit>
+      <trans-unit id="872" resname="aed864e9a5198c2e7d682b7d1b1ad4cf">
+        <source>Learn how to find a project and task that interests you, how to lock a task to edit and select the suitable editing software.</source>
+        <target>プロジェクトやタスクの見つけ方や、編集作業のためにタスクをロックする方法、適切な編集ソフトを選択する方法について解説されています。</target>
+      </trans-unit>
+      <trans-unit id="873" resname="b86ca160f3fbd6b10ecbcef02173f6ac">
+        <source>Learn OpenStreetMap Step by Step</source>
+        <target>OpenStreetMapステップバイステップ</target>
+      </trans-unit>
+      <trans-unit id="874" resname="7ca39b0fd10c0c171fbbfe4850120707">
+        <source>Beginner’s Guide to mapping on OpenStreetMap</source>
+        <target>OpenStreetMap初心者ガイド</target>
+      </trans-unit>
+      <trans-unit id="875" resname="c29645e442a61051421817afb2b06ff7">
+        <source>Administration Guide</source>
+        <target>管理者ガイド</target>
+      </trans-unit>
+      <trans-unit id="876" resname="a1fcc90d97bf339ddd98e70bedf6bedd">
+        <source>Manual on how to create and manage projects in the Tasking Manager</source>
+        <target>Tasking Managerでのプロジェクト作成や管理に関するマニュアル</target>
+      </trans-unit>
+      <trans-unit id="877" resname="0db4a08fc6485f7d841f6c0734b2f3f9">
+        <source>Select a project</source>
+        <target>プロジェクトを選択</target>
+      </trans-unit>
+      <trans-unit id="878" resname="a2047f3aed456df7757f2191b0160431">
+        <source>Search through our list of projects for one that meets your interests and fits your skill level.</source>
+        <target>あなたの興味分野とスキルレベルを鑑みて、登録済みのプロジェクトから適切な対象を検索します。</target>
+      </trans-unit>
+      <trans-unit id="879" resname="d10a20714b6a3210feb6635130fff095">
+        <source>Select a task</source>
+        <target>タスクを選択</target>
+      </trans-unit>
+      <trans-unit id="880" resname="82d09b880a9825da9c7a1e396e41b68c">
+        <source>Projects are divided into a set of tasks manageable in size and adapted to your skill level</source>
+        <target>プロジェクトは、管理しやすいサイズのタスクに分割され、あなたのスキルレベルにあった内容が表示されます。</target>
+      </trans-unit>
+      <trans-unit id="881" resname="49c5281d272a82333c45c026b7be7da9">
+        <source>Map through OpenStreetMap</source>
+        <target>OpenStreetMapでマッピング</target>
+      </trans-unit>
+      <trans-unit id="882" resname="78af32f83caa9acdb1d205789966143e">
+        <source>If you are new to mapping we recommend checking the manuals below before you start mapping.</source>
+        <target>マッピングを初めて行う場合は、開始する前にマニュアルを参照することをおすすめします。</target>
+      </trans-unit>
+      <trans-unit id="883" resname="63df9b42e147af78f22e50b9b03852e0">
+        <source>Sign up on Tasking Manager</source>
+        <target>サインアップ</target>
+      </trans-unit>
+      <trans-unit id="884" resname="bc89fe21718d413878d75cfb609dba2d">
+        <source>Learn how to Sign Up on Tasking Manager.</source>
+        <target>Tasking Managerへのサインアップ方法</target>
+      </trans-unit>
+      <trans-unit id="885" resname="19de9ae3782315f78700b3984bc6d418">
+        <source>Mapping roads</source>
+        <target>道路マッピング</target>
+      </trans-unit>
+      <trans-unit id="886" resname="b44315e8a0fccf3d35db29bdf9d2973a">
+        <source>Learn how to map roads on OpenStreetMap.</source>
+        <target>OpenStreetMapでの道路マッピング方法</target>
+      </trans-unit>
+      <trans-unit id="887" resname="9d1381e77b32f53cdd221f4881b596de">
+        <source>Select a task &amp; mapping buildings</source>
+        <target>タスクを選択し、建物をマッピング</target>
+      </trans-unit>
+      <trans-unit id="888" resname="c48e96ed9cb6686d9c14c7f29e2a9966">
+        <source>Learn how to map buildings on OpenStreetMap.</source>
+        <target>OpenStreetMapでの建物マッピング方法</target>
+      </trans-unit>
+      <trans-unit id="889" resname="989e31dbdf04b88058b4a899352eb624">
+        <source>How to validate</source>
+        <target>検証方法</target>
+      </trans-unit>
+      <trans-unit id="890" resname="abd4a54acd9a8adfcd1749f2803ecd99">
+        <source>Learn how to start validating projects on Tasking Manager.</source>
+      </trans-unit>
+      <trans-unit id="891" resname="e822e16a8890571fe4bdbf21b8837c81">
+        <source>Validation training</source>
+      </trans-unit>
+      <trans-unit id="892" resname="b64e1f9dd19779354420694650bec299">
+        <source>Deep dive on validation with this training, which includes advanced concepts and the JOSM editor.</source>
+      </trans-unit>
+      <trans-unit id="893" resname="57fb95136e1a326e4aed894a23b624b2">
+        <source>Learn to validate</source>
+        <target>検証作業について</target>
+      </trans-unit>
+      <trans-unit id="894" resname="9ab0819151abeaa6b8d199178adfe65b">
+        <source>Validation is an important part of the process. It requires confidence in your mapping abilities as well as the willingness to help coach and advise newer mappers.</source>
+        <target>一連の作業プロセスにおいて、検証作業は重要な位置を占めます。検証作業には、マッピングする能力だけではなく、コーチングやアドバイスを通じて新しく参加するマッパーを支援する気持ちが必要となります。</target>
+      </trans-unit>
+      <trans-unit id="895" resname="53ebf3aba6c759d26bf0c7c7fad04e0e">
+        <source>Getting a second, third, or fourth pair of eyes on mapped features is an important step for ensuring the quality of the data being added to OpenStreetMap and then used around the world.</source>
+        <target>二度三度、そしてさらに多くの目でマッピングされた地物の確認を行うことは、世界中から利用されるOpenStreetMapのデータ品質を確認する上でたいへん重要です。</target>
+      </trans-unit>
+      <trans-unit id="896" resname="c808009cca634b84f3534fdd28d825e5">
+        <source>Identify if becoming a validator is right for you</source>
+        <target>確認作業への参加</target>
+      </trans-unit>
+      <trans-unit id="897" resname="b31ddf981ff3be10e97cc3108597c387">
+        <source>Validation requires patience and attention to detail. Some experience mapping in OpenStreetMap is a must, but don’t feel that you need to be an expert to get started.</source>
+        <target>検証作業には忍耐力と細部への心配りが要求されます。また、OpenStreetMapでのマッピング作業に習熟している必要がありますが、エキスパートとして極めている必要まではありません。</target>
+      </trans-unit>
+      <trans-unit id="898" resname="efddbe0510dd70af0e92b7357a4e1f08">
+        <source>Build your skills</source>
+        <target>スキルを磨く</target>
+      </trans-unit>
+      <trans-unit id="899" resname="b92001d980aeab9cbcc77c3a083a7948">
+        <source>Becoming a skilled mapper is crucial to becoming a validator. Build up your experience in mapping in OpenStreetMap all kinds of map elements. Make sure you are familiar with the {taggingLink}.Eventually check out the JOSM Editor, a customizable editor for OpenStreetMap with a number of tools and plugins to make mapping and validation easier!</source>
+        <target>マッピングの技術を高めることは、検証作業を担う上で必須の条件となります。OpenStreetMapのマッピングに関して、あらゆる種類の要素について経験を積みましょう。 {taggingLink} に親しんでおくことも忘れないでください。カスタマイズ可能なOpenStreetMapエディタであるJOSMには、検証作業を容易にするためのプラグインやツールが用意されていますので、適宜確認してみてください。</target>
+      </trans-unit>
+      <trans-unit id="900" resname="ce5ca739464df35de08d4d877edda2ad">
+        <source>Collaborate as part of the community</source>
+        <target>コミュニティの一部としてのコラボレーション</target>
+      </trans-unit>
+      <trans-unit id="901" resname="61a8218a1947526a13bbf73932e1f5bb">
+        <source>Different validators have different techniques for validating. Join the conversation on the {mailingListLink} or the {forumLink}. Contribute resources that you find helpful and give back to the community! </source>
+        <target>検証作業における具体的な手法は作業者ごとに異なります。 {mailingListLink} や {forumLink} での会話に参加してみましょう。あなたが見つけた情報を共有するなど、ぜひコミュニティに加わってみてください。</target>
+      </trans-unit>
+      <trans-unit id="902" resname="7b22c2ecb621aa6dd2ff0aa3c0e130fc">
+        <source>After you become a skilled community mapper in OpenStreetMap, you will get confidence that you are ready to become a validator. You can apply to some of the validation teams or find a project that you want to validate on. Join the team, that will give you permission to validate the tasks. Now this is your opportunity to pay it forward and help other mappers on their journey as well</source>
+        <target>OpenStreetMapでコミュニティマッパーとしてスキルを磨いたら、検証作業を行う準備が整ってきたことになります。既に存在している検証作業チームに申請するか、あるいはあなたが検証作業を行いたいプロジェクトを決めてください。チームに加わることで、タスクの作業検証を行うことができるようになります。これはペイ・フォワードの機会を得ることでもあり、あなたに続く新しいマッパーたちの手を取り、導く活動でもあります。</target>
+      </trans-unit>
+      <trans-unit id="903" resname="b5e0d05137ebe9965a85c1f7e722d5de">
+        <source>Learn to manage</source>
+        <target>管理方法について</target>
+      </trans-unit>
+      <trans-unit id="904" resname="b45456ad7af898e8c0b12a84a4bb7186">
+        <source>Being able to organize mapping efforts is a huge opportunity for fast and coordinated data collection. In order to be successful you must be able to motivate a community of mappers.</source>
+        <target>素早く協力してデータ収集を行うには、マッピング活動をオーガナイズすることが非常に重要となります。作業を成功させるためには、マッパーたちによるコミュニティのモチベーションを高めなくてはなりません。</target>
+      </trans-unit>
+      <trans-unit id="905" resname="ff093537a2e0a6ab9ebd09e1cae54749">
+        <source>You can use the Tasking Manager to set up your own projects. Be sure to be responsible by making sure your skill level matches your ambition. It is good to reach out to the administrators of the Tasking Manager and learn more about what is needed to obtain the permissions to create and manage projects.</source>
+        <target>Tasking Managerにあなた自身がプロジェクトを立ち上げることも可能です。ただ、プロジェクトの立ち上げにはそれに伴う責任が発生しますので、自身のスキルレベルがそれに見合うものであるかどうか、留意するようにしてください。立ち上げの際には、Tasking Managerの管理者に連絡をとり、プロジェクトの作成と管理の権限についてより詳しい情報を得てください。</target>
+      </trans-unit>
+      <trans-unit id="906" resname="e2f2f427529390eac56784822a18d593">
+        <source>Become part of a community or organization</source>
+        <target>コミュニティや組織への参加</target>
+      </trans-unit>
+      <trans-unit id="907" resname="a65bd46550244e53fc7461c56b92bc55">
+        <source>The Tasking Manager allows you to create projects as part of a community or organization. Either get in touch with one you know, or request the admins to add your group to the Tasking Manager.</source>
+        <target>Tasking Managerには、コミュニティや組織の一員としてプロジェクトを立ち上げる機能があります。知己のコミュニティや組織に声をかけるか、あるいはTasking Managerにあなたのグループを追加するよう管理者にリクエストしてみてください。</target>
+      </trans-unit>
+      <trans-unit id="908" resname="4db9bbd489ce9eca599ca4c4a3e724b3">
+        <source>Create a project and be loud about it</source>
+        <target>プロジェクトの作成と宣言</target>
+      </trans-unit>
+      <trans-unit id="909" resname="d1a681e2ec43407362ba24bea2643508">
+        <source>Get people on board to map for your project. We suggest monitoring the mapping on your projects. Make sure to get them properly mapped and completed.</source>
+        <target>プロジェクトを作成したら、たくさんの人に参加してもらい、マッピングを進めましょう。作成したプロジェクトの状況確認を定期的に行ってください。マッピングが正しく行われ、完了に向けて進んでいるか確認しましょう。</target>
+      </trans-unit>
+      <trans-unit id="910" resname="8408b13a05af4dfb812337aa63ae4f00">
+        <source>Use the data</source>
+        <target>データを利用する</target>
+      </trans-unit>
+      <trans-unit id="911" resname="32d5e5124667fcfb331db551d8b71854">
+        <source>Download the data and use it for your initial purpose. The {exportToolLink} and the {overpassLink} are excellent to pick the information you need.</source>
+        <target>データをダウンロードし、当初の目的に使ってみましょう。 {exportToolLink} と {overpassLink} には、そのために使えるツールが揃っています。</target>
+      </trans-unit>
+      <trans-unit id="912" resname="2b28fc692ce9b06c193c21af4252c7b6">
+        <source>Quickstart guide</source>
+        <target>クイックスタートガイド</target>
+      </trans-unit>
+      <trans-unit id="913" resname="e8c51a43e2bfd617b19d4730f769564c">
+        <source>These step-by-step instructions help you to get started mapping with the Tasking Manager on OpenStreetMap.</source>
+        <target>ステップバイステップ形式の解説で、Tasking Managerを使ってOpenStreetMapを編集する方法について解説されています。</target>
+      </trans-unit>
+      <trans-unit id="914" resname="9943ee69cb60a9ca475d735747f94fcf">
+        <source>Click on the {signUp} button in the upper right corner of the {tmHomepage} homepage.</source>
+        <target>{tmHomepage} の右上に表示されている {signUp} ボタンをクリックしてください。</target>
+      </trans-unit>
+      <trans-unit id="915" resname="7e7ca7c6cf10afb695b74016a1be4430">
+        <source>Do you have an OpenStreetMap account already? You can skip ahead to step 4.</source>
+        <target>OpenStreetMapのアカウントはお持ちですか？ もし持っている場合、ステップ4までスキップしてください。</target>
+      </trans-unit>
+      <trans-unit id="916" resname="2223ae2f3713c55456d6ba4102c431e6">
+        <source>Provide your name and email address. We will use this information to guide you through the sign-up process.</source>
+        <target>あなたの名前とメールアドレスを入力してください。入力した情報は、サインアップ処理のガイドを表示させる際に利用されます。</target>
+      </trans-unit>
+      <trans-unit id="917" resname="155a9abeb1832497b87e1d14d7065907">
+        <source>A new tab will open allowing you to register on OpenStreetMap.org. Provide your account information and press the {signUp} button at the bottom of the form.</source>
+        <target>新しくタブが開き、OpenStreetMap.orgでの登録を許可するかどうか確認が行われます。あなたのアカウント情報を入力し、フォームの一番下に表示されている {signUp} ボタンを押してください。</target>
+      </trans-unit>
+      <trans-unit id="918" resname="293cf58c153edad0d73c07c57f304c7f">
+        <source>Close the tab and go back to the {tmHomepage}. Click the button to {logIn}.</source>
+        <target>タブを閉じ、 {tmHomepage} を再度表示させてください。 {logIn} ボタンを押します。</target>
+      </trans-unit>
+      <trans-unit id="919" resname="a6943b0df0ee9f39b334ce15839b7f4b">
+        <source>Select {exploreProjects} in the main navigation to find a project to help map. Or use the link provided by your mapathon instructor.</source>
+        <target>メニュー一覧に表示されている {exploreProjects} を選択し、作業を行うプロジェクトを選んでください。マッパソンに参加している場合、インストラクターからURLリンクが共有される場合もあります。</target>
+      </trans-unit>
+      <trans-unit id="920" resname="3d1d2fd5a3d4bb58235767f7b57de139">
+        <source>Read the introduction to the project and click on {contribute} to begin with a mapping task.</source>
+        <target>プロジェクトの解説を読み、 {contribute} をクリックしてタスクのマッピングを開始します。</target>
+      </trans-unit>
+      <trans-unit id="921" resname="45f3afe5bac0015f3c0571fc62905362">
+        <source>Map a randomly selected task for mapping by clicking on the button {mapATask}.</source>
+        <target>下の方に表示されている {mapATask} をクリックすると、ランダムに選択されたタスクのマッピングが開始されます。</target>
+      </trans-unit>
+      <trans-unit id="922" resname="c7fe5181f903b8ea34dd5908e2c3941d">
+        <source>Alternatively, you can also select one from the  map or the task and choose “Map selected task”.</source>
+        <target>あるいは、地図上から対象の区域を選択するか、“選択したタスクをマッピング” を選択してタスクを選択します。</target>
+      </trans-unit>
+      <trans-unit id="923" resname="b8639c0080046a77cd426f96c034f3e7">
+        <source>This opens the editor; map all the features asked for in the instructions.</source>
+        <target>この操作によって、エディタが起動します。解説で指示された地物をすべてマッピングしてください。</target>
+      </trans-unit>
+      <trans-unit id="924" resname="afd6087ea8a38b5d9c919395bae0657a">
+        <source>For more information on mapping in OpenStreetMap please have a look at our tutorials on the {learnPage}.</source>
+        <target>OpenStreetMapでのマッピングについてわからないことがあれば、  {learnPage} のチュートリアルを読んでみてください。</target>
+      </trans-unit>
+      <trans-unit id="925" resname="92802ed85c7d3af58f087ae4760edc5e">
+        <source>When finished mapping, save your edits and select the button {submitTask}.</source>
+        <target>マッピングが終わったら編集内容を保存し、 {submitTask} ボタンを選択します。</target>
+      </trans-unit>
+      <trans-unit id="926" resname="71b2753d5585b8ca8d8ac4ba8aaa1642">
+        <source>After this, you can go back to step 7 and select a new task for mapping. Thank you for your contribution to OpenStreetMap!</source>
+        <target>操作が終わったら、ステップ7に戻り、新しいタスクを選択してマッピングを続けてください。OpenStreetMapに参加いただき、ありがとうございます！</target>
+      </trans-unit>
+      <trans-unit id="927" resname="9e252281e1de9fcc9a04bacefb2da9b9">
+        <source>Contact Us</source>
+        <target>連絡先</target>
+      </trans-unit>
+      <trans-unit id="928" resname="f72e37851c812115ddebf0c588c58380">
+        <source>Thank You!</source>
+        <target>ありがとうございます！</target>
+      </trans-unit>
+      <trans-unit id="929" resname="8d991f57e8935251bad8c9371845e423">
+        <source>One moment, there was a problem sending your message.</source>
+        <target>メッセージ送信の際に問題が発生しました。少々お待ちください。</target>
+      </trans-unit>
+      <trans-unit id="930" resname="ddae068565a96552f0290749c4f7f63e">
+        <source>You'll be hearing from us soon!</source>
+        <target>すぐにご連絡します、お楽しみに！</target>
+      </trans-unit>
+      <trans-unit id="931" resname="d51f9b4160c44688b37e9dedf591fc8b">
+        <source>Proceed</source>
+        <target>進める</target>
+      </trans-unit>
+      <trans-unit id="932" resname="0cb16922d17d836903495d9a1343d795">
+        <source>The purpose of the Tasking Manager is to divide a large mapping project into smaller tasks that can be completed rapidly and collaboratively, with many people contributing to a collective project goal. The tool shows what needs to be mapped, which areas need to be reviewed and validated for quality assurance and which areas are completed.</source>
+        <target>Tasking Managerの目的は、大きな地域のマッピングプロジェクトを小さな区域のタスクに分割することによって、多くの人々が参加する状況下においても作業をすばやく協調して行い、プロジェクトの目的を達成できるようにすることです。ツール上ではマッピングされるべき対象が明確化され、品質維持のためのレビューや検証が必要な区域や作業が完了した区域が明瞭に示されるようになっています。</target>
+      </trans-unit>
+      <trans-unit id="933" resname="95ac98c089a78fb0add207c3b2f75f0d">
+        <source>This approach allows the distribution of tasks to many individual mappers. It also allows monitoring of project progress and helps to improve the consistency of the mapping (e.g. elements to cover, specific tags to use, etc.)</source>
+        <target>この方法を利用することで、多くの個人マッパーに対してタスクを割り当てることができます。また、プロジェクトの進捗状況を監視し、マッピングの完成度 (例: マッピングするべき要素の完成率、特定タグの利用など) を高めることもできるようになります。</target>
+      </trans-unit>
+      <trans-unit id="934" resname="e1b9d01675636b37aefb636b21b6d888">
+        <source>All work is done through {osmLink}. OpenStreetMap is the community-driven free and editable map of the world, supported by the not-for-profit OpenStreetMap Foundation.</source>
+        <target>すべての作業は {osmLink} を通じて行われます。OpenStreetMapはコミュニティによって運営される自由で編集可能な世界地図であり、非営利組織OpenStreetMap Foundationによって支援されています。</target>
+      </trans-unit>
+      <trans-unit id="935" resname="3f2cfaf34ce9b4f79de4acbef842e73d">
+        <source>Read more on the {osmWikiLink} or join the discussion with your local OSM community.</source>
+        <target>より詳しい情報を知るためには、 {osmWikiLink} を参照したり、地域のOSMコミュニティに参加したりしてみてください。</target>
+      </trans-unit>
+      <trans-unit id="936" resname="dcd7b2a05c857b2b19b80334106d5417">
+        <source>Free and Open Source Software</source>
+        <target>Free and Open Source Software</target>
+      </trans-unit>
+      <trans-unit id="937" resname="0bb23b576a0a65fd8ea596ed1e3ef49d">
+        <source>The Tasking Manager is Free and Open Source software developed by the {hotLink}. The application’s code can be accessed through {code}, where you can report issues and make contributions.</source>
+        <target>Tasking Managerはフリーかつオープンソースのソフトウェアであり、 {hotLink} によって開発されています。アプリケーションのソースコードは {code} で公開されており、課題の報告や活動の参加はそちらから行うことができます。</target>
+      </trans-unit>
+      <trans-unit id="938" resname="ea62e0cf8fbc43849f4f7bb06e36b509">
+        <source>Edit project</source>
+        <target>プロジェクト編集</target>
+      </trans-unit>
+      <trans-unit id="939" resname="1b15d879f16a4497eba917903bdcedb5">
+        <source>Save</source>
+        <target>保存</target>
+      </trans-unit>
+      <trans-unit id="940" resname="38c26c7121b736abd274b08fb8b13e1f">
+        <source>Access project</source>
+      </trans-unit>
+      <trans-unit id="941" resname="b9902705a45c1eabc47ba9486303fc7a">
+        <source>Project page</source>
+      </trans-unit>
+      <trans-unit id="942" resname="d3067728c0660c1f5e224f72a511d100">
+        <source>Task selection page</source>
+      </trans-unit>
+      <trans-unit id="943" resname="606b6b5ee6209f626647754c8aa4b578">
+        <source>Project statistics</source>
+      </trans-unit>
+      <trans-unit id="944" resname="d7b60188f4dbdc71cd16fd3d2e8d265e">
+        <source>Project updated successfully.</source>
+        <target>プロジェクトが正常に更新されました。</target>
+      </trans-unit>
+      <trans-unit id="945" resname="9a5fd948c11f323e2f505ff73e068e89">
+        <source>Saving the project failed because of a Server Error. Please try again later or contact the administrator if problem persists.</source>
+        <target>サーバエラーのため、プロジェクトの保存に失敗しました。時間をおいてもう一度試していただくか、問題が継続するようであれば管理者までご連絡ください。</target>
+      </trans-unit>
+      <trans-unit id="946" resname="44a9f9fb9ed5663d0d771e2fc16d4030">
+        <source>Saving the project failed because you need to provide information for these required fields:</source>
+        <target>プロジェクトを保存するには、必要項目を入力してください。</target>
+      </trans-unit>
+      <trans-unit id="947" resname="204c683b52080cb27090d579d2141c7e">
+        <source>Saving the project failed because you need to provide information for these fields in your default language ({locale}):</source>
+        <target>プロジェクトを保存するには、標準の言語（ {locale} ）の必要項目を入力してください。</target>
+      </trans-unit>
+      <trans-unit id="948" resname="17b5275758efd86da21b49b1a6d01434">
+        <source>Description</source>
+        <target>解説</target>
+      </trans-unit>
+      <trans-unit id="949" resname="d85f568a584388266626f21323e10e42">
+        <source>Instructions</source>
+        <target>マッピング方法解説</target>
+      </trans-unit>
+      <trans-unit id="950" resname="21d9497aa20ff02c7d54f3b4bf477031">
+        <source>Metadata</source>
+        <target>メタデータ</target>
+      </trans-unit>
+      <trans-unit id="951" resname="3ae90873e054da46d5d200e3c9e94a1a">
+        <source>Priority areas</source>
+        <target>優先エリア</target>
+      </trans-unit>
+      <trans-unit id="952" resname="4eff4b2ae86f52b9695b43fabc694a7a">
+        <source>Imagery</source>
+        <target>航空写真</target>
+      </trans-unit>
+      <trans-unit id="953" resname="3456664a020f374b0138f491153290e7">
+        <source>Permissions</source>
+        <target>アクセス権</target>
+      </trans-unit>
+      <trans-unit id="954" resname="4efa1437fd49259099f9598cf395ef94">
+        <source>Settings</source>
+        <target>設定</target>
+      </trans-unit>
+      <trans-unit id="955" resname="5831e254cacf4a282f7b917a7c2c4dc8">
+        <source>Actions</source>
+        <target>アクション</target>
+      </trans-unit>
+      <trans-unit id="956" resname="82550c04e396ffb4ded03de524d5a98e">
+        <source>Custom Editor</source>
+        <target>カスタムエディタ</target>
+      </trans-unit>
+      <trans-unit id="957" resname="88966dd1036f743880a4538bb4516fd9">
+        <source>A campaign with the same name already exists</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
