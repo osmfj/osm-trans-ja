@@ -67,3 +67,14 @@ OSM Wiki
 
 * プロジェクトURL: https://wiki.openstreetmap.org/
 
+Simple task manager
+---
+
+* https://github.com/hauke96/simple-task-manager
+
+Tasking manager
+---
+
+* プロジェクトURL: https://github.com/hotosm/tasking-manager/
+* 翻訳への参加方法: https://github.com/hotosm/tasking-manager/blob/develop/docs/contributing-translation.md
+* 翻訳プロジェクト: https://www.transifex.com/hotosm/tasking-manager/dashboard/
