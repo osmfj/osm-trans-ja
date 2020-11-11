@@ -26,3 +26,5 @@ standard parallels	標準緯線
 mappaint style	地図描画スタイル
 feature	地物
 Overpass	Overpass
+Basic Authentication	ベーシック認証
+Proxy	プロキシ
