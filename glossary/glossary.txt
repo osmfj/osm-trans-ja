@@ -28,3 +28,4 @@ feature	地物
 Overpass	Overpass
 Basic Authentication	ベーシック認証
 Proxy	プロキシ
+dirty object	変更されたオブジェクト	Merkaator
