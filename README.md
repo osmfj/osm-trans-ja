@@ -22,15 +22,21 @@ Pull Requestには対応しませんので、ご注意ください。
 リポジトリの利用方法
 ---
 
-OmegaTには、チーム翻訳機能があります。OmegaT の最新版（バージョン3.6以降）をインストールしてください。
+
+OmegaTには、チーム翻訳機能があります。OSM翻訳プロジェクトでは最新機能をつかっていますので、OmegaT の最新版（バージョン5.3以降）をインストールしてください。
 
 OmegaTのメニューで、「プロジェクト（P)」ー「チームプロジェクトをダウンロード」を選択しリポジトリURLに```https://github.com/osmfj/osm-trans-ja.git``` を入力してください。
 
 
-　もし、チーム参加はされない場合は、チームのダウンロードの代わりに、上記プロジェクトからZipファイルでダウンロードをして、そのフォルダをベースとして開始されるといいでしょう。（https://github.com/osmfj/osm-trans-ja/archive/master.zip)
+　もし、チーム参加を希望されない場合は、チームのダウンロードの代わりに、上記プロジェクトからZipファイルでダウンロードをして、そのフォルダをベースとして開始されるといいでしょう。（https://github.com/osmfj/osm-trans-ja/archive/master.zip)
+ 
+  その場合でも、過去の翻訳成果を活用して効率よく翻訳作業をおこなうことができます。しかしながら、全体の統一感を出していく、用語を統一するなどに参加してもらうことで、他の方の作業に貢献できるので、チームへの参加を強く推奨します。
 
-Wikiの原文ダウンロードは、OmegaTの「ファイル」ー「MediaWikiから原文ファイルを追加(W)」を選択し、OSM WikiのURLを入力してください。
-JOSMのメッセージ翻訳では、 https://translations.launchpad.net/josm/trunk/+pots/josm/ja/+details から、ソースとなるPOファイルをエキスポートして、sources ディレクトリへ保存してください。
+翻訳対象となる原文については、ダウロードされるプロジェクトのsource ディレクトリへ追加されています。Wikiについては、全部ではありませんので、自分が翻訳したい原文は自分自身で追加してください。
+
+ Wikiの原文ダウンロードは、OmegaTの「ファイル」ー「MediaWikiから原文ファイルを追加(W)」を選択し、OSM WikiのURLを入力してください。
+
+
 
 OmegaTの利用方法
 ===
@@ -91,3 +97,6 @@ Tasking manager
 * プロジェクトURL: https://github.com/hotosm/tasking-manager/
 * 翻訳への参加方法: https://github.com/hotosm/tasking-manager/blob/develop/docs/contributing-translation.md
 * 翻訳プロジェクト: https://www.transifex.com/hotosm/tasking-manager/dashboard/
+
+
+###### tags: `翻訳`, `OpenStreetMap`, `Wiki`, `翻訳`, `コミュニティ`
