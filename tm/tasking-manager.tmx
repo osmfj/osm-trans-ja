@@ -2,5 +2,6919 @@
 <!DOCTYPE tmx SYSTEM "tmx14.dtd">
 <tmx version="1.4">
   <header creationtool="Translate Toolkit" creationtoolversion="2.5.0" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
-  <body/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>About the information we collect</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>収集している情報について</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>I do not agree</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>承認しない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>I agree</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>承認する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>privacy policy</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プライバシーポリシー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We use cookies and similar technologies to recognize and analyze your visits, and measure traffic usage and activity. You can learn about how we use the data about your visit or information you provide reading our {link}. By clicking "I Agree", you consent to the use of cookies.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>本ウェブサイトでは、あなたの閲覧状況やトラフィックの利用状況等を計測するため、cookieあるいは類似の技術を利用しています。私達が利用するデータの利用法や用途についてはこちら {link} を御覧ください。"承認する/I Agree" をクリックすることで、cookieの利用に同意したとみなされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The image upload failed.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>画像のアップロードに失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>My Tasks</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>自分のタスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Contribution</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>協力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>すべて</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mapped</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピング済</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Validated</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>検証済み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>More mapping needed</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>追加のマッピングが必要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Archived projects</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>アーカイブ済みプロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Search by project id</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクトIDで検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Projects</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tasks</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Clear filters</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>フィルタを解除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Error while loading the tasks</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスクのロード中にエラーが発生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Showing {number} of {total}</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>全 {total} 中、{number} を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Last updated {time}</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>最終更新 {time}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>View All</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>すべてを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No Contributed Items</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>未参加状態</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Resume task</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスクの再開</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Locked by {lockholder}</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>{lockholder} によりロック中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>unlock {time}</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>アンロック {time}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Task #{task} · Project #{project}</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスク #{task} · プロジェクト #{project}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Retry</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>再実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Processing</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>処理中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{type} deleted successfully.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>{type} が正常に削除されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An error occurred when trying to delete this project.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このプロジェクトの削除中にエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An error occurred when trying to delete this organization.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>組織情報の削除中にエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An error occurred when trying to delete this interest.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このインタレストの削除中にエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An error occurred when trying to delete this license.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ライセンスの削除中にエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An error occurred when trying to delete this campaign.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このキャンペーンの削除中にエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An error occurred when trying to delete this notification.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>この通知の削除中にエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An error occurred when trying to delete this team.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このチームの削除中にエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>キャンセル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Are you sure you want to delete this project?</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このプロジェクトを削除しますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Are you sure you want to delete this organization?</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>組織情報を削除してよいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Are you sure you want to delete this license?</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このライセンスを削除してよろしいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Are you sure you want to delete this category?</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このカテゴリを削除しますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Are you sure you want to delete this campaign?</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このキャンペーンを削除しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Are you sure you want to delete this notification?</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>この通知を削除しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Are you sure you want to delete this team?</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このチームを削除しますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Explore projects</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Learn</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>解説</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>About</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>概要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>My contributions</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>協力履歴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Manage</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Log in</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ログイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sign up</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>登録</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Log in</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ログイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Have you finished the registration on OpenStreetMap?</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OpenStreetMapへの登録は済んでいますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Start mapping now! Just login to the Tasking Manager with your new OpenStreetMap account.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピングをはじめましょう！ あなたのOpenStreetMapアカウントでTasking Managerにログインしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Do you still need an OpenStreetMap account?</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OpenStreetMapアカウントが必要ですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sign up</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>登録</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Email</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Eメール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Name</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Do you have an OpenStreetMap account?</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OpenStreetMapのアカウントを持っていますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Tasking Manager works with OpenStreetMap, a collaborative, open-source map of the world. Everything you map on the Tasking Manager is going to be available on OpenStreetMap.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Tasking Managerは、誰でも参加可能なオープンソースの世界地図 OpenStreetMapと連動しています。Tasking Managerでマッピングした内容は、OpenStreetMapを通じて利用することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>First, you'll need an account on OpenStreetMap.org in order to get started.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>まずはOpenStreetMapのアカウントを取得しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>I already have an OpenStreetMap account</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OpenStreetMapアカウントを所持しています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Your email address</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Emailアドレス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Invalid email address</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>無効なEmailアドレス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Invalid name</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>無効な名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Your Name</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mapping our world together</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Mapping our world together</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Settings</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>My teams</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>自分のチーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Logout</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ログアウト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Email</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Eメール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Next</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>次</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create OpenStreetMap account</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OpenStreetMapアカウントを作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Please provide your name and email address:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>あなたの名前とEmailアドレスを入力してください: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Update</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Email updated successfully</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Eメールが正常に更新されました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Update your email</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>メールの更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Before you begin mapping, please add your email address.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピングを開始する前に、メールアドレスを追加してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We are mapping together! Providing your email address is necessary for mapping feedback and direct messages to reach you.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピングは一人ではなく、みんなで行うものです！ あなたにフィードバックやダイレクトメッセージを届けるため、メールアドレスの登録が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Read our Privacy Policy for more information on how we protect users' personal data.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクトに参加しているユーザの個人情報取り扱いに関しては、プライバシーポリシーに詳細が記載されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Map for people in need</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>地図を届けよう 必要とする人へ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Join a global community putting the world's most vulnerable people and places on the map to support humanitarian aid and sustainable development.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>人道支援に携わる人々や持続的な開発を支援するため、世界に広がるコミュニティとともに、地図を必要とする地域をマッピングしましょう</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We can't do it without you</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>あなたの協力が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Anyone can contribute to the map. If you have never mapped before and would like to get started, visit our {link} page.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピングには誰でも参加できます。これからマッピングを始めてみたいかたは{link}ページをご覧ください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Are you an experienced mapper? Click below to see what projects are available for mapping.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピング経験豊富なみなさんは、以下をクリックしてプロジェクトを探してみてください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Featured Projects</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>注目のプロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>How it works</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>動作の仕組み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Start mapping</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピング開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Join the community</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>コミュニティに参加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Buildings Mapped</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピングされた建物数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mapped Roads (Km)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マップ済み道路総延長 (km)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Total Map Edits</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マップ編集総計</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Total Mappers</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>参加マッパー数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mappers Online</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>オンラインのマッパー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Each year, disasters around the world kill nearly {number} and affect or displace 200 million people. Mapping can help change this.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>災害によって毎年約{number}人が命を落とし、2億人が被災や避難を強いられています。この状況を変える手段のひとつが、マッピングです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Organizations use Tasking Manager to create mapping projects for areas around the world where they urgently need data to save or improve lives.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Tasking Managerで作成されるマッピングプロジェクトは、緊急度の高い救命活動を遂行し、その手法を改善するために地域のデータを必要とする組織や団体が作成しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mapping</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Validation</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>検証</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using the data</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>データの使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Volunteers use satellite imagery from OpenStreetMap to trace buildings, roadways, and other features.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ボランティアはOpenStreetMapの衛星画像を使用して、建物、道路、その他の地物をトレースします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Experienced volunteers check the map data to ensure it is high quality.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>経験豊富なボランティアが地図データをチェックし、品質が確かであることを確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Humanitarian organizations use the map data to plan for disaster response and other life saving activities.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>人道支援団体は地図データを使用して、災害対応やその他の救命活動を計画します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Who uses the maps?</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>地図を使う団体と人々</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Trusted global organizations use Tasking Manager to get the map data they need to reach those in need.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>必要となるデータを探し、世界規模の組織もTasking Managerを利用しています。
+信頼できるグローバル組織は、TaskManager を使用して、必要としているユーザーに到達するために必要な地図データを作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Does your organization want to work with us?</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>組織としての参加をご希望のかたはこちらから</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Contact us</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>連絡先</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Error loading the {xWord}</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>{xWord} の読み込み失敗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Send us a message</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>メッセージをお送りください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Name</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Email</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Eメール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Message</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>メッセージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Want to discuss working with us? Or, have a question or feedback that you would like to share? Fill out the form below to contact our team.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>一緒に手を動かしませんか？ 質問やフィードバックがあるようでしたら、以下のフォームからチームへ連絡できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Send</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>送信</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can make a difference</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>あなたの手で世界に変化を</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the early days of the Cyclone Idai response, IFRC was looking for detailed maps to get a sense of the scale of the flooding, which were also used for search and rescue operations. Later on, we had requests to identify where certain buildings, such as health centres or hospitals, were located so our health team could assess the damage and medical needs of patients.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>IFRCはサイクロン・アイダイ（Cyclone Idai）に対応するにあたり、洪水の浸水域を把握し、被災者の探索と救助を行うために必要な地図を探し求めていました。病院など医療施設として利用されている建物の特定作業という依頼を受けた私達は、チームでその作業に対応することにより、被災状況のアセスメントや医療ニーズの把握に成功しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Remote Coordinator for the IFRC Information Management Team for Cyclone Idai</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>サイクロン・アイダイに対応するIFRC情報管理チームへの、遠隔からの協力作業</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Language</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>言語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select organization</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>組織を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Country</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>国名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tasking Manager is a platform where individuals can team up for mapping in OpenStreetMap</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Tasking Managerは、OpenStreetMapをマッピングする個人をチームとしてまとめあげるプラットフォームです</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Free and Open Source Software brought to you by the Humanitarian OpenStreetMap Team.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>フリーでオープンな本ソフトウェアは、Humanitarian OpenStreetMapの提供でお届けします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Learn more about OpenStreetMap.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OpenStreetMapについて</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Privacy Policy</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プライバシーポリシー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All levels</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>すべてのレベル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Advanced mapper</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>上級マッパー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Intermediate mapper</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>中級マッパー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Beginner mapper</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>初心者マッパー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Roads</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>道路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Buildings</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>建物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Land use</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>土地利用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Waterways</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>河川・水路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Other</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>その他</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Notifications</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>通知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>すべて</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Messages</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>メッセージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Message</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>メッセージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tasks</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Teams</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>チーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Projects</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Clear filters</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>フィルタを解除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mark as read</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>既読にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Error loading the {xWord} for {yWord}</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Error loading the {xWord} for {yWord}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Error loading the {xWord}</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>{xWord} の読み込み失敗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Showing {number} of {total}</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>全 {total} 中、{number} を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>View all</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>すべてを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to notifications</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>通知表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No unread messages</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>未読メッセージはありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You don't have any messages.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>メッセージはありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sort by</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>並び替え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>New projects first</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>新しいプロジェクト順</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Old projects first</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>古いプロジェクト順</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Read notifications first</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>既読通知順</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>New notifications first</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>新規通知順</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Old notifications first</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>過去通知順</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Try Again</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>再度実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Refresh</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>System</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>システム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Broadcast</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ブロードキャスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mention</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>メンション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Validation</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>検証</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Invalidation</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>差し戻し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Request team</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>チームへの参加リクエスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Invitation</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>招待</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Task comment</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスクコメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Project chat</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクトチャット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Project activity</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクト活動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{number} total contributors</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>協力者の合計 {number} 人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Last contribution</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>以前の参加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Urgent</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>緊急</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>High</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>高</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Medium</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Low</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>低</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Urgent priority</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>緊急優先度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>High priority</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>優先度高</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Medium priority</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>通常優先度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Low priority</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>低優先度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{daysLeftHumanize} left</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>残り {daysLeftHumanize}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Project Page</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクトページ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tasks</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create project</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクト作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The new project will be a clone of the project #{id} ({name}).</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>新規プロジェクトは #{id} ({name}) のクローンです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Clone</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>複製</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Area size: {area} km{sq}</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>エリア面積：{area} km {sq}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Number of tasks: {n}</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスク数:{n}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Step 1: define area</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ステップ1: エリアを指定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Step 2: set tasks sizes</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ステップ 2: タスクのサイズを指定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Step 3: trim task grid</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ステップ3：タスクグリッドの範囲を調整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Step 4: review</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ステップ 4: レビュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Name</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It was not possible to save your project due to an error: {error}</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>以下のエラーが発生したため、プロジェクト保存に失敗しました: {error}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Your project will be created with {n} tasks.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクトは {n} 個のタスクで作成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>task</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>tasks</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Trim the task grid to the area of interest (optional).</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスクグリッドをトリムして Area of interestを作成 (オプション)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can keep the current tasks or trim the area for your project. This can take some time to execute.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>現在のタスクを続行するか、プロジェクト対象地域の切り取りを行うことができます。切り取り処理には少し時間がかかります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Trim the tasks to define the exact Area of Interest for mapping.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスクを切り取って、マッピング対象のArea of Interestを指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>General task size</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>通常のタスクのサイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Smaller</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>縮小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Larger</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>拡大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It was not possible to read the geometries on the file. Verify it and upload again.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このファイルのジオメトリを読み込むことができませんでした。確認して再度アップロードしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Unsupported geometry type {geometry}</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>未対応のジオメトリタイプ {geometry}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>type field is not FeatureCollection</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タイプフィールドが FeatureCollection ではありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Points do not form a closed linestring</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ポイントが、閉じたラインストリングを構成していません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We only accept files up to {fileSize} MB. Please reduce the size of your file and try again.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>アップロードできるファイルの大きさは {fileSize} MBまでです。ファイルのサイズを縮小して、再度アップロードを実行してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Make tasks smaller by clicking on specific tasks or drawing an area on the map.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>特定のタスクをクリックするか、マップ上の領域を描画して、タスクを小さくします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reset</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>リセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A new project will be created with {n} tasks.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>新しいプロジェクトが {n} 個のタスクで作成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The size of each task is approximately {area} km{sq}.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>各タスクのサイズは約 {area} km {sq} です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Draw area to split</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>分割するエリアを描画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click to split</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>クリックして分割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Error when importing geometry. Verify if the file you uploaded is correct.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ジオメトリのインポート中にエラーが発生しました。 アップロードしたファイルが正しいかどうか確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Back to previous</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>前に戻る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Next</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>次</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Trim</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>トリム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Draw</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>描く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This project doesn't have any teams associated with.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクトへのチーム割当はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Coordination</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>コーディネート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This project is coordinated by {organisation} and was created by {user}.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このプロジェクトは {user} が作成し、 {organisation} がコーディネートしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Project created by {user}.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクト作成者 {user}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{number} total contributors</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>協力者の合計 {number} 人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Last contribution</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>以前の参加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mapped</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピング済</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Validated</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>検証済み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Urgent</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>緊急</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>High</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>高</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Medium</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Low</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>低</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{daysLeftHumanize} left</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>残り {daysLeftHumanize}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Types of Mapping</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピング対象</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit project</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクト編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Editor</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>エディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select editor</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>エディタの選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tasks</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Instructions</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピング方法解説</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Imagery</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>航空写真</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Custom TMS Layer</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>カスタム TMS レイヤ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Custom WMS Layer</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>カスタム WMS レイヤ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Custom WMTS Layer</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>カスタム WMTS レイヤ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Contribute</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>協力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Read more</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>続きを読む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Read less</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>続きを非表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add to Favorites</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>お気に入りに追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Remove from Favorites</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>お気に入りから削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>There are currently no questions or comments on this project. Be the first to post one!</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>現在、このプロジェクトに関する質問やコメントはありません。 最初の投稿をしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Post</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>投稿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Share</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>共有</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Team</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>チーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Validation team</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>検証チーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Teams &amp; Permissions</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>チームと権限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Author</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>著者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Who can map?</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>誰がマッピングできますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Who can validate?</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>誰が検証できますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Zoom to tasks</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスクにズーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>1. Select a task</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>1. タスクの選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2. Map with OpenStreetMap</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>2. OpenStreetMapでマッピング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>3. Submit your work</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>3. 作業を完了する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Projects are divided into sets of smaller tasks and adapted to fit your skill level.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクトは、より小さなタスクに分割され、あなたのスキルレベルに合わせて適応されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you are new to mapping, we recommend checking the Learn page for instructions before you begin.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピングを初めて行う場合は、開始する前に学習ページで手順を確認することをお勧めします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Submitting your work is crucial to make sure your data is saved.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>データを保存するには、作業内容を登録することが必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Overview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>概要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Description</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>解説</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Questions and comments</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>質問とコメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Contributions</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>協力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Contributions timeline</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピング結果のタイムライン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Changesets in OSMCha</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSMChaで変更セットを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Contributors</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>参加者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Related projects</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>関連プロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A timeline is going to be available after the first task has been mapped.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タイムラインを表示するには、1つ以上のタスクをマップする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Draft</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>下書き</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Archived</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>アーカイブ済み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Published</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>公開中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All users</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>すべてのユーザ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Users with intermediate or advanced level</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>中級または上級レベルのユーザー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{team} members</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>{team} のメンバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Intermediate and advanced {team} members</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>中級および上級の {team} メンバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Download AOI</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>AOIをダウンロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Post on Facebook</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>フェイスブックで投稿する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Privacy</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プライバシー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Private means that only the users that are project team members can access, map or validate this project. This option overrides the mapping and validation permissions.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プライベート状態のプロジェクトには、特定のチームメンバーだけがアクセスし、マッピングと確認作業を行うことができます。このオプション設定は、マッピングと確認作業の権限設定よりも優先して適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Teams</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>チーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Organization</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>組織</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Campaign</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>キャンペーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Categories</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>カテゴリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Organization that is coordinating the project, if there is any. The managers of that organization will have administration rights over the project.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このプロジェクトの調整役になっている組織名。必ず設定されているわけではありません。組織の管理者は対象となるプロジェクトの管理権限を有しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select license</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ライセンス選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select organization</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>組織を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select campaigns</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>キャンペーン選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Any user</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>任意のユーザ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Only users with intermediate or advanced level</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>中級レベルまたは上級レベルのユーザーのみ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Only team members</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>チームメンバのみ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Only intermediate and advanced team members</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>中級および上級のチームメンバーのみ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Define which users can map this project.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このプロジェクトをマッピングできるユーザを定義します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Define which users can validate this project.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このプロジェクトを検証できるユーザを定義します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mapping permissions</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピングの許可</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Validation permissions</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>検証の許可</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mapping, validation and invalidation</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピング、検証、差し戻し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use this if for some reason you need to map, validate or invalidate all tasks in this project in a single step.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>もし何らかの理由により、このプロジェクト内の全てのタスクを一度にマッピング、検証済み、あるいは差し戻ししたい場合に利用してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Message all contributors</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>全ての協力者にメッセージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This will send a message to every contributor of the current project. Please use this feature carefully.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>現在プロジェクトに参加しているすべての参加者にメッセージを送付します。この機能は慎重に取り扱ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This message will not be translated to the different languages of the users, so you may want to include your own translations.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このメッセージを複数のユーザの言語に翻訳できません。自身で翻訳作業を行ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Contributors were messaged successfully.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>人の協力者にメッセージを送付しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Failed to message all contributors for an unknown reason.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>なんらかの理由により、すべてのユーザへのメッセージ送付に失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Map all tasks</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>全タスクをマッピング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Are you sure you want to mark all tasks in this project as mapped? You cannot undo this.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このプロジェクトのすべてのタスクをマッピング済みにしますか？ この作業は取り消せません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This will mark all tasks (except 'unavailable' ones) as mapped. Please use this only if you are sure of what you are doing.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>すべてのタスク（「利用できない」タスクを除く）がマッピング済みとしてマークされます。ほんとうに実施してしまって問題がない場合だけ実行してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The tasks were mapped successfully.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスクは正常にマッピングされました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mapping all the tasks failed for an unknown reason.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>なんらかの理由により全てのタスクのマッピングに失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Invalidate all tasks</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>全タスクを差し戻し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Are you sure you want to invalidate all tasks in this project? You cannot undo this.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクト内のすべてのタスクを差し戻しますか？ この作業は取り消せません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This will mark all tasks (except 'unavailable' ones) as 'more mapping needed'. Please use this only if you are sure of what you are doing.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>すべてのタスク（「利用できない」タスクを除く）が「追加のマッピングが必要」とマークされます。 ほんとうに実施してしまって問題がない場合だけ実行してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The tasks were set as 'more mapping needed' successfully.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスクは「追加のマッピングが必要」として設定されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Invalidating all the tasks failed for an unknown reason.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>なんらかの理由により全てのタスクの差し戻しに失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Validate all tasks</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>全タスクを検証</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Are you sure you want to validate all tasks? You cannot undo this.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>すべてのタスクを検証済みにしますか？ この作業は取り消せません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This will change the status of all tasks (except 'unavailable' ones) to 'finished'. Please use this only if you are sure of what you are doing.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>すべてのタスク（ '利用できない' タスクを除く）が 'マッピング済み' 状態となります。ほんとうに実施してしまって問題がない場合だけ実行してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The tasks were validated successfully.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスクは正常に検証されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reset tasks marked as unavailable</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>使用不可としてマークされたタスクをリセットする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Are you sure you want to reset all tasks marked as unavailable in this project? You cannot undo this.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクト内のすべてのタスクを利用不可としてマークしますか？ この作業は取り消せません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This will change the status of those tasks to 'ready for mapping'. Please use this only if you are sure of what you are doing.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>すべてのタスクが '準備完了' 状態となります。ほんとうに実施してしまって問題がない場合だけ実行してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reset all unavailable tasks</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>「使用不可」のタスクをすべてリセットする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The tasks marked as unavailable were reset successfully.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>「使用不可」のマークのタスクをリセットしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Resetting the tasks failed for an unknown reason.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>なんらかの理由によりタスクのリセットに失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reset tasks</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスクのリセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reset all tasks</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>すべてのタスクをリセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reset all tasks in the project to ready to map, preserving history.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクト内のすべてのタスクを準備完了状態に設定します。履歴は保持されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All tasks were reset successfully.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスクのリセットに成功しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Resetting all the tasks failed for an unknown reason.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>なんらかの理由により全てのタスクのリセットに失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Clone project</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>クローンプロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This will copy all descriptions, instructions, metadata etc to a new project. The Area of Interest, tasks and the priority areas will not be copied. You will have to redraw/import these. Your newly cloned project will be in draft status.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>概要や解説文、メタデータ等すべての情報を新しいプロジェクトへコピーします。Area of Interestやタスク、優先エリアはコピーされませんので、再度対象指定したり、矩形をインポートしたりする必要があります。この方法で複製したプロジェクトのステータスは下書き状態になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Transfer project</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクトを転送</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Transfer project ownership</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクト管理権限の移譲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In case of wrong transfer, contact the new owner to revert the change.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>間違って権限移譲を実施してしまった場合、新しい権利保持者に変更を取り消ししてもらうよう依頼してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The project was transfered successfully.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>権限委譲が完了しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The project transfer failed.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>権限委譲に失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete project</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクト削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can only delete projects that has no received contributions.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクトを削除できるのは、参加者が居ない場合のみです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The project was deleted successfully.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクトが正常に削除されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The project deletion failed. If this project has received some contributions, you should archive it instead.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクトの削除に失敗しました。 このプロジェクトに協力者が参加している場合は、代わりにアーカイブしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Task reset</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスクのリセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reset all tasks</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>すべてのタスクをリセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>キャンセル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This cannot be undone.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>やり直しできない作業です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Are you sure you want to reset all tasks? You cannot undo this.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>すべてのタスクをリセットしますか? この操作は取り消せません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Status</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ステータス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Priority</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>優先度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Required license</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>要ライセンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Default language</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>デフォルトの言語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Editors for mapping</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピング用のエディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Editors for validation</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>検証用のエディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Custom editor</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>カスタムエディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enforce random task selection</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ランダムにタスクを選択する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enforce random task selection on mapping</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピングのタスクをランダムに選択する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If checked, users must edit tasks at random for the initial editing stage (managers and admins are exempt).</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>チェックを入れると、ユーザーは最初の編集タスクをランダムで行う必要があります（マネージャと管理者は例外）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Imagery URL</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>航空写真のURL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Follow this format for TMS URLs: {exampleUrl}</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>TMS URLs: {exampleUrl} の書式に従ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Draw polygon</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ポリゴンを描く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Draw rectangle</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>四角形を描く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Clear all</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>選択解除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Name of the project</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクト名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Description</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>解説</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Short description</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>概略</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Detailed instructions</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>詳しい説明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OSMCha filter ID</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSMChaフィルタID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Optional id of a saved OSMCha filter to apply when viewing the project in OSMCha, if you desire custom filtering. Note that this replaces all standard filters. Example: 095e8b31-b3cb-4b36-a106-02826fb6a109 (for convenience, you can also paste an OSMCha URL here that uses a saved filter and the filter id will be extracted for you).</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSMChaのフィルタIDを指定しておくことで、このプロジェクトをOSMChaで表示する際にカスタムフィルタを適用することができます。この設定を行うことで、標準のフィルタ設定がすべて上書きされることに注意してください。例: 095e8b31-b3cb-4b36-a106-02826fb6a109 (OSMChaで保存されているフィルタのURLを入力してもかまいｍせん。システムは自動的にフィルタのIDを抽出し、適用します)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you want mappers to work on the highest priority areas first, draw one or more polygons within the project area.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>もし優先度の高いエリアをマッパーに示したい場合、プロジェクト対象エリアの中に1つ以上のポリゴンを描いてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Types of mapping</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピング対象</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>User role</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ユーザのロール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mapper level</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッパーレベル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Setting the level will help mappers to find suitable projects to work on.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>レベルを設定することで、マッパーが最適なプロジェクトを探す際に役立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Per task instructions</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスク単位での説明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add any information that can be useful to users while mapping a task. "{x}", "{y}" and "{z}" will be replaced by the corresponding parameters for each task. "{x}", "{y}" and "{z}" parameters can only be be used on tasks generated in the Tasking Manager and not on imported tasks.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスクを実行するにあたり、利用者にとって有益な情報を記入してください。"{x}" と "{y}" と "{z}" の値は、それぞれのタスクにおいて適切なパラメータに置換されます。"{x}" と "{y}" と "{z}" の値はTasking Managerで生成されたタスク上のみで有効となり、インポートされたタスク上では有効となりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Example: This task involves loading extra data. Click [here](http://localhost:8111/import?new_layer=true&amp;amp;url=http://www.domain.com/data/{x}/{y}/{z}/routes_2009.osm) to load the data into JOSM.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>例:このタスクでは追加のデータを読み込みます。[here](http://localhost:8111/import?new_layer=true&amp;amp;url=http://www.domain.com/data/{x}/{y}/{z}/routes_2009.osm) をクリックして、データをJOSMに読み込んでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Changeset comment</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>変更セットコメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Example: #hotosm-project-470 #missingmaps Buildings mapping.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>例: #hotosm-project-470 #missingmaps 建物の追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Default comments added to uploaded changeset comment field. Users should also be encouraged to add text describing what they mapped. Hashtags are sometimes used for analysis later, but should be human informative and not overused, #group #event for example.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>アップロードしたチェンジセットに表示されるデフォルトのコメントです。ユーザーは、マッピングした内容を説明するテキストを追加することが推奨されます。ハッシュタグは、後で分析するために使用されることがありますが、人間に有益である必要があり、過度に使用してはいけません。例：#group #event</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Urgent</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>緊急</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>High</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>高</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Medium</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Low</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>低</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Draft</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>下書き</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Archived</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>アーカイブ済み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Published</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>公開中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All roles</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>すべてのロール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mapper</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッパー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Subject *</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>表題 *</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Message *</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>メッセージ *</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All levels</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>すべてのレベル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Advanced</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>上級者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Intermediate</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>中級者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Beginner</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>初心者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Filter teams by organizations</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>組織によってチームを絞り込み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select a team...</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>チームを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select a role...</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ロールの選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Update</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Preview</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プレビュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Name</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Description</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>解説</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>URL</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enabled</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>有効化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete Custom Editor</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>カスタムエディタを除去</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Remove Custom Editor</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>カスタムエディタを削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This will remove the custom editor from the project. Are you sure you don't want to disable the custom editor by toggling the "Enabled" checkbox above?</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクトからカスタムエディタ設定を削除します。カスタムエディタの "有効化" チェックボックスを変更することで、削除を行うことなくエディタの利用可否を変更することが可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Generic project</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>汎用プロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Difficulty level</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>難易度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>More filters</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>その他のフィルタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Campaign</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>キャンペーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Show map</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>地図を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>List view</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>リスト表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Types of mapping</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピング対象</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All campaigns</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>すべてのキャンペーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Show {typeOfTag}</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>{typeOfTag} を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Search project</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクトを検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Organization</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>組織</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All Organizations</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>すべての組織</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Location</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>地域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Locations</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>地域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Error loading the {xWord} for {yWord}</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Error loading the {xWord} for {yWord}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Filters</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>フィルタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Projects</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>My Projects</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>自分のプロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Manage Projects</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクト管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Favorited</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>お気に入り</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Contributed</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>参加済み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>すべて</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Active</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>有効</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Created by me</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>自分で作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Draft</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>下書き</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Archived</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>アーカイブ済み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Showing {number} of {total}</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>全 {total} 中、{number} を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Clear filters</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>フィルタを解除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sort by</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>並び替え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>New projects</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>新規プロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Old projects</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>古いプロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Urgent projects</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>緊急プロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Beginner projects</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>初心者向けプロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Advanced projects</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>上級者向けプロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Active projects</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>アクティブプロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Apply</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>適用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>解除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Retry</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>再実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Contributors</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>参加者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You have some unsaved map changes</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>地図への変更が保存されていません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Save or undo it to be able to split the task</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスクを分割するには、変更を保存するか、変更の取り消しを行ってください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Save or undo it to be able to select another task</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>別のタスクを選択するには、変更の保存か取り消しを行ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Close</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>閉じる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It wasn't possible to lock this task for you...</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このタスクをロックすることができませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Some error occurred when trying to lock this task. Check if your user matches the level, role and permissions required by this project.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスクのロック時にエラーが発生しました。プロジェクトに設定したレベルや役割、権限がユーザと合致しているか、確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This project has a required license.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクトにライセンス要求が設定されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Please accept this license in order to colaborate in this project. </seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクトに参加するには、ライセンスを了承してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Accept</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>承諾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>キャンセル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We found another mapping task already locked by you</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>すでにロックしている別のマッピングタスクが見つかりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is on the Project #{project}. You will need to update the status of that task before you can map another task.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>#{project} のプロジェクトです。 別のタスクをマッピングする前に、このタスクのステータスを更新する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is on the Project #{project}. You will need to update the status of that task before you can map another task.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>#{project} のプロジェクトです。 別のタスクをマッピングする前に、このタスクのステータスを更新する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The task #{taskId} was previously locked by you. You will need to update the status of that task before you can map another task.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスク #{taskId} が先にロックされています。 別のタスクをマッピングする前に、そのタスクのステータスを更新する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Some tasks were previously locked by you on this project. You will need to update the status of those tasks before you can map another task.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このプロジェクトでいくつかのタスクをロックしています。 別のタスクをマッピングする前に、これらのタスクのステータスを更新する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to Project #{project}</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>#{project} のプロジェクトに移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{mapOrValidate} that task</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>{mapOrValidate} タスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{mapOrValidate} those tasks</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>{mapOrValidate} タスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Legend</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>凡例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Types of Mapping</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピングの種類</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Editor</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>エディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select editor</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>エディタの選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Filter tasks by id or username</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>IDやユーザ名でタスクをフィルタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reload editor</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>エディタを再読込</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open editor</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>エディタで開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Show sidebar</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>サイドバー表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hide sidebar</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>サイドバー非表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Task</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tasks</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Task #{id}</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスク #{id}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Instructions</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピング方法解説</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Changeset comment</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>変更セットコメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>contributions</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>協力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Imagery</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>航空写真</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Custom TMS Layer</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>カスタム TMS レイヤ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Custom WMS Layer</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>カスタム WMS レイヤ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Custom WMTS Layer</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>カスタム WMTS レイヤ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Custom Layer</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>カスタムレイヤ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Any available source</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>利用可能なソース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Map a task</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスクのマッピング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Map selected task</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>選択したタスクをマッピング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Map another task</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>他のタスクをマッピング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Validate a task</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスクの検証</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{number, plural, one {Validate selected task} other {Validate # selected tasks}}</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>{number, plural, other {}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Validate another task</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>他のタスクを検証</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select another project</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>他のプロジェクトを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Resume mapping</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピングの再開</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Resume validation</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>検証再開</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Last updated by {user}</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>{user} が最終更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Zoom map to task</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>地図上のタスク部分を拡大する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Copy task link</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスクのリンクをコピーする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Priority areas</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>優先エリア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Available for mapping</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピング可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ready for validation</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>検証準備完了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Locked</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ロック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Locked for mapping</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピング実施中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Locked for validation</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>検証作業実施中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Finished</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>終了しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>More mapping needed</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>追加のマッピングが必要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Unavailable</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>無効</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Split</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>分割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sort by task number</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスク番号で並べ替え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Last updated first</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>最終更新順</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>すべて</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ready for validation</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>検証準備完了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Available for mapping</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピング可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No tasks were found.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスクが見つかりませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Completion</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>完了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>History</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>履歴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Once you have finished mapping</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピングが完了したら、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select one of the options below that matches your edit status</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>編集のステータスに一致するオプションを 1 つ選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Write a comment</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>コメントを書く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Leave a comment (optional)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>コメントを残す (オプション)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Submit your work</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>作業を完了する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>コメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Write a comment on this task</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このタスクにコメントを書く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Task status</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスクの状態</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Request revalidation</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>再検証を依頼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Task status will be changed to "Ready for validation".</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスクのステータスが"検証待ち"状態に変更されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Request mapping</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピング要請</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Task status will be changed to "Available for mapping".</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスクのステータスが"マッピング可能"状態に変更されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Do want to proceed?</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>実施してもよろしいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>はい</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>いいえ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Is this task completely mapped?</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このタスクは完璧にマップされていますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Is this task well mapped?</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このタスクのマッピングは十分ですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>はい</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>いいえ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The imagery is bad</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>低品質の画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Split task</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスクの分割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select another task</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>他のタスクを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Stop validation</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>検証を中断</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tasks map</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスクマッピング済</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Submit task</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスクを投稿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Submit tasks</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスクを投稿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Task unavailable</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスク実施不可</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Task data</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>データをタスクにする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Project #{id}</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクト #{id}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Download from Overpass</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Overpassダウンロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Visualize with Overpass</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Overpassで可視化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>View changesets in OSMCha</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OSMChaで変更セットを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>commented</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>コメント済</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>locked for mapping</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピング実施中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>locked for validation</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>検証作業実施中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>automatically unlocked for mapping</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピングのために自動的にロックを解除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>automatically unlocked for validation</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>検証のために自動的にロックを解除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>marked as unavailable</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>使用不可としてマーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>marked as mapped</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピング完了としてマーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>marked as validated</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>検証済みとしてマーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>marked as more mapping needed</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>追加のマッピングが必要としてマーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>split a task</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスクを分割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>marked as ready for mapping</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピングの準備が完了とマーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Map</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mapped</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピング済</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Validate</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>検証</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Validated</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>検証済み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Total</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>合計</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{lockStatus} by {user}</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>{user} により {lockStatus}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Specific task information</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>特別タスク情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All levels</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>すべてのレベル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Advanced</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>上級者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Intermediate</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>中級者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Beginner</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>初心者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You are not ready to work on this project...</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクトへの参加条件を満たしていません。。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Only users with intermediate or advanced experience level can validate this project.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>確認作業は中級レベルまたは上級レベルのユーザーだけが実施できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Only users with intermediate or advanced experience level can map this project.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>中級レベルまたは上級レベルのユーザーだけがマッピングに参加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You need to be member of one of the validation teams to be able to validate this project.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このプロジェクトで確認作業に参加するには、確認作業チームのメンバーになる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You need to be member of one of the mapping teams to be able to map this project.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このプロジェクトでマッピング作業に参加するには、確認作業チームのメンバーになる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You are not allowed to manage organizations.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>組織を管理することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The image upload failed.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>画像のアップロードに失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Managers</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>管理者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Manage {entity}</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>{entity} 管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Members</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>メンバ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mapping teams</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピングチーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Validation teams</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>検証チーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Team members</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>チームメンバ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Send</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>送信</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Subject</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>対象</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Join requests</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>参加リクエスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>There isn't requests to join the team.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>チームへの参加条件はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Teams</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>チーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Team</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>チーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Projects</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Campaigns</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>キャンペーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Campaign</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>キャンペーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Categories</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>カテゴリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Licenses</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ライセンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Users</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ユーザ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>User</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ユーザ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Category</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>カテゴリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Category information</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>カテゴリ情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You will be able to add more users after you save for the first time.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>最初に保存した後でもさらにユーザーを追加することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>My Organizations</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>自分の組織</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>すべて</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>My teams</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>自分のチーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Accept</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>承諾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reject</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>却下</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>View all</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>すべてを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Organization</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>組織</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Organizations</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>組織</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Organization information</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>組織の情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Team information</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>チームの情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Campaign information</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>キャンペーン情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>License information</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ライセンス情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Name</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Plain Text</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プレーンテキスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Description</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>解説</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Invite only</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>招待のみ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Visibility</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>視認性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Image</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Website</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ウェブサイト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Settings</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Search for Tasking Manager users</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Tasking Managerユーザ名で検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Save</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Done</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>完了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>キャンセル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Administrators</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>管理者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You are not a member of a team yet.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>あなたはまだチームのメンバーではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>There are no campaigns yet.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>キャンペーンはまだありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>There are no categories yet.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>カテゴリはまだありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>There are no licenses yet.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ライセンス情報が設定されていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Public</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>公開</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Private</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プライベート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Managers need to approve a member's request to join.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>メンバーの新規参加には管理者の承認が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Your request to join this team is waiting for approval.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>このチームへの参加リクエストは承認待ちです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This {entity} doesn't have projects yet.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>この {entity} にはまだプロジェクトがありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No teams found.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>チームが見つかりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{changesets} / {nextLevelThreshold} changesets to {level}</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>{changesets} /  {level} まで {nextLevelThreshold} 変更セット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Personal information</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>個人情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Name</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Organizations</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>組織</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>City</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>市</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Country</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>国名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Email</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Eメール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Gender</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>性別</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Female</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>女性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Male</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>男性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Prefer not to say</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>言明したくない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Prefer to self-describe:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>自分で記述: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Save</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Settings</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Notifications</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>通知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Expert mode</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>エキスパートモード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Expert mode makes advanced and experimental features available. Most users should leave this off.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>エキスパートモードでは、高度な機能や実験的な機能を利用できます。 ほとんどのユーザーは、この機能をオフにしておきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Default editor</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>デフォルトのエディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select default editor</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>デフォルトのエディタを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the default editor you want to use when mapping tasks. By selecting a default option, you will not need to select an editor each time you map.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスクのマッピング時に使用するデフォルトのエディタを選択します。 デフォルトのオプションを選択することで、マッピングするたびにエディタを選択する必要がなくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Language</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>言語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Define your preferred language. It will also affect the language of the maps you see on Tasking Manager.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>使用する言語を設定します。Tasking Managerに表示されるマップの表示言語にも影響します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Become a validator</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>確認者になる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Validators check the quality of map edits completed and provide feedback for mappers on how to improve. If you are an experienced mapper, apply to become a validator.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>確認者は完了したマッピングの品質をチェックし、改善方法をマッパーにフィードバックします。 経験豊富なマッパーであれば、確認者になることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Project updates</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクト更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Required fields</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>必須項目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You get a notification when a project you have contributed to makes progress.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>あなたが参加したプロジェクトが進行すると通知を受け取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Comments</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>コメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Learn how</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>解説</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Welcome to Tasking Manager!</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Tasking Managerにようこそ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Interests updated successfully.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>関心分野が正常に更新されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Interests update failed.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>関心分野の更新に失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Interests</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>関心分野</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select causes of interest to help us recommend the right projects for you.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>関心分野を記入することで、適切なプロジェクトを紹介できるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Complete your profile</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロフィールを完成させる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Please provide your information</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>情報を入力してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You're almost done!</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>もう少しで終わります！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Your profile is complete!</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロフィールが完成しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Complete my profile</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロフィールを完成させる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Need help?</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ヘルプが必要ですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>How to map?</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>どのようにマッピングするのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Quickstart guide</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>クイックスタートガイド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What is OpenStreetMap?</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>オープンストリートマップとは</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Contribute to your first project</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>最初のプロジェクトへの協力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Looks like you haven't mapped any tasks yet.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>まだタスクをマッピングしていないようです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Fortunately, it's very easy to map one!</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>幸いにも、マッピングするのはとても簡単です！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can start mapping by choosing one of the projects below, recommended just for you!</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>あなたにお勧めする以下のプロジェクトのいずれかを選択することで、マッピングを開始することができます！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OpenStreetMap details</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OpenStreetMapの詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Joined OpenStreetMap</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OpenStreetMapに参加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Total changesets</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>全ての変更セット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Changesets history</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>変更セットの履歴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit OpenStreetMap profile</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OpenStreetMapのプロファイルを編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>API Key</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>API キー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>API Documentation</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>APIドキュメンテーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>With this API Key, you can authenticate and use all the resources of the Tasking Manager API. For more details, checkout the {link}.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>APIキーを入力することで、Tasking Managerの認証やそのリソースを利用することができるようになります。詳細は {link} を参照ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Please check your email account in order to confirm your email address.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>メールアドレス確認を行います。メールアカウントをチェックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Resend validation email</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>検証メールを再送</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>My projects</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>自分のプロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>My tasks</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>自分のタスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>My teams</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>自分のチーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>My contributions</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>自分の協力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>My stats</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>自分の統計</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Search by username</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ユーザ名で検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Total number of users: {total}</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ユーザ総数: {total}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Set role</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ロール登録</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Set mapper level</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッパーレベル登録</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All levels</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>すべてのレベル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Advanced</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>上級者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Intermediate</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>中級者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Beginner</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>初心者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All roles</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>すべてのロール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Admin</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>管理者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Blocked</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ブロック済</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mapper</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッパー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Clear filters</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>フィルタを解除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>loading</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>読み込み中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Contribution Timeline</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>協力タイムライン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Projects</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Time spent mapping</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピング時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Buildings mapped</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピングした建物数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Km road mapped</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピングした道路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Points of interests mapped</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピングされた地物数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Waterways mapped</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピングした水路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Validated</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>検証済み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Finished</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>終了しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Top 5 projects contributed</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>参加プロジェクトの上位 5 件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Top causes contributed to</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>参加理由トップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edits by numbers</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>番号で編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Top 5 countries most mapped</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>最もマッピングされている上位5カ国</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>tasks</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No contribution</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>参加なし</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>contribution</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>協力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>contributions</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>協力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>more</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>さらに表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>less</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>非表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These statistics need heavy calculations and changes are showing up with a delay of around one hour.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>統計の処理は負荷が高いため、数値の変化の反映には1時間ほどかかります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Teams</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>チーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Return</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>戻る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Page not found</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ページが見つかりません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Project {id} not found</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクト {id} が見つかりません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Check the URL or report this error.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>URL を確認するか、このエラーを報告してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You are not allowed to access the management area.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>管理エリアへのアクセスはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You are not allowed to edit this project.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクトへの参加権限がありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You are not allowed to edit this team.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>あなたはこのチームを編集することが許可されていません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Login or register an account</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ログインまたはアカウント登録</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Manage users</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ユーザーの管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create new organization</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>組織を新規作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create new team</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>チームを新規作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create new campaign</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>キャンペーンを新規作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create organization</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>組織の作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create team</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>チームの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create campaign</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>キャンペーンの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>My teams</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>自分のチーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Join team</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>チームに参加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cancel request</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>リクエストをキャンセル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Leave team</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>チームから離脱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>キャンセル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Manage organization</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>組織の管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Manage team</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>チームの管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Manage campaign</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>キャンペーンの管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Team information</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>チームの情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Campaign information</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>キャンペーン情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Manage license</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ライセンス情報管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Manage category</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>カテゴリの管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Category information</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>カテゴリ情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>License information</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ライセンス情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create new category</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>カテゴリを新規作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create new license</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ライセンス新規設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create license</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ライセンス情報設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create category</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>カテゴリの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You don't have any locked tasks. Access the Project #{currentProject} to select a task to map.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ロックされたタスクはありません。 #{currentProject} プロジェクトにアクセスして、マッピングするタスクを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to Project #{project}</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>#{project} のプロジェクトに移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Your profile settings</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロフィール設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Email confirmed successfully!</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>メールの確認ができました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Verification failed.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>検証に失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The verification of your email failed. Check if the URL on the browser matches with the URL sent to your email.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>メールの確認に失敗しました。 ブラウザのURLがメールで送信されたURLと一致しているか確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Thanks for providing your email address.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>メールアドレスを登録いただきありがとうございます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>From now on, we will keep you updated on how you can make the difference by mapping on Tasking Manager. You can customize your notification preferences on {link}.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>今後、Tasking Managerであなたが行った編集作業の状況が随時報告されます。 {link} から通知設定を変更することが可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>About</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>概要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Every day, a global community works tirelessly behind the scenes to literally put people on the map. They contribute to the online Open Data map of the world. Universal access to geospatial information is heavily changing how people use maps and what they build with them.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>世界中に広がるコミュニティは、日々休むことなく、文字通り人々をマップの上に配置し続けています。コミュニティが参加するのは、オンラインに広がる、オープンデータの世界地図です。世界各地から地理空間情報へ行われるアクセスを通じて、人々がどのように地図を使うか、そして地図を使ってどのように活動を行うか、それらは劇的に変化しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Learn</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>解説</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Learn pages</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>学習ページ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Learn to map</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>地図について</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mapping in OpenStreetMap is a team effort, continually growing due to a community of hundreds of thousands of dedicated global contributors. Everybody can participate in this open map of the world, and it needs responsible people, who are open to learn and show love for the details.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OpenStreetMapでのマッピングはチーム作業であり、世界各地から参加する幾千幾万のコミュニティの活動によってその視野は広がり続けています。このオープンな世界地図には誰もが参加することができ、地図を必要とする人々に対して、学習とより詳細を知る機会を提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can start your journey now. You do not have to ask permission before adding or modifying existing data. If you believe that you can improve something, then do it. But always remember, with great power comes great responsibility.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>さぁ、あなたの旅の始まりです。データを追加したり、既に存在するデータを編集したりすることに、誰かの許可は必要ありません。あなたの編集によってデータが改善できると思われるならば、実施してしまって問題ありません。ただし、強い力には強い責任が伴うことを忘れないでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Videos</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>動画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Manuals</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マニュアル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Quickstart guide</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>クイックスタートガイド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Step by step instructions to get you mapping as fast as possible.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>なるべく早くマッピングができるよう、ステップバイステップでレッスンを行いましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tasking Manager User Manual</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Tasking Managerユーザマニュアル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Learn how to find a project and task that interests you, how to lock a task to edit and select the suitable editing software.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクトやタスクの見つけ方や、編集作業のためにタスクをロックする方法、適切な編集ソフトを選択する方法について解説されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Learn OpenStreetMap Step by Step</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OpenStreetMapステップバイステップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Beginner’s Guide to mapping on OpenStreetMap</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OpenStreetMap初心者ガイド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Administration Guide</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>管理者ガイド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Manual on how to create and manage projects in the Tasking Manager</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Tasking Managerでのプロジェクト作成や管理に関するマニュアル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select a project</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクトを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Search through our list of projects for one that meets your interests and fits your skill level.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>あなたの興味分野とスキルレベルを鑑みて、登録済みのプロジェクトから適切な対象を検索します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select a task</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスクを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Projects are divided into a set of tasks manageable in size and adapted to your skill level</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクトは、管理しやすいサイズのタスクに分割され、あなたのスキルレベルにあった内容が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Map through OpenStreetMap</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OpenStreetMapでマッピング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you are new to mapping we recommend checking the manuals below before you start mapping.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピングを初めて行う場合は、開始する前にマニュアルを参照することをおすすめします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sign up on Tasking Manager</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>サインアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Learn how to Sign Up on Tasking Manager.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Tasking Managerへのサインアップ方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mapping roads</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>道路マッピング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Learn how to map roads on OpenStreetMap.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OpenStreetMapでの道路マッピング方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select a task &amp; mapping buildings</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タスクを選択し、建物をマッピング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Learn how to map buildings on OpenStreetMap.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OpenStreetMapでの建物マッピング方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>How to validate</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>検証方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Learn to validate</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>検証作業について</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Validation is an important part of the process. It requires confidence in your mapping abilities as well as the willingness to help coach and advise newer mappers.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>一連の作業プロセスにおいて、検証作業は重要な位置を占めます。検証作業には、マッピングする能力だけではなく、コーチングやアドバイスを通じて新しく参加するマッパーを支援する気持ちが必要となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Getting a second, third, or fourth pair of eyes on mapped features is an important step for ensuring the quality of the data being added to OpenStreetMap and then used around the world.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>二度三度、そしてさらに多くの目でマッピングされた地物の確認を行うことは、世界中から利用されるOpenStreetMapのデータ品質を確認する上でたいへん重要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Identify if becoming a validator is right for you</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>確認作業への参加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Validation requires patience and attention to detail. Some experience mapping in OpenStreetMap is a must, but don’t feel that you need to be an expert to get started.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>検証作業には忍耐力と細部への心配りが要求されます。また、OpenStreetMapでのマッピング作業に習熟している必要がありますが、エキスパートとして極めている必要まではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Build your skills</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>スキルを磨く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Becoming a skilled mapper is crucial to becoming a validator. Build up your experience in mapping in OpenStreetMap all kinds of map elements. Make sure you are familiar with the {taggingLink}.Eventually check out the JOSM Editor, a customizable editor for OpenStreetMap with a number of tools and plugins to make mapping and validation easier!</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピングの技術を高めることは、検証作業を担う上で必須の条件となります。OpenStreetMapのマッピングに関して、あらゆる種類の要素について経験を積みましょう。 {taggingLink} に親しんでおくことも忘れないでください。カスタマイズ可能なOpenStreetMapエディタであるJOSMには、検証作業を容易にするためのプラグインやツールが用意されていますので、適宜確認してみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Collaborate as part of the community</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>コミュニティの一部としてのコラボレーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Different validators have different techniques for validating. Join the conversation on the {mailingListLink} or the {forumLink}. Contribute resources that you find helpful and give back to the community! </seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>検証作業における具体的な手法は作業者ごとに異なります。 {mailingListLink} や {forumLink} での会話に参加してみましょう。あなたが見つけた情報を共有するなど、ぜひコミュニティに加わってみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>After you become a skilled community mapper in OpenStreetMap, you will get confidence that you are ready to become a validator. You can apply to some of the validation teams or find a project that you want to validate on. Join the team, that will give you permission to validate the tasks. Now this is your opportunity to pay it forward and help other mappers on their journey as well</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OpenStreetMapでコミュニティマッパーとしてスキルを磨いたら、検証作業を行う準備が整ってきたことになります。既に存在している検証作業チームに申請するか、あるいはあなたが検証作業を行いたいプロジェクトを決めてください。チームに加わることで、タスクの作業検証を行うことができるようになります。これはペイ・フォワードの機会を得ることでもあり、あなたに続く新しいマッパーたちの手を取り、導く活動でもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Learn to manage</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>管理方法について</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Being able to organize mapping efforts is a huge opportunity for fast and coordinated data collection. In order to be successful you must be able to motivate a community of mappers.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>素早く協力してデータ収集を行うには、マッピング活動をオーガナイズすることが非常に重要となります。作業を成功させるためには、マッパーたちによるコミュニティのモチベーションを高めなくてはなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can use the Tasking Manager to set up your own projects. Be sure to be responsible by making sure your skill level matches your ambition. It is good to reach out to the administrators of the Tasking Manager and learn more about what is needed to obtain the permissions to create and manage projects.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Tasking Managerにあなた自身がプロジェクトを立ち上げることも可能です。ただ、プロジェクトの立ち上げにはそれに伴う責任が発生しますので、自身のスキルレベルがそれに見合うものであるかどうか、留意するようにしてください。立ち上げの際には、Tasking Managerの管理者に連絡をとり、プロジェクトの作成と管理の権限についてより詳しい情報を得てください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Become part of a community or organization</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>コミュニティや組織への参加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Tasking Manager allows you to create projects as part of a community or organization. Either get in touch with one you know, or request the admins to add your group to the Tasking Manager.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Tasking Managerには、コミュニティや組織の一員としてプロジェクトを立ち上げる機能があります。知己のコミュニティや組織に声をかけるか、あるいはTasking Managerにあなたのグループを追加するよう管理者にリクエストしてみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create a project and be loud about it</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクトの作成と宣言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Get people on board to map for your project. We suggest monitoring the mapping on your projects. Make sure to get them properly mapped and completed.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクトを作成したら、たくさんの人に参加してもらい、マッピングを進めましょう。作成したプロジェクトの状況確認を定期的に行ってください。マッピングが正しく行われ、完了に向けて進んでいるか確認しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use the data</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>データを利用する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Download the data and use it for your initial purpose. The {exportToolLink} and the {overpassLink} are excellent to pick the information you need.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>データをダウンロードし、当初の目的に使ってみましょう。 {exportToolLink} と {overpassLink} には、そのために使えるツールが揃っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Quickstart guide</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>クイックスタートガイド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These step-by-step instructions help you to get started mapping with the Tasking Manager on OpenStreetMap.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ステップバイステップ形式の解説で、Tasking Managerを使ってOpenStreetMapを編集する方法について解説されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on the {signUp} button in the upper right corner of the {tmHomepage} homepage.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>{tmHomepage} の右上に表示されている {signUp} ボタンをクリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Do you have an OpenStreetMap account already? You can skip ahead to step 4.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OpenStreetMapのアカウントはお持ちですか？ もし持っている場合、ステップ4までスキップしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Provide your name and email address. We will use this information to guide you through the sign-up process.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>あなたの名前とメールアドレスを入力してください。入力した情報は、サインアップ処理のガイドを表示させる際に利用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A new tab will open allowing you to register on OpenStreetMap.org. Provide your account information and press the {signUp} button at the bottom of the form.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>新しくタブが開き、OpenStreetMap.orgでの登録を許可するかどうか確認が行われます。あなたのアカウント情報を入力し、フォームの一番下に表示されている {signUp} ボタンを押してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Close the tab and go back to the {tmHomepage}. Click the button to {logIn}.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>タブを閉じ、 {tmHomepage} を再度表示させてください。 {logIn} ボタンを押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select {exploreProjects} in the main navigation to find a project to help map. Or use the link provided by your mapathon instructor.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>メニュー一覧に表示されている {exploreProjects} を選択し、作業を行うプロジェクトを選んでください。マッパソンに参加している場合、インストラクターからURLリンクが共有される場合もあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Read the introduction to the project and click on {contribute} to begin with a mapping task.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクトの解説を読み、 {contribute} をクリックしてタスクのマッピングを開始します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Map a randomly selected task for mapping by clicking on the button {mapATask}.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>下の方に表示されている {mapATask} をクリックすると、ランダムに選択されたタスクのマッピングが開始されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alternatively, you can also select one from the  map or the task and choose “Map selected task”.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>あるいは、地図上から対象の区域を選択するか、“選択したタスクをマッピング” を選択してタスクを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This opens the editor; map all the features asked for in the instructions.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>この操作によって、エディタが起動します。解説で指示された地物をすべてマッピングしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information on mapping in OpenStreetMap please have a look at our tutorials on the {learnPage}.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>OpenStreetMapでのマッピングについてわからないことがあれば、  {learnPage} のチュートリアルを読んでみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When finished mapping, save your edits and select the button {submitTask}.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピングが終わったら編集内容を保存し、 {submitTask} ボタンを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>After this, you can go back to step 7 and select a new task for mapping. Thank you for your contribution to OpenStreetMap!</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>操作が終わったら、ステップ7に戻り、新しいタスクを選択してマッピングを続けてください。OpenStreetMapに参加いただき、ありがとうございます！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Contact Us</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>連絡先</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Thank You!</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>ありがとうございます！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>One moment, there was a problem sending your message.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>メッセージ送信の際に問題が発生しました。少々お待ちください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You'll be hearing from us soon!</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>すぐにご連絡します、お楽しみに！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Proceed</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>進める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The purpose of the Tasking Manager is to divide a large mapping project into smaller tasks that can be completed rapidly and collaboratively, with many people contributing to a collective project goal. The tool shows what needs to be mapped, which areas need to be reviewed and validated for quality assurance and which areas are completed.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Tasking Managerの目的は、大きな地域のマッピングプロジェクトを小さな区域のタスクに分割することによって、多くの人々が参加する状況下においても作業をすばやく協調して行い、プロジェクトの目的を達成できるようにすることです。ツール上ではマッピングされるべき対象が明確化され、品質維持のためのレビューや検証が必要な区域や作業が完了した区域が明瞭に示されるようになっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This approach allows the distribution of tasks to many individual mappers. It also allows monitoring of project progress and helps to improve the consistency of the mapping (e.g. elements to cover, specific tags to use, etc.)</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>この方法を利用することで、多くの個人マッパーに対してタスクを割り当てることができます。また、プロジェクトの進捗状況を監視し、マッピングの完成度 (例: マッピングするべき要素の完成率、特定タグの利用など) を高めることもできるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All work is done through {osmLink}. OpenStreetMap is the community-driven free and editable map of the world, supported by the not-for-profit OpenStreetMap Foundation.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>すべての作業は {osmLink} を通じて行われます。OpenStreetMapはコミュニティによって運営される自由で編集可能な世界地図であり、非営利組織OpenStreetMap Foundationによって支援されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Read more on the {osmWikiLink} or join the discussion with your local OSM community.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>より詳しい情報を知るためには、 {osmWikiLink} を参照したり、地域のOSMコミュニティに参加したりしてみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Free and Open Source Software</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Free and Open Source Software</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Tasking Manager is Free and Open Source software developed by the {hotLink}. The application’s code can be accessed through {code}, where you can report issues and make contributions.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>Tasking Managerはフリーかつオープンソースのソフトウェアであり、 {hotLink} によって開発されています。アプリケーションのソースコードは {code} で公開されており、課題の報告や活動の参加はそちらから行うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit project</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクト編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Save</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Project updated successfully.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクトが正常に更新されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Saving the project failed because of a Server Error. Please try again later or contact the administrator if problem persists.</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>サーバエラーのため、プロジェクトの保存に失敗しました。時間をおいてもう一度試していただくか、問題が継続するようであれば管理者までご連絡ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Saving the project failed because you need to provide information for these required fields:</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクトを保存するには、必要項目を入力してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Saving the project failed because you need to provide information for these fields in your default language ({locale}):</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>プロジェクトを保存するには、標準の言語（ {locale} ）の必要項目を入力してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Description</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>解説</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Instructions</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>マッピング方法解説</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Metadata</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>メタデータ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Priority areas</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>優先エリア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Imagery</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>航空写真</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Permissions</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>アクセス権</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Settings</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Actions</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>アクション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Custom Editor</seg>
+      </tuv>
+      <tuv xml:lang="ja">
+        <seg>カスタムエディタ</seg>
+      </tuv>
+    </tu>
+  </body>
 </tmx>
