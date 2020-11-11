@@ -38,6 +38,21 @@ OmegaTの利用方法
 OmegaTの利用マニュアルについてはHackMDで公開しています。
 マニュアルは、[omegat-manualリポジトリ](https://github.com/osmfj/omegat-manual)を参照してください。
 
+
+必要なプラグイン
+---
+
+* Okapi filters for OmegaT プラグインがTasking managerとMerkaatorの翻訳に必要です。 [リンク](https://okapiframework.org/wiki/index.php?title=Okapi_Filters_Plugin_for_OmegaT)
+* 機械翻訳サポートの[OmegaT TexTra Plugin](https://github.com/miurahr/omegat-textra-plugin/releases) が推奨です。
+* 辞書フォーマットサポートの [OmegaT plugin for EPWING dictionary](https://github.com/miurahr/omegat-plugin-epwing/releases) が推奨です。
+
+
+推薦される辞書
+---
+
+* [ビジネス技術実用英語大辞典](http://www.hi-ho.ne.jp/unnos/unnodict.htm)を推薦します。
+
+
 翻訳対象プロジェクト、ページ、情報源
 ===
 
