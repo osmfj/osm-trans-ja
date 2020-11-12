@@ -1361,8 +1361,8 @@ no_more_mappingを外してください)</seg>
       <tuv lang="en-US">
         <seg>(you)</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>(君は)</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201112T010059Z">
+        <seg>(自分)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8737,6 +8737,22 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Assign to me</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201112T010050Z" creationid="miurahr" creationdate="20201112T010050Z">
+        <seg>自分に割り当て</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Assigned to: &lt;x1/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201112T010122Z" creationid="miurahr" creationdate="20201112T010122Z">
+        <seg>次に割り当て: &lt;x1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Assisted Living</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200906T111801Z" creationid="miurahr" creationdate="20200906T111801Z">
@@ -9911,6 +9927,14 @@ After: wikipedia={0}:{2}</seg>
       </tuv>
       <tuv lang="ja">
         <seg>飲料店</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Beware, all other shapes will be removed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201112T010031Z" creationid="miurahr" creationdate="20201112T010031Z">
+        <seg>他の全てのシェイプは削除されることに留意してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13995,6 +14019,14 @@ After: wikipedia={0}:{2}</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201110T235021Z" creationid="miurahr" creationdate="20201110T235021Z">
         <seg>&lt;strong&gt;{0}&lt;/strong&gt;をクリックして、トークンを受け入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on a polygon to delete it.</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ポリゴンをクリックして削除する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18481,6 +18513,14 @@ Do you want to keep it?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ラウンドアバウト作成の説明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Create shapes:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>図形の作成:</seg>
       </tuv>
     </tu>
     <tu>
@@ -24627,6 +24667,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>各ノードは正確に2つのウェイを接続しなければなりません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each polygon will result in a single task.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201112T010020Z" creationid="miurahr" creationdate="20201112T010020Z">
+        <seg>各ポリゴンは一つのタスクに対応付けられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39352,6 +39400,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Make sure the output format is set to 'out:xml' and the result contains actual polygons.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201112T010009Z" creationid="miurahr" creationdate="20201112T010009Z">
+        <seg>出力フォーマットが「out:xml」に設定され、結果に実際のポリゴンが含まれていることを確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Make sure the preferences with key ''{1}'' include the path to the module.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200825T233606Z" creationid="miurahr" creationdate="20200825T233606Z">
@@ -43950,6 +44006,14 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>見つからないユニット: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No usable polygons have been found.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201112T005956Z" creationid="miurahr" creationdate="20201112T005956Z">
+        <seg>使用可能なポリゴンが見つかりませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61776,6 +61840,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SimpleTaskManager &lt;x1912332151/&gt;&lt;x1403162700/&gt;&lt;x1912332150/&gt;Code: &lt;x1912332152/&gt;github.com/hauke96/simple-task-manager&lt;x1912332153/&gt;&lt;x1403162700/&gt;&lt;x1912332150/&gt;Licensed under &lt;x459333577/&gt;GPLv3&lt;x1912332154/&gt;</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>SimpleTaskManager &lt;x1912332151/&gt;&lt;x1403162700/&gt;&lt;x1912332150/&gt;コード: &lt;x1912332152/&gt;github.com/hauke96/simple-task-manager&lt;x1912332153/&gt;&lt;x1403162700/&gt;&lt;x1912332150/&gt; &lt;x459333577/&gt;GPLv3&lt;x1912332154/&gt;でライセンスされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Simplifies linking OSM objects to Wikipedia articles and Wikidata items</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200826T020015Z" creationid="miurahr" creationdate="20200826T020015Z">
@@ -66793,6 +66865,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The project '&lt;x1/&gt;' has been removed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201112T005932Z" creationid="miurahr" creationdate="20201112T005932Z">
+        <seg>プロジェクトは削除されました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The project is not an exercise in copying maps while trying to avoid copyright traps.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T124402Z" creationid="miurahr" creationdate="20201106T124402Z">
@@ -67827,6 +67907,14 @@ Server message is '%2'</seg>
       </tuv>
       <tuv lang="ja">
         <seg>キー "{0}" に対応します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This divides the last drawn polygon into the selected shape.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201112T010022Z" creationid="miurahr" creationdate="20201112T010022Z">
+        <seg>これは、最後に描画したポリゴンを選択した形状へ分割します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70978,8 +71066,8 @@ or action canceled</seg>
       <tuv lang="en-US">
         <seg>Unassign</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>アサイン解除</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201112T010129Z">
+        <seg>割り当て解除</seg>
       </tuv>
     </tu>
     <tu>
@@ -72503,6 +72591,14 @@ Create a new one.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>トレースのアップロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Upload a GPX, OSM or GeoJSON file, which contains polygons.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201112T010012Z" creationid="miurahr" creationdate="20201112T010012Z">
+        <seg>ポリゴンがはいっているGPXまたはOSM、GeoJSONのファイルをアップロードします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -76922,6 +77018,14 @@ The tasking manager was designed and built for the [[Humanitarian OpenStreetMap 
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T114152Z" creationid="miurahr" creationdate="20190107T114152Z">
         <seg>空のクエリを入力しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have been removed from project '&lt;x1/&gt;'</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201112T005947Z" creationid="miurahr" creationdate="20201112T005947Z">
+        <seg>あなたは、プロジェクトからすでに退場しています</seg>
       </tuv>
     </tu>
     <tu>
@@ -91947,8 +92051,8 @@ Click on the heading for one of the projects you have completed a square(s) for 
       <tuv lang="en-US">
         <seg>you</seg>
       </tuv>
-      <tuv lang="ja">
-        <seg>君は</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201112T010333Z">
+        <seg>自分</seg>
       </tuv>
     </tu>
     <tu>
