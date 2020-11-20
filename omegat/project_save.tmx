@@ -3758,6 +3758,22 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;x1/&gt;Beware:&lt;x2/&gt; This may take some time (up to several minutes), depending on your machine.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T040128Z" creationid="miurahr" creationdate="20201120T040128Z">
+        <seg>&lt;x1/&gt;注意:&lt;x2/&gt;これには、マシンによっては時間がかかる場合があります(最大数分)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;x1/&gt;tl;dr:&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T035902Z" creationid="miurahr" creationdate="20201120T035836Z">
+        <seg>&lt;x1/&gt;一言でいうと&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;x1911854618/&gt;&lt;x1028090602/&gt;Changes in 1.1.0:&lt;x1911854619/&gt;&lt;x1911854620/&gt; New features: &lt;x1212860422/&gt; &lt;x641798743/&gt;Internationalization:&lt;x1911854621/&gt; &lt;x1212860422/&gt; &lt;x641798743/&gt;Translation of STM into Chinese, German and Japanese&lt;x1911854622/&gt; &lt;x641798743/&gt;Selection dialog to change the language&lt;x1911854623/&gt; &lt;x641798743/&gt;Selected language stored in the browsers local storage&lt;x1911854624/&gt; &lt;x972197808/&gt; &lt;x641798743/&gt;Button to open task in iD&lt;x1911854625/&gt; &lt;x641798743/&gt;Button to directly set a task as 'done'&lt;x1911854626/&gt; &lt;x641798743/&gt;Longer token validity (your login is now valid for one week)&lt;x1911854627/&gt; &lt;x641798743/&gt;Check GeoJSON format of each new task&lt;x1911854628/&gt; &lt;x972197808/&gt; Bug fixes: &lt;x1212860422/&gt; &lt;x641798743/&gt;Missing feedback on overpass error&lt;x1911854629/&gt; &lt;x641798743/&gt;Reconnect on broken websocket connection&lt;x1911854630/&gt; &lt;x972197808/&gt; Minor changes: &lt;x1212860422/&gt; &lt;x641798743/&gt;Zoom to selected task when not visible on the screen&lt;x1911854631/&gt; &lt;x641798743/&gt;Progress percentage in project list&lt;x1911854632/&gt; &lt;x641798743/&gt;Automatic names of tasks (the numbers of unnamed now start at 1 in each new project)&lt;x1911854633/&gt; &lt;x972197808/&gt; Internals: &lt;x1212860422/&gt; &lt;x641798743/&gt;Store project-ID in task database table&lt;x1911854634/&gt; &lt;x641798743/&gt;Create project and tasks within one HTTP request&lt;x1911854635/&gt; &lt;x641798743/&gt;Introduce the &lt;x1402685167/&gt;context&lt;x1911854617/&gt; to add a logging trace-ID&lt;x1911854636/&gt; &lt;x641798743/&gt;Better server side logging&lt;x1911854637/&gt; &lt;x641798743/&gt;Reconnect to database after connection failure&lt;x1911854638/&gt; &lt;x641798743/&gt;Source maps in karma tests&lt;x1911854639/&gt; &lt;x972197808/&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T230145Z">
@@ -7208,6 +7224,14 @@ If you need further help on mapping an area see:
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All together can be copied to a normal HTTP server.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T035908Z" creationid="miurahr" creationdate="20201120T035908Z">
+        <seg>すべてを通常のHTTPサーバーにコピーできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All values joined as ''{0}'' are going to be applied for key ''{1}''</seg>
       </tuv>
       <tuv lang="ja">
@@ -7532,6 +7556,15 @@ If you need further help on mapping an area see:
       </tuv>
       <tuv lang="ja">
         <seg>別名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alternatively you can use &lt;x1/&gt;Omega-T&lt;x2/&gt; with the
+&lt;x3/&gt;Okapi filters plugin&lt;x4/&gt; for translation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T040451Z" creationid="miurahr" creationdate="20201120T040451Z">
+        <seg>Poeditの代わりに、&lt;x1/&gt;Omega-T&lt;x2/&gt;を&lt;x3/&gt;Okapiフィルタプラグイン&lt;x4/&gt;とともに翻訳につかうことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10739,6 +10772,14 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Build</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T035815Z" creationid="miurahr" creationdate="20201120T035809Z">
+        <seg>ビルド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Build an Overpass query using the Overpass Turbo Query Wizard tool</seg>
       </tuv>
       <tuv lang="ja">
@@ -10799,6 +10840,14 @@ After: wikipedia={0}:{2}</seg>
       </tuv>
       <tuv lang="ja">
         <seg>建物の住所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Building and starting the client works without the server, but of course the client won't work without server).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T035724Z" creationid="miurahr" creationdate="20201120T035724Z">
+        <seg>クライアントの構築と起動はサーバなしで動作しますが、もちろんクライアントはサーバなしでは動作しません)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14047,6 +14096,14 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click save or hit CTRL+S</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T040411Z" creationid="miurahr" creationdate="20201120T040411Z">
+        <seg>保存をクリックするか、CTRL+Sを押す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click second Lambert crosspiece for georeferencing</seg>
       </tuv>
       <tuv lang="ja">
@@ -14571,6 +14628,14 @@ After: wikipedia={0}:{2}</seg>
       </tuv>
       <tuv lang="ja">
         <seg>クリック: 再配置されるウェイの区間を選択、Alt+クリック: 選択をクリア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Client</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T035510Z" creationid="miurahr" creationdate="20201120T035510Z">
+        <seg>クライアント</seg>
       </tuv>
     </tu>
     <tu>
@@ -15603,6 +15668,14 @@ After: wikipedia={0}:{2}</seg>
       </tuv>
       <tuv lang="ja">
         <seg>(焼菓子が中心ではない) 菓子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Configuration</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T040133Z" creationid="miurahr" creationdate="20201120T040133Z">
+        <seg>設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -17019,6 +17092,14 @@ After: wikipedia={0}:{2}</seg>
       </tuv>
       <tuv lang="ja">
         <seg>選択したノードを結合されたノードリストの先頭にコピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Copy new/changes entries to specific translation files (e.g. from the &lt;x1/&gt;messages.xlf&lt;x2/&gt; to &lt;x3/&gt;messages.ja.xlf&lt;x4/&gt;)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T040331Z" creationid="miurahr" creationdate="20201120T040331Z">
+        <seg>新しい/変更エントリを特定の翻訳ファイルにコピーする(例:&lt;x1/&gt;messages.xlf&lt;x2/&gt;を&lt;x3/&gt;messages.ja.xlf&lt;x4/&gt;にコピー)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19177,6 +19258,14 @@ Do you want to keep it?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>現在の倍率: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Currently the client has a very simple dev- and prod-configuration in &lt;x1/&gt;client/src/environments&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T040209Z" creationid="miurahr" creationdate="20201120T040209Z">
+        <seg>現在、クライアントは&lt;x1/&gt;client/src/environments&lt;x2/&gt;で非常に単純な dev-configuration と prod-configurationを使用しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25715,6 +25804,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Encryption (HTTPS) and HTTP-Server configs depend on the used HTTP-Server (Apache-HTTP, nginx, ...), so take a look at their documentation or at the &lt;x1/&gt;./client/nginx.conf&lt;x2/&gt; for my nginx config used in the &lt;x3/&gt;stm-client&lt;x4/&gt; docker container.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T040255Z" creationid="miurahr" creationdate="20201120T040255Z">
+        <seg>暗号化(HTTPS)とHTTP-Serverの設定は使用されているHTTP-Server(Apache-HTTP,nginx, etc)に依存します。そのため、それぞれのプロダクトのドキュメントや、&lt;x3/&gt;stm-client&lt;x4/&gt;Dockerコンテナで使用されているnginx設定の&lt;x1/&gt;./client/nginx.conf&lt;x2/&gt;を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Encryption algorithm to protect private key:</seg>
       </tuv>
       <tuv lang="ja">
@@ -31115,6 +31212,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go into this client folder (just &lt;x1/&gt;cd client&lt;x2/&gt;)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T035614Z" creationid="miurahr" creationdate="20201120T035614Z">
+        <seg>このclientフォルダに移動(&lt;x1/&gt;cd client&lt;x2/&gt;)します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to Basic Editor and manually choose a turn restriction type</seg>
       </tuv>
       <tuv lang="ja">
@@ -34332,6 +34437,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In order to translate STM, it's recommended to use a proper XLF/XLIFF editor like &lt;x1/&gt;Omega-T&lt;x2/&gt; or &lt;x3/&gt;Poedit&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T040348Z" creationid="miurahr" creationdate="20201120T040348Z">
+        <seg>STMを翻訳するには、&lt;x1/&gt;OmegaT&lt;x2/&gt;や&lt;x3/&gt;Poedit&lt;x4/&gt;などの適切なXLF/XLIFFエディタを使用することをお勧めします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In order to use this feature the Jython interpreter has to be on the class path when you start JOSM. Currently, it isn''t and python plugin support is therefore disabled.&lt;br&gt;&lt;br&gt;Launch JOSM with the following command line: &lt;br&gt;java -cp "josm-jar.jar:/path/to/jython.jar" org.openstreetmap.josm.gui.MainApplication</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200825T224320Z" creationid="miurahr" creationdate="20200825T224320Z">
@@ -34940,10 +35053,26 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Install &lt;x1/&gt;npm&lt;x2/&gt; and &lt;x3/&gt;node&lt;x4/&gt; as well</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T035549Z" creationid="miurahr" creationdate="20201120T035531Z">
+        <seg>&lt;x1/&gt;npm&lt;x2/&gt;と&lt;x3/&gt;node&lt;x4/&gt;もインストールします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Install JOSM localhost certificate to system/browser root keystores</seg>
       </tuv>
       <tuv lang="ja">
         <seg>JOSMローカルホストの証明書をシステム/ブラウザーのルート証明書ストアにインストール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Install all dependencies.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T035649Z" creationid="miurahr" creationdate="20201120T035649Z">
+        <seg>すべての依存関係をインストールします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35120,6 +35249,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>国際名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Internationalization</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T040259Z" creationid="miurahr" creationdate="20201120T040259Z">
+        <seg>国際化対応</seg>
       </tuv>
     </tu>
     <tu>
@@ -35962,6 +36099,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T124648Z" creationid="miurahr" creationdate="20201106T124648Z">
         <seg>それもまた、不必要なことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's mainly based on &lt;x1/&gt;Angular&lt;x2/&gt;, &lt;x3/&gt;OpenLayers&lt;x4/&gt; and uses &lt;x5/&gt;npm&lt;x6/&gt; as a package manager.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T035523Z" creationid="miurahr" creationdate="20201120T035523Z">
+        <seg>主に&lt;x1/&gt;Angular&lt;x2/&gt;,&lt;x3/&gt;OpenLayers&lt;x4/&gt;に基づいており、パッケージマネージャとして&lt;x5/&gt;npm&lt;x6/&gt;を使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44772,6 +44917,14 @@ nodes and the new nodes will be selected.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now you are ready to go.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T035713Z" creationid="miurahr" creationdate="20201120T035713Z">
+        <seg>これで準備ができました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now you want the translated page to get a translated title "''XX:Translated_page_name''" too.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170522T121627Z" creationid="miurahr" creationdate="20170522T121627Z">
@@ -46641,6 +46794,14 @@ was open.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>測量ツールを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the &lt;x1/&gt;.xlf&lt;x2/&gt; file you want to translate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T040355Z" creationid="miurahr" creationdate="20201120T040355Z">
+        <seg>翻訳したい&lt;x1/&gt;.xlf&lt;x2/&gt;ファイルを開く</seg>
       </tuv>
     </tu>
     <tu>
@@ -56825,6 +56986,22 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Run &lt;x1/&gt;npm run dev&lt;x2/&gt; to start a development server.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T035733Z" creationid="miurahr" creationdate="20201120T035733Z">
+        <seg>&lt;x1/&gt;npm run dev&lt;x2/&gt;を実行して、開発サーバーを起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Run Client</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T035728Z" creationid="miurahr" creationdate="20201120T035728Z">
+        <seg>クライアントの実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Run a script</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200825T234504Z" creationid="miurahr" creationdate="20200825T234504Z">
@@ -56837,6 +57014,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200825T234511Z" creationid="miurahr" creationdate="20200825T234511Z">
         <seg>スクリプト''{0}''の実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Run tests</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T035749Z" creationid="miurahr" creationdate="20201120T035749Z">
+        <seg>テストを実行する</seg>
       </tuv>
     </tu>
     <tu>
@@ -60568,6 +60753,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Setup environment</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T035527Z" creationid="miurahr" creationdate="20201120T035527Z">
+        <seg>環境の設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Several utilities that make your life easier.</seg>
       </tuv>
       <tuv lang="ja">
@@ -61804,6 +61997,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200906T152808Z" creationid="miurahr" creationdate="20200906T152808Z">
         <seg>類似したタグですが、タグ付けスキーマが異なります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Similar to running the app, but with &lt;x1/&gt;npm run build&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T035930Z" creationid="miurahr" creationdate="20201120T035930Z">
+        <seg>アプリケーションの実行に似ていますが、&lt;x1/&gt;npm run build&lt;x2/&gt;があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63188,6 +63389,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201111T000558Z" creationid="miurahr" creationdate="20201111T000558Z">
         <seg>有効にするには、&lt;tt&gt;-Djava.net.useSystemProxies=true&lt;/tt&gt;オプションをつけてJOSMを開始します)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start Omega-T and create new project at new project directory with your favorit target language such as zh_CN.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T040500Z" creationid="miurahr" creationdate="20201120T040500Z">
+        <seg>Omega-Tを起動し、zh_CNなどのお気に入りのターゲット言語で新しいプロジェクトディレクトリに新しいプロジェクトを作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65659,6 +65868,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Test your setup by starting the client (see below).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T035719Z" creationid="miurahr" creationdate="20201120T035719Z">
+        <seg>クライアントを起動してセットアップをテストします(以下を参照)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Test {0}/{1}: Starting {2}</seg>
       </tuv>
       <tuv lang="ja">
@@ -66063,6 +66280,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>直前のウェイ区間とこのウェイ区間の角度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The app will automatically recompile and reload if you change any of the source files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T035745Z" creationid="miurahr" creationdate="20201120T035745Z">
+        <seg>ソースファイルを変更すると、アプリケーションは自動的に再コンパイルと再読み込みを行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66817,6 +67042,15 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The output will be in &lt;x3/&gt;client/dist/simple-taskmanager/&lt;lang&gt;&lt;x4/&gt;, where &lt;x5/&gt;en-US&lt;x6/&gt; for English,
+&lt;x7/&gt;ja&lt;x8/&gt; for Japanese and &lt;x9/&gt;de&lt;x10/&gt; for Deutsch.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T040121Z" creationid="miurahr" creationdate="20201120T040121Z">
+        <seg>&lt;x3/&gt;client/dist/simple-taskmanager/&lt;lang&gt;&lt;x4/&gt;に出力されます。ここで&lt;lang&gt;については、英語は&lt;x5/&gt;en-US&lt;x6/&gt;、日本語は&lt;x7/&gt;ja&lt;x8/&gt;、ドイツ語は&lt;x9/&gt;de&lt;x10/&gt;です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The password cannot be empty.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201110T235035Z" creationid="miurahr" creationdate="20201110T235035Z">
@@ -67441,6 +67675,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Then open &lt;x3/&gt;http://localhost:4200/&lt;x4/&gt; in your browser.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T035738Z" creationid="miurahr" creationdate="20201120T035738Z">
+        <seg>次に、ブラウザで&lt;x3/&gt;http://localhost:4200/&lt;x4/&gt;を開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Then switch back to this dialog and click on &lt;strong&gt;{0}&lt;/strong&gt;&lt;br&gt;&lt;br&gt;If launching the external browser fails you can copy the following authorize URL and paste it into the address field of your browser.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201110T235209Z" creationid="miurahr" creationdate="20201110T235209Z">
@@ -67855,6 +68097,14 @@ Server message is '%2'</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This can be done using &lt;x1/&gt;npm run test&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T035754Z" creationid="miurahr" creationdate="20201120T035754Z">
+        <seg>これは、&lt;x1/&gt;npm run test&lt;x2/&gt;を使用して実行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This can lead to nodes being deleted accidentally.</seg>
       </tuv>
       <tuv lang="ja">
@@ -67907,6 +68157,14 @@ Server message is '%2'</seg>
       </tuv>
       <tuv lang="ja">
         <seg>キー "{0}" に対応します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This creates a bunch of &lt;x1/&gt;.js&lt;x2/&gt; and &lt;x3/&gt;.css&lt;x4/&gt; files as well as the &lt;x5/&gt;index.html&lt;x6/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T035852Z" creationid="miurahr" creationdate="20201120T035852Z">
+        <seg>これにより、&lt;x1/&gt;.js&lt;x2/&gt;と&lt;x3/&gt;.css&lt;x4/&gt;のファイルと、&lt;x5/&gt;index.html&lt;x6/&gt;が作成されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68015,6 +68273,14 @@ Server message is '%2'</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is just a local installation into the &lt;x1/&gt;node_modules&lt;x2/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T035707Z" creationid="miurahr" creationdate="20201120T035707Z">
+        <seg>これは、&lt;x1/&gt;node_modules&lt;x2/&gt;フォルダへのローカルインストールです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is not a critical error, it should be safe to continue in your work.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T220424Z" creationid="miurahr" creationdate="20200818T220424Z">
@@ -68043,6 +68309,14 @@ Server message is '%2'</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T112447Z" creationid="miurahr" creationdate="20190107T112447Z">
         <seg>この同意書に関わる主題に関して、これはあなたとOSMFとの間の包括的な合意であり、書面か口頭かその他であるかを問わず、これに先立つ合意全てに優先するものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is the web application of the simple task manager.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T035515Z" creationid="miurahr" creationdate="20201120T035515Z">
+        <seg>これは単純なタスクマネージャのWebアプリケーションです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68203,6 +68477,14 @@ Server message is '%2'</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200819T112613Z" creationid="miurahr" creationdate="20200819T112613Z">
         <seg>このリソースは使用できません:{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This script uses Firefox as default browser where the tests run in.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T035759Z" creationid="miurahr" creationdate="20201120T035759Z">
+        <seg>このスクリプトは、テストが実行されるデフォルトブラウザとしてFirefoxを使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69791,10 +70073,26 @@ or action canceled</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Translate the entries</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T040405Z" creationid="miurahr" creationdate="20201120T040405Z">
+        <seg>エントリを翻訳する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Translating wiki pages should be an exercise in improving community cohesion, helping everyone to understand each other, and ultimately helping to build the maps!</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170521T221926Z" creationid="miurahr" creationdate="20170521T221926Z">
         <seg>ウィキページを翻訳することは、コミュニティの団結を促進し、それぞれが互いに理解することの助けとなり、究極的には地図を作る助けとなるための試みであるべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Translation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T040335Z" creationid="miurahr" creationdate="20201120T040335Z">
+        <seg>翻訳</seg>
       </tuv>
     </tu>
     <tu>
@@ -72287,6 +72585,14 @@ Create a new one.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>更新周期(日数):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Update message catalog</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T040303Z" creationid="miurahr" creationdate="20201120T040303Z">
+        <seg>メッセージカタログを更新する</seg>
       </tuv>
     </tu>
     <tu>
@@ -76854,6 +77160,14 @@ The tasking manager was designed and built for the [[Humanitarian OpenStreetMap 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can also use Chrome with &lt;x1/&gt;ng test --browsers=ChromeHeadless&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T035805Z" creationid="miurahr" creationdate="20201120T035805Z">
+        <seg>&lt;x1/&gt;ng test--browsers=ChromeHeadless&lt;x2/&gt;でChromeを使用することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can also use the syntax &lt;tt&gt;lat="..." lon="..."&lt;/tt&gt; or &lt;tt&gt;lat=''...'' lon=''...''&lt;/tt&gt;.</seg>
       </tuv>
       <tuv lang="ja">
@@ -77194,6 +77508,14 @@ The tasking manager was designed and built for the [[Humanitarian OpenStreetMap 
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201110T235830Z" creationid="miurahr" creationdate="20201110T235830Z">
         <seg>レイヤーを取得する必要があります</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You need to globally install the Angular CLI (in order to use the &lt;x1/&gt;ng&lt;x2/&gt; command line tool)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T035642Z" creationid="miurahr" creationdate="20201120T035642Z">
+        <seg>(&lt;x1/&gt;ng&lt;x2/&gt;コマンドラインツールを使用するには) Angular CLIをグローバルにインストールする必要があります</seg>
       </tuv>
     </tu>
     <tu>
