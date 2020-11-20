@@ -8009,6 +8009,14 @@ If you need further help on mapping an area see:
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alternatively, you can also select one from the map or the task and choose “Map selected task”.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T132457Z" creationid="miurahr" creationdate="20201120T132457Z">
+        <seg>あるいは、地図上から対象の区域を選択するか、“選択したタスクをマッピング” を選択してタスクを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alternatives are e.g. the MapCraft tasking manager, which is very old and doesn't even compile anymore when you clone the repo.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T041317Z" creationid="miurahr" creationdate="20201120T041317Z">
@@ -8237,6 +8245,14 @@ If you need further help on mapping an area see:
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200825T232834Z" creationid="miurahr" creationdate="20200825T232834Z">
         <seg>スクリプトでエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An error occurred</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T132451Z" creationid="miurahr" creationdate="20201120T132451Z">
+        <seg>エラーが発生しました</seg>
       </tuv>
     </tu>
     <tu>
@@ -79335,6 +79351,14 @@ Create a new one.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Validate # selected tasks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T132448Z" creationid="miurahr" creationdate="20201120T132448Z">
+        <seg>選択した # タスクの検証</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Validate a task</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201112T005015Z" creationid="miurahr" creationdate="20201112T005015Z">
@@ -82725,6 +82749,14 @@ The tasking manager was designed and built for the [[Humanitarian OpenStreetMap 
         <seg>You are not a manager of this organisation, so you are not allowed to edit it.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T070239Z" creationid="miurahr" creationdate="20201120T070239Z">
+        <seg>あなたはこの組織の管理者ではないので、編集は許可されていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You are not a manager of this organization, so you are not allowed to edit it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T132455Z" creationid="miurahr" creationdate="20201120T132455Z">
         <seg>あなたはこの組織の管理者ではないので、編集は許可されていません。</seg>
       </tuv>
     </tu>
@@ -99746,6 +99778,19 @@ OpenStreetMap では、データベース内でタグ付けや地物の存在が
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170521T221856Z" creationid="miurahr" creationdate="20170521T221856Z">
         <seg>{{Languages|Wiki Translation}} {{JA:Wiki/Tabs}} {{Translation not complete|art=Wiki Translation}} [[File:Chart_of_world_writing_systems.svg|250px|right]] '''ウィキの翻訳'''は、世界をまたぐプロジェクトの開発を助ける良い方法になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{Languages}}
+
+
+'''Android''' is a [[Linux]]-based operating system for mobile phones and other mobile devices.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T132528Z" creationid="miurahr" creationdate="20201120T132528Z">
+        <seg>{{Languages}}
+
+'''Android'''は、携帯電話やモバイル機器の[[Linux]]ベースの操作環境です。</seg>
       </tuv>
     </tu>
     <tu>
