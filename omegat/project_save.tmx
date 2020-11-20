@@ -8321,6 +8321,14 @@ If you need further help on mapping an area see:
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An error occurred while sending message.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T132355Z" creationid="miurahr" creationdate="20201120T132355Z">
+        <seg>メッセージの送信中にエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An error occurred while trying to match the photos to the GPX track.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201110T232946Z" creationid="miurahr" creationdate="20201110T232946Z">
@@ -52473,6 +52481,14 @@ The ways selected must form a simple branchless path</seg>
         <seg>Please accept this license in order to colaborate in this project.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201112T004851Z" creationid="miurahr" creationdate="20201112T004851Z">
+        <seg>プロジェクトに参加するには、ライセンスを了承してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please accept this license in order to collaborate in this project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T132434Z" creationid="miurahr" creationdate="20201120T132434Z">
         <seg>プロジェクトに参加するには、ライセンスを了承してください。</seg>
       </tuv>
     </tu>
