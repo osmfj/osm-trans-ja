@@ -3758,10 +3758,26 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;x1/&gt;(aka: What's wrong with the HOT Tasking Manager?)&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T041150Z" creationid="miurahr" creationdate="20201120T041150Z">
+        <seg>&lt;x1/&gt;(つまり、HOT Tasking Managerの何が問題ですか?)&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;x1/&gt;Beware:&lt;x2/&gt; This may take some time (up to several minutes), depending on your machine.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T040128Z" creationid="miurahr" creationdate="20201120T040128Z">
         <seg>&lt;x1/&gt;注意:&lt;x2/&gt;これには、マシンによっては時間がかかる場合があります(最大数分)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;x1/&gt;Wanna start coding?&lt;x2/&gt; Take a look at &lt;x3/&gt;doc/development/README.md&lt;x4/&gt; on how to get started.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T041437Z" creationid="miurahr" creationdate="20201120T041437Z">
+        <seg>&lt;x1/&gt;コーディングを開始しますか?&lt;x2/&gt;開始する方法については、&lt;x3/&gt;doc/development/README.md&lt;x4/&gt;をご覧ください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4804,6 +4820,22 @@ If you need further help on mapping an area see:
       </tuv>
       <tuv lang="ja">
         <seg>キー&lt;i&gt;{0}&lt;/i&gt;が付いたタグが、選択したOSMオブジェクトにすでに存在しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A tasking manager is an application which helps multiple people to work in the same region without interfering with each other.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T040919Z" creationid="miurahr" creationdate="20201120T040919Z">
+        <seg>タスキングマネージャは、複数の人が同じ地域で互いに干渉することなく作業できるようにするアプリケーションです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A user can create a &lt;x1/&gt;project&lt;x2/&gt; with consists of a large region on the map (e.g. a city district).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T041000Z" creationid="miurahr" creationdate="20201120T041000Z">
+        <seg>ユーザは、地図上の大きな領域(例:市区)で構成される&lt;x1/&gt;プロジェクト&lt;x2/&gt;を作成できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5892,6 +5924,14 @@ If you need further help on mapping an area see:
       </tuv>
       <tuv lang="ja">
         <seg>レイヤーを追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add localize configuration</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T040710Z" creationid="miurahr" creationdate="20201120T040710Z">
+        <seg>ローカル化設定を追加する</seg>
       </tuv>
     </tu>
     <tu>
@@ -7565,6 +7605,14 @@ If you need further help on mapping an area see:
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T040451Z" creationid="miurahr" creationdate="20201120T040451Z">
         <seg>Poeditの代わりに、&lt;x1/&gt;Omega-T&lt;x2/&gt;を&lt;x3/&gt;Okapiフィルタプラグイン&lt;x4/&gt;とともに翻訳につかうことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alternatives are e.g. the MapCraft tasking manager, which is very old and doesn't even compile anymore when you clone the repo.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T041317Z" creationid="miurahr" creationdate="20201120T041317Z">
+        <seg>別の方法としては、例えばMapCraft・タスキング・マネージャがあります。これは非常に古く、すでにリポジトリをコンパイルできない状況です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14004,6 +14052,22 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click &lt;x1/&gt;File&lt;x2/&gt;-&lt;x3/&gt;Generate target file&lt;x4/&gt; on Omega-T</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T040644Z" creationid="miurahr" creationdate="20201120T040644Z">
+        <seg>&lt;x1/&gt;ファイル&lt;x2/&gt;-&lt;x3/&gt;Omega-T上で&lt;x4/&gt;ターゲットファイルを生成する&lt;x1/&gt;をクリックします</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click &lt;x1/&gt;File&lt;x2/&gt;-&lt;x3/&gt;Reload&lt;x4/&gt; on Omega-T.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T040618Z" creationid="miurahr" creationdate="20201120T040618Z">
+        <seg>Omega-Tで&lt;x1/&gt;ファイル&lt;x2/&gt;-&lt;x3/&gt;再読み込み&lt;x4/&gt;をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click and drag to move destination</seg>
       </tuv>
       <tuv lang="ja">
@@ -15704,6 +15768,14 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Configure Omega-T enable Okapi Plugins XLIFF filter and disable internal XLIFF filter.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T040507Z" creationid="miurahr" creationdate="20201120T040507Z">
+        <seg>Omega-Tを設定してOkapiプラグインXLIFFフィルタを有効にし、内部XLIFFフィルタを無効にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Configure Plugin Sites</seg>
       </tuv>
       <tuv lang="ja">
@@ -16704,6 +16776,14 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Contribute</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T041408Z" creationid="miurahr" creationdate="20201120T041408Z">
+        <seg>貢献</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Contribute to your first project</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201112T005110Z" creationid="miurahr" creationdate="20201112T005110Z">
@@ -16964,6 +17044,22 @@ After: wikipedia={0}:{2}</seg>
       </tuv>
       <tuv lang="ja">
         <seg>コピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Copy &lt;x1/&gt;&lt;omegat&gt;/target/messages.&lt;langID&gt;.xlf&lt;x2/&gt; to &lt;x3/&gt;client/locale/messages.&lt;langID&gt;.xlf&lt;x4/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T040656Z" creationid="miurahr" creationdate="20201120T040656Z">
+        <seg>&lt;x1/&gt;&lt;omegat&gt;/target/messages.&lt;langID&gt;.xlf&lt;x2/&gt;を&lt;x3/&gt;client/locale/messages.&lt;langID&gt;.xlf&lt;x4/&gt;にコピーします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Copy &lt;x1/&gt;client/src/locale/messages.xlf&lt;x2/&gt; to &lt;x3/&gt;&lt;omegat_project&gt;/source/messages.&lt;langID&gt;.xlf&lt;x4/&gt; such as &lt;x5/&gt;messages.zh_CN.xlf&lt;x6/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T040611Z" creationid="miurahr" creationdate="20201120T040611Z">
+        <seg>&lt;x1/&gt;client/src/locale/messages.xlf&lt;x2/&gt;を&lt;x3/&gt;&lt;omegat_project&gt;/source/messages.&lt;langID&gt;.xlf&lt;x4/&gt;にコピーします。(たとえば&lt;x5/&gt;messages.zh_CN.xlf&lt;x6/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19266,6 +19362,22 @@ Do you want to keep it?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T040209Z" creationid="miurahr" creationdate="20201120T040209Z">
         <seg>現在、クライアントは&lt;x1/&gt;client/src/environments&lt;x2/&gt;で非常に単純な dev-configuration と prod-configurationを使用しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Currently there are no real guidelines.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T041415Z" creationid="miurahr" creationdate="20201120T041415Z">
+        <seg>現在、実際のガイドラインはありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Currently there's no end user manual, tutorial or something similar.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T041357Z" creationid="miurahr" creationdate="20201120T041357Z">
+        <seg>現在、エンドユーザーマニュアルやチュートリアルなどはありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22236,6 +22348,22 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>文書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Documentation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T041340Z" creationid="miurahr" creationdate="20201120T041340Z">
+        <seg>ドキュメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Documentation can be found in the &lt;x1/&gt;doc folder&lt;x2/&gt; (deployment, api, security, architecture, operation, etc.) and in the separate &lt;x3/&gt;client&lt;x4/&gt; and &lt;x5/&gt;server&lt;x6/&gt; folders (mainly setup and development information).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T041353Z" creationid="miurahr" creationdate="20201120T041353Z">
+        <seg>ドキュメントは、&lt;x1/&gt;docフォルダ&lt;x2/&gt;(deployment,api,security,architecture,operationなど)と、別の&lt;x3/&gt;client&lt;x4/&gt;および&lt;x5/&gt;server&lt;x6/&gt;フォルダ(主にセットアップと開発情報)にあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28746,6 +28874,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Feel free to create an &lt;x1/&gt;issue&lt;x2/&gt; or &lt;x3/&gt;pull request&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T041426Z" creationid="miurahr" creationdate="20201120T041426Z">
+        <seg>&lt;x1/&gt;issue&lt;x2/&gt;または&lt;x3/&gt;プルリクエスト&lt;x4/&gt;を自由に作成してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fell</seg>
       </tuv>
       <tuv lang="ja">
@@ -32844,6 +32980,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>How does it work?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T040952Z" creationid="miurahr" creationdate="20201120T040952Z">
+        <seg>どのように動作しますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>How it works</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201112T004326Z" creationid="miurahr" creationdate="20201112T004326Z">
@@ -33024,6 +33168,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ライセンス条項を読み、承諾しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I personally don't like the HOT Tasking Manager that much for several reasons (not that intuitive UI, iD integration, automatically getting unassigned from a task after some time, etc.).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T041244Z" creationid="miurahr" creationdate="20201120T041244Z">
+        <seg>個人的には、HOT Tasking Managerがそれほど好きではない理由がいくつかあります(直感的なUIでない、iD統合、一定時間後にタスクから自動的に割り当てられないなど)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35907,6 +36059,14 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200905T054742Z" creationid="miurahr" creationdate="20200905T054742Z">
         <seg>当初は[[Humanitarian OSM Team]](HOT)によって設計および構築され、現在では他の多くのコミュニティや組織で使用されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is also possible to create tasks by &lt;x5/&gt;importing geometries&lt;x6/&gt; from a file (e.g. a GeoJSON file).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T041015Z" creationid="miurahr" creationdate="20201120T041015Z">
+        <seg>ファイル(例えばGeoJSONファイル)から&lt;x5/&gt;ジオメトリ&lt;x6/&gt;をインポートして、タスクを作成することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45949,6 +46109,14 @@ nodes and the new nodes will be selected.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Once the region is fully mapped, the user finishes it by setting the process points to the maximum value and maybe starts working on the next task.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T041119Z" creationid="miurahr" creationdate="20201120T041119Z">
+        <seg>領域が完全にマッピングされると、ユーザは進捗ポイントを最大値(100%)に設定して終了し、次のタスクを開始することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>One Way</seg>
       </tuv>
       <tuv lang="ja">
@@ -46010,6 +46178,14 @@ was open.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>このアクションに関係する1つ以上のノードがダウンロード領域の外側にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One user at a time can now work on such task and this user is able to update the &lt;x1/&gt;process&lt;x2/&gt; of the task by setting the &lt;x3/&gt;process points&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T041059Z" creationid="miurahr" creationdate="20201120T041059Z">
+        <seg>一度に1人のユーザーがそのようなタスクの作業ができるようになりました。このユーザーは、&lt;x3/&gt;進捗ポイント&lt;x4/&gt;を設定することで、タスクの&lt;x1/&gt;進捗&lt;x2/&gt;を更新できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60697,6 +60873,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Setting up MapCraft is therefore not possible anymore (if you don't want to spend hours and hours on old PHP code with broken dependencies).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T041330Z" creationid="miurahr" creationdate="20201120T041330Z">
+        <seg>したがって、MapCraftを設定することはできません(依存関係が壊れている古いPHPコードに何時間も費やしたくない場合)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Settings</seg>
       </tuv>
       <tuv lang="ja">
@@ -62517,6 +62701,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T001208Z" creationid="miurahr" creationdate="20200818T001208Z">
         <seg>従って北部キプロスの場合は、これはトルコ名になります。[[WikiProject_Cyprus#Disputed_place_names]]に細かいルールが文書化されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So yes, basically this is another tasking manager, however, this is not a clone of an existing one.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T041336Z" creationid="miurahr" creationdate="20201120T041336Z">
+        <seg>つまり、基本的にはこれは別のタスクマネージャですが、既存のもののクローンではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65404,6 +65596,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Take a look at the latest version on &lt;x3/&gt;stm.hauke-stieler.de&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T040841Z" creationid="miurahr" creationdate="20201120T040841Z">
+        <seg>最新バージョンは &lt;x3/&gt;stm.hauke-stieler.de&lt;x4/&gt;で確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Take only first X paths</seg>
       </tuv>
       <tuv lang="ja">
@@ -66696,6 +66896,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The idea behind this project is to create a simple and general purpose tasking manager for all kind of geo-related things (e.g. mapping in OSM, photography of old buildings, etc.).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T040912Z" creationid="miurahr" creationdate="20201120T040912Z">
+        <seg>このプロジェクトは、あらゆる種類の地理関連のもの(例えば、OSMでのマッピング、古い建物の写真など)のためのシンプルで汎用的なタスキングマネージャを作成することを目的としています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The image file will be permanently lost!</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201110T233003Z" creationid="miurahr" creationdate="20201110T233003Z">
@@ -67047,6 +67255,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T040121Z" creationid="miurahr" creationdate="20201120T040121Z">
         <seg>&lt;x3/&gt;client/dist/simple-taskmanager/&lt;lang&gt;&lt;x4/&gt;に出力されます。ここで&lt;lang&gt;については、英語は&lt;x5/&gt;en-US&lt;x6/&gt;、日本語は&lt;x7/&gt;ja&lt;x8/&gt;、ドイツ語は&lt;x9/&gt;de&lt;x10/&gt;です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The owner of a project is also able to invite others to a project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T041124Z" creationid="miurahr" creationdate="20201120T041124Z">
+        <seg>プロジェクトの所有者は、他のユーザをプロジェクトに招待することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68241,6 +68457,14 @@ Server message is '%2'</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is a simple structured task manager for e.g. &lt;x1/&gt;OpenStreetMap (OSM)&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T040819Z" creationid="miurahr" creationdate="20201120T040819Z">
+        <seg>これは、例えば&lt;x1/&gt;OpenStreetMap(OSM)&lt;x2/&gt;のためのシンプルな構造のタスクマネージャです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is accompanied by the copyright holder and a date of publication.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T112622Z" creationid="miurahr" creationdate="20201106T112622Z">
@@ -68469,6 +68693,14 @@ Server message is '%2'</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T054711Z" creationid="miurahr" creationdate="20200818T054711Z">
         <seg>これにより、途中の不要なノードが削減されます。特に、GPSトラックが時間別に記録されている場合(たとえば、1秒あたり1ポイント)や、精度が低い場合(「ジグザグ」トラックが削減される)に推奨されます。二</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This region is divided into smaller areas (e.g. 1x1km large squares) the so called &lt;x3/&gt;tasks&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T041007Z" creationid="miurahr" creationdate="20201120T041007Z">
+        <seg>この領域は、いわゆる&lt;x3/&gt;タスク&lt;x4/&gt;より小さな領域(たとえば、1x1kmの大きな正方形)に分割されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69195,6 +69427,14 @@ projections and retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>画像オフセットを登録するには、OSMユーザーとして登録する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To tell the Angular-compiler about the new language, add the following three parts into the &lt;x1/&gt;client/angular.json&lt;x2/&gt; for &lt;x3/&gt;&lt;langID&gt;&lt;x4/&gt;:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T040752Z" creationid="miurahr" creationdate="20201120T040752Z">
+        <seg>&lt;x3/&gt;&lt;langID&gt;&lt;x4/&gt;で示される新しい言語を、Angularコンパイラに通知するには、&lt;x1/&gt;client/angular.json&lt;x2/&gt;に次の3つの部分を追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70061,6 +70301,14 @@ or action canceled</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200827T112546Z" creationid="miurahr" creationdate="20200827T112532Z">
         <seg>交通サポート [alpha]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Translate messages.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T040633Z" creationid="miurahr" creationdate="20201120T040623Z">
+        <seg>メッセージを翻訳</seg>
       </tuv>
     </tu>
     <tu>
@@ -73997,6 +74245,14 @@ Create a new one.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Usually such region is divided into squares and only one mapper at a time works on one square.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T040947Z" creationid="miurahr" creationdate="20201120T040924Z">
+        <seg>通常、そのような領域は正方形に分割され、一度に1つのマッパーだけが、その範囲を作業します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Usually this should be fixed.</seg>
       </tuv>
       <tuv lang="ja">
@@ -76096,6 +76352,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When UI is updated and source messages.xlf changed, please repeat step 3 - 6.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T040703Z" creationid="miurahr" creationdate="20201120T040703Z">
+        <seg>UIが更新され、source messages.xlfが変更されたら、ステップ3 - 6を繰り返してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When creating a project in the Tasking Manager, you may want to have a look on the [[OSM Tasking Manager/Default roads, buildings, waterways instructions|default instructions for tagging roads, buildings, waterways]].</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200905T055012Z" creationid="miurahr" creationdate="20200905T055012Z">
@@ -76140,6 +76404,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T221006Z" creationid="miurahr" creationdate="20200818T221006Z">
         <seg>ファイルが指定されていない場合、またはファイル名が「-」の場合は、標準入力からデータが読み込まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When one user works on a task, no other user is able to also update the process of that task.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T041131Z" creationid="miurahr" creationdate="20201120T041131Z">
+        <seg>あるユーザーがタスクで作業している場合、他のユーザーはそのタスクのプロセスを更新できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -76930,6 +77202,14 @@ The tasking manager was designed and built for the [[Humanitarian OpenStreetMap 
       </tuv>
       <tuv lang="ja">
         <seg>はい、変更を保存してクローズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yet another tasking manager?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T041136Z" creationid="miurahr" creationdate="20201120T041136Z">
+        <seg>さらに別のタスクマネージャですか?</seg>
       </tuv>
     </tu>
     <tu>
