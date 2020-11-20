@@ -1767,6 +1767,14 @@ no_more_mappingを外してください)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>-c config/local.json&lt;x7/&gt; to start the server.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045541Z" creationid="miurahr" creationdate="20201120T045541Z">
+        <seg>-c config/local.json&lt;x7/&gt;を使用してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>... other transportation modes possible</seg>
       </tuv>
       <tuv lang="ja">
@@ -3774,10 +3782,46 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;x1/&gt;Important:&lt;x2/&gt; The &lt;x3/&gt;server-url&lt;x4/&gt; property has to begin with &lt;x5/&gt;https&lt;x6/&gt; in order to activate HTTPS.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T050136Z" creationid="miurahr" creationdate="20201120T050136Z">
+        <seg>&lt;x1/&gt;重要:&lt;x2/&gt;HTTPSを有効にするには、&lt;x3/&gt;server-url&lt;x4/&gt;プロパティが&lt;x5/&gt;https&lt;x6/&gt;で始まる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;x1/&gt;Notice:&lt;x2/&gt;&lt;x3/&gt;
+You have to use the &lt;x4/&gt;local.config&lt;x5/&gt; file to use this locally running OAuth server, so use &lt;x6/&gt;go run .</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045600Z" creationid="miurahr" creationdate="20201120T045514Z">
+        <seg>&lt;x1/&gt;通知:&lt;x2/&gt;&lt;x3/&gt;
+このローカル実行OAuthサーバーを使用するには、&lt;x4/&gt;local.config&lt;x5/&gt;ファイルを使用する必要があります。そのため、サーバを開始するには、&lt;x6/&gt;go run .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;x1/&gt;README&lt;x2/&gt; in the &lt;x3/&gt;client&lt;x4/&gt; folder) and access the STM application under &lt;x5/&gt;localhost:4200&lt;x6/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045850Z" creationid="miurahr" creationdate="20201120T045744Z">
+        <seg>&lt;x1/&gt;&lt;x3/&gt;client&lt;x4/&gt;フォルダのREADME&lt;x2/&gt;参照)を起動できました。&lt;x5/&gt;localhost:4200&lt;x6/&gt;のSTMアプリケーションにアクセスします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;x1/&gt;Wanna start coding?&lt;x2/&gt; Take a look at &lt;x3/&gt;doc/development/README.md&lt;x4/&gt; on how to get started.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T041437Z" creationid="miurahr" creationdate="20201120T041437Z">
         <seg>&lt;x1/&gt;コーディングを開始しますか?&lt;x2/&gt;開始する方法については、&lt;x3/&gt;doc/development/README.md&lt;x4/&gt;をご覧ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;x1/&gt;Warning:&lt;x2/&gt;
+This script will remove your &lt;x3/&gt;postgres-data&lt;x4/&gt; folder created by the &lt;x5/&gt;stm-db&lt;x6/&gt; docker container.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045937Z" creationid="miurahr" creationdate="20201120T045937Z">
+        <seg>&lt;x1/&gt;警告:&lt;x2/&gt;
+このスクリプトは、&lt;x5/&gt;stm-db&lt;x6/&gt;dockerコンテナによって作成された&lt;x3/&gt;postgres-data&lt;x4/&gt;フォルダを削除します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6920,6 +6964,14 @@ If you need further help on mapping an area see:
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After these variables are visible, start the server:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045902Z" creationid="miurahr" creationdate="20201120T045902Z">
+        <seg>次の変数が表示されたら、サーバを起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Again this is not a deliberate copyright easter egg by the map makers, though it may look a lot like one.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T124225Z" creationid="miurahr" creationdate="20201106T124225Z">
@@ -8954,6 +9006,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At least for them, you only need to set the following properties in your configuration (next to the others of course):</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T050127Z" creationid="miurahr" creationdate="20201120T050127Z">
+        <seg>少なくとも、設定で次のプロパティを設定する必要があります(もちろん、他のプロパティと一緒に)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At least one object to delete required, got empty collection</seg>
       </tuv>
       <tuv lang="ja">
@@ -10544,6 +10604,14 @@ After: wikipedia={0}:{2}</seg>
       </tuv>
       <tuv lang="ja">
         <seg>国境検査所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Both are - for ubuntu users - available in the package &lt;x5/&gt;postgresql-client&lt;x6/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045209Z" creationid="miurahr" creationdate="20201120T045209Z">
+        <seg>どちらも-ubuntuユーザー向け-&lt;x5/&gt;postgresql-client&lt;x6/&gt;パッケージで利用可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27202,6 +27270,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Everything should work now and if not, don't hesitate to raise an issue :)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045855Z" creationid="miurahr" creationdate="20201120T045855Z">
+        <seg>すべてがすぐに動作するはずです。動作しない場合は、問題を提起してください。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Example: #hotosm-project-470 #missingmaps Buildings mapping.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201112T004634Z" creationid="miurahr" creationdate="20201112T004634Z">
@@ -30108,6 +30184,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For &lt;x1/&gt;further information&lt;x2/&gt;, take a look at the &lt;x3/&gt;doc/operation/ssl-cert.md&lt;x4/&gt; file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T050143Z" creationid="miurahr" creationdate="20201120T050143Z">
+        <seg>&lt;x1/&gt;詳細情報&lt;x2/&gt;については、&lt;x3/&gt;doc/operation/ssl-cert.md&lt;x4/&gt;ファイルを参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For South and West cardinal directions you can use either negative numbers or S, W characters.</seg>
       </tuv>
       <tuv lang="ja">
@@ -30232,6 +30316,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T111706Z" creationid="miurahr" creationdate="20190107T000051Z">
         <seg>法的な理由により、これには英語だけでなくフランス語とイタリア語のものが必須です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For local development, you don't need to change anything there.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T050058Z" creationid="miurahr" creationdate="20201120T050058Z">
+        <seg>ローカル開発では、何も変更する必要はありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33108,6 +33200,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, I don't use this in practice as the &lt;x1/&gt;Dockerfile&lt;x2/&gt; for the server uses &lt;x3/&gt;go run&lt;x4/&gt; to build and directly start the server.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045952Z" creationid="miurahr" creationdate="20201120T045952Z">
+        <seg>しかし、サーバーの&lt;x1/&gt;Dockerfile&lt;x2/&gt;が&lt;x3/&gt;go run&lt;x4/&gt;を使用してサーバーをビルドして直接起動するため、実際にはこれを使用しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, after you have saved it, your language may still be shown in the missing language box with black colour and bold type.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170521T235057Z" creationid="miurahr" creationdate="20170521T235057Z">
@@ -33256,6 +33356,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ライセンス条項を読み、承諾しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I only tried it with &lt;x1/&gt;let's encrypt&lt;x2/&gt; certificates.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T050119Z" creationid="miurahr" creationdate="20201120T050119Z">
+        <seg> &lt;x1/&gt;let's encrypt&lt;x2/&gt; の証明書のみ実績があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37119,6 +37227,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Just clone the repo and start this auth server with &lt;x3/&gt;go run .&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045448Z" creationid="miurahr" creationdate="20201120T045439Z">
+        <seg>リポジトリを複製し、&lt;x3/&gt;go run&lt;x4/&gt;でこの認証サーバを起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Just off Meadow Farm Drive in Shrewsbury Google Maps shows a Kerbela Street, which does not physically exist at this location or even exist at all in Shrewsbury, according to Royal Mail.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T125231Z" creationid="miurahr" creationdate="20201106T125231Z">
@@ -39361,10 +39477,26 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Local Auth-Server</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045421Z" creationid="miurahr" creationdate="20201120T045421Z">
+        <seg>ローカル認証サーバ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Local community can also be reached in existing [[mailing lists]] and in [[List of OSM centric Slack workspaces|Slack]].</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200817T234908Z" creationid="miurahr" creationdate="20200817T234908Z">
         <seg>既存の[[mailing lists]]および[[List of OSM centric Slack workspaces Slack]]でもローカルコミュニティに連絡できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Local fake-Server emulating the OSM API</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045254Z" creationid="miurahr" creationdate="20201120T045254Z">
+        <seg>OS M APIをエミュレートするローカルのフェイクサーバ</seg>
       </tuv>
     </tu>
     <tu>
@@ -45237,6 +45369,14 @@ nodes and the new nodes will be selected.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now you can start database, server (s.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045829Z" creationid="miurahr" creationdate="20201120T045621Z">
+        <seg>これで、データベース、サーバ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now you want the translated page to get a translated title "''XX:Translated_page_name''" too.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170522T121627Z" creationid="miurahr" creationdate="20170522T121627Z">
@@ -45629,6 +45769,14 @@ nodes and the new nodes will be selected.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OSM OAuth credentials</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045357Z" creationid="miurahr" creationdate="20201120T045357Z">
+        <seg>OSM OAuth証明書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OSM Preview</seg>
       </tuv>
       <tuv lang="ja">
@@ -45705,6 +45853,14 @@ nodes and the new nodes will be selected.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>OSMデータはセッションファイルに含められます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSM dev-API with a real account</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045250Z" creationid="miurahr" creationdate="20201120T045250Z">
+        <seg>実アカウントのOSM dev-API</seg>
       </tuv>
     </tu>
     <tu>
@@ -55858,6 +56014,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Reset database</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045212Z" creationid="miurahr" creationdate="20201120T045212Z">
+        <seg>データベースのリセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Reset offset</seg>
       </tuv>
       <tuv lang="ja">
@@ -57338,6 +57502,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Run Tests</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045915Z" creationid="miurahr" creationdate="20201120T045915Z">
+        <seg>テストの実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Run a script</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200825T234504Z" creationid="miurahr" creationdate="20200825T234504Z">
@@ -57350,6 +57522,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200825T234511Z" creationid="miurahr" creationdate="20200825T234511Z">
         <seg>スクリプト''{0}''の実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Run server</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045858Z" creationid="miurahr" creationdate="20201120T045858Z">
+        <seg>サーバの実行</seg>
       </tuv>
     </tu>
     <tu>
@@ -61113,10 +61293,26 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Setup finished :)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045608Z" creationid="miurahr" creationdate="20201120T045608Z">
+        <seg>セットアップが完了しました:)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Setup the Database</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T044953Z" creationid="miurahr" creationdate="20201120T044953Z">
         <seg>データベースを設定する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Setup the Login</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045226Z" creationid="miurahr" creationdate="20201120T045226Z">
+        <seg>ログインの設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -62889,6 +63085,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So you need to have an account there and also need to register your local application the to get the OAuth credentials.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045351Z" creationid="miurahr" creationdate="20201120T045351Z">
+        <seg>したがって、OAuth認証を取得するには、そこにアカウントを持ち、ローカルアプリケーションを登録する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Soccer</seg>
       </tuv>
       <tuv lang="ja">
@@ -63845,6 +64049,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>削除の取り消しを開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start your database and call this script (from within that folder).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045156Z" creationid="miurahr" creationdate="20201120T045156Z">
+        <seg>データベースを起動し、このスクリプトを(そのフォルダ内から)呼び出します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66880,6 +67092,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The default config of the server uses the &lt;x1/&gt;development API of OSM&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045344Z" creationid="miurahr" creationdate="20201120T045344Z">
+        <seg>サーバのデフォルト設定は、&lt;x2/&gt;OSMの開発API&lt;x1/&gt;を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The default is Shift-Q.)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T053859Z" creationid="miurahr" creationdate="20200818T053859Z">
@@ -66972,6 +67192,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja">
         <seg>最初に選択したオブジェクト"{0}"はどのリレーションにも含まれていません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The folder &lt;x1/&gt;server/database/&lt;x2/&gt; contains the script &lt;x3/&gt;init-db.sh&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045150Z" creationid="miurahr" creationdate="20201120T045150Z">
+        <seg>&lt;x1/&gt;server/database/&lt;x2/&gt;フォルダには、&lt;x3/&gt;init-db.sh&lt;x4/&gt;スクリプトが含まれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67811,6 +68039,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The server starts under port &lt;x1/&gt;8080&lt;x2/&gt; and has an info page to check if it's running: &lt;x3/&gt;localhost:8080/info&lt;x4/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045912Z" creationid="miurahr" creationdate="20201120T045912Z">
+        <seg>サーバはポート&lt;x1/&gt;8080&lt;x2/&gt;で起動し、動作しているかどうかをチェックする情報ページがあります:&lt;x3/&gt;localhost:8080/info&lt;x4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The situation here is ''entirely'' different.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170521T221916Z" creationid="miurahr" creationdate="20170521T221916Z">
@@ -68171,6 +68407,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are configuration files in the folder &lt;x1/&gt;./server/config/&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045957Z" creationid="miurahr" creationdate="20201120T045957Z">
+        <seg>&lt;x1/&gt;./server/config/&lt;x2/&gt;フォルダに設定ファイルがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are currently no layers with geotagged images!</seg>
       </tuv>
       <tuv lang="ja">
@@ -68215,6 +68459,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170521T221942Z" creationid="miurahr" creationdate="20170521T221942Z">
         <seg>翻訳の成果は、ほとんどの言語でまだ初期段階です。 ウィキページの中には、より重要なページもあります。 まずはこういったところに注力しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are two approaches:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045230Z" creationid="miurahr" creationdate="20201120T045230Z">
+        <seg>2つのアプローチがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68421,6 +68673,16 @@ Server message is '%2'</seg>
       </tuv>
       <tuv lang="ja">
         <seg>インポートした内容には {0} の競合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There's also a pure local config.
+This makes use of a very simple &lt;x1/&gt;OAuth-Dummy server&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045430Z" creationid="miurahr" creationdate="20201120T045430Z">
+        <seg>純粋なローカル設定もあります。
+これは非常に単純な&lt;x1/&gt;OAuth-Dummy server&lt;x2/&gt;を利用しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68729,6 +68991,14 @@ Server message is '%2'</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is just needed if you want to get rid of the current data (e.g. after testing).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045223Z" creationid="miurahr" creationdate="20201120T045223Z">
+        <seg>これは、現在のデータを削除する場合(テスト後など)に必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is not a critical error, it should be safe to continue in your work.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T220424Z" creationid="miurahr" creationdate="20200818T220424Z">
@@ -68949,6 +69219,14 @@ Server message is '%2'</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T035759Z" creationid="miurahr" creationdate="20201120T035759Z">
         <seg>このスクリプトは、テストが実行されるデフォルトブラウザとしてFirefoxを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This script will setup the database in a docker container, fill the database with dummy data and executes the tests.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045928Z" creationid="miurahr" creationdate="20201120T045928Z">
+        <seg>このスクリプトは、Dockerコンテナにデータベースを設定し、データベースにダミーデータを追加してテストを実行します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69619,6 +69897,14 @@ projections and retry</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T114535Z" creationid="miurahr" creationdate="20200818T114535Z">
         <seg>これを修正するには、欠落しているリレーションメンバーを先にダウンロードする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To perform a login (even a login of your locally running application), you'll need OAuth credentials (so the OAuth consumer-key and -secret) within environment variables:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045405Z" creationid="miurahr" creationdate="20201120T045405Z">
+        <seg>ログインを実行するには(ローカルで実行しているアプリケーションのログインであっても)、環境変数内にOAuth証明書(つまりOAuthコンシューマキーと秘密鍵)が必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72965,6 +73251,14 @@ Create a new one.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Until there's further documentation, just take a look, the properties are quite simple and straight forward.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T050053Z" creationid="miurahr" creationdate="20201120T050003Z">
+        <seg>詳細なドキュメントが整備されるまで、ファイルを直接参照してください。プロパティは非常に単純なものばかりです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Up</seg>
       </tuv>
       <tuv lang="ja">
@@ -74181,6 +74475,14 @@ Create a new one.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use the &lt;x1/&gt;server/test/run.sh&lt;x2/&gt; script to run tests and provide the database with dummy data (required for the tests).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045923Z" creationid="miurahr" creationdate="20201120T045923Z">
+        <seg>&lt;x1/&gt;server/test/run.sh&lt;x2/&gt;スクリプトを使用してテストを実行し、ダミーデータ(テストに必要)をデータベースに提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use the current colors as a new color scheme.</seg>
       </tuv>
       <tuv lang="ja">
@@ -74441,6 +74743,14 @@ Create a new one.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201112T005232Z" creationid="miurahr" creationdate="20201112T005232Z">
         <seg>データの使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using this approach makes you independent of the OSM server and of an internet connection in general.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045454Z" creationid="miurahr" creationdate="20201120T045454Z">
+        <seg>このアプローチを使用すると、OSMサーバーや一般的なインターネット接続から独立したものになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77048,6 +77358,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>With OSM dev-API</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045302Z" creationid="miurahr" creationdate="20201120T045302Z">
+        <seg>OSM dev-APIを使用する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>With OpenStreetMap there's a very unique and distinct fingerprint evident in the data coverage and details included, and yes, in the errors made.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T124542Z" creationid="miurahr" creationdate="20201106T124542Z">
@@ -77712,6 +78030,14 @@ The tasking manager was designed and built for the [[Humanitarian OpenStreetMap 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can export these variables each time you start a new terminal or just put it into a file of your choice (e.g. &lt;x1/&gt;.bashrc&lt;x2/&gt;) to load then e.g. after your system booted.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045418Z" creationid="miurahr" creationdate="20201120T045418Z">
+        <seg>これらの変数は、新しい端末を起動するたびにエクスポートすることも、任意のファイル(&lt;x1/&gt;.bashrc&lt;x2/&gt;など)に格納してロードすることもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can find [https://wiki.osmfoundation.org/wiki/Etiquette the OSMF adopted version of the Etiquette page here], and [https://wiki.openstreetmap.org/wiki/Talk:Etiquette#History_of_the_Etiquette_Page a longer history of the development of the etiquette and moderations guidelines on the talk page].</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200817T224505Z" creationid="miurahr" creationdate="20200817T224505Z">
@@ -77996,6 +78322,14 @@ The tasking manager was designed and built for the [[Humanitarian OpenStreetMap 
       </tuv>
       <tuv lang="ja">
         <seg>円形につながったウェイの分割には、二つ以上のノードを選択する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You need the tools &lt;x1/&gt;createdb&lt;x2/&gt; and &lt;x3/&gt;psql&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045202Z" creationid="miurahr" creationdate="20201120T045202Z">
+        <seg>&lt;x1/&gt;createdb&lt;x2/&gt;と&lt;x3/&gt;psql&lt;x4/&gt;のツールが必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -79978,6 +80312,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200906T122023Z" creationid="miurahr" creationdate="20200906T122023Z">
         <seg>鐘楼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>below) and the client (s.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045841Z" creationid="miurahr" creationdate="20201120T045634Z">
+        <seg>(下記参照)、クライアント(</seg>
       </tuv>
     </tu>
     <tu>
