@@ -8026,6 +8026,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>And of course an working IDE setup of your choice (I can recommend &lt;x1/&gt;GoLand&lt;x2/&gt; as fancy-pants, &lt;x3/&gt;LiteIDE&lt;x4/&gt; as pure open-source and of course &lt;x5/&gt;vim&lt;x6/&gt; as hard-core IDE)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T041857Z" creationid="miurahr" creationdate="20201120T041857Z">
+        <seg>そしてもちろん、あなたが選択したIDE環境(&lt;x1/&gt;GoLand&lt;x2/&gt;をファンシーパンツとして、&lt;x3/&gt;LiteIDE&lt;x4/&gt;を純粋なオープンソースとして、そしてもちろん&lt;x5/&gt;vim&lt;x6/&gt;をハードコアIDEとしてお勧めできます)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Angle</seg>
       </tuv>
       <tuv lang="ja">
@@ -20846,6 +20854,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dependencies</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T041901Z" creationid="miurahr" creationdate="20201120T041901Z">
+        <seg>依存関係</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Depending on your Operating System / Distribution, you may have to create a default keyring / wallet first.</seg>
       </tuv>
       <tuv lang="ja">
@@ -21346,6 +21362,14 @@ Do you want to keep it?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>方向付き矢印</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Directly install and setup PostgreSQL server (9.6 and newer should work)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T041758Z" creationid="miurahr" creationdate="20201120T041758Z">
+        <seg>PostgreSQLサーバを直接インストールして設定する(9.6以降であれば動作します)</seg>
       </tuv>
     </tu>
     <tu>
@@ -30180,6 +30204,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For the database do &lt;x1/&gt;one&lt;x2/&gt; of the following:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T041744Z" creationid="miurahr" creationdate="20201120T041744Z">
+        <seg>次の&lt;x1/&gt;いずれか&lt;x2/&gt;のデータベースを実行すること:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For user-based bandwith limit instead of IP-based one</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201111T000419Z" creationid="miurahr" creationdate="20201111T000419Z">
@@ -33493,6 +33525,22 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you use go version &lt; 1.12 : the whole go module stuff doesn't work for you, so make sure the packages listed below are installed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T041941Z" creationid="miurahr" creationdate="20201120T041909Z">
+        <seg>go バージョンが1.12以前 の場合: goモジュール全体が動作しない場合は、以下のパッケージがインストールされていることを確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you use go version &gt;= 1.12 : nothing to do here</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T042000Z" creationid="miurahr" creationdate="20201120T042000Z">
+        <seg>go バージョン1.12以降を使用している場合: ここでは何もしません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you want mappers to work on the highest priority areas first, draw one or more polygons within the project area.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201112T004700Z" creationid="miurahr" creationdate="20201112T004700Z">
@@ -35229,6 +35277,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Install and setup docker daemon (for the PostgreSQL database; setup is described later)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T041752Z" creationid="miurahr" creationdate="20201120T041752Z">
+        <seg>dockerデーモンのインストールと設定(PostgreSQLデータベース用。設定については後述)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Install...</seg>
       </tuv>
       <tuv lang="ja">
@@ -35249,6 +35305,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>インストール済</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Installed and working go compiler (1.12 or newer to have module support)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T041714Z" creationid="miurahr" creationdate="20201120T041644Z">
+        <seg>(モジュールをサポートする1.12以降の)インストールされ動作しているgoコンパイラ</seg>
       </tuv>
     </tu>
     <tu>
@@ -55618,6 +55682,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Requirements</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T041639Z" creationid="miurahr" creationdate="20201120T041639Z">
+        <seg>必要なもの</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Research</seg>
       </tuv>
       <tuv lang="ja">
@@ -67563,6 +67635,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The server is written in go (aka golang) so you need to install go and setup your development environment (paths, IDE, etc.)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T041635Z" creationid="miurahr" creationdate="20201120T041635Z">
+        <seg>サーバはgo(別名golang)で記述されているため、goをインストールして開発環境(パス、IDEなど)を設定する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The server replied an error with code {0}.</seg>
       </tuv>
       <tuv lang="ja">
@@ -68685,6 +68765,14 @@ Server message is '%2'</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201112T004833Z" creationid="miurahr" creationdate="20201112T004833Z">
         <seg>プロジェクトにライセンス要求が設定されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This project uses the &lt;x1/&gt;go module&lt;x2/&gt; infrastructure, so e.g. &lt;x3/&gt;go build&lt;x4/&gt; installs all dependencies for you.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T044758Z" creationid="miurahr" creationdate="20201120T044758Z">
+        <seg>このプロジェクトは&lt;x1/&gt;goモジュール&lt;x2/&gt;インフラストラクチャを使用しているため、例えば&lt;x3/&gt;go build&lt;x4/&gt;はすべての依存関係をインストールします。</seg>
       </tuv>
     </tu>
     <tu>
