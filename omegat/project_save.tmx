@@ -3782,6 +3782,62 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;x1/&gt;gorilla/mux&lt;x2/&gt; to easily create simple rest endpoints</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T044818Z" creationid="miurahr" creationdate="20201120T044818Z">
+        <seg>&lt;x1/&gt;gorilla/mux&lt;x2/&gt;簡単に簡単なレストエンドポイントを作成できます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;x1/&gt;gorilla/websocket&lt;x2/&gt; for server → client communication</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T044836Z" creationid="miurahr" creationdate="20201120T044836Z">
+        <seg>&lt;x1/&gt;gorilla/websocket&lt;x2/&gt; サーバー→クライアント通信用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;x1/&gt;hauke96/kingpin&lt;x2/&gt; for cli parameter and flag parsing</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T044949Z" creationid="miurahr" creationdate="20201120T044949Z">
+        <seg>&lt;x1/&gt;hauke96/kingpin&lt;x2/&gt; CLIパラメータやフラグのパース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;x1/&gt;hauke96/sigolo&lt;x2/&gt; for logging</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T044936Z" creationid="miurahr" creationdate="20201120T044936Z">
+        <seg>&lt;x1/&gt;hauke96/sigolo&lt;x2/&gt; ロギング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;x1/&gt;kurrik/oauth1a&lt;x2/&gt; for the oauth1a authentication</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T044850Z" creationid="miurahr" creationdate="20201120T044850Z">
+        <seg>&lt;x1/&gt;kurrik/oauth1a&lt;x2/&gt; oauth1a 認証用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;x1/&gt;lib/pq&lt;x2/&gt; for a postgres database driver</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T044906Z" creationid="miurahr" creationdate="20201120T044906Z">
+        <seg>&lt;x1/&gt;lib/pq&lt;x2/&gt; PostgreSQL databaseドライバ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;x1/&gt;pkg/errors&lt;x2/&gt; better error handling and enables us to show stack traces</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T044922Z" creationid="miurahr" creationdate="20201120T044922Z">
+        <seg>&lt;x1/&gt;pkg/errors&lt;x2/&gt;エラー処理が改善され、スタックトレースを表示できる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;x1/&gt;tl;dr:&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T035902Z" creationid="miurahr" creationdate="20201120T035836Z">
@@ -33549,6 +33605,22 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you want to run it as public site, you should change to your own &lt;x1/&gt;unique and secure&lt;x2/&gt; password.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045025Z" creationid="miurahr" creationdate="20201120T045025Z">
+        <seg>パブリックサイトとして実行する場合は、独自の&lt;x1/&gt;ユニークで安全な&lt;x2/&gt;パスワードに変更する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you want to run test expressed below, user and password must be as same as the above.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045018Z" creationid="miurahr" creationdate="20201120T045018Z">
+        <seg>以下に示すテストを実行する場合、ユーザーとパスワードは上記と同じでなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you want to save the offset as bookmark, enter the bookmark name below</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T052102Z" creationid="miurahr" creationdate="20200818T052102Z">
@@ -35057,6 +35129,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>注意事項(問題が多くはない場合)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Initialize database</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045127Z" creationid="miurahr" creationdate="20201120T045127Z">
+        <seg>データベースを初期化する</seg>
       </tuv>
     </tu>
     <tu>
@@ -39741,6 +39821,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
       </tuv>
       <tuv lang="ja">
         <seg>画像を移動可能にして地図上に配置できるようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Make sure &lt;x1/&gt;psql&lt;x2/&gt; is installed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045133Z" creationid="miurahr" creationdate="20201120T045133Z">
+        <seg>&lt;x1/&gt;psql&lt;x2/&gt;がインストールされていることを確認してください</seg>
       </tuv>
     </tu>
     <tu>
@@ -60537,6 +60625,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set Database user/password as environment variable</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045011Z" creationid="miurahr" creationdate="20201120T045011Z">
+        <seg>データベースのユーザー/パスワードを環境変数として設定する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Set Tag '%1=%2' on %3</seg>
       </tuv>
       <tuv lang="ja">
@@ -61013,6 +61109,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T035527Z" creationid="miurahr" creationdate="20201120T035527Z">
         <seg>環境の設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Setup the Database</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T044953Z" creationid="miurahr" creationdate="20201120T044953Z">
+        <seg>データベースを設定する</seg>
       </tuv>
     </tu>
     <tu>
@@ -63669,6 +63773,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>検索開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start as docker container</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045029Z" creationid="miurahr" creationdate="20201120T045029Z">
+        <seg>Dockerコンテナとして起動する</seg>
       </tuv>
     </tu>
     <tu>
@@ -66340,6 +66452,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The &lt;x1/&gt;docker-compose.yml&lt;x2/&gt; defines such container, just execute &lt;x3/&gt;docker-compose up --build stm-db&lt;x4/&gt; to start it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045123Z" creationid="miurahr" creationdate="20201120T045123Z">
+        <seg> &lt;x1/&gt;docker-compose.yml&lt;x2/&gt; には、必要なコンテナを定義してあるので、 &lt;x3/&gt;docker-compose up --build stm-db&lt;x4/&gt; することで開始できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The API URL is valid.</seg>
       </tuv>
       <tuv lang="ja">
@@ -66940,6 +67060,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja">
         <seg>入出力座標参照系の形式は、PROJ.4ソフトウェアの形式と似ています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The frameworks/libraries this project uses are there in order to make the development easier:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T044804Z" creationid="miurahr" creationdate="20201120T044804Z">
+        <seg>このプロジェクトが使用するフレームワーク/ライブラリは、開発を容易にするために存在します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67663,6 +67791,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T223235Z" creationid="miurahr" creationdate="20190107T223235Z">
         <seg>サーバは、現在の変更セットが閉じられたことを報告しました。&lt;br&gt;これは、変更セットのサイズが最大値を超えた可能性が高いためです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The server requires a database called &lt;x1/&gt;stm&lt;x2/&gt; with the required tables as described below.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T044959Z" creationid="miurahr" creationdate="20201120T044959Z">
+        <seg>サーバには、&lt;x1/&gt;stm&lt;x2/&gt;という名前のデータベースと、次に説明する必要なテーブルが必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68461,6 +68597,14 @@ Server message is '%2'</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T035852Z" creationid="miurahr" creationdate="20201120T035852Z">
         <seg>これにより、&lt;x1/&gt;.js&lt;x2/&gt;と&lt;x3/&gt;.css&lt;x4/&gt;のファイルと、&lt;x5/&gt;index.html&lt;x6/&gt;が作成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This description assumes that you use docker instead of an direct installation of PostgreSQL.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045007Z" creationid="miurahr" creationdate="20201120T045007Z">
+        <seg>この説明は、PostgreSQLを直接インストールするのではなく、Dockerを使用することを想定しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -81830,6 +81974,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>done</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045035Z" creationid="miurahr" creationdate="20201120T045035Z">
+        <seg>以上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>donut</seg>
       </tuv>
       <tuv lang="ja">
@@ -90002,6 +90154,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200819T133106Z" creationid="miurahr" creationdate="20200819T133106Z">
         <seg>星</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>start database (if not already running)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T045138Z" creationid="miurahr" creationdate="20201120T045138Z">
+        <seg>データベースを起動する(まだ実行していない場合)</seg>
       </tuv>
     </tu>
     <tu>
