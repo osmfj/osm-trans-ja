@@ -23342,6 +23342,18 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Do the following steps:
+
+# Go to the edit-view of the translated version (''XX:English_page_name'') and find the code-piece like ''&lt;nowiki&gt;{{Language}}&lt;/nowiki&gt;''
+# Change this code-piece to the following: ''&lt;nowiki&gt;{{Language|English_page_name}}&lt;/nowiki&gt;''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T070733Z" creationid="miurahr" creationdate="20201120T070733Z">
+        <seg>#  翻訳版（''XX:english_page_name''）の編集ビューに移動し、''&lt;nowiki&gt;{{Language}}&lt;/nowiki&gt;''という部分を探してください。
+# この部分を、''&lt;nowiki&gt;{{Language|english_page_name}}&lt;/nowiki&gt;''という形に変更してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Do this for all current photos.</seg>
       </tuv>
       <tuv lang="ja">
@@ -74189,6 +74201,18 @@ projections and retry</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170522T122236Z" creationid="miurahr" creationdate="20170522T122236Z">
         <seg>発生を防ぐには：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To prevent this from happening:
+
+# Open again the ''XX:English_page_name'' - Oh yeah, you can't open it because you will be redirected.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T070832Z" creationid="miurahr" creationdate="20201120T070832Z">
+        <seg>これが起こることを防ぐためには:
+
+# ''XX:english_page_name''を再び開きます。 ―このページはリダイレクトになっているので開けません。</seg>
       </tuv>
     </tu>
     <tu>
