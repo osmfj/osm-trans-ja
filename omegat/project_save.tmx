@@ -2114,6 +2114,18 @@ no_more_mappingを外してください)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/div&gt;
+
+'''Additional steps:'''
+* Some templates transcluded in your translated page may need to be adapted: in some cases these are different templates rewritten in your language (also named with a language code prefix), but many templates now can autodetect the language they should display by internally using {{Tl|Langcode}} which returns the lowercase language code of the current page transcluding it, provided that this current page uses the correct language code prefix.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T070614Z" creationid="miurahr" creationdate="20201120T070614Z">
+        <seg>'''追加ステップ:'''
+* 翻訳ページに自動挿入される一部のテンプレートは、適合させる必要がある。(言語コードプレフィックスを含め)対象言語に書き直されたテンプレートが一部あるが、多くのテンプレートでは、近年は言語を自動検出して、現在のページが翻訳されている言語の小文字言語コードをかえす {{Tl|Langcode}} を内部的に用いて表示され、正しい言語コードを自動的に使えるようにします。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/p&gt;&lt;p&gt;Click again on filter button to see all objects.&lt;/p&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ja">
@@ -5404,6 +5416,14 @@ If you need further help on mapping an area see:
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Access project</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T070422Z" creationid="miurahr" creationdate="20201120T070422Z">
+        <seg>プロジェクトへアクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Access rights</seg>
       </tuv>
       <tuv lang="ja">
@@ -8305,6 +8325,14 @@ If you need further help on mapping an area see:
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201110T232946Z" creationid="miurahr" creationdate="20201110T232946Z">
         <seg>写真をGPXトラックに一致させようとしたときにエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An error ocurred</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T070151Z" creationid="miurahr" creationdate="20201120T070151Z">
+        <seg>エラーが発生しました</seg>
       </tuv>
     </tu>
     <tu>
@@ -21082,6 +21110,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Deep dive on validation with this training, which includes advanced concepts and the JOSM editor.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T070355Z" creationid="miurahr" creationdate="20201120T070355Z">
+        <seg>このトレーニングでは、先進的な概念とJOSMエディタを使用して、検証作業を深く掘り下げます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Default</seg>
       </tuv>
       <tuv lang="ja">
@@ -26456,6 +26492,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>表内のオブジェクト一覧のタグを編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Edit team</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T065833Z" creationid="miurahr" creationdate="20201120T065833Z">
+        <seg>チームの編集</seg>
       </tuv>
     </tu>
     <tu>
@@ -36721,6 +36765,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Information is not available because no projects were mapped until now.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T070123Z" creationid="miurahr" creationdate="20201120T070123Z">
+        <seg>これまでマッピングされたプロジェクトがないため、情報がありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Information using headphones or a mobile phone.</seg>
       </tuv>
       <tuv lang="ja">
@@ -40257,6 +40309,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T062940Z" creationid="miurahr" creationdate="20201120T062940Z">
         <seg>OpenStreetMapでの道路マッピング方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Learn how to start validating projects on Tasking Manager.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T070324Z" creationid="miurahr" creationdate="20201120T070255Z">
+        <seg>Tasking Managerでプロジェクトの検証をおこなう方法を学習します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45831,6 +45891,14 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Needed more mapping</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T070054Z" creationid="miurahr" creationdate="20201120T070054Z">
+        <seg>さらにマッピングが必要です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Neighbourhood</seg>
       </tuv>
       <tuv lang="ja">
@@ -46091,6 +46159,14 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>新しいツール....</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New users</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T065808Z" creationid="miurahr" creationdate="20201120T065808Z">
+        <seg>新規ユーザ</seg>
       </tuv>
     </tu>
     <tu>
@@ -46535,6 +46611,14 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No data to show yet.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T070135Z" creationid="miurahr" creationdate="20201120T070135Z">
+        <seg>表示するデータがありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No date</seg>
       </tuv>
       <tuv lang="ja">
@@ -46779,6 +46863,14 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>投影法ファイル(.prj)が見つかりません。&lt;br&gt;オリジナルイメージの投影法として、既定のイメージ投影法({0})またはJOSMの現在使用している投影法({1})を選択することができます。&lt;br&gt;(後で、イメージレイヤーの右クリックメニューから変更することができます。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No projects mapped until now.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T070102Z" creationid="miurahr" creationdate="20201120T070102Z">
+        <seg>これまでマッピングされたプロジェクトはありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49934,6 +50026,14 @@ was open.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T062451Z" creationid="miurahr" creationdate="20201120T062451Z">
         <seg>OpenStreetMapの詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenStreetMap edits stats are updated with a delay of one hour.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T070141Z" creationid="miurahr" creationdate="20201120T070141Z">
+        <seg>OpenStreetMap編集の状態は1時間遅れで更新されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53500,6 +53600,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please verify if JOSM is running on your computer and the remote control is enabled.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T065527Z" creationid="miurahr" creationdate="20201120T065527Z">
+        <seg>JOSMがコンピュータで実行されていて、リモート制御が有効になっているかどうかを確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please wait until the upload is finished.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201110T232620Z" creationid="miurahr" creationdate="20201110T232620Z">
@@ -55106,6 +55214,22 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>プロジェクトを削除しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Project statistics</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T070437Z" creationid="miurahr" creationdate="20201120T070437Z">
+        <seg>プロジェクト統計</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Project timeline</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T070217Z" creationid="miurahr" creationdate="20201120T070217Z">
+        <seg>プロジェクトのタイムライン</seg>
       </tuv>
     </tu>
     <tu>
@@ -56790,6 +56914,38 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Receive a notification every time someone posts a comment on projects or tasks you have contributed to.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T070023Z" creationid="miurahr" creationdate="20201120T070023Z">
+        <seg>あなたが貢献したプロジェクトやタスクに誰かがコメントを投稿するたびに通知を受け取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Receive an email every time your username is mentioned on a comment.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T065900Z" creationid="miurahr" creationdate="20201120T065900Z">
+        <seg>コメントにユーザー名が記載されるたびに電子メールを受信します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Receive an email when a task you have contributed to is validated.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T065944Z" creationid="miurahr" creationdate="20201120T065944Z">
+        <seg>あなたが貢献したタスクが検証されたら、Emailを受信します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Receive emails with announcements sent by team managers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T065912Z" creationid="miurahr" creationdate="20201120T065912Z">
+        <seg>チームマネージャからのアナウンスを含む電子メールを受信します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Received error page:</seg>
       </tuv>
       <tuv lang="ja">
@@ -57202,6 +57358,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>地域での名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Registered on</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T065629Z" creationid="miurahr" creationdate="20201120T065629Z">
+        <seg>登録日</seg>
       </tuv>
     </tu>
     <tu>
@@ -62127,6 +62291,14 @@ This automatically generates a language menu consisting of links to the original
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See task history</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T065724Z" creationid="miurahr" creationdate="20201120T065724Z">
+        <seg>タスクの履歴を参照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See the Wiki for other capacity:[types]=*.</seg>
       </tuv>
       <tuv lang="ja">
@@ -62507,6 +62679,14 @@ This automatically generates a language menu consisting of links to the original
       </tuv>
       <tuv lang="ja">
         <seg>選択している変更セットに存在する全てのオブジェクトを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select all tasks mapped or validated by {username}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T065830Z" creationid="miurahr" creationdate="20201120T065830Z">
+        <seg>{username}によってマッピングまたは検証されたすべてのタスクを選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -63155,6 +63335,22 @@ This automatically generates a language menu consisting of links to the original
       </tuv>
       <tuv lang="ja">
         <seg>タスクを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select tasks mapped by {username}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T065825Z" creationid="miurahr" creationdate="20201120T065825Z">
+        <seg>{username}によってマッピングされたタスクを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select tasks validated by {username}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T065822Z" creationid="miurahr" creationdate="20201120T065822Z">
+        <seg>{username}によって検証されたタスクを選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -66557,6 +66753,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some tasks were previously locked by you on this project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T065624Z" creationid="miurahr" creationdate="20201120T065624Z">
+        <seg>一部のタスクはこのプロジェクトで以前にロックされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some waypoints which were too far from the track to sensibly estimate their time were omitted.</seg>
       </tuv>
       <tuv lang="ja">
@@ -66569,6 +66773,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>トラックの開始以前又は終了以後のタイムスタンプがあるウェイポイントは、開始点に変更又は移動されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Something did not work well...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T070158Z" creationid="miurahr" creationdate="20201120T070158Z">
+        <seg>何かがうまく機能しませんでした.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69536,6 +69748,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Task link copied to the clipboard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T065729Z" creationid="miurahr" creationdate="20201120T065729Z">
+        <seg>クリップボードにコピーされたタスクリンク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Task reset</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T061350Z" creationid="miurahr" creationdate="20201120T061350Z">
@@ -69548,6 +69768,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>選択されたタスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Task selection page</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T070430Z" creationid="miurahr" creationdate="20201120T070430Z">
+        <seg>タスク選択ページ</seg>
       </tuv>
     </tu>
     <tu>
@@ -69580,6 +69808,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T062051Z" creationid="miurahr" creationdate="20201120T062051Z">
         <seg>タスク実施不可</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Task {n}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T065739Z" creationid="miurahr" creationdate="20201120T065739Z">
+        <seg>タスク {n}</seg>
       </tuv>
     </tu>
     <tu>
@@ -69636,6 +69872,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T065326Z" creationid="miurahr" creationdate="20201120T065326Z">
         <seg>検証するタスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tasks validation emails</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T065930Z" creationid="miurahr" creationdate="20201120T065930Z">
+        <seg>タスク検証の電子メール</seg>
       </tuv>
     </tu>
     <tu>
@@ -69704,6 +69948,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Team announcements emails</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T065904Z" creationid="miurahr" creationdate="20201120T065904Z">
+        <seg>チームアナウンスの電子メール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Team information</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T062218Z" creationid="miurahr" creationdate="20201120T062218Z">
@@ -69716,6 +69968,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T062159Z" creationid="miurahr" creationdate="20201120T062159Z">
         <seg>チームメンバ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Team messaging</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T065837Z" creationid="miurahr" creationdate="20201120T065837Z">
+        <seg>チームメッセージ</seg>
       </tuv>
     </tu>
     <tu>
@@ -71851,6 +72111,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T061941Z" creationid="miurahr" creationdate="20201120T061941Z">
         <seg>タスク #{taskId} が先にロックされています。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The task {id} was split and its history is not available anymore</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T065747Z" creationid="miurahr" creationdate="20201120T065747Z">
+        <seg>タスク{id}が分割され、その履歴が利用できなくなりました</seg>
       </tuv>
     </tu>
     <tu>
@@ -74365,6 +74633,14 @@ projections and retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Total</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T065758Z" creationid="miurahr" creationdate="20201120T065758Z">
+        <seg>合計</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Total Map Edits</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T060240Z" creationid="miurahr" creationdate="20201120T060240Z">
@@ -75468,6 +75744,14 @@ or action canceled</seg>
       </tuv>
       <tuv lang="ja">
         <seg>変圧・変換機の種類</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Type only your username, not the URL.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T065856Z" creationid="miurahr" creationdate="20201120T065856Z">
+        <seg>URLではなく、ユーザー名だけを入力してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78827,6 +79111,14 @@ Create a new one.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Username on {org} Slack</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T065851Z" creationid="miurahr" creationdate="20201120T065851Z">
+        <seg>{org} Slack上のユーザー名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Username/password invalid</seg>
       </tuv>
       <tuv lang="ja">
@@ -79203,6 +79495,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T062158Z" creationid="miurahr" creationdate="20201120T062158Z">
         <seg>検証チーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Validation training</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T070331Z" creationid="miurahr" creationdate="20201120T070331Z">
+        <seg>検証のトレーニング</seg>
       </tuv>
     </tu>
     <tu>
@@ -82378,6 +82678,14 @@ The tasking manager was designed and built for the [[Humanitarian OpenStreetMap 
       </tuv>
       <tuv lang="ja">
         <seg>''{0}'' としてログイン中です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You are not a manager of this organisation, so you are not allowed to edit it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T070239Z" creationid="miurahr" creationdate="20201120T070239Z">
+        <seg>あなたはこの組織の管理者ではないので、編集は許可されていません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -99307,6 +99615,22 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201112T004049Z" creationid="miurahr" creationdate="20201112T004049Z">
         <seg>{type} が正常に削除されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{user} mapped</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T070035Z" creationid="miurahr" creationdate="20201120T070035Z">
+        <seg>マッピングした{user}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{user} validated</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T070043Z" creationid="miurahr" creationdate="20201120T070043Z">
+        <seg>検証した{user}</seg>
       </tuv>
     </tu>
     <tu>
