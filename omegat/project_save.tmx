@@ -7356,6 +7356,14 @@ If you need further help on mapping an area see:
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All other places just return the error because it's already wrapped (and therefore will already produce a stack trace).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T050331Z" creationid="miurahr" creationdate="20201120T050331Z">
+        <seg>他のすべての場所は、すでにラップされている(したがってスタックトレースを生成する)ため、エラーを返します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All projections are supported</seg>
       </tuv>
       <tuv lang="ja">
@@ -21250,6 +21258,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Development</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T050147Z" creationid="miurahr" creationdate="20201120T050147Z">
+        <seg>開発</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Development of the turn restriction plugin was sponsored by &lt;a href="http://www.skobbler.de"&gt;skobbler GmbH&lt;/a&gt;.</seg>
       </tuv>
       <tuv lang="ja">
@@ -26660,6 +26676,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201110T235823Z" creationid="miurahr" creationdate="20201110T235823Z">
         <seg>レイヤーの取得中にエラーが発生しました:{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Error handling</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T050150Z" creationid="miurahr" creationdate="20201120T050150Z">
+        <seg>エラー処理</seg>
       </tuv>
     </tu>
     <tu>
@@ -43667,6 +43691,14 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>新しい既定の項目は &lt;a href="{0}"&gt;Wiki&lt;/a&gt; から追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New errors should also be created using &lt;x1/&gt;errors.New(...)&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T050400Z" creationid="miurahr" creationdate="20201120T050400Z">
+        <seg>新しいエラーは、 &lt;x1/&gt;errors.New(...)&lt;x2/&gt;を使用して生成されす。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69535,6 +69567,14 @@ This makes use of a very simple &lt;x1/&gt;OAuth-Dummy server&lt;x2/&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This will later result in a nice stack trace when the HTTP response is created.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T050321Z" creationid="miurahr" creationdate="20201120T050321Z">
+        <seg>これにより、後でHTTPレスポンスが作成されたときにスタックトレースが良好になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Those nodes are not in a circle.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T050832Z" creationid="miurahr" creationdate="20200818T050832Z">
@@ -77010,6 +77050,22 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T001338Z" creationid="miurahr" creationdate="20200818T001338Z">
         <seg>エリアにはっきりと持続的な統治が存在しない場合、例えば[[WikiProject_Kosovo|コソボ]]、ケースバイケースの基準に基づく特別な考慮が必要でしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Whenever an error from a library/framework (e.g. in a database store) is returned, wrap it using &lt;x1/&gt;errors.Wrap(err)&lt;x2/&gt; (from the &lt;x3/&gt;github.com/pkg/errors&lt;x4/&gt; package) and return that.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T050316Z" creationid="miurahr" creationdate="20201120T050316Z">
+        <seg>ライブラリ/フレームワーク(例:データベースストア)からエラーが返された場合は、(&lt;x3/&gt;github.com/pkg/errors&lt;x4/&gt;パッケージから)&lt;x1/&gt;error.Wrap(err)&lt;x2/&gt;を使用し、返します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Whenever catching, creating or wrapping an error, feel free to print additional information using &lt;x1/&gt;sigolo.Error(...)&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201120T050455Z" creationid="miurahr" creationdate="20201120T050455Z">
+        <seg>エラーをキャッチ、作成、またはラップする場合は、いつでも &lt;x1/&gt;sigolo.Error(...)&lt;x2/&gt;を使用して、追加情報を表示できるようにできます。</seg>
       </tuv>
     </tu>
     <tu>
