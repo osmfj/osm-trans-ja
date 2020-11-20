@@ -98,10 +98,20 @@ OSM Wiki
 
 * プロジェクトURL: https://wiki.openstreetmap.org/
 
+* 翻訳作業に使用するファイルの取得: OmegaTのWikimediaからのダウンロード機能で取得する
+* Wikiへの反映： 訳文ファイルをエディタでひらき、ブラウザからWikiへはりつけてを更新する。
+
 Simple task manager
 ---
 
 * https://github.com/hauke96/simple-task-manager
+
+* 翻訳作業に使用するファイル: githubから取得
+  * messages.ja.xlf: simple-task-manager_messages.ja.xlf に改名して追加されている
+  * README.md, client/README.md, server/README.md: simple-task-manager_*_README.mdに改名して追加
+
+* プロジェクトへの反映: 更新してPull-Requestを発行する
+
 
 Tasking manager
 ---
@@ -109,6 +119,9 @@ Tasking manager
 * プロジェクトURL: https://github.com/hotosm/tasking-manager/
 * 翻訳への参加方法: https://github.com/hotosm/tasking-manager/blob/develop/docs/contributing-translation.md
 * 翻訳プロジェクト: https://www.transifex.com/hotosm/tasking-manager/dashboard/
+
+* 翻訳作業に使用するファイル: github から取得した英語版jsonファイル
+* Transifex更新に使用するファイル: TransifexからXLIFFをダウンロードし、Okapi pluginのXLIFFフィルタで生成した訳文XLIFFをアップロード
 
 
 ###### tags: `翻訳`, `OpenStreetMap`, `Wiki`, `翻訳`, `コミュニティ`
