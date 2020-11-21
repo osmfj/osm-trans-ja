@@ -14976,6 +14976,14 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click on the map to select a task.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201121T001046Z" creationid="miurahr" creationdate="20201121T001046Z">
+        <seg>マップ上でクリックしてタスクを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click on the way to start improving its shape.</seg>
       </tuv>
       <tuv lang="ja">
@@ -46887,6 +46895,14 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No polygons exist or data has unknown format.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201121T001026Z" creationid="miurahr" creationdate="20201121T001026Z">
+        <seg>ポリゴンが存在しないか、データの形式が不明です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No problems found</seg>
       </tuv>
       <tuv lang="ja">
@@ -68398,6 +68414,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Subdivide:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201121T001121Z" creationid="miurahr" creationdate="20201121T001121Z">
+        <seg>分割数:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Subject</seg>
       </tuv>
       <tuv lang="ja">
@@ -68698,6 +68722,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>サポートされたフォーマット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Supported formats are: GeoJson, OSM-XML, GPX, KML, EsriJson and WKT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201121T001037Z" creationid="miurahr" creationdate="20201121T001037Z">
+        <seg>対応フォーマットは、GeoJson、OSM-XML、GPX、KML、EsriJson、およびWKTです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69924,6 +69956,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T065930Z" creationid="miurahr" creationdate="20201120T065930Z">
         <seg>タスク検証の電子メール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tasks:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>タスク:</seg>
       </tuv>
     </tu>
     <tu>
@@ -72571,6 +72611,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
       </tuv>
       <tuv lang="ja">
         <seg>更新するオブジェクトが選択されていません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are no tasks here yet.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201121T001011Z" creationid="miurahr" creationdate="20201121T001011Z">
+        <seg>ここにはまだタスクがありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78987,6 +79035,14 @@ Create a new one.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>警告を抑制するために、無視するリストを使用する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the pencil-tool to draw tasks or import tasks via the "Upload" or "Remote" tab.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201121T001021Z" creationid="miurahr" creationdate="20201121T001021Z">
+        <seg>鉛筆ツールを使用してタスクを描画するか、「アップロード」または「リモート」タブからタスクをインポートします。</seg>
       </tuv>
     </tu>
     <tu>
