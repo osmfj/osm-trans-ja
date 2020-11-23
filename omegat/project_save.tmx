@@ -1556,6 +1556,22 @@ no_more_mappingを外してください)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* &lt;strike&gt;In Langenstein, Saxony-Anhalt, Germany, there is a whole block of streets [http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=de&amp;q=langenstein&amp;sll=37.71859,7.910156&amp;sspn=60.733025,107.138672&amp;ie=UTF8&amp;hq=&amp;hnear=Langenstein,+Harz,+Sachsen-Anhalt,+Deutschland&amp;ll=51.847961,10.992336&amp;spn=0.005925,0.013078&amp;t=h&amp;z=17 in a forest/on a mountain].&lt;/strike&gt; fixed, apparently an error
+
+=== Ordnance Survey vs Automobile Association ===
+[[Image:19990808 AA in 20m battle over copied OS maps.jpg|thumb|[http://www.opinion.telegraph.co.uk/htmlContent.jhtml?html=/archive/1999/08/08/naa08.html The AA copied some of the faked features on OS maps] (''The Telegraph'', 8 August 1999) (link broken)]]
+Ordnance Survey Maps sued the Automobile Association for copying their maps and diffusing the results to individuals as well as to third party mappers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T120744Z" creationid="miurahr" creationdate="20201123T120744Z">
+        <seg>* &lt;strike&gt;In Langenstein, Saxony-Anhalt, Germany, there is a whole block of streets [http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=de&amp;q=langenstein&amp;sll=37.71859,7.910156&amp;sspn=60.733025,107.138672&amp;ie=UTF8&amp;hq=&amp;hnear=Langenstein,+Harz,+Sachsen-Anhalt,+Deutschland&amp;ll=51.847961,10.992336&amp;spn=0.005925,0.013078&amp;t=h&amp;z=17 in a forest/on a mountain].&lt;/strike&gt; fixed, apparently an error
+
+=== Ordnance Survey vs 自動車協会(AA) ===
+[[Image:19990808 AA in 20m battle over copied OS maps.jpg|thumb|[http://www.opinion.telegraph.co.uk/htmlContent.jhtml?html=/archive/1999/08/08/naa08.html The AA copied some of the faked features on OS maps] (''The Telegraph'', 8 August 1999) (link broken)]]
+著作権のある地図をコピーして、その結果として第三者の地図作成者だけでなく、個人にも拡散させたとして、Ordnance Survey Mapsはイギリス自動車協会(AA)を訴えました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* And sometimes the best option is to take a break, if we realize it or not.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200817T231849Z" creationid="miurahr" creationdate="20200817T231849Z">
@@ -4310,6 +4326,16 @@ Copyright law, as it applies to maps, is in key part of the reason for making Op
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>== Road signs that lie ==
+There are also cases where the street signs are incorrect, but the maps are correct.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T120828Z" creationid="miurahr" creationdate="20201123T120828Z">
+        <seg>==嘘の道路標識===
+道路標識は間違っていますが、地図は正しい場合もあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>== See also ==
 * [[Community Code of Conduct (Draft)]]
 * [[Diversity/MailingList/CodeOfConduct|Code of Conduct for the diversity-talk@ mailing list]], which is used there instead of this Etiquette guide.</seg>
@@ -4373,6 +4399,16 @@ Wiki translation is taking place on a somewhat ad-hoc basis, and you are encoura
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170521T221940Z" creationid="miurahr" creationdate="20170521T221940Z">
         <seg>しかし、私たち自身もまた、一つのコミュニティとして、一丸となってまとまっていたいのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>=== Anachronisms ===
+A stretch of road in northern New Jersey is known and mapped as New Jersey Route 24 along County Routes 517, 513, and 510, although a freeway was built with that designation between I-78 and I-287, and in 1993 the old Route 24 ceased to exist, although resident resistance has kept the old Route 24 signs standing since they know the road as such.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T120956Z" creationid="miurahr" creationdate="20201123T120956Z">
+        <seg>===時代錯誤====
+ニュージャージー州北部の道路は、郡のルート517、513、510に沿ってニュージャージー州24号線として知られ、マッピングされています。ただし、I-78とI-287の間にフリーウェイが建設され、1993年には古い24号線は存在しなくなりました。ただし、住民の抵抗で、古い24号線の標識を維持しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8344,6 +8380,14 @@ If you need further help on mapping an area see:
       </tuv>
       <tuv lang="ja">
         <seg>空の値でタグを削除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An error between the TIGER imports, Tele Atlas and Navteq is the designation of County Routes 649 and 633 as County Routes 15 and 33 (and CR 728 as 33B); these were designations set forth by Cumberland County until standardisation under the current county route system.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T120342Z" creationid="miurahr" creationdate="20201123T120342Z">
+        <seg>TIGERのインポート、テレアトラス、Navteqの間のエラーは、郡のルート15と33として郡のルート649と633(および33BとしてCR728)が指定されていることです。これらは、現在の郡のルートシステムで標準化されるまで、カンバーランド駅郡によって指定されていました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16647,6 +16691,14 @@ After: wikipedia={0}:{2}</seg>
       </tuv>
       <tuv lang="ja">
         <seg>比較</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Compared to this sum, the AA has an annual cash flow of about £30 million.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T120812Z" creationid="miurahr" creationdate="20201123T120403Z">
+        <seg>この合計と比較して、AAの年間キャッシュフローは約30,000,000ポンドですので、完全に損失です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31843,6 +31895,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For instance, the [http://www.sabre-roads.org.uk/forum/viewtopic.php?p=100605&amp;highlight=&amp;sid=c86638ebbfe2eb7f4fb5762fdc63a509| B550]from Highgate in London to Whetstone (according to official sources at the Department for Transport, and according to OS, Bartholomew, Tele Atlas and Mapquest Maps).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T120919Z" creationid="miurahr" creationdate="20201123T120919Z">
+        <seg>たとえば [http://www.sabre-roads.org.uk/forum/viewtopic.php?p=100605&amp;highlight=&amp;sid=c86638ebbfe2eb7f4fb5762fdc63a509| B550]HighgateからWhetstoneへ (運輸省の公式ソースと、OS、バーソロミュー、テレアトラス、Mapquest Mapsによると)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For legal reasons, this must be in [[License/Contributor Terms/FR|French]] and [[License/Contributor Terms/IT|Italian]] as well as English.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T111706Z" creationid="miurahr" creationdate="20190107T000051Z">
@@ -43344,6 +43404,22 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Maximum length (in meters) to draw lines for local files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121216Z" creationid="miurahr" creationdate="20201123T121216Z">
+        <seg>ローカルファイルで線を描画する最大長(m)です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Maximum length (in meters) to draw lines.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121241Z" creationid="miurahr" creationdate="20201123T121241Z">
+        <seg>線を描画する最大長(m)です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Maximum length (meters)</seg>
       </tuv>
       <tuv lang="ja">
@@ -44652,6 +44728,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
       </tuv>
       <tuv lang="ja">
         <seg>モペッド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>More anachronisms are found in [http://maps.live.com/default.aspx?v=2&amp;FORM=LMLTCP&amp;cp=39.250201~-75.027351&amp;style=r&amp;lvl=14&amp;tilt=-90&amp;dir=0&amp;alt=-1000&amp;scene=17900263&amp;phx=0&amp;phy=0&amp;phscl=1&amp;encType=1 Port Norris, New Jersey], where Strawberry Avenue is marked as County Route 680, High Street is CR 631 and Ogden Avenue is CR 632.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121029Z" creationid="miurahr" creationdate="20201123T121029Z">
+        <seg>ほかにも時代錯誤をみつけることができます。 [http://maps.live.com/default.aspx?v=2&amp;FORM=LMLTCP&amp;cp=39.250201~-75.027351&amp;style=r&amp;lvl=14&amp;tilt=-90&amp;dir=0&amp;alt=-1000&amp;scene=17900263&amp;phx=0&amp;phy=0&amp;phscl=1&amp;encType=1 Port Norris, New Jersey],ここでは、Strawberry Avenueは郡道680、ハイ・ストリート駅はCR631、Ogden AvenueはCR632とマークされています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56265,6 +56349,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Quality (RTKLib only, if available)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121147Z" creationid="miurahr" creationdate="20201123T121147Z">
+        <seg>精度 (RTKLibのみ、存在する場合)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Quarry</seg>
       </tuv>
       <tuv lang="ja">
@@ -64792,6 +64884,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set to ''-1'' to draw all lines.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121226Z" creationid="miurahr" creationdate="20201123T121226Z">
+        <seg>''-1''にすると全ての線を描きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Set track visibility for {0}</seg>
       </tuv>
       <tuv lang="ja">
@@ -66888,6 +66988,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some 26 maps from AA were proven in court to be more or less direct copies of OS maps, or to incorporate data from OS maps.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T120439Z" creationid="miurahr" creationdate="20201123T120439Z">
+        <seg>AAからの26本の地図は、多かれ少なかれOS地図の直接的なコピーであること、またはOS地図からのデータを組み込むことが法廷で証明されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some companies would place hidden words encoded along the edge of a feature represented by regular length segments representing dots and dashes.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T125557Z" creationid="miurahr" creationdate="20201106T125557Z">
@@ -68717,6 +68825,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201110T235011Z" creationid="miurahr" creationdate="20201110T235011Z">
         <seg>以降のデータアップロード要求では、パスワードは使用されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Subsequently, the AA agreed to an out-of-court settlement of £20 million as compensation for other instances of copyright infringement.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T120409Z" creationid="miurahr" creationdate="20201123T120409Z">
+        <seg>その後、AAは著作権侵害の他の事例に対する補償として、20,000,000ポンドの示談に合意しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70803,6 +70919,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The AA was fined almost million pounds for infringement of copyright.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T120420Z" creationid="miurahr" creationdate="20201123T120420Z">
+        <seg>AAは著作権侵害でほぼ100万ポンドの罰金を科せられました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The API URL is valid.</seg>
       </tuv>
       <tuv lang="ja">
@@ -72830,6 +72954,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are road signs at the Colney Hatch intersection on the A406 North Circular Road that shows it as the B550 in one direction and B505 in another.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T120356Z" creationid="miurahr" creationdate="20201123T120356Z">
+        <seg>A406A406道路のコルネーハッチ交差点には、B550とB505という道路標識があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are some wiki pages which are more important than others, so concentrate on these pages first.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170521T221942Z" creationid="miurahr" creationdate="20170521T221942Z">
@@ -73066,6 +73198,14 @@ This makes use of a very simple &lt;x1/&gt;OAuth-Dummy server&lt;x2/&gt;.</seg>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T045430Z" creationid="miurahr" creationdate="20201120T045430Z">
         <seg>純粋なローカル設定もあります。
 これは非常に単純な&lt;x1/&gt;OAuth-Dummy server&lt;x2/&gt;を利用しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These designations were removed in the late 1980s when the oyster industry collapsed, but the signs remain and the roads are mapped as such.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T120329Z" creationid="miurahr" creationdate="20201123T120329Z">
+        <seg>これらの指定は、カキ産業が崩壊した1980年代後半に削除されましたが、標識は残っており、道路はそのようにマッピングされています。</seg>
       </tuv>
     </tu>
     <tu>
