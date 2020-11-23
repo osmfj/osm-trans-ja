@@ -1229,6 +1229,18 @@ On most maps you'll find a copyright, trademark symbol or something similar that
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Good motivation to make a better map here on OSM!)
+
+* Bonn, Germany: [http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;ie=UTF8&amp;t=h&amp;ll=50.757809,7.079664&amp;spn=0.001493,0.003412&amp;z=18 Non-existing pathway].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T120050Z" creationid="miurahr" creationdate="20201123T120050Z">
+        <seg>(OSMでは、ここによい地図をつくろうという良い動機があります!)
+
+* Bonn, Germany: [http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;ie=UTF8&amp;t=h&amp;ll=50.757809,7.079664&amp;spn=0.001493,0.003412&amp;z=18 Non-existing pathway].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Hint: Select nodes in the middle of the way.)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T114420Z" creationid="miurahr" creationdate="20200818T114420Z">
@@ -1738,6 +1750,24 @@ no_more_mappingを外してください)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* [http://maps.google.com/?ie=UTF8&amp;ll=55.918562,-3.139386&amp;spn=0.003174,0.008057&amp;z=17 Oxygen Street] doesn't exist in this part of Edinburgh
+
+* [http://tools.geofabrik.de/mc/#16/51.56494/0.4308701 Basildon] Tele Atlas again: A couple of residential roads where the casual / unobservant visitor would be fooled into thinking they were in woodland with footpaths....--[[User:Mark.666@blueyonder.co.uk|DrMark]] 13:18, 12 July 2008 (UTC)
+
+* There are (at least) two mistakes/easter eggs in the map of Hilden (Germany):
+*# [http://maps.google.de/?ie=UTF8&amp;ll=51.18573,6.92131&amp;z=17 Grünewaldstraße] - There appears a sidestreet "Grünewaldstraße" south to the street named "Grünewald".</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T115537Z" creationid="miurahr" creationdate="20201123T115537Z">
+        <seg>* [http://maps.google.com/?ie=UTF8&amp;ll=55.918562,-3.139386&amp;spn=0.003174,0.008057&amp;z=17 Oxygen Street] は、エジンバラのこの場所にありません。
+
+* [http://tools.geofabrik.de/mc/#16/51.56494/0.4308701 Basildon] テレアトラス再登場: 住宅道路のいくつかについて、住民でなければ、遊歩道のある森だと誤認するでしょう。--[[User:Mark.666@blueyonder.co.uk|DrMark]] 13:18, 12 July 2008 (UTC)
+
+* There are (at least) two mistakes/easter eggs in the map of Hilden (Germany):
+*# [http://maps.google.de/?ie=UTF8&amp;ll=51.18573,6.92131&amp;z=17 Grünewaldstraße] - There appears a sidestreet "Grünewaldstraße" south to the street named "Grünewald".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* [http://maps.google.com/maps?t=h&amp;ll=52.552128,-1.859822&amp;spn=0.004593,0.00839&amp;t=h Warwick Road and Tudor Close  - Sutton Coldfield] shows up a good example of a Tele Atlas Easter egg.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201110T075144Z" creationid="miurahr" creationdate="20201110T074915Z">
@@ -1760,6 +1790,14 @@ no_more_mappingを外してください)</seg>
       </tuv>
       <tuv lang="ja">
         <seg>* あなたが所有するプロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*# [http://maps.google.de/maps?q=schwannenplatz+hilden Schwannenplatz] - The street "Schwanenplatz" is (deliberately?) wrongly named "Schwannenplatz".</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T115700Z" creationid="miurahr" creationdate="20201123T115700Z">
+        <seg>*# [http://maps.google.de/maps?q=schwannenplatz+hilden Schwannenplatz] -  "Schwanenplatz" ストリートは、 (意識的に?) 誤って "Schwannenplatz"と命名されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8029,6 +8067,14 @@ If you need further help on mapping an area see:
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Also, many places Tele Atlas miss intersections or they have added where it shouldn't be.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T120002Z" creationid="miurahr" creationdate="20201123T120002Z">
+        <seg>また、テレアトラスが交差点を見逃したり、交差点があってはならない場所に追加されたりしている場所も多くあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Also, some publishers (listed and attributed below) allow their data to be included in OpenStreetMap.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200813T125632Z" creationid="miurahr" creationdate="20200813T125632Z">
@@ -9339,6 +9385,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>美術作品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As the housenumbers suggest, this "Grünewaldstraße" is in fact named "Grünewald", too.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T115553Z" creationid="miurahr" creationdate="20201123T115553Z">
+        <seg>住居番号が示すように、この「Grünewaldstraße」は実際には「Grünewald」とも呼ばれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31781,6 +31835,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For instance, if all the coordinates had a remainder of 3 when divided by seven, or were all displaced from their real coordinates by some small but real offset.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T120143Z" creationid="miurahr" creationdate="20201123T120143Z">
+        <seg>たとえば、7で割ったときにすべての座標が3の剰余を持つ場合や、すべての座標が実際の座標から小さくて実際のオフセットだけ離れている場合です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For legal reasons, this must be in [[License/Contributor Terms/FR|French]] and [[License/Contributor Terms/IT|Italian]] as well as English.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T111706Z" creationid="miurahr" creationdate="20190107T000051Z">
@@ -34317,6 +34379,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Highway 9] &lt;s&gt;is routed along New Jersey Route 52, 9th Street, and County Routes 619 and 623 around Great Egg Harbor Bay.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T115928Z" creationid="miurahr" creationdate="20201123T115928Z">
+        <seg>Highway9]&lt;s&gt;は、ニュージャージー州のルート52、9番目の通り、郡のルート619と623に沿って、グレートエッグハーバーベイの周りを通っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Highway duplicated nodes</seg>
       </tuv>
       <tuv lang="ja">
@@ -36378,6 +36448,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T012930Z" creationid="miurahr" creationdate="20200818T012917Z">
         <seg>このFAQに加えて、協働的に編集されている [[help.openstreetmap.org|Q&amp;A サイト]]があり、 OpenStreetMap についてより多くの質問を読むことができ、あなた自身で質問することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition, the German postal code lookup server does not recognise a "Grünewaldstraße" in Hilden.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T115604Z" creationid="miurahr" creationdate="20201123T115604Z">
+        <seg>さらに、ドイツの郵便番号検索サーバーは、Hildenの「Grünewaldstraße」を認識しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66730,6 +66808,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So don't use digital map coordinates from proprietary sources even if you were to compare every intersection and shape point on the map!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T120124Z" creationid="miurahr" creationdate="20201123T120124Z">
+        <seg>したがって、たとえ地図上のすべての交差点やシェイプポイントを比較したとしても、プロプラエタリなソースからのデジタルマップ座標を使用しないでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>So in the case of North Cyprus, this would be the Turkish names.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T001208Z" creationid="miurahr" creationdate="20200818T001208Z">
@@ -71393,6 +71479,18 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The funny point with this is, that Google itself suggests the right name :-)
+
+* [http://maps.google.co.uk/maps?f=q&amp;hl=en&amp;q=luther+grove,+st.+helens&amp;sll=53.800651,-4.064941&amp;sspn=8.519629,27.773438&amp;ie=UTF8&amp;ll=53.449417,-2.683588&amp;spn=0.001048,0.00339&amp;t=h&amp;z=18 St. Helens, UK] shows "Hobbs Place" noted on the map, but on the satellite imagery you can see the road doesn't actually exist.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T115902Z" creationid="miurahr" creationdate="20201123T115902Z">
+        <seg>面白いことに、google自身が正しい名前を提案しています:-)
+
+* [http://maps.google.co.uk/maps?f=q&amp;hl=en&amp;q=luther+grove,+st.+helens&amp;sll=53.800651,-4.064941&amp;sspn=8.519629,27.773438&amp;ie=UTF8&amp;ll=53.449417,-2.683588&amp;spn=0.001048,0.00339&amp;t=h&amp;z=18 St. Helens, UK] は、地図上の "Hobbs Place"を示していますが、衛星画像では実際には存在していません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The geographic latitude at the mouse pointer.</seg>
       </tuv>
       <tuv lang="ja">
@@ -71581,6 +71679,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja">
         <seg>経度は{0}～{1}の範囲でなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The lower bits of the geographic coordinates are mangled in some systematic way so that it would not be obvious to a user of the map, but could be used in a Copyright trial to show that the data had been copied.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T120320Z" creationid="miurahr" creationdate="20201123T120320Z">
+        <seg>地理座標の下位ビットは、ウェイのユーザには明らかではないが、データがコピーされたことを示すために著作権裁判で使用されることができるように、いくつかの系統的な方法で改変されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71992,6 +72098,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
       </tuv>
       <tuv lang="ja">
         <seg>''/REVISION''で指定されたリビジョンファイルが見つかりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The roads are now  [https://www.openstreetmap.org/index.html?lat=51.4627715905566&amp;lon=-0.163157784006911&amp;zoom=16 mapped on OSM].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T115321Z" creationid="miurahr" creationdate="20201123T115321Z">
+        <seg>この道は、現在  [https://www.openstreetmap.org/index.html?lat=51.4627715905566&amp;lon=-0.163157784006911&amp;zoom=16 mapped on OSM] にあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73200,6 +73314,14 @@ This makes use of a very simple &lt;x1/&gt;OAuth-Dummy server&lt;x2/&gt;.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>選択したタスクを、指定した形状とサイズの、小さなタスクに分割します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This easter egg was removed from Google maps at some point towards the end of 2006.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T115256Z" creationid="miurahr" creationdate="20201123T115256Z">
+        <seg>このイースターエッグは2006年末にGoogleマップから削除されました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -81987,6 +82109,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>{0}の履歴をどのウェイ区間で再利用しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>While this may be due to the fact that the Beesley's Point Bridge (the span to the left of the Garden State Parkway) is closed indefinitely, the fact is that US 9 has not been officially rerouted off of the closed bridge.&lt;/s&gt; Google has since moved the US 9 markings to the Garden State Parkway, which is an alternative to the closed Beesley's Point Bridge but is not the official route.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T115955Z" creationid="miurahr" creationdate="20201123T115955Z">
+        <seg>これは、BeesleyのPoint Bridge(ガーデン・ステイト公園道路の左側のスパン)が無期限に閉じられているという事実によるものかもしれませんが、US9が閉じられた橋から正式にルート変更されていないという事実です。&lt;/s&gt;Googleはその後、US9のマーキングをガーデン・ステイト公園道路に移動しました。これは、閉じられたBeesleyのPoint Bridgeの代替ルートですが、公式ルートではありません。</seg>
       </tuv>
     </tu>
     <tu>
