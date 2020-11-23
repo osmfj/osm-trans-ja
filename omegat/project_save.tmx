@@ -7743,6 +7743,14 @@ If you need further help on mapping an area see:
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All points and track segments will have their own color.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121254Z" creationid="miurahr" creationdate="20201123T121254Z">
+        <seg>すべての点とトラック区間が独自の色を持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All projections are supported</seg>
       </tuv>
       <tuv lang="ja">
@@ -8885,6 +8893,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>見た目をスムースにするため、マップ表示にアンチエイリアス処理をかける。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Apply dynamic alpha-blending and adjust width based on zoom level for all GPX lines.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121320Z" creationid="miurahr" creationdate="20201123T121320Z">
+        <seg>すべてのGPXの線に対して、ダイナミックなアルファブレンドを適用し、ズームレベルに基づいて幅を調整します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12299,6 +12315,14 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Can be customized in Layer Manager.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121301Z" creationid="miurahr" creationdate="20201123T121301Z">
+        <seg>レイヤーマネージャーでカスタマイズできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Can not align a polygon.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T023319Z" creationid="miurahr" creationdate="20200818T023319Z">
@@ -12983,6 +13007,14 @@ After: wikipedia={0}:{2}</seg>
       </tuv>
       <tuv lang="ja">
         <seg>未決の競合を解決できません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cannot restore window geometry from preferences.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121735Z" creationid="miurahr" creationdate="20201123T121735Z">
+        <seg>設定からウィンドウ位置を復元できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13739,6 +13771,14 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Change the language of JOSM.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121634Z" creationid="miurahr" creationdate="20201123T121634Z">
+        <seg>JOSMの言語を変更します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Change the projection again or remove the layer.</seg>
       </tuv>
       <tuv lang="ja">
@@ -14151,6 +14191,14 @@ After: wikipedia={0}:{2}</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T062721Z" creationid="miurahr" creationdate="20201120T062716Z">
         <seg>ブラウザのURLがメールで送信されたURLと一致しているか確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Check if you feel opposite direction more convenient</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121620Z" creationid="miurahr" creationdate="20201123T121620Z">
+        <seg>方向の逆の方が便利だと思うかどうかをチェック</seg>
       </tuv>
     </tu>
     <tu>
@@ -16223,6 +16271,14 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Collected points and track segments for a position and displayed as heat map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121515Z" creationid="miurahr" creationdate="20201123T121515Z">
+        <seg>収集した位置の点と区間をヒートマップとして表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Collection must contain at least one condition</seg>
       </tuv>
       <tuv lang="ja">
@@ -16343,10 +16399,26 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Colors points and track segments by RTKLib quality flag (Q).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121432Z" creationid="miurahr" creationdate="20201123T121432Z">
+        <seg>点や区間をRTKlibの精度フラグ(Q)で色分けします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Colors points and track segments by data limits.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>点や区間をデータの範囲で色分けする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Colors points and track segments by dilution of position (HDOP).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121410Z" creationid="miurahr" creationdate="20201123T121354Z">
+        <seg>点や区間を測定誤差(HDOP)で色分けします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23405,6 +23477,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Divide intervals between native resolution levels to smaller steps if they are much larger than zoom ratio</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121629Z" creationid="miurahr" creationdate="20201123T121629Z">
+        <seg>本来の解像度レベル間の間隔を、ズーム比よりはるかに大きい場合、より小さなステップに分割する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Division</seg>
       </tuv>
       <tuv lang="ja">
@@ -28861,6 +28941,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Exception was: {2}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121801Z" creationid="miurahr" creationdate="20201123T121801Z">
+        <seg>例外コード: {2}。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Exception: {0}</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200906T082846Z" creationid="miurahr" creationdate="20200906T082846Z">
@@ -30193,6 +30281,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>サーバーから返されたデータ ''{0}'' が解析できません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Failed to parse field ''{1}'' in preference with key ''{0}''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121754Z" creationid="miurahr" creationdate="20201123T121754Z">
+        <seg>キー ''{0}'' の設定中のフィールド ''{1}'' の解析に失敗しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32059,6 +32155,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>フォーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Format dates according to {0}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121601Z" creationid="miurahr" creationdate="20201123T121601Z">
+        <seg>{0}に従って日付をフォーマットします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37216,6 +37320,46 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Input validation: error</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121822Z" creationid="miurahr" creationdate="20201123T121822Z">
+        <seg>入力妥当性:エラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Input validation: error background</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121840Z" creationid="miurahr" creationdate="20201123T121840Z">
+        <seg>入力妥当性: エラー背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Input validation: valid</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121910Z" creationid="miurahr" creationdate="20201123T121910Z">
+        <seg>入力妥当性: 妥当</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Input validation: warning</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121850Z" creationid="miurahr" creationdate="20201123T121850Z">
+        <seg>入力妥当性: 警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Input validation: warning background</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121901Z" creationid="miurahr" creationdate="20201123T121901Z">
+        <seg>入力妥当性: 警告背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inscription</seg>
       </tuv>
       <tuv lang="ja">
@@ -37452,6 +37596,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T060345Z" creationid="miurahr" creationdate="20201120T060345Z">
         <seg>中級マッパー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Intermediate steps between native resolutions</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121553Z" creationid="miurahr" creationdate="20201123T121553Z">
+        <seg>ネイティブ解像度間の中間ステップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -39760,6 +39912,22 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
       </tuv>
       <tuv lang="ja">
         <seg>ランベルト正積方位図法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lambert CC Zone</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121720Z" creationid="miurahr" creationdate="20201123T121707Z">
+        <seg>ランベルトCCゾーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lambert CC9 Zone (France)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121703Z" creationid="miurahr" creationdate="20201123T121703Z">
+        <seg>ランベルトCC9ゾーン(フランス)</seg>
       </tuv>
     </tu>
     <tu>
@@ -53079,6 +53247,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please enter an integer value &gt; 0 or a changeset URL.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121935Z" creationid="miurahr" creationdate="20201123T121935Z">
+        <seg>1以上の整数値か、変更セットのURLを入力してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please enter another file name.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T222612Z" creationid="miurahr" creationdate="20190107T222612Z">
@@ -54751,6 +54927,30 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>設定 {0} はもう使われていないので、除かれました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Preference with key ''{0}'' does not exist.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121809Z" creationid="miurahr" creationdate="20201123T121809Z">
+        <seg>キー''{0}''を持つ設定は存在しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Preference with key ''{0}'' does not include ''{1}''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121731Z" creationid="miurahr" creationdate="20201123T121731Z">
+        <seg>キー ''{0}'' の設定は ''{1}'' を含んでいません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Preference with key ''{0}'' does not provide an int value for ''{1}''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121747Z" creationid="miurahr" creationdate="20201123T121747Z">
+        <seg>キー''{0}''の設定は''{1}''の整数値を提供しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59033,6 +59233,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>選択中のブックマークの名前を変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Render engine uses points with simulated position error instead of lines.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121543Z" creationid="miurahr" creationdate="20201123T121543Z">
+        <seg>レンダリングエンジンは、線ではなく、シミュレートされた位置エラーを持つ点を使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66108,6 +66316,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show user name in title</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121548Z" creationid="miurahr" creationdate="20201123T121548Z">
+        <seg>タイトルにユーザー名を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show user {0}</seg>
       </tuv>
       <tuv lang="ja">
@@ -71339,10 +71555,26 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The current value is not a valid OSM ID.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121941Z" creationid="miurahr" creationdate="20201123T121941Z">
+        <seg>現在の値は有効なOSM IDではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The current value is not a valid URL</seg>
       </tuv>
       <tuv lang="ja">
         <seg>現在の値は正しいURLではありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The current value is not a valid changeset ID.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121917Z" creationid="miurahr" creationdate="20201123T121917Z">
+        <seg>現在の値は有効な変更セットIDではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73274,6 +73506,14 @@ This makes use of a very simple &lt;x1/&gt;OAuth-Dummy server&lt;x2/&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>They look nicer but do not support some features like file filters</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121616Z" creationid="miurahr" creationdate="20201123T121616Z">
+        <seg>見た目はよりきれいですが、ファイルフィルタなどの一部の機能はサポートされません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>They will replace properties in my elements when merge decisions are applied.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200819T113100Z" creationid="miurahr" creationdate="20200819T113100Z">
@@ -74720,6 +74960,14 @@ projections and retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>たばこ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Today''s date will be displayed as {1} instead of {2}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121607Z" creationid="miurahr" creationdate="20201123T121607Z">
+        <seg>今日の日付は{2}ではなく{1}として表示されます</seg>
       </tuv>
     </tu>
     <tu>
@@ -79182,6 +79430,14 @@ Create a new one.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>JOSM中での外部スクリプトの使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use file choosers that behave more like native ones.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121611Z" creationid="miurahr" creationdate="20201123T121611Z">
+        <seg>ネイティブに近い動作をするファイルを選択してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83889,6 +84145,14 @@ The tasking manager was designed and built for the [[Humanitarian OpenStreetMap 
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T064826Z" creationid="miurahr" creationdate="20201120T064826Z">
         <seg>GeoJSON、KML、OSM、またはzip圧縮されたShapefileをインポートできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your capture device needs to log that information.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121408Z" creationid="miurahr" creationdate="20201123T121408Z">
+        <seg>測定機器で情報を記録する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -99030,6 +99294,22 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{0} Edit generated {1} URL (optional)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121649Z" creationid="miurahr" creationdate="20201123T121649Z">
+        <seg>{0}生成された{1}URLを編集(オプション)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} Enter GetCapabilities URL</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121654Z" creationid="miurahr" creationdate="20201123T121654Z">
+        <seg>{0}GetCapabilities URLを入力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{0} Enter URL</seg>
       </tuv>
       <tuv lang="ja">
@@ -99058,6 +99338,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>{0} レイヤーを取得します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} Make sure OSM has the permission to use this service</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T121641Z" creationid="miurahr" creationdate="20201123T121641Z">
+        <seg>{0}OSMがこのサービスを使用する権限を持っていることを確認してください</seg>
       </tuv>
     </tu>
     <tu>
