@@ -110,6 +110,16 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg># Make sure that the new page (or category) indicates the correct full English page name (including its namespace) in {{Tl|Languages|''Full page name''}} (e.g. {{Tl|Languages|Category:Maps}} without any language prefix)
+# Check the sortkey for the translated title so that they sort correctly in categories for in your language: in most languages on this wiki, the default sort key includes the language code prefix which is part of the title and not part of a separate namespace: at least you should copy in the DEFAULTSORTKEY the page title without the language code prefix, and the sortkey may need to be transliterated (e.g. in Japanese for sorting using Kanas instead of the Kanjis present in the translated title).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T115231Z" creationid="miurahr" creationdate="20201123T115231Z">
+        <seg>#新しいページ(またはカテゴリ)が正しい英語名(名前空間を含め)になるようにしてください。 {{Tl|Languages|''Full page name''}} (例: 言語プレフィックスなしで  {{Tl|Languages|Category:Maps}} )
+#あなたの言語のカテゴリで正しくソートされるように、翻訳されたタイトルのソートキーをチェックしてください:このウィキのほとんどの言語では、デフォルトのソートキーには、タイトルの一部であり、別の名前空間の一部ではない言語コード接頭辞が含まれています:少なくとも、言語コード接頭辞のないページタイトルをDEFAULTSORTKEYにコピーする必要があります。そして、ソートキーは換字される必要があるかもしれません(例えば、日本語では、翻訳されたタイトルにある漢字ではなく、カナを使ってソートします)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg># Objects</seg>
       </tuv>
       <tuv lang="ja">
@@ -145,6 +155,16 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170523T123004Z" creationid="miurahr" creationdate="20170523T123004Z">
         <seg>#このページを開き、編集してリダイレクトを直接''XX:翻訳ページ名''に変更します。 これで二重リダイレクトの問題が修正され、きれいな状態の翻訳題名が完成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg># Open this page, edit them and change the redirect directly to ''XX:Translated_page_name''
+
+This would fix the double redirect problem and you have done a clean fresh title translation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T114345Z" creationid="miurahr" creationdate="20201123T114345Z">
+        <seg>これで二重リダイレクトの問題が修正され、きれいな状態の翻訳題名が完成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -185,6 +205,17 @@
       </tuv>
       <tuv lang="ja">
         <seg>トラックセグメント数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#* If the "plain" English page name content is written in English, the English page name does not have a prefix in the file name.&lt;br&gt;Example: &lt;tt&gt;Page_name&lt;/tt&gt; (English content) - &lt;tt&gt;FR:Page_name&lt;/tt&gt; - &lt;tt&gt;DE:Page_name&lt;/tt&gt;
+#* If the "plain" English page name should be a redirect to a page in some other language, the English translated page does need a prefix of "EN".&lt;br&gt;Example: &lt;tt&gt;Page_name&lt;/tt&gt; (redirect to non-English page) - &lt;tt&gt;EN:Page_name&lt;/tt&gt; - &lt;tt&gt;FR:Page-name&lt;/tt&gt; - &lt;tt&gt;DE:Page_name&lt;/tt&gt;
+# The following has to be included in each page: &lt;tt&gt;&lt;nowiki&gt;{{Languages|English page name}}&lt;/nowiki&gt;&lt;/tt&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T114754Z" creationid="miurahr" creationdate="20201123T114754Z">
+        <seg># 「生の」英語名のページが英語で書かれている場合は、英語のページはファイル名に接頭辞を付けません。 &lt;br&gt;例: &lt;tt&gt;Page_name&lt;/tt&gt;（英語ページ） - &lt;tt&gt;JA:Page_name&lt;/tt&gt; - &lt;tt&gt;DE:Page_name&lt;/tt&gt; ## 「生の」英語名のページが他の言語にリダイレクトされるべきである場合、英語の翻訳ページは「EN」の接頭辞が必要になります。 &lt;br&gt;例:&lt;tt&gt;Page_name&lt;/tt&gt; （英語以外のページにリダイレクト）- &lt;tt&gt;EN:Page_name&lt;/tt&gt; - &lt;tt&gt;FR:Page-name&lt;/tt&gt; - &lt;tt&gt;DE:Page_name&lt;/tt&gt;
+ # 各ページに次のものを含める必要があります。 &lt;tt&gt;&lt;nowiki&gt;{{Languages|English page name}}&lt;/nowiki&gt;&lt;/tt&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -908,6 +939,16 @@ On most maps you'll find a copyright, trademark symbol or something similar that
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>'''If you want to translate the title then make sure that the page name in English with the additional language prefix is redirected to a localized article name with its language code.'''
+# First create the localized page (or category) with the same name as in English, using only a different language prefix (language prefixes for categories are ''after'' the namespace "Category:", e.g. "Category:FR:Maps")
+# Then move that page to its new translated name (e.g. "Category:FR:Cartes").</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T114841Z" creationid="miurahr" creationdate="20201123T114841Z">
+        <seg>'''もし題名を翻訳したい場合は、言語の接頭辞がついた英語名のページが、翻訳名のページにリダイレクトされるようにしてください。 ''' # 最初に言語の接頭辞だけを変えた英語と同じ名前の翻訳ページ（またはカテゴリ）を作成してください（カテゴリの言語接頭辞は、 Category:JA:Maps のように "Category:" 名前空間の''後に''つけてください） # それから、ページを翻訳名（例えば「Category:JA:地図」）に変更してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>'''Long answer:'''</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T014533Z" creationid="miurahr" creationdate="20200818T014533Z">
@@ -1515,6 +1556,14 @@ no_more_mappingを外してください)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200817T232643Z" creationid="miurahr" creationdate="20200817T232643Z">
         <seg>* 冷静に議論に加わることで、メーリングリストを穏やかに維持することに貢献できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* Categories listed at end of your page should to be converted to use the translated categories when they exist (see below for details about how to create them), instead of remaining in the English categories.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T114326Z" creationid="miurahr" creationdate="20201123T114326Z">
+        <seg>*ページの最後に表示されているカテゴリは、英語のカテゴリのままではなく、翻訳されたカテゴリが存在する場合にそれを使用するように変換する必要があります(詳細については以下を参照してください)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4053,6 +4102,18 @@ OpenStreetMapのWebサイトでは、異なる言語を使用した異なる焦�
       <tuv lang="ja" changeid="miurahr" changedate="20170523T123020Z" creationid="miurahr" creationdate="20170523T123020Z">
         <seg>== Languages テンプレートの説明 ==
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>== Instructions for the Languages template ==
+
+[[Template:Languages]] lists all languages available.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T114446Z" creationid="miurahr" creationdate="20201123T114430Z">
+        <seg>== Languages テンプレートの説明 == 
+
+[[Template:Languages]]は、利用可能な言語すべてを一覧表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18284,6 +18345,14 @@ After: wikipedia={0}:{2}</seg>
       </tuv>
       <tuv lang="ja">
         <seg>"raw data directly from" (right click and "copy link")のあとのリンクをコピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Copy the original text to this page and translate it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T114811Z" creationid="miurahr" creationdate="20201123T114811Z">
+        <seg>元の文書をコピーして翻訳してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35201,6 +35270,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you click on "missing languages", and then you click on a red link, it automatically opens a new page with the right prefix and the right page name.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T114809Z" creationid="miurahr" creationdate="20201123T114809Z">
+        <seg>もし「その他の言語」をクリックし、赤いリンクをクリックすると、自動的に正しい接頭辞とページ名がついた新しいページが開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you collect data from Google Maps in this way, you are creating a &amp;quot;derived work&amp;quot;.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200906T054105Z" creationid="miurahr" creationdate="20200818T015519Z">
@@ -36461,6 +36538,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T112444Z" creationid="miurahr" creationdate="20190107T112444Z">
         <seg>この同意書の規定において万一無効なものがあったとしても、関係者はそのような無効性はこの同意書の残りの部分の正当性に影響を及ぼさない、ということに同意します。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the first line you put &lt;tt&gt;&lt;nowiki&gt;{{Languages|English page name}}&lt;/nowiki&gt;&lt;/tt&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T114813Z" creationid="miurahr" creationdate="20201123T114813Z">
+        <seg>先頭行に&lt;tt&gt;&lt;nowiki&gt;{{Languages|Page_name}}&lt;/nowiki&gt;&lt;/tt&gt;があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39161,6 +39246,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
       </tuv>
       <tuv lang="ja">
         <seg>プラグインを継続</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keep the generated redirect which is needed for interlanguage navigation!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T114845Z" creationid="miurahr" creationdate="20201123T114845Z">
+        <seg>作成したリダイレクトは言語間ナビゲーションに必要なので、そのままにしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83638,6 +83731,20 @@ The tasking manager was designed and built for the [[Humanitarian OpenStreetMap 
       </tuv>
       <tuv lang="ja">
         <seg>値のない座標: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zh-hant:Page_name ''(Traditional Chinese)''
+
+=== Brief instruction ===
+# For correct work of the template all page names are in English.&lt;br /&gt; Every translated page needs a page name with a language code as a prefix, followed by a colon and the English page name.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201123T114616Z" creationid="miurahr" creationdate="20201123T114616Z">
+        <seg>Zh-hant:Page_name ''(繁体字中国語)''
+
+===短い解説 ===
+# テンプレートが正しく動作するように、すべてのページ名は英語にします。 &lt;br&gt;各翻訳ページは、言語コードを接頭辞とし、コロンで接続して英語ページ名をページ名にする必要があります。.</seg>
       </tuv>
     </tu>
     <tu>
