@@ -18907,6 +18907,14 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Could not invite user&lt;x1/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201201T112348Z" creationid="miurahr" creationdate="20201201T112348Z">
+        <seg>ユーザを招待できませんでした&lt;x1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Could not leave project</seg>
       </tuv>
       <tuv lang="ja">
@@ -76703,6 +76711,14 @@ or action canceled</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>URL to GeoJSON, OSM-XML, GPX, EsriJson, KML or WKT data:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201201T112522Z" creationid="miurahr" creationdate="20201201T112522Z">
+        <seg>GeoJSONまたは、OSM-XML、 GPX、 EsriJson、 KML 、 WKTデータのURL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>URL to OSM-XML:</seg>
       </tuv>
       <tuv lang="ja">
@@ -78774,6 +78790,14 @@ Create a new one.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201112T010012Z" creationid="miurahr" creationdate="20201112T010012Z">
         <seg>ポリゴンがはいっているGPXまたはOSM、GeoJSONのファイルをアップロードします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Upload a GeoJSON, OSM-XML, GPX, EsriJson, KML or WKT file, which contains polygons.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201201T112454Z" creationid="miurahr" creationdate="20201201T112454Z">
+        <seg>ポリゴンがはいっているGeoJSON、またはOSM-XML、GPX、EsriJson、KML、WKTのファイルをアップロードします。</seg>
       </tuv>
     </tu>
     <tu>
