@@ -30874,16 +30874,16 @@ or just retry</seg>
 
 If tagging an [[area]], [[way]] or [[node]] there may be reasons to record the {{tag|cover}} value of different species within an area.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210116T121032Z" creationid="miurahr" creationdate="20210116T121032Z">
-        <seg>Examples:
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T121752Z" creationid="miurahr" creationdate="20210116T121032Z">
+        <seg>例:
 *{{node|1317708316}}
 *{{area|116985996}}
 
-==Further Tagging==
+==追加のタグづけ==
 
-====Recording Vegetation Cover Values====
+==== Recording Vegetation Cover Values ====
 
-If tagging an [[area]], [[way]] or [[node]] there may be reasons to record the {{tag|cover}} value of different species within an area.</seg>
+ [[area]]、 [[way]]や [[node]]のタグを付けるときに、エリア内の異なる種の {{tag|cover}} 値を記録する理由があるかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59342,6 +59342,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>アップロードリクエストを準備中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Presented here is a method for recording plant cover within a given area e.g. a wood or marsh.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T124753Z" creationid="miurahr" creationdate="20210116T124753Z">
+        <seg>ここでは、木や沼地など、指定された領域内の植物の覆いを記録する方法について説明します。</seg>
       </tuv>
     </tu>
     <tu>
