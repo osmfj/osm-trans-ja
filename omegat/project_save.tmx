@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_4470bbb50" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Baker Street"</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>"Baker Street"</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv lang="en-US">
         <seg>"Not equal" operators are supported as well.&lt;/span&gt;</seg>
@@ -220,6 +228,30 @@ This would fix the double redirect problem and you have done a clean fresh title
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#CD853F</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>#CD853F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>%1</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>%1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>%1 (int)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>%1 (int)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>%1 could not be opened for writing.</seg>
       </tuv>
       <tuv lang="ja">
@@ -256,6 +288,22 @@ This would fix the double redirect problem and you have done a clean fresh title
       </tuv>
       <tuv lang="ja">
         <seg>%1 は、ただしい Merkaartor データファイルではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>%1 km</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>%1 km</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>%1 m</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>%1 m</seg>
       </tuv>
     </tu>
     <tu>
@@ -500,10 +548,26 @@ This would fix the double redirect problem and you have done a clean fresh title
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&amp;GPS</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&amp;GPS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&amp;Go To...</seg>
       </tuv>
       <tuv lang="ja">
         <seg>移動(&amp;G)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&amp;Gps</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&amp;Gps</seg>
       </tuv>
     </tu>
     <tu>
@@ -632,6 +696,14 @@ This would fix the double redirect problem and you have done a clean fresh title
       </tuv>
       <tuv lang="ja">
         <seg>なし(&amp;N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&amp;OK</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&amp;OK</seg>
       </tuv>
     </tu>
     <tu>
@@ -1101,6 +1173,14 @@ On most maps you'll find a copyright, trademark symbol or something similar that
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>''{0}'' ({1}m)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>''{0}'' ({1}m)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>''{0}'' does not specify the official mode of transportation, use ''{1}'' for example</seg>
       </tuv>
       <tuv lang="ja">
@@ -1185,6 +1265,14 @@ On most maps you'll find a copyright, trademark symbol or something similar that
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200825T224145Z" creationid="miurahr" creationdate="20200825T224145Z">
         <seg>''{0}''は読み取れません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>''{0}'': {1}</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>''{0}'': {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1456,6 +1544,14 @@ no_more_mappingを外してください)</seg>
       </tuv>
       <tuv lang="ja">
         <seg>({0}区間)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>({0})</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>({0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -1862,6 +1958,14 @@ Ordnance Survey Maps sued the Automobile Association for copying their maps and 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>,</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>, {0} unset</seg>
       </tuv>
       <tuv lang="ja">
@@ -1870,10 +1974,34 @@ Ordnance Survey Maps sued the Automobile Association for copying their maps and 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>--------</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T100359Z" creationid="miurahr" creationdate="20210116T100359Z">
+        <seg>--------</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>-10%</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>-10%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>-10°</seg>
       </tuv>
       <tuv lang="ja">
         <seg>-10度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>-&gt;</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>-&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1894,6 +2022,14 @@ Ordnance Survey Maps sued the Automobile Association for copying their maps and 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>...</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>... other transportation modes possible</seg>
       </tuv>
       <tuv lang="ja">
@@ -1906,6 +2042,86 @@ Ordnance Survey Maps sued the Automobile Association for copying their maps and 
       </tuv>
       <tuv lang="ja">
         <seg>... リレーションを参照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>/PATH/TO/JOSM/CACHE</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>/PATH/TO/JOSM/CACHE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>/PATH/TO/JOSM/HOMEDIR</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>/PATH/TO/JOSM/HOMEDIR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>/PATH/TO/JOSM/PREF</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>/PATH/TO/JOSM/PREF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>/PATH/TO/JOSM/USERDATA</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>/PATH/TO/JOSM/USERDATA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>0,30,45,60,90,...</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>0,30,45,60,90,...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>0,45,90,...</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>0,45,90,...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>0,90,...</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>0,90,...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>00</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>000 km/h</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>000 km/h</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>06:00-20:00</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>06:00-20:00</seg>
       </tuv>
     </tu>
     <tu>
@@ -1950,6 +2166,14 @@ Ordnance Survey Maps sued the Automobile Association for copying their maps and 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>10%</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>10%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>100 changesets)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T133140Z" creationid="miurahr" creationdate="20190107T114637Z">
@@ -1962,6 +2186,14 @@ Ordnance Survey Maps sued the Automobile Association for copying their maps and 
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T142108Z" creationid="miurahr" creationdate="20190107T142108Z">
         <seg>100変更セット。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>100 m</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>100 m</seg>
       </tuv>
     </tu>
     <tu>
@@ -1990,10 +2222,34 @@ Ordnance Survey Maps sued the Automobile Association for copying their maps and 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>110000;20000</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>110000;20000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>12500 kVA</seg>
       </tuv>
       <tuv lang="ja">
         <seg>12500kVA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>16.67</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>16.67</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>16.7</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>16.7</seg>
       </tuv>
     </tu>
     <tu>
@@ -2018,6 +2274,14 @@ Ordnance Survey Maps sued the Automobile Association for copying their maps and 
       </tuv>
       <tuv lang="ja">
         <seg>2つの画像を分離しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>25 m</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>25 m</seg>
       </tuv>
     </tu>
     <tu>
@@ -2094,6 +2358,22 @@ Ordnance Survey Maps sued the Automobile Association for copying their maps and 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>5 cm resolution bald image</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>5 cm resolution bald image</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>50 m</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>50 m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>500 kvar</seg>
       </tuv>
       <tuv lang="ja">
@@ -2122,6 +2402,30 @@ Ordnance Survey Maps sued the Automobile Association for copying their maps and 
       </tuv>
       <tuv lang="ja">
         <seg>7Zipファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>7th Series (OS7)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>7th Series (OS7)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>99 99' 99"</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>99 99' 99"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>99999;</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>99999;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2205,6 +2509,14 @@ Ordnance Survey Maps sued the Automobile Association for copying their maps and 
       </tuv>
       <tuv lang="ja">
         <seg>&lt; 先頭へ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;-</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&lt;-</seg>
       </tuv>
     </tu>
     <tu>
@@ -2363,6 +2675,22 @@ Tasking Managerを効率的に使用するには、新しいジョブを開始�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;colon&gt;</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&lt;colon&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;crs&gt;</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&lt;crs&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;delete from {0} objects&gt;</seg>
       </tuv>
       <tuv lang="ja">
@@ -2397,6 +2725,30 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
         <seg>&lt;div style="font-size:smaller"&gt; 
 '''技術的なメモ:'''
 * 新しいページを保存する前のプレビューでは、その言語が存在しないように表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;empty&gt;</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&lt;empty&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;end-of-file&gt;</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&lt;end-of-file&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;equals&gt;</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&lt;equals&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3753,6 +4105,14 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;i&gt;CH1903 / LV03&lt;/i&gt;</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&lt;i&gt;CH1903 / LV03&lt;/i&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;i&gt;V: &lt;/i&gt;&lt;b&gt;%1&lt;/b&gt;</seg>
       </tuv>
       <tuv lang="ja">
@@ -3793,10 +4153,42 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;i&gt;last: &lt;/i&gt;&lt;b&gt;%1&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&lt;i&gt;last: &lt;/i&gt;&lt;b&gt;%1&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;i&gt;last: &lt;/i&gt;&lt;b&gt;%1&lt;/b&gt; by &lt;b&gt;%2&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&lt;i&gt;last: &lt;/i&gt;&lt;b&gt;%1&lt;/b&gt; by &lt;b&gt;%2&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;i&gt;missing&lt;/i&gt;</seg>
       </tuv>
       <tuv lang="ja">
         <seg>&lt;i&gt;欠落&lt;/i&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;key&gt;</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&lt;key&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;left parent&gt;</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&lt;left parent&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3809,10 +4201,26 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;not&gt;</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&lt;not&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;not&gt; needs at least one child</seg>
       </tuv>
       <tuv lang="ja">
         <seg>&lt;not&gt;には1つ以上の子要素が必要です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;or&gt;</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&lt;or&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3873,6 +4281,22 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;question mark&gt;</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&lt;question mark&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;right parent&gt;</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&lt;right parent&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;span&gt;Download objects that have some concrete key/value pair, only the key with any contents for the value, the value matching some regular expression.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T114528Z" creationid="miurahr" creationdate="20190107T114528Z">
@@ -3893,6 +4317,14 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
       </tuv>
       <tuv lang="ja">
         <seg>&lt;strong&gt;警告:&lt;/ strong&gt;デフォルトのOSM APIを使用していないため、&lt;i&gt;高度なOAuthパラメータ&lt;/ i&gt;でOAuthコンシューマキーと秘密鍵を設定してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;tilde&gt;</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&lt;tilde&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4061,6 +4493,40 @@ This script will remove your &lt;x3/&gt;postgres-data&lt;x4/&gt; folder created 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;xor&gt;</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>&lt;xor&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>=</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>=</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>== Android software supporting OpenStreetMap ==
+{{cleaned}}
+
+=== General information ===
+
+&lt;!--</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T100353Z" creationid="miurahr" creationdate="20210116T100353Z">
+        <seg>== OpenStreetMapをサポートするAndroidソフトウェア ==
+{{cleaned}}}
+
+=== 一般情報 ===
+
+&lt;!--</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>== Background ==
 In November 2007, OpenStreetMap had its first edit war in [[WikiProject_Cyprus|Northern Cyprus]], with disagreement over the use of Greek or Turkish names in the Turkish controlled area.</seg>
       </tuv>
@@ -4115,6 +4581,16 @@ Usually copyright in maps (and anything else) will expire over a certain length 
 
 ==著作権の切れた地図==
 ふつう、地図（またはその他）の著作権は一定の時間を経過すれば期限切れになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>== Developer tools ==
+* There are a number of projects on Google Code with both 'android' and 'openstreetmap' tags: [http://code.google.com/hosting/search?q=label%3Aopenstreetmap+label%3Aandroid&amp;projectsearch=Search+projects Search Google Code].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T100605Z" creationid="miurahr" creationdate="20210116T100605Z">
+        <seg>== Developer tools ==
+* There are a number of projects on Google Code with both 'android' and 'openstreetmap' tags: [http://code.google.com/hosting/search?q=label%3Aopenstreetmap+label%3Aandroid&amp;projectsearch=Search+projects Search Google Code].</seg>
       </tuv>
     </tu>
     <tu>
@@ -4734,6 +5210,14 @@ If you need further help on mapping an area see:
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A By Distance</seg>
       </tuv>
       <tuv lang="ja">
@@ -5223,6 +5707,22 @@ If you need further help on mapping an area see:
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A;A1;B;B1;C;C1;D;D1;BE;CE;C1E;DE;D1E</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>A;A1;B;B1;C;C1;D;D1;BE;CE;C1E;DE;D1E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A;A1;B;BE;C</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>A;A1;B;BE;C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ADD relation %1</seg>
       </tuv>
       <tuv lang="ja">
@@ -5243,6 +5743,30 @@ If you need further help on mapping an area see:
       </tuv>
       <tuv lang="ja">
         <seg>トラックポイント %1 の追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AGRI black-and-white 2.5m</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>AGRI black-and-white 2.5m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AK</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>AK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AL</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>AL</seg>
       </tuv>
     </tu>
     <tu>
@@ -5299,6 +5823,30 @@ If you need further help on mapping an area see:
       </tuv>
       <tuv lang="ja">
         <seg>APIバージョン: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AR</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>AR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AS</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>AS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AZ</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>AZ</seg>
       </tuv>
     </tu>
     <tu>
@@ -7335,6 +7883,14 @@ If you need further help on mapping an area see:
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Agip</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Agip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Agricultural</seg>
       </tuv>
       <tuv lang="ja">
@@ -9033,6 +9589,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Aral</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Aral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Arcade</seg>
       </tuv>
       <tuv lang="ja">
@@ -10201,6 +10765,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Avant (fi)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Avant (fi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Average mapping time</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T065201Z" creationid="miurahr" creationdate="20201120T065201Z">
@@ -10213,6 +10785,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T065216Z" creationid="miurahr" creationdate="20201120T065216Z">
         <seg>平均検証作業時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Avia</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Avia</seg>
       </tuv>
     </tu>
     <tu>
@@ -10241,6 +10821,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>B</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>B By Distance</seg>
       </tuv>
       <tuv lang="ja">
@@ -10253,6 +10841,30 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>時刻でB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BANO</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>BANO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BD Carthage</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>BD Carthage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BP</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>BP</seg>
       </tuv>
     </tu>
     <tu>
@@ -10401,6 +11013,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bancomat</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Bancomat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Bandstand</seg>
       </tuv>
       <tuv lang="ja">
@@ -10421,6 +11041,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>銀行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BankAxess</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>BankAxess</seg>
       </tuv>
     </tu>
     <tu>
@@ -10565,6 +11193,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>古戦場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bavaria (80 cm)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Bavaria (80 cm)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10779,6 +11415,22 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Belgian Lambert 1972</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Belgian Lambert 1972</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Belgian Lambert 2008</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Belgian Lambert 2008</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Belgium</seg>
       </tuv>
       <tuv lang="ja">
@@ -10799,6 +11451,30 @@ After: wikipedia={0}:{2}</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ベンチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Berlin aerial photograph 2011</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Berlin aerial photograph 2011</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Berlin aerial photograph 2014</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Berlin aerial photograph 2014</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Berlin aerial photograph 2015</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Berlin aerial photograph 2015</seg>
       </tuv>
     </tu>
     <tu>
@@ -11203,6 +11879,14 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bonvillars Orthophoto 2013</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Bonvillars Orthophoto 2013</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Book Store</seg>
       </tuv>
       <tuv lang="ja">
@@ -11295,6 +11979,14 @@ After: wikipedia={0}:{2}</seg>
       </tuv>
       <tuv lang="ja">
         <seg>本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bordeaux - 2012</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Bordeaux - 2012</seg>
       </tuv>
     </tu>
     <tu>
@@ -12035,6 +12727,14 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bytom: Fotoplan 2014 (aerial image)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Bytom: Fotoplan 2014 (aerial image)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>C By Distance</seg>
       </tuv>
       <tuv lang="ja">
@@ -12051,10 +12751,58 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CA</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>CA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CANada Deuterium Uranium reactor (CANDU)</seg>
       </tuv>
       <tuv lang="ja">
         <seg>CANDU炉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CEE blue</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>CEE blue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CEE red 16A</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>CEE red 16A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CEE red 32A</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>CEE red 32A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CHAdeMO</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>CHAdeMO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CI</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>CI</seg>
       </tuv>
     </tu>
     <tu>
@@ -12083,10 +12831,42 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CO</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>CO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CS</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>CS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CSS</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>CSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CSV files</seg>
       </tuv>
       <tuv lang="ja">
         <seg>CSVファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CT</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>CT</seg>
       </tuv>
     </tu>
     <tu>
@@ -12171,10 +12951,26 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cadastre</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Cadastre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cadastre grab</seg>
       </tuv>
       <tuv lang="ja">
         <seg>土地台帳のグラブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cadastre: {0}</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Cadastre: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -13267,6 +14063,14 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cartoriviera - Orthophoto 2012</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Cartoriviera - Orthophoto 2012</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cash</seg>
       </tuv>
       <tuv lang="ja">
@@ -13295,6 +14099,14 @@ After: wikipedia={0}:{2}</seg>
       </tuv>
       <tuv lang="ja">
         <seg>城</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Catastro Spain</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Catastro Spain</seg>
       </tuv>
     </tu>
     <tu>
@@ -14799,6 +15611,14 @@ After: wikipedia={0}:{2}</seg>
       </tuv>
       <tuv lang="ja">
         <seg>外周 (メートル)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Citgo</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Citgo</seg>
       </tuv>
     </tu>
     <tu>
@@ -18623,6 +19443,14 @@ After: wikipedia={0}:{2}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Copyright (URL)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Copyright (URL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Copyright is a "negative" or "prohibitive" right, meaning that it ''prevents'' certain groups from doing something with the copyrighted work.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T110255Z" creationid="miurahr" creationdate="20201106T110255Z">
@@ -20517,6 +21345,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ctrl+B</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Ctrl+B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ctrl-Click: select reference way segment; Alt-click: Clear selection</seg>
       </tuv>
       <tuv lang="ja">
@@ -21081,6 +21917,94 @@ Do you want to keep it?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>循環依存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Czech</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Czech</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Czech CUZK:KM</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Czech CUZK:KM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Czech RUIAN budovy</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Czech RUIAN budovy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Czech RUIAN parcely</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Czech RUIAN parcely</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Czech pLPIS</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Czech pLPIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>D</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DC</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>DC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DE</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>DE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DEKRA</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>DEKRA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DKV</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>DKV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DO NOT EDIT THE TABLE, changes will be overwritten!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T100255Z" creationid="miurahr" creationdate="20210116T100255Z">
+        <seg>DO NOT EDIT THE TABLE, changes will be overwritten!</seg>
       </tuv>
     </tu>
     <tu>
@@ -22773,6 +23697,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Diners Club</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Diners Club</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Direction</seg>
       </tuv>
       <tuv lang="ja">
@@ -23959,6 +24891,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ドッグレース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dogecoin</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Dogecoin</seg>
       </tuv>
     </tu>
     <tu>
@@ -27679,6 +28619,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Eni</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Eni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enlarge</seg>
       </tuv>
       <tuv lang="ja">
@@ -28717,6 +29665,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Errr...</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Errr...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Escalator</seg>
       </tuv>
       <tuv lang="ja">
@@ -28769,6 +29725,46 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>推定キャッシュサイズ: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Estonia Basemap (Maaamet)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Estonia Basemap (Maaamet)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Estonia Cadastre (Maaamet)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Estonia Cadastre (Maaamet)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Estonia Forestry (Maaamet)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Estonia Forestry (Maaamet)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Estonia Hillshade (Maaamet)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Estonia Hillshade (Maaamet)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Estonia Ortho (Maaamet)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Estonia Ortho (Maaamet)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29065,6 +30061,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>アプリケーションを終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Exiv2</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Exiv2</seg>
       </tuv>
     </tu>
     <tu>
@@ -29813,6 +30817,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>F</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>FATAL: Failed to initialize scripting plugin.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200825T233449Z" creationid="miurahr" creationdate="20200825T233449Z">
@@ -29833,6 +30845,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>FIXME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>FL</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>FL</seg>
       </tuv>
     </tu>
     <tu>
@@ -30917,6 +31937,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fiez Orthophoto 2013</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Fiez Orthophoto 2013</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>File</seg>
       </tuv>
       <tuv lang="ja">
@@ -31975,6 +33003,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For information about Android and OpenStreetMap see also [[:Category:Android|the Android category]], or [[Software/Mobile|Software/Mobilephones]].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T100311Z" creationid="miurahr" creationdate="20210116T100311Z">
+        <seg>AndroidとOpenStreetMapについては、[[:Category:Android the Android category]]や[[Software/Mobile Software/Mobilephones]]も参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For information on how to use the Tasking Manager please review the [http://learnosm.org/en/coordination/tasking-manager/ manuals on LearnOSM].</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200905T055003Z" creationid="miurahr" creationdate="20200905T055003Z">
@@ -32279,6 +33315,30 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Freemap.sk Car</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Freemap.sk Car</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Freemap.sk Hiking</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Freemap.sk Hiking</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Freemap.sk Ski</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Freemap.sk Ski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Freeze</seg>
       </tuv>
       <tuv lang="ja">
@@ -32407,6 +33467,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>From:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>From:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Frontal Water hazard</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200906T121338Z" creationid="miurahr" creationdate="20200906T121338Z">
@@ -32527,6 +33595,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GA</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>GA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GDAL version</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201111T001517Z" creationid="miurahr" creationdate="20201111T001517Z">
@@ -32555,6 +33631,22 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>GMLファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GPG</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>GPG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GPS</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>GPS</seg>
       </tuv>
     </tu>
     <tu>
@@ -32647,6 +33739,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GPX</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>GPX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GPX Data</seg>
       </tuv>
       <tuv lang="ja">
@@ -32735,6 +33835,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GRS80</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>GRS80</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GTFS-Stops</seg>
       </tuv>
       <tuv lang="ja">
@@ -32747,6 +33855,22 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>GTK色選択ダイアログ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GTÜ</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>GTÜ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GU</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>GU</seg>
       </tuv>
     </tu>
     <tu>
@@ -32887,6 +34011,46 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Gauß-Krüger</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Gauß-Krüger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gauß-Krüger Zone {0}</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Gauß-Krüger Zone {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gaza Strip - Pléiades - 2014/07/06</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Gaza Strip - Pléiades - 2014/07/06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gaza Strip - Pléiades - 2014/07/06 (NIR)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Gaza Strip - Pléiades - 2014/07/06 (NIR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Geldkarte (de)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Geldkarte (de)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Gender</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T062239Z" creationid="miurahr" creationdate="20201120T062239Z">
@@ -32991,6 +34155,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GeoChat</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>GeoChat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GeoJSON Files</seg>
       </tuv>
       <tuv lang="ja">
@@ -33039,6 +34211,22 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Geography Markup Language (*.gml)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Geography Markup Language (*.gml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Geoimage.at MaxRes</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Geoimage.at MaxRes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Geoimage: {0}</seg>
       </tuv>
       <tuv lang="ja">
@@ -33059,6 +34247,22 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200825T215107Z" creationid="miurahr" creationdate="20200825T215107Z">
         <seg>地物{0}のジオメトリがNULLです</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Geoportal 2: ISOK hillshade</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Geoportal 2: ISOK hillshade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Geoportal 2: PRNG (geo names)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Geoportal 2: PRNG (geo names)</seg>
       </tuv>
     </tu>
     <tu>
@@ -33107,6 +34311,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>地熱発電</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>German</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>German</seg>
       </tuv>
     </tu>
     <tu>
@@ -33199,6 +34411,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Girocard</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Girocard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Give Way</seg>
       </tuv>
       <tuv lang="ja">
@@ -33259,6 +34479,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>グルテンフリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GnuPG</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>GnuPG</seg>
       </tuv>
     </tu>
     <tu>
@@ -33615,6 +34843,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Graphview</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Graphview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Grass</seg>
       </tuv>
       <tuv lang="ja">
@@ -33783,10 +35019,26 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Guadeloupe Fort-Marigot 1949</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Guadeloupe Fort-Marigot 1949</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Guadeloupe Fort-Marigot cache file (.UTM1)</seg>
       </tuv>
       <tuv lang="ja">
         <seg>Guadeloupe Fort-Marigot キャッシュファイル(.UTM1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Guadeloupe Ste-Anne 1948</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Guadeloupe Ste-Anne 1948</seg>
       </tuv>
     </tu>
     <tu>
@@ -33863,10 +35115,90 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Gulf</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Gulf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Guyane RGFG95</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Guyane RGFG95</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Gymnastics</seg>
       </tuv>
       <tuv lang="ja">
         <seg>体操</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Géolittoral - Orthophotos 2000</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Géolittoral - Orthophotos 2000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Géolittoral - Sentiers</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Géolittoral - Sentiers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Géolittoral V2 - Orthophotos 2011-2014</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Géolittoral V2 - Orthophotos 2011-2014</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>H</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>H</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HDM (Humanitarian OpenStreetMap Team)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>HDM (Humanitarian OpenStreetMap Team)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HDOP</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>HDOP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HH:MM:SS.sss</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>HH:MM:SS.sss</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HI</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>HI</seg>
       </tuv>
     </tu>
     <tu>
@@ -33947,6 +35279,22 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ハロ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hamburg (20 cm)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Hamburg (20 cm)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hamburg (DK5)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Hamburg (DK5)</seg>
       </tuv>
     </tu>
     <tu>
@@ -34623,6 +35971,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hillshade Hungary</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Hillshade Hungary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hindu Temple</seg>
       </tuv>
       <tuv lang="ja">
@@ -35127,6 +36483,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I agree</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201112T003936Z" creationid="miurahr" creationdate="20201112T003936Z">
@@ -35231,10 +36595,82 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>IA</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>IA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IATA</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>IATA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ICAO</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ICAO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ID</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ID &gt; 0 expected.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T220245Z" creationid="miurahr" creationdate="20200818T220245Z">
         <seg>ID&gt;0が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ID:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ID:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IEC Type 2 (Mennekes)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>IEC Type 2 (Mennekes)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IEC Type 2 Combo (DC)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>IEC Type 2 Combo (DC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IL</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>IL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IN</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>IN</seg>
       </tuv>
     </tu>
     <tu>
@@ -35283,6 +36719,22 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>入出力例外 "{0}" が発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ISO 8601</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ISO 8601</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ITACyL - Castile and León</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ITACyL - Castile and León</seg>
       </tuv>
     </tu>
     <tu>
@@ -37088,6 +38540,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>InfoMode</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>InfoMode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Information</seg>
       </tuv>
       <tuv lang="ja">
@@ -37284,6 +38744,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>更新するウェイを初期化中 ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inner part of Szeged</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Inner part of Szeged</seg>
       </tuv>
     </tu>
     <tu>
@@ -38202,6 +39670,38 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ireland Bartholomew Quarter-Inch 1940</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Ireland Bartholomew Quarter-Inch 1940</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ireland British War Office 1:25k GSGS 3906</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Ireland British War Office 1:25k GSGS 3906</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ireland British War Office One-Inch 1941-43 GSGS 4136</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Ireland British War Office One-Inch 1941-43 GSGS 4136</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ireland Civil Parishes and Baronies - Memorial Atlas</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Ireland Civil Parishes and Baronies - Memorial Atlas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Is JOSM up to date?</seg>
       </tuv>
       <tuv lang="ja">
@@ -38642,6 +40142,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Italian</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Italian</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Item</seg>
       </tuv>
       <tuv lang="ja">
@@ -38726,6 +40234,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200825T233816Z" creationid="miurahr" creationdate="20200825T233816Z">
         <seg>JARファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JCB</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>JCB</seg>
       </tuv>
     </tu>
     <tu>
@@ -39014,6 +40530,54 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
       </tuv>
       <tuv lang="ja">
         <seg>josm.openstreetmap.de での JOSM-Tracログイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JOSM/OAuth/OSM API/Key</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>JOSM/OAuth/OSM API/Key</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JOSM/OAuth/OSM API/Secret</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>JOSM/OAuth/OSM API/Secret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JOSM/OSM API/Password</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>JOSM/OSM API/Password</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JOSM/OSM API/Username</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>JOSM/OSM API/Username</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JOSM/Proxy/Password</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>JOSM/Proxy/Password</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JOSM/Proxy/Username</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>JOSM/Proxy/Username</seg>
       </tuv>
     </tu>
     <tu>
@@ -39378,6 +40942,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>JunctionChecking</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>JunctionChecking</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Junctionchecking/junctions searching</seg>
       </tuv>
       <tuv lang="ja">
@@ -39444,6 +41016,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>KML</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>KML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>KML Files (*.kml)</seg>
       </tuv>
       <tuv lang="ja">
@@ -39464,6 +41044,38 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
       </tuv>
       <tuv lang="ja">
         <seg>KML/KMZファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>KS</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>KS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>KY</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>KY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Kanton Aargau 25cm (AGIS 2014)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Kanton Aargau 25cm (AGIS 2014)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Kanton Zürich Orthophotos 2014/2015 10cm</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Kanton Zürich Orthophotos 2014/2015 10cm</seg>
       </tuv>
     </tu>
     <tu>
@@ -39788,6 +41400,22 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>L</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LA</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>LA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LEFT-CLICK to first corner -&gt; LEFT-DRAG to specify area -&gt; LEFT-CLICK to zoom</seg>
       </tuv>
       <tuv lang="ja">
@@ -39816,6 +41444,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
       </tuv>
       <tuv lang="ja">
         <seg>左クリックで開始; ドラッグで拡大縮小; SHIFT-ドラッグで回転; 左クリックで終了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LKS-92 (Latvia TM)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>LKS-92 (Latvia TM)</seg>
       </tuv>
     </tu>
     <tu>
@@ -39916,6 +41552,22 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Lambert 4 Zones (France)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Lambert 4 Zones (France)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lambert 93 (France)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Lambert 93 (France)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lambert Azimuthal Equal Area</seg>
       </tuv>
       <tuv lang="ja">
@@ -39952,6 +41604,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
       </tuv>
       <tuv lang="ja">
         <seg>ランベルト正角円錐図法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lambert Zone (Estonia)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Lambert Zone (Estonia)</seg>
       </tuv>
     </tu>
     <tu>
@@ -40096,6 +41756,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201112T004517Z" creationid="miurahr" creationdate="20201112T004517Z">
         <seg>拡大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Laser</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Laser</seg>
       </tuv>
     </tu>
     <tu>
@@ -40456,6 +42124,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
       </tuv>
       <tuv lang="ja">
         <seg>洗濯サービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lausanne - Orthophoto technique 2012</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Lausanne - Orthophoto technique 2012</seg>
       </tuv>
     </tu>
     <tu>
@@ -41324,6 +43000,22 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Litecoin</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Litecoin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Live GPS</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Live GPS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LiveGPS layer</seg>
       </tuv>
       <tuv lang="ja">
@@ -41956,6 +43648,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Locator Overlay</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Locator Overlay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lock</seg>
       </tuv>
       <tuv lang="ja">
@@ -42080,6 +43780,22 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
       </tuv>
       <tuv lang="ja">
         <seg>認証に失敗したのでログアウトしました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lombardia - Italy (CTR DBT)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Lombardia - Italy (CTR DBT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lombardia - Italy (CTR)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Lombardia - Italy (CTR)</seg>
       </tuv>
     </tu>
     <tu>
@@ -42284,6 +44000,22 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>M</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MA</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>MA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MASim preferences</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200827T112355Z" creationid="miurahr" creationdate="20200827T112355Z">
@@ -42308,10 +44040,90 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MD</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>MD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ME</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MI</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>MI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MN</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>MN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MO</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>MO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MOT</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>MOT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MP</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>MP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MS</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>MS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MT</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>MT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MTB Scale</seg>
       </tuv>
       <tuv lang="ja">
         <seg>MTBスケール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Maestro</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Maestro</seg>
       </tuv>
     </tu>
     <tu>
@@ -43060,6 +44872,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mapbox Satellite</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Mapbox Satellite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mapillary Images</seg>
       </tuv>
       <tuv lang="ja">
@@ -43244,6 +45064,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Maps4BW (LGL-BW, www.lgl-bw.de)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Maps4BW (LGL-BW, www.lgl-bw.de)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Marina</seg>
       </tuv>
       <tuv lang="ja">
@@ -43344,6 +45172,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
       </tuv>
       <tuv lang="ja">
         <seg>選択された住所を地図中にマーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Martinique Fort Desaix 1952</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Martinique Fort Desaix 1952</seg>
       </tuv>
     </tu>
     <tu>
@@ -43644,6 +45480,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>May-Sep 09:30-12:30,14:15-19:30</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>May-Sep 09:30-12:30,14:15-19:30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Meadow</seg>
       </tuv>
       <tuv lang="ja">
@@ -43804,10 +45648,26 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mep (pt)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Mep (pt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mercator</seg>
       </tuv>
       <tuv lang="ja">
         <seg>メルカトル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mercator (EPSG:900913)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Mercator (EPSG:900913)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44076,6 +45936,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Merkaartor</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Merkaartor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Merkaartor document (*.mdc)</seg>
       </tuv>
       <tuv lang="ja">
@@ -44128,6 +45996,22 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
       </tuv>
       <tuv lang="ja">
         <seg>Merkaartorタグテンプレート(*.mat)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Merkaartor: GetCapabilities</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Merkaartor: GetCapabilities</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Merkaartor: GetServices</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Merkaartor: GetServices</seg>
       </tuv>
     </tu>
     <tu>
@@ -44232,6 +46116,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
       </tuv>
       <tuv lang="ja">
         <seg>メートル法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Metropole Ruhr: Luftbilder (10 cm)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Metropole Ruhr: Luftbilder (10 cm)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44372,6 +46264,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Minicash (lu)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Minicash (lu)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Minimal climbing length (m)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200819T133248Z" creationid="miurahr" creationdate="20200819T133248Z">
@@ -44408,6 +46308,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
       </tuv>
       <tuv lang="ja">
         <seg>最小距離(ピクセル)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Minipay (it)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Minipay (it)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44700,6 +46608,22 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mo-Fr 09:00-18:00,Sa 08:00-14:00</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Mo-Fr 09:00-18:00,Sa 08:00-14:00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mo-Su 12:00-22:00</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Mo-Su 12:00-22:00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mobil</seg>
       </tuv>
       <tuv lang="ja">
@@ -44832,6 +46756,30 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
       </tuv>
       <tuv lang="ja">
         <seg>モジュールは最新版です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mondero (ar)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Mondero (ar)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mondero 4b (es)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Mondero 4b (es)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moneo (fr)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Moneo (fr)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46078,6 +48026,118 @@ Select one of them first, then retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>NC</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>NC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NC Latest Orthoimagery</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>NC Latest Orthoimagery</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ND</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ND</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NE</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>NE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NEMA 5-15</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>NEMA 5-15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NEMA 5-20</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>NEMA 5-20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NH</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>NH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NJ</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>NJ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NLS - Bartholomew Half Inch, 1897-1907</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>NLS - Bartholomew Half Inch, 1897-1907</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NLS - OS 1-inch 7th Series 1955-61</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>NLS - OS 1-inch 7th Series 1955-61</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NLS - OS 1:25k 1st Series 1937-61</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>NLS - OS 1:25k 1st Series 1937-61</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NLS - OS 6-inch Scotland 1842-82</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>NLS - OS 6-inch Scotland 1842-82</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NLSC Open Data WMTS</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>NLSC Open Data WMTS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NM</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>NM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>NMEA GPS log format (*.nmea *.nma)</seg>
       </tuv>
       <tuv lang="ja">
@@ -46114,6 +48174,22 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>NTv2グリッドファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NV</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>NV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NY</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>NY</seg>
       </tuv>
     </tu>
     <tu>
@@ -46226,6 +48302,14 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>名前付き測位点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NanoLog</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>NanoLog</seg>
       </tuv>
     </tu>
     <tu>
@@ -48664,10 +50748,34 @@ nodes and the new nodes will be selected.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OH</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OK - trying again.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>OK - やり直しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OMV</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OMV</seg>
       </tuv>
     </tu>
     <tu>
@@ -48680,10 +50788,690 @@ nodes and the new nodes will be selected.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OR</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ORT10LT (Lithuania)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ORT10LT (Lithuania)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS 1:25k historic (OSM-Limited)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS 1:25k historic (OSM-Limited)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS New Popular Edition historic</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS New Popular Edition historic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS OpenData StreetView</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS OpenData StreetView</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Scottish Popular historic</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Scottish Popular historic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Aberdeen 1866-1867 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Aberdeen 1866-1867 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Airdrie 1858 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Airdrie 1858 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Alexandria 1859 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Alexandria 1859 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Alloa 1861-1862 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Alloa 1861-1862 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Annan 1859 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Annan 1859 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Arbroath 1858 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Arbroath 1858 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Ayr 1855 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Ayr 1855 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Berwick-upon-Tweed 1852 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Berwick-upon-Tweed 1852 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Brechin 1862 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Brechin 1862 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Burntisland 1894 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Burntisland 1894 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Campbelton 1865 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Campbelton 1865 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Coatbridge 1858 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Coatbridge 1858 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Cupar 1854 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Cupar 1854 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Cupar 1893-1894 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Cupar 1893-1894 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Dalkeith 1852 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Dalkeith 1852 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Dalkeith 1893 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Dalkeith 1893 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Dumbarton 1859 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Dumbarton 1859 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Dumfries 1850 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Dumfries 1850 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Dumfries 1893 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Dumfries 1893 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Dundee 1857-1858 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Dundee 1857-1858 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Dundee 1870-1872 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Dundee 1870-1872 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Dunfermline 1854 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Dunfermline 1854 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Dunfermline 1894 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Dunfermline 1894 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Edinburgh 1849-1851 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Edinburgh 1849-1851 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Edinburgh 1876-1877 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Edinburgh 1876-1877 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Edinburgh 1893-1894 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Edinburgh 1893-1894 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Elgin 1868 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Elgin 1868 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Falkirk 1858-1859 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Falkirk 1858-1859 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Forfar 1860-1861 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Forfar 1860-1861 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Forres 1868 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Forres 1868 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Galashiels 1858 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Galashiels 1858 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Girvan 1857 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Girvan 1857 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Glasgow 1857-1858 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Glasgow 1857-1858 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Glasgow 1892-1894 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Glasgow 1892-1894 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Greenock 1857 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Greenock 1857 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Haddington 1853 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Haddington 1853 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Haddington 1893 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Haddington 1893 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Hamilton 1858 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Hamilton 1858 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Hawick 1857-1858 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Hawick 1857-1858 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Inverness 1867-1868 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Inverness 1867-1868 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Irvine 1859 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Irvine 1859 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Jedburgh 1858 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Jedburgh 1858 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Kelso 1857 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Kelso 1857 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Kilmarnock 1857-1859 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Kilmarnock 1857-1859 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Kirkcaldy 1855 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Kirkcaldy 1855 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Kirkcaldy 1894 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Kirkcaldy 1894 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Kirkcudbright 1850 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Kirkcudbright 1850 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Kirkcudbright 1893 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Kirkcudbright 1893 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Kirkintilloch 1859 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Kirkintilloch 1859 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Kirriemuir 1861 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Kirriemuir 1861 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Lanark 1858 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Lanark 1858 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Linlithgow 1856 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Linlithgow 1856 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Mayole 1856-1857 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Mayole 1856-1857 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Montrose 1861-1862 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Montrose 1861-1862 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Musselburgh 1853 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Musselburgh 1853 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Musselburgh 1893 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Musselburgh 1893 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Nairn 1867-1868 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Nairn 1867-1868 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Oban 1867-1868 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Oban 1867-1868 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Paisley 1858 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Paisley 1858 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Peebles 1856 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Peebles 1856 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Perth 1860 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Perth 1860 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Peterhead 1868 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Peterhead 1868 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Port Glasgow 1856-1857 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Port Glasgow 1856-1857 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Portobello 1893-1894 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Portobello 1893-1894 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Rothesay 1862-1863 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Rothesay 1862-1863 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Selkirk 1865 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Selkirk 1865 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, St Andrews 1854 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, St Andrews 1854 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, St Andrews 1893 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, St Andrews 1893 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Stirling 1858 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Stirling 1858 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Stonehaven 1864 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Stonehaven 1864 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Stranraer 1847 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Stranraer 1847 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Stranraer 1863-1877 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Stranraer 1863-1877 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Stranraer 1893 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Stranraer 1893 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Strathaven 1858 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Strathaven 1858 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Wick 1872 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Wick 1872 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Wigtown 1848 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Wigtown 1848 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Town Plans, Wigtown 1894 (NLS)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OS Town Plans, Wigtown 1894 (NLS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OSM (Binary)</seg>
       </tuv>
       <tuv lang="ja">
         <seg>OSM (バイナリー形式)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSM (XML)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSM (XML)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSM API</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSM API</seg>
       </tuv>
     </tu>
     <tu>
@@ -48700,6 +51488,14 @@ nodes and the new nodes will be selected.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201111T000448Z" creationid="miurahr" creationdate="20201111T000448Z">
         <seg>OSM APIのURLを空にすることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSM API Url</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSM API Url</seg>
       </tuv>
     </tu>
     <tu>
@@ -48724,6 +51520,62 @@ nodes and the new nodes will be selected.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>OSM ファイル (*.osm)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSM Inspector Bugs</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSM Inspector Bugs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSM Inspector: Addresses</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSM Inspector: Addresses</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSM Inspector: Geometry</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSM Inspector: Geometry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSM Inspector: Highways</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSM Inspector: Highways</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSM Inspector: Places</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSM Inspector: Places</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSM Inspector: Routing</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSM Inspector: Routing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSM Inspector: Tagging</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSM Inspector: Tagging</seg>
       </tuv>
     </tu>
     <tu>
@@ -48804,6 +51656,14 @@ nodes and the new nodes will be selected.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>OSM署名ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSM XAPI url</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSM XAPI url</seg>
       </tuv>
     </tu>
     <tu>
@@ -48900,6 +51760,62 @@ nodes and the new nodes will be selected.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T112207Z" creationid="miurahr" creationdate="20190107T112207Z">
         <seg>OSMFはあなたのコンテンツをデータベースの一部として、そして次のライセンスのうちひとつ以上の規約の下でのみ、利用あるいはサブライセンスのみを行う可能性があるということに同意します： データベースに対してはODbL1.0で、データベースの個々のコンテンツについてはDbCL1.0で; CC-BY-SA 2.0; あるいはOSMF会員の投票によりその時々で選ばれ、アクティブな投稿者のうち少なくとも2/3の大多数の投票により承認されたフリーでオープンな他のライセンス(例えば、http://www.opendefinition.org/okd/)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSMIE Baronies</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSMIE Baronies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSMIE Civil Parishes</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSMIE Civil Parishes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSMIE Dail Election Areas</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSMIE Dail Election Areas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSMIE EDs</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSMIE EDs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSMIE Local Election Areas</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSMIE Local Election Areas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSMIE T.ie Land not in Counties</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSMIE T.ie Land not in Counties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSMIE Townlands</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OSMIE Townlands</seg>
       </tuv>
     </tu>
     <tu>
@@ -50465,6 +53381,14 @@ was open.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OpenCycleMap</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OpenCycleMap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OpenData Preferences</seg>
       </tuv>
       <tuv lang="ja">
@@ -50489,10 +53413,66 @@ was open.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OpenPT Map (overlay)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OpenPT Map (overlay)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenSeaMap</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OpenSeaMap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenStreetMap (French Style)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OpenStreetMap (French Style)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenStreetMap (German Style)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OpenStreetMap (German Style)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenStreetMap (Mapnik, no labels)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OpenStreetMap (Mapnik, no labels)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OpenStreetMap GPS Traces</seg>
       </tuv>
       <tuv lang="ja">
         <seg>OpenStreetMap GPS トレース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenStreetMap Hungary (hiking routes)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OpenStreetMap Hungary (hiking routes)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenStreetMap change format (*.osc)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OpenStreetMap change format (*.osc)</seg>
       </tuv>
     </tu>
     <tu>
@@ -50953,10 +53933,26 @@ was open.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OsmChange (OSC)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OsmChange (OSC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OsmChange File</seg>
       </tuv>
       <tuv lang="ja">
         <seg>OsmChangeファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OsmInspector</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>OsmInspector</seg>
       </tuv>
     </tu>
     <tu>
@@ -51363,6 +54359,38 @@ own copy and all nodes will be selected.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PA</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>PA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PCN 2006 - Italy</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>PCN 2006 - Italy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PCN 2008 - IT Lazio+Umbria</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>PCN 2008 - IT Lazio+Umbria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PCN 2012 - Italy</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>PCN 2012 - Italy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PDF files</seg>
       </tuv>
       <tuv lang="ja">
@@ -51395,10 +54423,26 @@ own copy and all nodes will be selected.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PNOA Spain</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>PNOA Spain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>POI's</seg>
       </tuv>
       <tuv lang="ja">
         <seg>POI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PR</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>PR</seg>
       </tuv>
     </tu>
     <tu>
@@ -51419,10 +54463,34 @@ own copy and all nodes will be selected.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PUWG (Poland)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>PUWG (Poland)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PUWG 1992 (Poland)</seg>
       </tuv>
       <tuv lang="ja">
         <seg>PUWG 1992 (ポーランド)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PUWG 2000 Zone {0} (Poland)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>PUWG 2000 Zone {0} (Poland)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PUWG Zone</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>PUWG Zone</seg>
       </tuv>
     </tu>
     <tu>
@@ -52405,6 +55473,30 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Petro-Canada</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Petro-Canada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PgDown</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>PgDown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PgUp</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>PgUp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pharmacy</seg>
       </tuv>
       <tuv lang="ja">
@@ -52625,6 +55717,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>ピン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pioneer</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Pioneer</seg>
       </tuv>
     </tu>
     <tu>
@@ -54475,6 +57575,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Polish</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Polish</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Political</seg>
       </tuv>
       <tuv lang="ja">
@@ -54671,6 +57779,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>おそらく</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Potlatch 2</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Potlatch 2</seg>
       </tuv>
     </tu>
     <tu>
@@ -56261,6 +59377,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Public Transport (ÖPNV)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Public Transport (ÖPNV)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Public Transport Route</seg>
       </tuv>
       <tuv lang="ja">
@@ -56533,10 +59657,26 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Q8</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Q8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Q=Options, Enter=save, Ctrl-Enter=save with tags, Up/Down=tune</seg>
       </tuv>
       <tuv lang="ja">
         <seg>Q=オプション、Enter=保存、Ctrl+Enter=タグを付けて保存、↑/↓=調整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QA No Address</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>QA No Address</seg>
       </tuv>
     </tu>
     <tu>
@@ -56717,10 +59857,34 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>R</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>R&amp;emove</seg>
       </tuv>
       <tuv lang="ja">
         <seg>削除(&amp;e)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>RABA-KGZ: Slovenia built-up areas</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>RABA-KGZ: Slovenia built-up areas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>RABA-KGZ: Slovenia farmland use</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>RABA-KGZ: Slovenia farmland use</seg>
       </tuv>
     </tu>
     <tu>
@@ -56757,6 +59921,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>RI</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>RI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>RTKLib Positioning Solution Files</seg>
       </tuv>
       <tuv lang="ja">
@@ -56777,6 +59949,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>RTKLibのインポートに成功しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>RX</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>RX</seg>
       </tuv>
     </tu>
     <tu>
@@ -59533,6 +62713,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Repsol</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Repsol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Request Access Token</seg>
       </tuv>
       <tuv lang="ja">
@@ -60317,6 +63505,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Reunion RGR92</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Reunion RGR92</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Reunion RGR92 cache file (.UTM4)</seg>
       </tuv>
       <tuv lang="ja">
@@ -60637,6 +63833,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rijksdriehoekscoördinaten (Netherlands)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Rijksdriehoekscoördinaten (Netherlands)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>River</seg>
       </tuv>
       <tuv lang="ja">
@@ -60649,6 +63853,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>川岸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Riverbank of Danube at Budapest, Szentendre and Szigetmonostor</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Riverbank of Danube at Budapest, Szentendre and Szigetmonostor</seg>
       </tuv>
     </tu>
     <tu>
@@ -61165,6 +64377,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Routex</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Routex</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Routing</seg>
       </tuv>
       <tuv lang="ja">
@@ -61397,6 +64617,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Russian</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Russian</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>S</seg>
       </tuv>
       <tuv lang="ja">
@@ -61433,6 +64661,46 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>SACスケール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SAE J1772 (IEC Type 1)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>SAE J1772 (IEC Type 1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SAE J1772 Combo (DC)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>SAE J1772 Combo (DC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SC</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>SC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SD</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>SD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SDS</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>SDS</seg>
       </tuv>
     </tu>
     <tu>
@@ -61477,6 +64745,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SIGIP - Orthophoto 2012</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>SIGIP - Orthophoto 2012</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SIM_cards</seg>
       </tuv>
       <tuv lang="ja">
@@ -61485,10 +64761,50 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SPW(allonie) 2009-2010 aerial imagery</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>SPW(allonie) 2009-2010 aerial imagery</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SPW(allonie) 2012-2013 aerial imagery</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>SPW(allonie) 2012-2013 aerial imagery</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SPW(allonie) 2015 aerial imagery</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>SPW(allonie) 2015 aerial imagery</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SPW(allonie) PICC numerical imagery</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>SPW(allonie) PICC numerical imagery</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SUMO Export</seg>
       </tuv>
       <tuv lang="ja">
         <seg>SUMOエクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SVG</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>SVG</seg>
       </tuv>
     </tu>
     <tu>
@@ -61505,6 +64821,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>SVGファイル［ImportVecプラグイン］(*.svg)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SWEREF99 13 30 / EPSG:3008 (Sweden)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>SWEREF99 13 30 / EPSG:3008 (Sweden)</seg>
       </tuv>
     </tu>
     <tu>
@@ -62253,6 +65577,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ScanEx IRS</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>ScanEx IRS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Scanning directory {0}</seg>
       </tuv>
       <tuv lang="ja">
@@ -62273,6 +65605,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200906T112156Z" creationid="miurahr" creationdate="20200906T112156Z">
         <seg>シュレイダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Schuko</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Schuko</seg>
       </tuv>
     </tu>
     <tu>
@@ -62826,6 +66166,26 @@ This automatically generates a language menu consisting of links to the original
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170523T123051Z" creationid="miurahr" creationdate="20170523T123051Z">
         <seg>リストの一部は以下を参照してください。 &lt;br /&gt; これは元のページ（英語版）とすべての翻訳ページへのリンクを含む言語メニューを生成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See http://wiki.openstreetmap.org/wiki/User:TTTBot for details on how to edit or add entries to this page
+
+--&gt;
+
+{| &lt;!--TTTtable--&gt; class="wikitable sortable" style="font-size: 85%; text-align: center;"
+|-
+!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T100502Z" creationid="miurahr" creationdate="20210116T100502Z">
+        <seg>このページのエントリを編集または追加する方法については、詳細のhttp://wiki.openstreetmap.org/wiki/User:TTTBotを参照してください
+--&gt;
+
+{| &lt;!--TTTtable--&gt; class="wikitable sortable" style="font-size: 85%; text-align: center;"
+|-
+!
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -64590,6 +67950,14 @@ This automatically generates a language menu consisting of links to the original
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T064256Z" creationid="miurahr" creationdate="20201120T064256Z">
         <seg>メッセージ送信...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Separate Data Store</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Separate Data Store</seg>
       </tuv>
     </tu>
     <tu>
@@ -66500,6 +69868,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sicily - Italy</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Sicily - Italy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Side buttons</seg>
       </tuv>
       <tuv lang="ja">
@@ -67036,6 +70412,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Slovakia Historic Maps</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Slovakia Historic Maps</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Slower</seg>
       </tuv>
       <tuv lang="ja">
@@ -67160,6 +70544,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T045351Z" creationid="miurahr" creationdate="20201120T045351Z">
         <seg>したがって、OAuth認証を取得するには、そこにアカウントを持ち、ローカルアプリケーションを登録する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Socar</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Socar</seg>
       </tuv>
     </tu>
     <tu>
@@ -67528,6 +70920,22 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>南</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>South Africa CD:NGI Aerial</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>South Africa CD:NGI Aerial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>South Tyrol Topomap</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>South Tyrol Topomap</seg>
       </tuv>
     </tu>
     <tu>
@@ -68076,6 +71484,22 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Stadt Bern 10cm/25cm (2012)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Stadt Bern 10cm/25cm (2012)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stadt Uster Orthophoto 2008 10cm</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Stadt Uster Orthophoto 2008 10cm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Standard (EPSG:...)</seg>
       </tuv>
       <tuv lang="ja">
@@ -68381,6 +71805,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Statoil</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Statoil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Status</seg>
       </tuv>
       <tuv lang="ja">
@@ -68653,6 +72085,22 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Strava cycling heatmap</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Strava cycling heatmap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Strava running heatmap</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Strava running heatmap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Stream</seg>
       </tuv>
       <tuv lang="ja">
@@ -68897,6 +72345,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>内部境界</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Subdistrict</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Subdistrict</seg>
       </tuv>
     </tu>
     <tu>
@@ -69149,6 +72605,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sunoco</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Sunoco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Superfluous turn restriction as "from" way is oneway</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200819T112341Z" creationid="miurahr" creationdate="20200819T112341Z">
@@ -69325,6 +72789,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Surrey Air Survey</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Surrey Air Survey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Surveillance Camera</seg>
       </tuv>
       <tuv lang="ja">
@@ -69433,6 +72905,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>スイングゲート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Swiss Grid (Switzerland)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Swiss Grid (Switzerland)</seg>
       </tuv>
     </tu>
     <tu>
@@ -69731,6 +73211,22 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>TMSサーバ設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>TN</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>TN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>TX</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>TX</seg>
       </tuv>
     </tu>
     <tu>
@@ -70239,6 +73735,38 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Taiwan Land-Section Data</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Taiwan Land-Section Data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Taiwan Village Boundaries</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Taiwan Village Boundaries</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Taiwan e-Map Open Data</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Taiwan e-Map Open Data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Taiwan e-Map Open Data (with Contour Line)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Taiwan e-Map Open Data (with Contour Line)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Take a look at the latest version on &lt;x3/&gt;stm.hauke-stieler.de&lt;x4/&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T040841Z" creationid="miurahr" creationdate="20201120T040841Z">
@@ -70267,6 +73795,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>付近の地図を編集しているユーザーと会話しましょう。誰かが近くに来ると通知されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tamoil</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Tamoil</seg>
       </tuv>
     </tu>
     <tu>
@@ -70963,6 +74499,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>''*:conditional''タグの使い方が正しいかどうかをテストします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Texaco</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Texaco</seg>
       </tuv>
     </tu>
     <tu>
@@ -71823,6 +75367,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
       <tuv lang="ja">
         <seg>必要な用語 {0} がありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following table is generated automatically by a bot.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T100406Z" creationid="miurahr" creationdate="20210116T100406Z">
+        <seg>次のテーブルは、ボットによって自動的に生成されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74786,6 +78338,22 @@ This makes use of a very simple &lt;x1/&gt;OAuth-Dummy server&lt;x2/&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tiris: DGM (Terrain model)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Tiris: DGM (Terrain model)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tiris: DOM (Surface model)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Tiris: DOM (Surface model)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title or type of protection</seg>
       </tuv>
       <tuv lang="ja">
@@ -74960,6 +78528,14 @@ projections and retry</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200813T124614Z" creationid="miurahr" creationdate="20200813T124614Z">
         <seg>名前つき集合に要素を書き込む場合は、 &lt;code&gt;-&gt;&lt;/code&gt; の書式を使い、集合の名前を指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>To:</seg>
       </tuv>
     </tu>
     <tu>
@@ -75444,6 +79020,38 @@ projections and retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Toulouse - Orthophotoplan 2007</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Toulouse - Orthophotoplan 2007</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toulouse - Orthophotoplan 2011</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Toulouse - Orthophotoplan 2011</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toulouse - Orthophotoplan 2013</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Toulouse - Orthophotoplan 2013</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toulouse - Orthophotoplan 2015</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Toulouse - Orthophotoplan 2015</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tourism</seg>
       </tuv>
       <tuv lang="ja">
@@ -75526,6 +79134,14 @@ or action canceled</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tracer</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Tracer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tracer building</seg>
       </tuv>
       <tuv lang="ja">
@@ -75538,6 +79154,14 @@ or action canceled</seg>
       </tuv>
       <tuv lang="ja">
         <seg>Tracer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tracer2</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Tracer2</seg>
       </tuv>
     </tu>
     <tu>
@@ -76399,6 +80023,14 @@ or action canceled</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Type 3 (SCAME)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Type 3 (SCAME)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Type of compensator</seg>
       </tuv>
       <tuv lang="ja">
@@ -76511,6 +80143,14 @@ or action canceled</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>TÜV</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>TÜV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>UIAA grading</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200819T133345Z" creationid="miurahr" creationdate="20200819T133345Z">
@@ -76559,6 +80199,22 @@ or action canceled</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>UID</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>UID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>UM</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>UM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>UNKNOWN</seg>
       </tuv>
       <tuv lang="ja">
@@ -76587,6 +80243,46 @@ or action canceled</seg>
       </tuv>
       <tuv lang="ja">
         <seg>トラックポイント %1 のアップデート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>URBIS 2009 aerial imagery</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>URBIS 2009 aerial imagery</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>URBIS 2012 aerial imagery</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>URBIS 2012 aerial imagery</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>URBIS 2014 aerial imagery</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>URBIS 2014 aerial imagery</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>URBIS 2015 aerial imagery</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>URBIS 2015 aerial imagery</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>URL</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>URL</seg>
       </tuv>
     </tu>
     <tu>
@@ -76735,6 +80431,46 @@ or action canceled</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>URL:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>URL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>UT</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>UT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>UTA</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>UTA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>UTM</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>UTM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>UTM France (DOM)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>UTM France (DOM)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>UTM Geodesic system</seg>
       </tuv>
       <tuv lang="ja">
@@ -76755,6 +80491,14 @@ or action canceled</seg>
       </tuv>
       <tuv lang="ja">
         <seg>UTM 投影法 (''+proj=utm'') には ''+zone=...'' パラメーターが必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ukraine - Orthophotomaps 2012</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Ukraine - Orthophotomaps 2012</seg>
       </tuv>
     </tu>
     <tu>
@@ -80026,6 +83770,30 @@ Create a new one.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>VA</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>VA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>VI</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>VI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>VT</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>VT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Vacuum Cleaner</seg>
       </tuv>
       <tuv lang="ja">
@@ -80574,6 +84342,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ver</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Ver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Verification failed.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T062708Z" creationid="miurahr" creationdate="20201120T062708Z">
@@ -80682,6 +84458,30 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T062916Z" creationid="miurahr" creationdate="20201120T062916Z">
         <seg>動画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vienna: Beschriftungen (annotations)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Vienna: Beschriftungen (annotations)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vienna: Mehrzweckkarte (general purpose)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Vienna: Mehrzweckkarte (general purpose)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vienna: Orthofoto (aerial image)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Vienna: Orthofoto (aerial image)</seg>
       </tuv>
     </tu>
     <tu>
@@ -80934,10 +84734,26 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Visa</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Visa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Visa Debit</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200906T151902Z" creationid="miurahr" creationdate="20200906T151902Z">
         <seg>VISAデビット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Visa Electron</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Visa Electron</seg>
       </tuv>
     </tu>
     <tu>
@@ -81030,6 +84846,22 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>VoGIS: Flächenwidmungsplan</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>VoGIS: Flächenwidmungsplan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>VoGIS: Höhen und Gelände</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>VoGIS: Höhen und Gelände</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Vodo-Vodyanoi Energetichesky Reactor (VVER)</seg>
       </tuv>
       <tuv lang="ja">
@@ -81102,6 +84934,22 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>WA</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>WA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>WARNING:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T100359Z" creationid="miurahr" creationdate="20210116T100359Z">
+        <seg>警告:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>WC</seg>
       </tuv>
       <tuv lang="ja">
@@ -81110,10 +84958,26 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>WGS84</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>WGS84</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>WGS84 Geographic</seg>
       </tuv>
       <tuv lang="ja">
         <seg>WGS84測地系</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>WI</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>WI</seg>
       </tuv>
     </tu>
     <tu>
@@ -81210,6 +85074,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja">
         <seg>WMTS パーサエラー - 開始要素 {0} が終了要素 {2} の名前が異なります</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>WV</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>WV</seg>
       </tuv>
     </tu>
     <tu>
@@ -82669,6 +86541,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Wikipedia</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>Wikipedia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Wikipedia article ''{0}'' redirects to ''{1}''</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200826T015442Z" creationid="miurahr" creationdate="20200826T015442Z">
@@ -83111,6 +86991,14 @@ The tasking manager was designed and built for the [[Humanitarian OpenStreetMap 
       </tuv>
       <tuv lang="ja">
         <seg>順番が正しくないウェイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>XAPI</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>XAPI</seg>
       </tuv>
     </tu>
     <tu>
@@ -84795,6 +88683,14 @@ The tasking manager was designed and built for the [[Humanitarian OpenStreetMap 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[ID] {0}</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>[ID] {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[[/Phase Out]] of OpenStreetBugs started, with users encouraged to use [[Notes]].</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200817T220457Z" creationid="miurahr" creationdate="20200817T220457Z">
@@ -84913,10 +88809,34 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[id: {0}, v{1}]</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>[id: {0}, v{1}]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[id: {0}]</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>[id: {0}]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[incomplete]</seg>
       </tuv>
       <tuv lang="ja">
         <seg>[不完全]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[v{0}]</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>[v{0}]</seg>
       </tuv>
     </tu>
     <tu>
@@ -86041,6 +89961,22 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>basemap.at</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>basemap.at</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>basemap.at Orthofoto</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>basemap.at Orthofoto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>basic_hut</seg>
       </tuv>
       <tuv lang="ja">
@@ -87137,6 +91073,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>cm</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>cm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>coal</seg>
       </tuv>
       <tuv lang="ja">
@@ -87541,6 +91485,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200906T122025Z" creationid="miurahr" creationdate="20200906T122025Z">
         <seg>冷却</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>coord</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>coord</seg>
       </tuv>
     </tu>
     <tu>
@@ -89545,6 +93497,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>gpsd</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>gpsd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>grade1</seg>
       </tuv>
       <tuv lang="ja">
@@ -89989,6 +93949,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>hh '時' mm '分' ss '秒'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>hh:mm:ss</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>hh:mm:ss</seg>
       </tuv>
     </tu>
     <tu>
@@ -90841,6 +94809,22 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>km</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>km</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>km/h</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>km/h</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>korean</seg>
       </tuv>
       <tuv lang="ja">
@@ -91489,6 +95473,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>m</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>macadamia_trees</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200906T152611Z" creationid="miurahr" creationdate="20200906T152611Z">
@@ -92133,6 +96125,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>混合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>mm</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>mm</seg>
       </tuv>
     </tu>
     <tu>
@@ -95329,6 +99329,66 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>scope="col" class="unsortable" | Screenshot
+!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T100506Z" creationid="miurahr" creationdate="20210116T100506Z">
+        <seg>scope="col" class="unsortable" | Screenshot
+!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>scope="col" | Display map
+!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T100507Z" creationid="miurahr" creationdate="20210116T100507Z">
+        <seg>scope="col" | Display map
+!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>scope="col" | Make track
+!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T100508Z" creationid="miurahr" creationdate="20210116T100508Z">
+        <seg>scope="col" | Make track
+!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>scope="col" | Monitor
+!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T100557Z" creationid="miurahr" creationdate="20210116T100557Z">
+        <seg>scope="col" | Monitor
+!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>scope="col" | Name
+!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T100505Z" creationid="miurahr" creationdate="20210116T100505Z">
+        <seg>scope="col" | Name
+!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>scope="col" | Navigate
+!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T100507Z" creationid="miurahr" creationdate="20210116T100507Z">
+        <seg>scope="col" | Navigate
+!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>scoria</seg>
       </tuv>
       <tuv lang="ja">
@@ -95973,6 +100033,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>スキーツアー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>skobbler</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>skobbler</seg>
       </tuv>
     </tu>
     <tu>
@@ -98206,6 +102274,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>use_sidepath</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>use_sidepath</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>user:&lt;i&gt;OSM username&lt;/i&gt; (objects with the author &lt;i&gt;OSM username&lt;/i&gt;)</seg>
       </tuv>
       <tuv lang="ja">
@@ -99126,6 +103202,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>xxx</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>xxx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>y-frame</seg>
       </tuv>
       <tuv lang="ja">
@@ -99238,10 +103322,26 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{0}</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{0} ''{1}''</seg>
       </tuv>
       <tuv lang="ja">
         <seg>''{1}'' {0}件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} (Corsica)</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{0} (Corsica)</seg>
       </tuv>
     </tu>
     <tu>
@@ -100252,6 +104352,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{0}+{1}</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{0}+{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{0}, use {1} instead</seg>
       </tuv>
       <tuv lang="ja">
@@ -100264,6 +104372,30 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>{0}... [番号を入力してください]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0}/Password</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{0}/Password</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0}/Username</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{0}/Username</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0}:</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{0}:</seg>
       </tuv>
     </tu>
     <tu>
@@ -100304,6 +104436,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200826T015932Z" creationid="miurahr" creationdate="20200826T015932Z">
         <seg>{0}=*タグには、URLエンコードされた値を含めることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0}={1}</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>{0}={1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -100492,6 +104632,20 @@ OpenStreetMap では、データベース内でタグ付けや地物の存在が
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{Languages|Merkaartor}}
+{{Software
+|name=Merkaartor
+|author=Bart Vanhauwaert, Chris Browet, Ladislav Láska and others.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T100623Z" creationid="miurahr" creationdate="20210116T100623Z">
+        <seg>{{Languages|Merkaartor}}
+{{Software
+|name=Merkaartor
+|author=Bart Vanhauwaert, Chris Browet, Ladislav Láska and others.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{Languages|OpenStreetBugs}}
 {{Ambox
 | type  = danger
@@ -100547,6 +104701,14 @@ A '''Copyright Easter Egg''', in terms of mapping, is a feature that is drawn in
       <tuv lang="ja" changeid="miurahr" changedate="20201106T123808Z" creationid="miurahr" creationdate="20201106T123808Z">
         <seg>
 '''著作権イースターエッグ'''（Copyright Easter Egg）は、マッピングの用語で、地図の原作者を識別しやすくするために、特有の方法で描かれた地物のことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>°</seg>
+      </tuv>
+      <tuv lang="ja">
+        <seg>°</seg>
       </tuv>
     </tu>
     <tu>
