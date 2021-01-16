@@ -1748,6 +1748,18 @@ no_more_mappingを外してください)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>)
+
+OpenStreetMap aims to be the best world map for disabled users - by keeping track of important tags like wheelchair accessibility with [[Wheelmap]], and by creating accessible versions of the map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T125838Z" creationid="miurahr" creationdate="20210116T125723Z">
+        <seg>)
+
+OpenStreetMap は、障碍を持つ方にとって最良の地図となることを目指しています。  [[Wheelmap]] で車椅子利用者のアクセシビリティをタグ付けするなど、重要なタグを記録します。また、アクセシビリティの高い地図作成を目指します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* '''2009''': The second implementation was started by Christoph Böhme and continued by [[User:Emka|Emka]].</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200817T220013Z" creationid="miurahr" creationdate="20200817T220013Z">
@@ -2030,6 +2042,42 @@ Ordnance Survey Maps sued the Automobile Association for copying their maps and 
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201110T075144Z" creationid="miurahr" creationdate="20201110T074915Z">
         <seg>* [http://maps.google.com/maps?t=h&amp;ll=52.552128,-1.859822&amp;spn=0.004593,0.00839&amp;t=h ワーウィック・ロードとチューダー・クローズ  - サットン・コードフィールド] は、Tele Atlasのイースターエッグの良い例です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* [http://www.behindertenfuehrer-stade.de/html/piktogram.html Pictograms for accessibility]
+
+== Tagging for Disabilities in general==
+* Tourism: Lower [[Key:fee]] for disabled person
+* Free [[Key:fee]] for assistants of disabled people
+* [[Proposed features/DisabilityDescription]]
+
+== Different accessibility challenge types ==
+=== Visual impairment/blindness ===
+
+{{Main|OSM for the blind}}
+
+* Also see [[List of OSM based Services#Accessibility for persons with disabilities|section “Accessibility for persons with disabilities” in the “List of OSM based Services”]]
+* [[LoroDux]] Pedestrian Navigation for the blind (+ OSM editor integration planned)
+* [[HaptoRender]] German project for tactile maps for the visually impaired / blind.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T130241Z" creationid="miurahr" creationdate="20210116T130021Z">
+        <seg>* [http://www.behindertenfuehrer-stade.de/html/piktogram.html アクセシビリティ向けのピクトグラム]
+
+== 全般的な障碍者向けのタグ付け ==
+* 観光: 障碍者向けの割引料金 [[Key:fee]]
+* 介助者向けの料金免除（車椅子介助や目の不自由な方のガイド用）
+* [[Proposed features/DisabilityDescription]]
+
+== 障碍種別アクセシビリティ ==
+=== 全盲/視覚障害 ===
+
+{{Main|JA:視覚障碍者のためのOSM}}
+
+* Also see [[List of OSM based Services#Accessibility for persons with disabilities|section “Accessibility for persons with disabilities” in the “List of OSM based Services”]]
+* [[LoroDux]] Pedestrian Navigation for the blind (+ OSM editor integration planned)
+* [[HaptoRender]] German project for tactile maps for the visually impaired / blind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5032,6 +5080,17 @@ OpenStreetMapのWebサイトでは、異なる言語を使用した異なる焦�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>== General information sources ==
+* Please see [http://www.handicaching.com handicaching.com] for an already used system of categorizing ways for disabled persons.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T130019Z" creationid="miurahr" creationdate="20210116T130019Z">
+        <seg>== 全般的な情報源 ==
+* 障碍者の分類方法に関する既存の方法は [http://www.handicaching.com handicaching.com] を参照してください。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>== How to translate ==
 === Single page ===
 * Find the English version of a page in the main namespace.</seg>
@@ -5040,6 +5099,30 @@ OpenStreetMapのWebサイトでは、異なる言語を使用した異なる焦�
         <seg>== 翻訳の仕方 ==
 === 単一ページ ===
 * 標準の名前空間で英語版のページを探してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>== Information sources ==
+* [https://www.un.org/development/desa/disabilities-fr/ ONU - Disability]
+* &lt;s&gt;[http://www.schulemachtzukunft2006-039.de/data/vorbildliche_projekte.pdf Vorbildliche Projekte]&lt;/s&gt; {{german}} (dead link)
+* [http://www.anderssehen.at/bilder/stadtpla.shtml Tastbarer Stadtplan Graz] {{german}}
+* [http://www.nullbarriere.de Nullbarriere.de] {{german}}
+
+&lt;!-- Categories --&gt;
+[[Category:Disabilities| ]]
+[[Category:Page translation requested]]</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T130438Z" creationid="miurahr" creationdate="20210116T130438Z">
+        <seg>== 情報源 ==
+* [https://www.un.org/development/desa/disabilities-fr/ ONU - Disability]
+* &lt;s&gt;[http://www.schulemachtzukunft2006-039.de/data/vorbildliche_projekte.pdf Vorbildliche Projekte]&lt;/s&gt; {{german}} (dead link)
+* [http://www.anderssehen.at/bilder/stadtpla.shtml Tastbarer Stadtplan Graz] {{german}}
+* [http://www.nullbarriere.de Nullbarriere.de] {{german}}
+
+&lt;!-- Categories --&gt;
+{{DEFAULTSORT:ショウガイシャ}}
+[[Category:JA:障碍者| ]]</seg>
       </tuv>
     </tu>
     <tu>
@@ -5098,6 +5181,23 @@ OpenStreetMapのWebサイトでは、異なる言語を使用した異なる焦�
 * すでに主張しているのであれば、もう一度私たち全員に話す必要はありません。
 * あら探しはあなたや他の誰の助けにもならない
 * 返信先の設定に対応します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>== More information ==
+You can find a lot of tags concerning accessibility in these categories:
+* [[:Category:Disabilities|Disabilities]]
+
+Join the [https://lists.openstreetmap.org/listinfo/accessibility accessibility mailing list] by sending an email to [mailto:accessibility-subscribe@openstreetmap.org accessibility-subscribe@openstreetmap.org].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T130314Z" creationid="miurahr" creationdate="20210116T130314Z">
+        <seg>== 追加情報 ==
+アクセシビリティに関するタグは次のカテゴリーで確認できます:
+* [[:Category:JA:障碍者|JA:障碍者]]
+
+[http://lists.openstreetmap.org/listinfo/accessibility アクセシビリティメーリングリスト]に参加しましょう。 [mailto:accessibility-subscribe@openstreetmap.org accessibility-subscribe@openstreetmap.org] までメールを送ってください。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -10272,6 +10372,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T060834Z" creationid="miurahr" creationdate="20201120T060834Z">
         <seg>任意のユーザ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Any wiki page that contains information for disabled users shall be added to this category.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T125703Z" creationid="miurahr" creationdate="20210116T125703Z">
+        <seg>ハンディキャップのある方々向けの情報を含むWiki　ページは全てこのカテゴリに追記されるべきです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34058,6 +34166,14 @@ If tagging an [[area]], [[way]] or [[node]] there may be reasons to record the {
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For many objects there are no tags, for others are no keys that specify the accessibility.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T125652Z" creationid="miurahr" creationdate="20210116T125633Z">
+        <seg>多くのオブジェクトにはタグがありませんし、アクセシビリティを規定するキーが無いものもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more detailed description see</seg>
       </tuv>
       <tuv lang="ja">
@@ -41193,6 +41309,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T124648Z" creationid="miurahr" creationdate="20201106T124648Z">
         <seg>それもまた、不必要なことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's important that OpenStreetMap's data is open in full because it makes these things possible - to process a world map into a direction finder for the blind, or a map of only wheelchair-accessible places.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T125902Z" creationid="miurahr" creationdate="20210116T125728Z">
+        <seg> OpenStreetMap のデータは完全にオープンである点が重要です。視覚障碍者向けの道案内地図や、車椅子のアクセシビリティに特化した地図を作成することが可能となるのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57204,6 +57328,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please add links to the related topics.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T125927Z" creationid="miurahr" creationdate="20210116T125905Z">
+        <seg>関連するトピックにリンクを追加してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please authorize first.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201111T000435Z" creationid="miurahr" creationdate="20201111T000435Z">
@@ -67393,6 +67525,14 @@ This automatically generates a language menu consisting of links to the original
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200826T014201Z" creationid="miurahr" creationdate="20200826T014201Z">
         <seg>詳細については、カテゴリ「その他」の妥当性検査メッセージを参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See this page in other languages for local language mailing lists.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T130327Z" creationid="miurahr" creationdate="20210116T130327Z">
+        <seg>地域別のメーリングリストは、他言語版のこのページを参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78617,6 +78757,14 @@ This makes use of a very simple &lt;x1/&gt;OAuth-Dummy server&lt;x2/&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is not the case.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T125629Z" creationid="miurahr" creationdate="20210116T125629Z">
+        <seg>これは事実ではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is partly to avoid such copyright traps, but also because we genuinely don't want to copy information from these sources.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T124337Z" creationid="miurahr" creationdate="20201106T124337Z">
@@ -78749,6 +78897,14 @@ This makes use of a very simple &lt;x1/&gt;OAuth-Dummy server&lt;x2/&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T104447Z" creationid="miurahr" creationdate="20201106T104447Z">
         <seg>このページでは、著作権に関する情報の一部を、他のページへのリンクとしてグループ化しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This page is supposed to collect features, tags and information relevant for disabled persons.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T125916Z" creationid="miurahr" creationdate="20210116T125826Z">
+        <seg>このページは障碍者に関連する地物、タグ及び情報を収集するためのものとして想定されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -87595,6 +87751,14 @@ Do you want to continue without validating the file ?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T001338Z" creationid="miurahr" creationdate="20200818T001338Z">
         <seg>エリアにはっきりと持続的な統治が存在しない場合、例えば[[WikiProject_Kosovo|コソボ]]、ケースバイケースの基準に基づく特別な考慮が必要でしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When we are finished all pages will contain such information (and the category becomes useless...!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T125726Z" creationid="miurahr" creationdate="20210116T125713Z">
+        <seg>これが終わった時、全てのページにはそのような情報が含まれるでしょう(そしてこのカテゴリは不要に...! </seg>
       </tuv>
     </tu>
     <tu>
@@ -105890,6 +106054,64 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{Languages|Disabilities}}
+
+{{Feature
+| image       = 4-handicaps-couleur.jpg
+| description = Tags and features that will be relevant for disabled users
+| tags        = 
+{{Tag|information|tactile_map}}&lt;br&gt;
+{{Tag|information|tactile_model}}&lt;br&gt;
+{{Tag|ramp||''yes/no''}}&lt;br&gt;
+{{Tag|tactile_paving||''yes/no/...''}}&lt;br&gt;
+{{tag|traffic_signals:arrow||''yes/no''}}&lt;br&gt;
+{{tag|traffic_signals:minimap||''yes/no''}}&lt;br&gt;
+{{Tag|traffic_signals:sound||''yes/no/...''}}&lt;br&gt;
+{{Tag|traffic_signals:vibration||''yes/no''}}&lt;br&gt;
+{{tag|traffic_signals:floor_vibration||''yes/no''}}&lt;br&gt;
+{{Tag|wheelchair||''yes/no/...''}}&lt;br&gt;
+{{Tag|wheelchair:description:en}}&lt;br&gt;
+{{Tag|blind:description:en}}&lt;br&gt;
+{{Tag|deaf:description:en}}&lt;br&gt;
+and many others...
+}}
+
+'''For a quick howto mapping guide see the page [[How to map for the needs of people with disabilities]]'''
+
+==Why this page?==
+It would be optimal if all relevant information on accessibility would be in the map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T125616Z" creationid="miurahr" creationdate="20210116T125437Z">
+        <seg>{{Languages|Disabilities}}
+
+{{Feature
+| image       = 4-handicaps-couleur.jpg
+| description = 障碍を持ったユーザーに関するタグや地物
+| tags        = 
+{{Tag|information|tactile_map}}&lt;br&gt;
+{{Tag|information|tactile_model}}&lt;br&gt;
+{{Tag|ramp||''yes/no''}}&lt;br&gt;
+{{Tag|tactile_paving||''yes/no/...''}}&lt;br&gt;
+{{tag|traffic_signals:arrow||''yes/no''}}&lt;br&gt;
+{{tag|traffic_signals:minimap||''yes/no''}}&lt;br&gt;
+{{Tag|traffic_signals:sound||''yes/no/...''}}&lt;br&gt;
+{{Tag|traffic_signals:vibration||''yes/no''}}&lt;br&gt;
+{{tag|traffic_signals:floor_vibration||''yes/no''}}&lt;br&gt;
+{{Tag|wheelchair||''yes/no/...''}}&lt;br&gt;
+{{Tag|wheelchair:description:en}}&lt;br&gt;
+{{Tag|blind:description:en}}&lt;br&gt;
+{{Tag|deaf:description:en}}&lt;br&gt;
+その他多数...
+}}
+
+'''For a quick howto mapping guide see the page [[How to map for the needs of people with disabilities]]'''
+
+==このページを作った理由==
+障碍者向けの関連情報が全て地図にあれば、どんなにか素晴らしいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{Languages|Disputes}}
 OpenStreetMap '''disputes''' or '''edit wars''' are situations where consensus is not achieved as to the appropriateness of the tagging or existence of certain features within the OpenStreetMap database.</seg>
       </tuv>
@@ -106122,6 +106344,14 @@ A '''Copyright Easter Egg''', in terms of mapping, is a feature that is drawn in
       </tuv>
       <tuv lang="ja">
         <seg>No</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>下の方に表示されている {mapATask} をクリックすると、ランダムに選択されたタスクのマッピングが開始されます。</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T125437Z" creationid="miurahr" creationdate="20210116T125437Z">
+        <seg>下の方に表示されている {mapATask} をクリックすると、ランダムに選択されたタスクのマッピングが開始されます。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
