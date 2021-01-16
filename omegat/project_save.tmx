@@ -1053,6 +1053,142 @@ On most maps you'll find a copyright, trademark symbol or something similar that
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>'''Please use the [[{{TALKPAGENAME}}|discussion page]] to suggest and discuss other data we might survey and other uses for the data.'''
+
+== Project Objectives  ==
+The following are some objectives of the Environmental OSM project: 
+
+* Improve the tagging schema for environmental data
+* Define a strategy for surveying and providing this data throughout the wide environmental sector 
+* Create specific maps for specialist environmental uses 
+
+== Tags ==
+
+=== Energy ===
+
+* Energy generators: {{Tag|power|generator}} (using {{Key|generator:source|*}}, {{Key|generator:method|*}} and {{Key|generator:output|*}} to specify environmentally friendly technologies)
+* Dirty energy / fossil fuels: {{Tag|man_made|petroleum_well}}
+
+[[File:Windmills D1-D4 (Thornton Bank).jpg|250px|Built Environment Features|thumb|right]]
+
+=== Environmental Monitoring ===
+
+* Environmental monitoring stations: {{Tag|man_made|monitoring_station}}
+
+=== Waste/Recycling ===
+
+* Recycling bins: {{Tag|amenity|recycling}}
+* Recycling centres: {{Tag|amenity|waste_transfer_station}}
+* Reuse: {{Tag|amenity|public_bookcase}}
+
+=== Food ===
+
+* Allotments: {{Tag|landuse|allotments}}
+* Farms: {{Tag|landuse|farm}}
+* Food markets: {{Tag|amenity|marketplace}} using sub-tags such as vegetables=yes
+
+See [[Food_security|Food security]] for related guidelines and ideas
+
+=== Transport ===
+
+*[[Cycle routes|Cycling]]
+** Cycle paths/lanes: {{Tag|highway|cycleway}} and {{Key|cycleway|*}}
+**{{Tag|amenity|bicycle_parking}} and {{Key|bicycle_parking|*}}
+**{{Tag|amenity|bicycle_rental}}
+**{{Tag|shop|bicycle}}
+
+* Car sharing/clubs: {{Tag|amenity|car_sharing}}
+
+*[[Railways]] (including underground, overground, tram, light rail, etc.)
+** Rail lines, stations, etc.: {{Key|railway|*}}
+** [[Relation:route#Railway_routes_.28light_rail.2C_metro.2C_mainline.2C_monorail.2C_etc..29|Routes]]
+
+*[[Buses]]
+**[[Relation:route#Bus_Routes_.28also_trolley_bus.29|Routes]]
+See also: [https://en.wikipedia.org/wiki/Sustainable_transport Sustainable Transport]
+
+=== Natural habitats / land use ===
+
+* Recommendations for tagging of protected areas is outlined here: [[Protected_Area_Rendering]]
+* Trees {{Tag|natural|tree}}
+*Unmanaged forests {{Tag|natural|wood}}
+*Managed forests {{Tag|landuse|forest}}
+* Page for approved {{Tag|natural}} and {{Tag|landuse}} tags: [https://wiki.openstreetmap.org/wiki/Vegetation Vegetation]
+
+=== Green space ===
+
+[[Image:Edinburgh_leisure_heatmap.png|300px|Green Space access heatmap.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T115342Z" creationid="miurahr" creationdate="20210116T105808Z">
+        <seg>''' [[{{TALKPAGENAME}}|discussion page]] を使用して、調査する可能性のある他のデータやデータのその他の用途について提案し、議論してください。'''
+
+== プロジェクトの目的  ==
+環境 OSMプロジェクトの目的は次のとおりです。
+
+* 環境データのタグ付けスキーマを改善する
+* このデータを広範な環境セクターにわたって調査し、提供するための戦略を定義する
+* 環境に特化した地図を作成する
+
+== タグ ==
+
+=== エネルギー ===
+
+* 発電機: {{Tag|power|generator}} ( {{Key|generator:source|*}}や {{Key|generator:method|*}} と {{Key|generator:output|*}} を利用して、環境に配慮した発電技術を特定する)
+* 汚染エネルギー / 化石燃料: {{Tag|man_made|petroleum_well}}
+
+[[File:Windmills D1-D4 (Thornton Bank).jpg|250px|Built Environment Features|thumb|right]]
+
+=== 環境モニタリング ===
+
+* 環境モニタリングステーション: {{Tag|man_made|monitoring_station}}
+
+=== ゴミ/リサイクル ===
+
+* リサイクルボックス: {{Tag|amenity|recycling}}
+* リサイクルセンター: {{Tag|amenity|waste_transfer_station}}
+* リユース: {{Tag|amenity|public_bookcase}}
+
+=== 食料 ===
+
+* 市民農園: {{Tag|landuse|allotments}}
+* 農場: {{Tag|landuse|farm}}
+* 食材市場: {{Tag|amenity|marketplace}}  vegetables=yes などのサブタグを利用する
+
+関連するガイドラインについては、[[Food_security|Food security]] を参照してください。
+
+=== 交通運輸 ===
+
+*[[Cycle routes|Cycling]]
+** Cycle paths/lanes: {{Tag|highway|cycleway}} and {{Key|cycleway|*}}
+**{{Tag|amenity|bicycle_parking}} and {{Key|bicycle_parking|*}}
+**{{Tag|amenity|bicycle_rental}}
+**{{Tag|shop|bicycle}}
+
+* カーシェア: {{Tag|amenity|car_sharing}}
+
+*[[Railways]] (地下鉄、高架、トラム、ライトレイル等を含む)
+** 鉄道、駅など: {{Key|railway|*}}
+** [[Relation:route#Railway_routes_.28light_rail.2C_metro.2C_mainline.2C_monorail.2C_etc..29|Routes]]
+
+*[[Buses]]
+**[[Relation:route#Bus_Routes_.28also_trolley_bus.29|Routes]]
+参照: [https://en.wikipedia.org/wiki/Sustainable_transport Sustainable Transport]
+
+=== 生息地 / 土地利用 ===
+
+* 環境保護地域へのタグの推奨については次に概要があります: [[Protected_Area_Rendering]]
+* 樹木 {{Tag|natural|tree}}
+*管理されていない森林 {{Tag|natural|wood}}
+*管理された森林 {{Tag|landuse|forest}}
+* 承認された {{Tag|natural}} と {{Tag|landuse}} のタグづけ: [https://wiki.openstreetmap.org/wiki/Vegetation Vegetation]
+
+=== 緑地 ===
+
+[[Image:Edinburgh_leisure_heatmap.png|300px|Green Space access heatmap.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>'''Short answer:'''</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T014448Z" creationid="miurahr" creationdate="20200818T014448Z">
@@ -105326,6 +105462,22 @@ A '''Copyright Easter Egg''', in terms of mapping, is a feature that is drawn in
       <tuv lang="ja" changeid="miurahr" changedate="20201106T123808Z" creationid="miurahr" creationdate="20201106T123808Z">
         <seg>
 '''著作権イースターエッグ'''（Copyright Easter Egg）は、マッピングの用語で、地図の原作者を識別しやすくするために、特有の方法で描かれた地物のことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{languages|Environmental OSM}}
+
+[[File:Bachalpseeflowers.jpg|300px|Natural Environment Features|thumb|right]]
+
+'''Environmental OSM''' is a project to map out various systems that have an impact on the environment in hopes of helping to solve environmental problems.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T105752Z" creationid="miurahr" creationdate="20210116T105631Z">
+        <seg>{{languages|Environmental OSM}}
+
+[[File:Bachalpseeflowers.jpg|300px|Natural Environment Features|thumb|right]]
+
+「環境OSM」は、環境に影響を与える様々なシステムを地図に可視化し、環境問題の解決に貢献することを目的としたプロジェクトです。</seg>
       </tuv>
     </tu>
     <tu>
