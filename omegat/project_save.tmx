@@ -54241,6 +54241,14 @@ was open.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Other applications that appear here have orienteering features that are still useful for that purpose.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T104016Z" creationid="miurahr" creationdate="20210116T104016Z">
+        <seg>ここに表示される他のアプリケーションには、その目的に役立つオリエンテーリングの機能があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Other duplicated nodes</seg>
       </tuv>
       <tuv lang="ja">
@@ -70932,6 +70940,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>変更されたリレーションに一部のウェイが所属しています。&lt;br&gt;エラーが発生していないか確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some of these applications ''also'' appear in the Navigation section of this page, making them granular enough for use in [[#Navigation|turn-by-turn navigation directions]].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T103637Z" creationid="miurahr" creationdate="20210116T103637Z">
+        <seg>これらのアプリケーションの一部は、このページのナビゲーションセクションにも表示されます。 [[#Navigation|turn-by-turn navigation directions]] で使用するのに十分な程度に細分化されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -87675,8 +87691,8 @@ The tasking manager was designed and built for the [[Humanitarian OpenStreetMap 
       <tuv lang="en-US">
         <seg>You can [[Upload GPS tracks|upload your GPS tracks to OpenStreetMap]] to help you add features to the map.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210116T102642Z" creationid="miurahr" creationdate="20210116T102642Z">
-        <seg>You can [[Upload GPS tracks|upload your GPS tracks to OpenStreetMap]] to help you add features to the map.</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T103606Z" creationid="miurahr" creationdate="20210116T102642Z">
+        <seg>[[Upload GPS tracks|upload your GPS tracks to OpenStreetMap]] を使用すると、マップに地物を追加できます。</seg>
       </tuv>
     </tu>
     <tu>
