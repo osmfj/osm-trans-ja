@@ -84601,6 +84601,57 @@ Create a new one.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use tag {{tag|plant_count}}
+
+*{{tag|plant_count:Japanese Knotweed|10}}
+
+====Recording Herbicide/Manual Treatment====
+
+*{{tag|treated}} yes/no
+*{{tag|treated:date}} date
+*{{tag|treated:method}} injection/cutting/uprooting/spray (other)
+
+==Related Projects==
+
+*[[Environmental_OSM]]
+
+==External Links==
+* [http://www.nonnativespecies.org GB non-native species secretariat]
+* European Commission, Environment, Nature &amp; Biodiversity, [http://ec.europa.eu/environment/nature/invasivealien/index_en.htm Invasive Alien Species]
+* Belgium, [http://ias.biodiversity.be/ Invasive Species in Belgium]
+
+==Examples of Invasive Species (to the UK)==
+
+There are thousands of invasive species, please see links for further information.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T125134Z" creationid="miurahr" creationdate="20210116T125134Z">
+        <seg>タグ{{tag|plant_count}}を使用
+
+*{{tag|plant_count:Japanese Knotweed|10}}
+
+==== 除草剤や駆除の記録 ====
+
+*{{tag|treated}} yes/no
+*{{tag|treated:date}} date
+*{{tag|treated:method}} injection/cutting/uprooting/spray (other)
+
+== 関連プロジェクト ==
+
+*[[JA:Environmental_OSM]]
+
+== 外部リンク ==
+* [http://www.nonnativespecies.org GB non-native species secretariat]
+* 欧州委員会, Environment, Nature &amp; Biodiversity, [http://ec.europa.eu/environment/nature/invasivealien/index_en.htm Invasive Alien Species]
+* ベルギー, [http://ias.biodiversity.be/ Invasive Species in Belgium]
+
+==外来種の例(英国の場合)==
+
+何千もの侵入種が存在します。詳細については、リンクを参照してください。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use the &lt;x1/&gt;server/test/run.sh&lt;x2/&gt; script to run tests and provide the database with dummy data (required for the tests).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T045923Z" creationid="miurahr" creationdate="20201120T045923Z">
