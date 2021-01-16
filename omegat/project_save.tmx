@@ -1882,6 +1882,14 @@ Ordnance Survey Maps sued the Automobile Association for copying their maps and 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* Help in one of the listed projects.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T130613Z" creationid="miurahr" creationdate="20210116T130613Z">
+        <seg>* 上記の各種プロジェクトに参加してみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* If our friends don't remind us, those we disagree with might remind us.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200817T231813Z" creationid="miurahr" creationdate="20200817T225522Z">
@@ -1938,10 +1946,50 @@ Ordnance Survey Maps sued the Automobile Association for copying their maps and 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* Organize micro mapping parties that collect very accurate data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T130536Z" creationid="miurahr" creationdate="20210116T130536Z">
+        <seg>* 正確なデータを集めるために、マッピングパーティーを主催しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Sometimes a neutral party may arbitrate.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200817T231810Z" creationid="miurahr" creationdate="20200817T231810Z">
         <seg>* 中立的な当事者が仲裁することもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* Special seats / empty spaces for wheelchairs
+*…
+
+You can find a lot of tags concerning accessibility in these categories:
+* [[:Category:Walking Disability|Walking Disability]]
+
+==== Routing for walking impairment/wheelchair drivers/stroller ====
+* [[OpenRouteService]] Wheelchair Online Routing
+* [[DE:Rollstuhlfahrer-Routing]] German project for wheelchair routing.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T131122Z" creationid="miurahr" creationdate="20210116T131122Z">
+        <seg>* 車椅子用の特別席もしくは空きスペースを有しているか
+*…
+
+アクセシビリティに関するタグは次のカテゴリーで確認できます：
+* [[:Category:Walking Disability|Walking Disability]]
+
+==== 歩行障碍者/車椅子使用者/ベビーカー向けルート検索 ====
+* [[OpenRouteService]] 車椅子向けオンラインルート検索
+* [[DE:Rollstuhlfahrer-Routing]] 車椅子向けルート検索(ドイツのプロジェクト)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* Tell your disabled friends about OSM and ask them to tell their needs here.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T130550Z" creationid="miurahr" creationdate="20210116T130550Z">
+        <seg>* あなたの友人に障碍を持つ方がいましたら、OSMのことを教え、どんな情報が欲しいのか聞いてみましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1970,6 +2018,14 @@ Ordnance Survey Maps sued the Automobile Association for copying their maps and 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* Translate this page to other languages.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T130525Z" creationid="miurahr" creationdate="20210116T130525Z">
+        <seg>* このページを他言語に翻訳しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Try to keep participants on topic but do not be too heavy handed
 * Calm down or block aggressive or abusive behaviour</seg>
       </tuv>
@@ -1984,6 +2040,14 @@ Ordnance Survey Maps sued the Automobile Association for copying their maps and 
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170522T000058Z" creationid="miurahr" creationdate="20170522T000058Z">
         <seg>* 言語間ナビゲーションバーを表示するために、翻訳の先頭に&lt;code&gt; &lt;nowiki&gt;{{languages|ns=Category:|元の英語の題名}}&lt;/nowiki&gt;&lt;/code&gt; を使ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* Want to  start this project?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T130721Z" creationid="miurahr" creationdate="20210116T130721Z">
+        <seg>* 盲ろう者向けの地図を作成するプロジェクトを始めませんか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -2016,6 +2080,14 @@ Ordnance Survey Maps sued the Automobile Association for copying their maps and 
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170522T034921Z" creationid="miurahr" creationdate="20170522T034921Z">
         <seg>* "Category:言語コード:元の題名" の名称でリダイレクトページを保持する必要があります（例: [[:Category:Beginners' guide|英語でのカテゴリ]], [{{FULLURL:Category:JA:Beginners' guide|redirect=no}} 日本語でのリダイレクト], [[:Category:JA:初心者ガイド|実際の日本語でのカテゴリ]]）。 そうすれば、言語間ナビゲーションバーが動作します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* [[API.Wikiocity]] Color coded maps for handicap accessible ramps, transportation, restrooms, and data for all points of interest.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T131400Z" creationid="miurahr" creationdate="20210116T131400Z">
+        <seg>* [[API.Wikiocity]] Color coded maps for handicap accessible ramps, transportation, restrooms, and data for all points of interest.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2106,6 +2178,24 @@ Ordnance Survey Maps sued the Automobile Association for copying their maps and 
 *[https://ecologicaldata.org/ EcologicalData.org]
 *[https://data.footprintnetwork.org/#/ Open Data Platform] by [https://www.footprintnetwork.org/ Footprint Network]
 *[https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Environment WikiProject Environment] - a Wikipedia Project where we might be able to find other netizens willing to help this project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* proposing needed tags and keys here on this page
+* adding headlines for other handicaps here on this page
+* adding lines for objects of interest here on this page
+* reminding mappers on object pages to enter additional keys helpful for disabled persons
+* creating icons for the tags and keys and request their rendering
+* programming routing software or renderers that do not rely on visual output.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T130515Z" creationid="miurahr" creationdate="20210116T130515Z">
+        <seg>* 障害者向けに必要なタグをこのページに提案してみましょう。
+* 上記以外の障碍について記事を作成しましょう。
+* 障害者向けに必要なオブジェクトを追記しましょう。
+* 各種オブジェクトの定義ページに障害者向けタグを記載して、他のマッパーが情報を追加しやすいようにしましょう。
+* アイコンを作り、レンダリングされるよう要望を出しましょう。
+* ビジュアル表示に依存しないルート検索ソフトやレンダラーを開発しましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4940,6 +5030,21 @@ This script will remove your &lt;x3/&gt;postgres-data&lt;x4/&gt; folder created 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>==
+You can support this project for example by working on the following tasks:
+
+* Identify objects of special interest in your surrounding and map them if tags exist.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T130726Z" creationid="miurahr" creationdate="20210116T130638Z">
+        <seg>==
+
+以下のような作業により各種プロジェクトを支援することができます。
+
+* あなたの周りにあるオブジェクトをマッピングしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>==  Related OSM Initiatives ==
 * [[Ramsar_site|Ramsar Wetland data source imports]]
 * [[London/Datastore_allotments|London allotments "import"]]
@@ -5087,6 +5192,14 @@ OpenStreetMapのWebサイトでは、異なる言語を使用した異なる焦�
         <seg>== 全般的な情報源 ==
 * 障碍者の分類方法に関する既存の方法は [http://www.handicaching.com handicaching.com] を参照してください。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>== How can I help?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T130650Z" creationid="miurahr" creationdate="20210116T130650Z">
+        <seg>== 支援方法 </seg>
       </tuv>
     </tu>
     <tu>
@@ -5761,6 +5874,42 @@ Overpass QLは集合を操作します。 </seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>=== Hearing impaired/deafness ===
+* Visual map with icons for objects of special interest to deaf persons (Project does not exist yet)
+* Tags for deaf persons or persons with hearing impairment: See [[:category:Hearing Impairment]]
+* (Add your project here)
+
+==== Tagging for hearing impaired/deafness ====
+* Sign language translation
+* {{tag|amenity|cinema}}: Movies with subtitles shown
+* {{tag|amenity|theatre}}: Special headphones available
+
+You can find a lot of tags concerning accessibility in these categories:
+* [[:Category:Hearing Impairment|Hearing Impairment]]
+
+==== Maps for hearing impaired/deafness ====
+* Want to  start this project?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T131027Z" creationid="miurahr" creationdate="20210116T131027Z">
+        <seg>=== 聴覚障碍 ===
+* 聴覚障碍者に有用な情報をアイコンで表示する地図(まだこのようなプロジェクトはありません)
+* 聴覚障碍者向けのタグ： [[:category:Hearing Impairment]]
+* (あなたのプロジェクトをここに追加してください)
+
+==== 聴覚障碍者向けのタグ付け ====
+* 手話通訳
+* {{tag|amenity|cinema}}: 字幕が表示される映画
+* {{tag|amenity|theatre}}: 特殊なヘッドフォンが利用可能な劇場
+
+アクセシビリティに関するタグは次のカテゴリーで確認できます：
+* [[:Category:Hearing Impairment|Hearing Impairment]]
+
+==== 聴覚障碍者向け地図 ====
+* 聴覚障碍者向けの地図を作成するプロジェクトを始めませんか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>=== History ===
 * '''????''': The idea and first implementation of OpenStreetBugs was developed by [[User:Xav|Xav]].</seg>
       </tuv>
@@ -6007,6 +6156,70 @@ According to the "On the Ground Rule" whatever people are using on the ground at
       <tuv lang="ja" changeid="miurahr" changedate="20200818T001221Z" creationid="miurahr" creationdate="20200818T000948Z">
         <seg>==== 名前付け ====
 「On the Ground Rule」によると、その位置の地上にいる人々が使っているものはどのような名前、記号、等々であれ、非ローカライズタグで使われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>==== Routing for deafblind/hearing impaired and visually impaired ====
+* [[LoroDux]] is a routing software for blind users.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T130814Z" creationid="miurahr" creationdate="20210116T130814Z">
+        <seg>==== 盲ろう者(聴覚および視覚障碍者)向けルート検索 ====
+* [[JA:LoroDux|LoroDux]]は視覚障碍者向けルート検索ソフトです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>==== Routing for hearing impaired/deafness ====
+* Deaf persons can usually handle ordinary visual routing software.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T130850Z" creationid="miurahr" creationdate="20210116T130850Z">
+        <seg>==== 聴覚障碍者向けルート検索 ====
+* 一般的には聴覚障碍者は通常のルート検索ソフトを使用可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>==== Tagging for walking impairment/wheelchair drivers/stroller ====
+* [[Tag:highway%3Dsteps]], [[Key:ramp]], [[Key:incline]]
+** with [[Key:handrail]]
+* [[fuel station]]s with service (not only self-service)
+* [[Elevator]]
+* {{tag|wheelchair|yes/no/limited}}
+** [[Key:wheelchair]]
+** for (public) [[toilets]]
+** for [[door]] width
+** [[Parking]] 
+** Public transportation
+*** Buses
+*** Trams
+*** Railway
+*** Taxi
+** [[Shop]]s
+*** Extra wide cash desk in {{tag|amenity|shop}}
+*** Special [[shopping cart]] available
+** [[Car repairs]]: Modifies cars to be used by or for disabled persons.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T131336Z" creationid="miurahr" creationdate="20210116T131336Z">
+        <seg>==== 歩行障碍者/車椅子使用者/ベビーカー向けタグ付け ====
+* [[JA:Tag:highway%3Dsteps]], [[Key:ramp]], [[JA:Key:incline]]
+** 手すりの有無を[[Key:handrail]]でタグ付けする
+* サービスのある給油ステーション(セルフサービスだけではない) [[fuel station]]
+* [[Elevator]]
+* {{tag|wheelchair|yes/no/limited}}
+** [[Key:wheelchair]]
+** 公衆トイレ用 [[toilets]]
+** ドアの広さ用 [[door]]
+** 駐車 [[Parking]] 
+** 公共輸送機関
+*** バス
+*** 路面電車
+*** 鉄道
+*** タクシー
+** [[JA:店舗|店舗]]
+*** {{tag|amenity|shop}} 内の特別に広い精算レジ
+*** 利用可能な特別なショッピングカート [[shopping cart]]
+** 車の修理[[Car repairs]]: 障碍者が使えるように車を改造。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38021,6 +38234,14 @@ If tagging an [[area]], [[way]] or [[node]] there may be reasons to record the {
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If there are no tags documented, ask for them here.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T130732Z" creationid="miurahr" creationdate="20210116T130732Z">
+        <seg>もしタグが不明な場合は、ここで相談してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If there are two common versions of a place name, as a possible but not recommended way, the "name" tag could contain them both (A/B).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T001357Z" creationid="miurahr" creationdate="20200818T001357Z">
@@ -41057,6 +41278,14 @@ File:GPSTest screenshot.png|GPSTest [https://play.google.com/store/apps/details?
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It has a vibration mode for navigation, but is not fully accessible for deafblind users.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T130759Z" creationid="miurahr" creationdate="20210116T130759Z">
+        <seg>バイブレーションモードも備えてはいますが、盲ろう者向けに最適化されているわけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It has been initially designed and built by and for the [[Humanitarian OSM Team]] (HOT), and is nowadays used by many other communities and organizations.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200905T054742Z" creationid="miurahr" creationdate="20200905T054742Z">
@@ -42157,6 +42386,22 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T045448Z" creationid="miurahr" creationdate="20201120T045439Z">
         <seg>リポジトリを複製し、&lt;x3/&gt;go run&lt;x4/&gt;でこの認証サーバを起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Just go ahead and link your map here.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T130900Z" creationid="miurahr" creationdate="20210116T130900Z">
+        <seg>ぜひここにリンクを追加してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Just go ahead and link your router here.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T130702Z" creationid="miurahr" creationdate="20210116T130702Z">
+        <seg>ぜひここにリンクを追加してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -88967,6 +89212,30 @@ The tasking manager was designed and built for the [[Humanitarian OpenStreetMap 
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200817T224505Z" creationid="miurahr" creationdate="20200817T224505Z">
         <seg>[https://wiki.osmfoundation.org/wiki/EtiquetteはエチケットページのOSMF版を採用しています]、[https://wiki.openstreetmap.org/wiki/Talk:Etiquette#History_of_the_Etiquette_Page 議論ページでエチケットとモデレーションのガイドラインを開発した長い歴史を持っています]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can find a lot of tags concerning accessibility in these categories:
+* [[:Category:Visual Impairment|Visual Impairment]]
+
+=== Walking impairment/wheelchair drivers/stroller ===
+* [[Accessible Play]] Location of play equipment for disabled children
+* [[Wheelmap]]
+* [[Libero Accesso...Accesso Libera Tutti!]] Mapping the accessibility for persons with reduced mobility in Castelfiorentino (Tuscany) ITALY
+* [[Augsburg/Datenspende Stadtplan für barrierefreie Mobilität]] data for wheelchair users and people with reduced mobility about accessibility of footways and buildings/amenities in Augsburg, Germany
+* [https://AccessMap.io AccessMap.io] Routing for person with limited mobility.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T131606Z" creationid="miurahr" creationdate="20210116T131606Z">
+        <seg>アクセシビリティに関するタグはこちらに多くの記載があります：
+* [[:Category:Visual Impairment|Visual Impairment]]
+
+=== 歩行障碍者/車椅子使用者/ベビーカー ===
+* [[Accessible Play]] 障碍を持った子供向けの遊具を表示します
+* [[Wheelmap]]
+* [[Libero Accesso...Accesso Libera Tutti!]] イタリアトスカーナ州カステルフィオレンティーノ市内の、歩行障碍者向けアクセシビリティマップ
+* [[Augsburg/Datenspende Stadtplan für barrierefreie Mobilität]] ドイツ アウクスブルク市内の、車椅子使用者向けアクセシビリティ情報(歩道、ビル、アメニティ)
+* [https://AccessMap.io AccessMap.io] 移動に制限がある方むけのルーティング案内</seg>
       </tuv>
     </tu>
     <tu>
