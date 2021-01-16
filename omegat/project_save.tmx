@@ -6019,12 +6019,64 @@ If you need further help on mapping an area see:
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>==Basic Tagging==
+
+===Name===
+
+Use {{tag|taxon}} to tag identified non-native species in 'latin' bi-nominal scientific name
+
+*{{tag|taxon|Heracleum mantegazzianum}}
+
+For 'common' names in a particular language use a colon followed by a two letter suffix for example in English:
+
+*{{tag|taxon:en|Giant Hogweed}} 
+
+Or in French:
+
+*{{tag|taxon:fr|Berce du Caucase}}
+
+Apply to a [[node]], [[way]] or [[area]].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T121620Z" creationid="miurahr" creationdate="20210116T121032Z">
+        <seg>== 基本的なタグづけ ==
+
+===名称===
+
+ {{tag|taxon}} を使用して、ラテン語の二語名の学名で特定された非在来種にタグをつけます。
+
+*{{tag|taxon|Heracleum mantegazzianum}}
+
+特定の言語の共通名には、コロンのあとに言語を示す2文字の接尾辞をつけます。英語の場合は:
+
+*{{tag|taxon:en|Giant Hogweed}} 
+
+フランス語の場合は:
+
+*{{tag|taxon:fr|Berce du Caucase}}
+
+ [[node]]、 [[way]] 、 [[area]]に適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>==Proprietary data==
 '''Do not use data from [[wikipedia:Copyright|copyrighted]] maps or any other [[wikipedia:Proprietary|proprietary]] data!''' So copying, tracing or any act of reproduction of any copyrighted work is strictly prohibited.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T110207Z" creationid="miurahr" creationdate="20201106T110200Z">
         <seg>==私有のデータ==
 '''[[wikipedia:ja:著作権|著作権のある]]地図やその他の[[wikipedia:ja:知的財産権|知的財産権のある]]データを使用しないでください！'''著作権のある作品を複写したりなぞったりする行為は厳しく禁じられています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>==Reasons for mapping==
+
+There is a need to control and manage the negative affects of invasive non-native species.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T120920Z" creationid="miurahr" creationdate="20210116T120920Z">
+        <seg>== マッピングの理由 ==
+
+非外来種の侵入による悪影響を制御・管理する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30812,6 +30864,30 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Examples:
+*{{node|1317708316}}
+*{{area|116985996}}
+
+==Further Tagging==
+
+====Recording Vegetation Cover Values====
+
+If tagging an [[area]], [[way]] or [[node]] there may be reasons to record the {{tag|cover}} value of different species within an area.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T121032Z" creationid="miurahr" creationdate="20210116T121032Z">
+        <seg>Examples:
+*{{node|1317708316}}
+*{{area|116985996}}
+
+==Further Tagging==
+
+====Recording Vegetation Cover Values====
+
+If tagging an [[area]], [[way]] or [[node]] there may be reasons to record the {{tag|cover}} value of different species within an area.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Exceeded iteration limit for robust method, using simpler method.</seg>
       </tuv>
       <tuv lang="ja">
@@ -34536,6 +34612,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>家具店</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Further development of a custom rendered map and/or the use of more advanced GIS tools will lower the barrier for accessing and utilising geo-spatial tools for the effective management of invasive species over a large area.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T121301Z" creationid="miurahr" creationdate="20210116T120928Z">
+        <seg>ツールの利用障壁を下げ、広範囲にわたる侵略的な種を効果的に管理するため、カスタムレンダリングされたマップを開発して、より先進的なGISツールを使用できるようにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40893,6 +40977,14 @@ File:GPSTest screenshot.png|GPSTest [https://play.google.com/store/apps/details?
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T063405Z" creationid="miurahr" creationdate="20201120T063405Z">
         <seg>立ち上げの際には、Tasking Managerの管理者に連絡をとり、プロジェクトの作成と管理の権限についてより詳しい情報を得てください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is hoped that OpenStreetMap offers an easy-to-use method for volunteers to map the location of non-native species and allow fast dissemination of this information.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T120933Z" creationid="miurahr" creationdate="20210116T120926Z">
+        <seg>OpenStreetMapでは、マップのボランティアに対して、非在来種の場所を示すための使いやすい手段を提供し、この情報を迅速に伝えることを期待しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67277,6 +67369,14 @@ This automatically generates a language menu consisting of links to the original
       </tuv>
       <tuv lang="ja">
         <seg>他のcapacity:[types]=*についてはWikiを参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See the Wikipedia entry on [http://en.wikipedia.org/wiki/Invasive_species invasive non-native species] for more information.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T120900Z" creationid="miurahr" creationdate="20210116T120900Z">
+        <seg>詳細については、Wikipediaの[http://en.wikipedia.org/wiki/Invasive_species 外来種]を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -105754,6 +105854,27 @@ OpenStreetMap では、データベース内でタグ付けや地物の存在が
 {{otheruses|モデリングの疑問|link=JA:Map Features}}
 {{otheruses|法的事項|link=Legal FAQ}}
 {{otheruses|開発者向け|link=Developer FAQ}}'''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{Languages|Invasive Non-Native Species}}
+[[File:Reuzenbereklauw.JPG|350px|Invasive Non-Native Species - [http://en.wikipedia.org/wiki/Giant_Hogweed Giant Hogweed] (''Heracleum mantegazzianum'') (non-native in the UK)|thumb|right]]
+[[Invasive Non-Native Species]] or [[Invasive Alien Species]] (IAS) are animals and plants that are introduced accidently or deliberately into a natural environment where they are not normally found, with serious negative consequences for their new environment.&lt;ref&gt;European Commission, Environment, Nature &amp; Biodiversity, [http://ec.europa.eu/environment/nature/invasivealien/index_en.htm Invasive Alien Species], last retrieved on 27 April 2015.&lt;/ref&gt;
+
+== Summary ==
+
+This guide explains how to map plants that adversely affect the habitats and bioregions they invade economically, environmentally, and/or ecologically.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T120837Z" creationid="miurahr" creationdate="20210116T120535Z">
+        <seg>{{Languages|Invasive Non-Native Species}}
+[[File:Reuzenbereklauw.JPG|350px|Invasive Non-Native Species - [http://en.wikipedia.org/wiki/Giant_Hogweed Giant Hogweed] (''Heracleum mantegazzianum'') (non-native in the UK)|thumb|right]]
+[[Invasive Non-Native Species]] や  [[Invasive Alien Species]] (IAS) は、通常は存在しない自然環境に誤ってあるいは意図的に導入され、新しい環境に深刻な悪影響をおよぼす動植物です。&lt;ref&gt;European Commission, Environment, Nature &amp; Biodiversity, [http://ec.europa.eu/environment/nature/invasivealien/index_en.htm Invasive Alien Species], last retrieved on 27 April 2015.&lt;/ref&gt;
+
+== 概要 ==
+
+このガイドでは、経済的、環境的、または生態学的に侵入した生息地や生息域に悪影響を与える植物のマッピングについて説明します。
+</seg>
       </tuv>
     </tu>
     <tu>
