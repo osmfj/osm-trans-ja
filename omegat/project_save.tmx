@@ -1644,6 +1644,16 @@ no_more_mappingを外してください)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* '''Homepage:''' http://merkaartor.be/
+* '''Download:''' Binary packages are available for various Linux distributions, Windows and MacOS X from the [http://merkaartor.be/p/download Merkaartor download page].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T101539Z" creationid="miurahr" creationdate="20210116T101539Z">
+        <seg>* '''Homepage:''' http://merkaartor.be/
+* '''Download:''' Binary packages are available for various Linux distributions, Windows and MacOS X from the [http://merkaartor.be/p/download Merkaartor download page].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* '''Paste in''' the English text from your clipboard and now '''start translating''' it into your language and save the new translated page.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170521T234937Z" creationid="miurahr" creationdate="20170521T234937Z">
@@ -22003,8 +22013,8 @@ Do you want to keep it?</seg>
       <tuv lang="en-US">
         <seg>DO NOT EDIT THE TABLE, changes will be overwritten!</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210116T100255Z" creationid="miurahr" creationdate="20210116T100255Z">
-        <seg>DO NOT EDIT THE TABLE, changes will be overwritten!</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T101609Z" creationid="miurahr" creationdate="20210116T100255Z">
+        <seg>テーブルを編集しないでください。変更は上書きされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -104701,6 +104711,64 @@ A '''Copyright Easter Egg''', in terms of mapping, is a feature that is drawn in
       <tuv lang="ja" changeid="miurahr" changedate="20201106T123808Z" creationid="miurahr" creationdate="20201106T123808Z">
         <seg>
 '''著作権イースターエッグ'''（Copyright Easter Egg）は、マッピングの用語で、地図の原作者を識別しやすくするために、特有の方法で描かれた地物のことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|wiki=Merkaartor
+|web=http://merkaartor.be
+|svn=https://github.com/openstreetmap/merkaartor
+|platform=win;linux;unix;macos
+|code=C++;Qt
+|framework=Qt4;Qt5
+|languages=EN
+|genre=editor
+|license=GPL
+|price=free
+|version=0.18.4
+|date=2019-11-14
+|screenshot=Merkaartor v0.18.2 Screenshot.png
+|description=Good editor with styling
+|addPOI=yes
+|addWay=yes
+|editSource=offline
+|editPOI=yes
+|editTags=yes
+|editGeom=yes
+|editRelations=yes
+|uploadOSMData=yes
+|offsetDBsupport=no
+}}
+
+'''Merkaartor''' is an OpenStreetMap editor for Linux, macOS and Windows, distributed under the [[Wikipedia:GNU General Public License|GNU General Public License]].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T101529Z" creationid="miurahr" creationdate="20210116T101529Z">
+        <seg>|wiki=Merkaartor
+|web=http://merkaartor.be
+|svn=https://github.com/openstreetmap/merkaartor
+|platform=win;linux;unix;macos
+|code=C++;Qt
+|framework=Qt4;Qt5
+|languages=EN
+|genre=editor
+|license=GPL
+|price=free
+|version=0.18.4
+|date=2019-11-14
+|screenshot=Merkaartor v0.18.2 Screenshot.png
+|description=Good editor with styling
+|addPOI=yes
+|addWay=yes
+|editSource=offline
+|editPOI=yes
+|editTags=yes
+|editGeom=yes
+|editRelations=yes
+|uploadOSMData=yes
+|offsetDBsupport=no
+}}
+
+'''Merkaartor''' is an OpenStreetMap editor for Linux, macOS and Windows, distributed under the [[Wikipedia:GNU General Public License|GNU General Public License]].</seg>
       </tuv>
     </tu>
     <tu>
