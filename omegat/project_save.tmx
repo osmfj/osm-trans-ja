@@ -2763,6 +2763,187 @@ In June 2011, after an extensive community and working group effort, the OSMF Bo
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;gallery heights="200"&gt;
+File:AFTrack seamap.png|[[AFTrack GPS-Tracking]]
+File:Alminav bigicon.png|[[Alminav]]
+File:AQ GPS Hiking screenshot.png|[[AlpineQuest GPS Hiking]]
+File:Apeatmap screenshot.jpg|[[ape@map]]
+File:Bcnav.jpeg|[[BackCountry Navigator]]
+File:Bikeator screenshot.jpg|[[BikeAtor]]
+File:Cartograph screen.png|[[Cartograph]]
+File:Gr talent cruiser-android.png|[[Cruiser]]
+File:Gaia GPS screenshot.jpg|[[Gaia GPS]]
+File:Galileo Offline Maps main.png|[[Galileo Offline Maps]]
+File:GPSEssentialsScreenshot.png|[[GPS Essentials]]
+File:GPS Logger for Android screenshot.jpg|[[GPS Logger for Android]]
+File:GPS-Tracks.png|[[GPS-Tracks]]
+File:InViu routes.png|[[inViu routes]]
+File:Komoot-android-app.png|[[Komoot for Android|komoot]]
+File:Locus with recorded track.png|[[Locus|Locus Map]]
+File:MapFactor Navigator screenshot.png|[[MapFactor Navigator Free]]
+File:Maps.me android screenshot 2015-10.png|[[MAPS.ME]]*
+File:Blank1x1.svg|[[Mapy.cz]]
+File:Maverick map screen.png|[[Maverick]]
+File:MyTrails.png|[[MyTrails]]
+File:Naviki app screenshot.jpg|[[Naviki]]
+File:Oruxmaps.jpg|[[OruxMaps]]
+File:Android-osmand-routing.png|[[OsmAnd]]
+File:Osmtracker android device0611.png|[[OSMTracker (Android)|OSMTracker]]
+File:Qvm-screenshot.png|[[QVM|QuoVadis Mobile]]
+File:Run gps.png|[[Run.GPS]]
+File:Trekarta.png|[[Trekarta]]
+File:Trekbuddy screenshot.png|[[Trekbuddy]]
+File:Vectorialmap wp8.png|[[Vectorial Map]]
+File:Viewranger.jpeg|[[ViewRanger GPS]]
+File:Relief Maps.png|link=ReliefMaps|[[ReliefMaps |Relief Maps]]
+&lt;/gallery&gt;
+
+* ''Maps.me - Record GPS track in DAT format.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T104211Z" creationid="miurahr" creationdate="20210116T104211Z">
+        <seg>&lt;gallery heights="200"&gt;
+File:AFTrack seamap.png|[[AFTrack GPS-Tracking]]
+File:Alminav bigicon.png|[[Alminav]]
+File:AQ GPS Hiking screenshot.png|[[AlpineQuest GPS Hiking]]
+File:Apeatmap screenshot.jpg|[[ape@map]]
+File:Bcnav.jpeg|[[BackCountry Navigator]]
+File:Bikeator screenshot.jpg|[[BikeAtor]]
+File:Cartograph screen.png|[[Cartograph]]
+File:Gr talent cruiser-android.png|[[Cruiser]]
+File:Gaia GPS screenshot.jpg|[[Gaia GPS]]
+File:Galileo Offline Maps main.png|[[Galileo Offline Maps]]
+File:GPSEssentialsScreenshot.png|[[GPS Essentials]]
+File:GPS Logger for Android screenshot.jpg|[[GPS Logger for Android]]
+File:GPS-Tracks.png|[[GPS-Tracks]]
+File:InViu routes.png|[[inViu routes]]
+File:Komoot-android-app.png|[[Komoot for Android|komoot]]
+File:Locus with recorded track.png|[[Locus|Locus Map]]
+File:MapFactor Navigator screenshot.png|[[MapFactor Navigator Free]]
+File:Maps.me android screenshot 2015-10.png|[[MAPS.ME]]*
+File:Blank1x1.svg|[[Mapy.cz]]
+File:Maverick map screen.png|[[Maverick]]
+File:MyTrails.png|[[MyTrails]]
+File:Naviki app screenshot.jpg|[[Naviki]]
+File:Oruxmaps.jpg|[[OruxMaps]]
+File:Android-osmand-routing.png|[[OsmAnd]]
+File:Osmtracker android device0611.png|[[OSMTracker (Android)|OSMTracker]]
+File:Qvm-screenshot.png|[[QVM|QuoVadis Mobile]]
+File:Run gps.png|[[Run.GPS]]
+File:Trekarta.png|[[Trekarta]]
+File:Trekbuddy screenshot.png|[[Trekbuddy]]
+File:Vectorialmap wp8.png|[[Vectorial Map]]
+File:Viewranger.jpeg|[[ViewRanger GPS]]
+File:Relief Maps.png|link=ReliefMaps|[[ReliefMaps |Relief Maps]]
+&lt;/gallery&gt;
+
+* ''Maps.me - GPSトラックをDAT形式で記録します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;gallery heights="200"&gt;
+File:Alminav bigicon.png|[[Alminav]]
+File:Citymaps2go screenshot.png|[[City Maps 2Go]]
+File:Climb the World ARView.jpg|[[Climb The World]]
+File:Cyclestreets android.png|[[CycleStreets]]
+File:Locus with recorded track.png|[[Locus|Locus Map]]
+File:Maps.me android screenshot 2015-10.png|[[MAPS.ME]]
+File:Blank1x1.svg|[[Mapy.cz]]
+File:OpenTripPlanner(Android).png|[[OpenTripPlanner (Android)|OpenTripPlanner]]
+File:OpenStreetMap-OSM-3D-Android-OSG-Map-20.png|[[OSG-Maps]]
+File:Android-osmand-routing.png|[[OsmAnd]]
+File:Stappz1.png|[[STAPPZ]]
+File:Blank1x1.svg|[[TripAdvisor]]
+File:TripGo-NYC.png|[[TripGo]]
+&lt;/gallery&gt;
+
+=== Games ===
+{{main|Games#In the game itself}}
+
+These games rely on OpenStreetMap data to power gameplay:
+
+&lt;gallery widths="200"&gt;
+File:Screenshot ingame.png|link=BucketMan - coloring your city|[[BucketMan - coloring your city|BucketMan]]
+&lt;/gallery&gt;
+&lt;gallery heights="200"&gt;
+File:Pokémon Go App.jpg|link=Pokémon Go|[[Pokémon Go]]
+&lt;/gallery&gt;&lt;gallery heights="200"&gt;
+File:Ingress Logo.png|link=Ingress|[[Ingress]]
+&lt;/gallery&gt;
+
+=== Miscellaneous ===
+&lt;gallery widths="200"&gt;
+File:APhotoManager-Gallery.png|link=A Photo Manager|[[A Photo Manager]]
+&lt;/gallery&gt;
+&lt;gallery heights="200"&gt;
+File:Android-geopaparazzi-cycle.png|[[Geopaparazzi]]
+File:Lockonmeapp.png|[[LockOnMe]]
+File:MapSwipe Android.png|[[MapSwipe]]
+File:Snapchat (15021193310).jpg|[[Snapchat]]
+&lt;/gallery&gt;
+
+== Applications using OpenStreetMap ==
+These applications also use OpenStreetMap in some fashion:
+
+== Libraries for developers ==
+{{main|Frameworks}}
+
+Several libraries make it easy for Android developers to incorporate OpenStreetMap in their own applications, whether as a static map image, a fully interactive map, or more sophisticated uses like geocoding and routing.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T105048Z" creationid="miurahr" creationdate="20210116T104723Z">
+        <seg>&lt;gallery heights="200"&gt;
+File:Alminav bigicon.png|[[Alminav]]
+File:Citymaps2go screenshot.png|[[City Maps 2Go]]
+File:Climb the World ARView.jpg|[[Climb The World]]
+File:Cyclestreets android.png|[[CycleStreets]]
+File:Locus with recorded track.png|[[Locus|Locus Map]]
+File:Maps.me android screenshot 2015-10.png|[[MAPS.ME]]
+File:Blank1x1.svg|[[Mapy.cz]]
+File:OpenTripPlanner(Android).png|[[OpenTripPlanner (Android)|OpenTripPlanner]]
+File:OpenStreetMap-OSM-3D-Android-OSG-Map-20.png|[[OSG-Maps]]
+File:Android-osmand-routing.png|[[OsmAnd]]
+File:Stappz1.png|[[STAPPZ]]
+File:Blank1x1.svg|[[TripAdvisor]]
+File:TripGo-NYC.png|[[TripGo]]
+&lt;/gallery&gt;
+
+=== ゲーム ===
+{{main|Games#In the game itself}}
+
+次のゲームは、OpenStreetMap を利用しています:
+
+&lt;gallery widths="200"&gt;
+File:Screenshot ingame.png|link=BucketMan - coloring your city|[[BucketMan - coloring your city|BucketMan]]
+&lt;/gallery&gt;
+&lt;gallery heights="200"&gt;
+File:Pokémon Go App.jpg|link=Pokémon Go|[[Pokémon Go]]
+&lt;/gallery&gt;&lt;gallery heights="200"&gt;
+File:Ingress Logo.png|link=Ingress|[[Ingress]]
+&lt;/gallery&gt;
+
+=== その他 ===
+&lt;gallery widths="200"&gt;
+File:APhotoManager-Gallery.png|link=A Photo Manager|[[A Photo Manager]]
+&lt;/gallery&gt;
+&lt;gallery heights="200"&gt;
+File:Android-geopaparazzi-cycle.png|[[Geopaparazzi]]
+File:Lockonmeapp.png|[[LockOnMe]]
+File:MapSwipe Android.png|[[MapSwipe]]
+File:Snapchat (15021193310).jpg|[[Snapchat]]
+&lt;/gallery&gt;
+
+== OpenStreetMapを利用するアプリケーション ==
+次のアプリケーションは、OpenStreetMapも利用しています:
+
+== 開発者むけライブラリ ==
+{{main|Frameworks}}
+
+Android開発者が、OpenStreetMapを静的な背景地図として使ったり、完全にインタラクティブなマップを実現したり、ジオコーディングやルーティングなどのより高度な利用をできて、独自のアプリケーションに簡単に組み込むことができるライブラリがあります。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;h2&gt;Filter active: {0}&lt;/h2&gt;</seg>
       </tuv>
       <tuv lang="ja">
@@ -5014,6 +5195,20 @@ Overpass QLは集合を操作します。 </seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>=== Maps ===
+{| class="wikitable sortable"
+|-
+!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T105225Z" creationid="miurahr" creationdate="20210116T105225Z">
+        <seg>=== マップ ===
+{| class="wikitable sortable"
+|-
+!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>=== Moderator guidelines ===
 Moderators will adhere to the following guidelines when enacting the above policy</seg>
       </tuv>
@@ -5426,6 +5621,14 @@ If you need further help on mapping an area see:
       </tuv>
       <tuv lang="ja">
         <seg>時刻でA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A GPS testing application can help you determine which GNSS satellite networks your phone supports (Beidou, Galileo, GLONASS, GPS, QZSS, etc.).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T104237Z" creationid="miurahr" creationdate="20210116T104237Z">
+        <seg>GPSテストアプリケーションを使用すると、電話機がサポートしているGNSS衛星ネットワーク(Beidou、Galileo、GLONASS、GPS、QZSSなど)を特定できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9469,6 +9672,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>注釈</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Another benefit of using these libraries is that they respect OpenStreetMap’s [[tile usage policy]] by fetching tiles and other resources from dedicated servers instead of OpenStreetMap’s donated servers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T105124Z" creationid="miurahr" creationdate="20210116T105124Z">
+        <seg>これらのライブラリを使用するもう1つの利点は、OpenStreetMapから提供されたサーバではなく、専用サーバからタイルやその他のリソースを取得することで、OpenStreetMapの[[tile usage policy]] を尊重できることです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40058,6 +40269,24 @@ Cannot continue.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It can also help you determine the satellites it can see and is using at any given time, which frequencies your device listens on (whether it supports dual band signals, for example), and the accuracy of the data your phone reports.&lt;gallery heights="200"&gt;
+File:GPSTest screenshot.png|GPSTest [https://play.google.com/store/apps/details?id=com.android.gpstest (Google Play)] [https://github.com/barbeau/gpstest (Project page)]
+&lt;/gallery&gt;&lt;br /&gt;
+
+=== Travel planning ===
+These applications let you search for and learn about places on the map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T104716Z" creationid="miurahr" creationdate="20210116T104716Z">
+        <seg>また、このアルゴリズムは、デバイスが受信する衛星の周波数(例えば、デュアルバンド信号をサポートしているかどうか)や、レポートするデータの精度を判断するためにも役立ちます。&lt;gallery heights="200"&gt;
+File:GPSTest screenshot.png|GPSTest [https://play.google.com/store/apps/details?id=com.android.gpstest (Google Play)] [https://github.com/barbeau/gpstest (Project page)]
+&lt;/gallery&gt;&lt;br /&gt;
+
+===旅行計画===
+これらのアプリケーションを使用すると、地図上の場所を検索したり、その場所について学習したりできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It can be activated by clicking the left button at the bottom of this message or the button in the toolbar on the left, which uses the same icon.</seg>
       </tuv>
       <tuv lang="ja">
@@ -42884,6 +43113,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Library !!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T105233Z" creationid="miurahr" creationdate="20210116T105233Z">
+        <seg>Library !!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>License</seg>
       </tuv>
       <tuv lang="ja">
@@ -44816,6 +45053,14 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200817T224656Z" creationid="miurahr" creationdate="20200817T224656Z">
         <seg>多くの新しいOSMersは、これらの経路でコミュニティに初めて接する機会があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Many of them also support offline maps.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T104721Z" creationid="miurahr" creationdate="20210116T104721Z">
+        <seg>その多くはサポートのオフライン地図にもなっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50452,6 +50697,66 @@ nodes and the new nodes will be selected.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>メモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Notes
+|-
+| [[CartoType]] ||14|| Proprietary || Rendering and routing library; supports motor vehicles, bicycles, walking, and more; can take gradients into account
+|-
+| [[GraphHopper]] || 10 || Apache 2 || Routing engine for car, bike and more
+|-
+| [https://github.com/mapbox/mapbox-java/ Mapbox Android Services] || 15 || MIT || Connects to Mapbox’s Directions API for route data
+|-
+| [[mapsforge]] || 9 || LGPLv3 || Route planning and navigation
+|-
+| [http://navmii.com/sdk/ Navmii Mobile SDK] || {{unknown}} || Proprietary || 
+|-
+| [https://github.com/mapzen/on-the-road_android/ On The Road] || 15 || Apache || Connects to Mapzen Turn-by-Turn (powered by [[Valhalla]])
+|-
+| [https://github.com/kodapan/osm-common/ osm-common] || {{unknown}} || Apache 2 || Nominatim
+|}
+
+== See also ==
+* [[Android/Troubleshooting]]
+* [[Software]] - root page for all OSM applications
+* Accessibility resources for developers:
+** [[Talkback]], a free Google speech synthesizer is available from the Android Market
+** [https://code.google.com/p/eyes-free/ "Eyes free"] - How to make programs accessible for the blind
+** [http://blind.wikia.com/wiki/Open_Letter_Initiative#Android_Accessibility Android accessibility]
+* [[iOS]] apps
+{{Linux}}
+[[Category:Android| ]]</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T105252Z" creationid="miurahr" creationdate="20210116T105252Z">
+        <seg>Notes
+|-
+| [[CartoType]] ||14|| Proprietary || Rendering and routing library; supports motor vehicles, bicycles, walking, and more; can take gradients into account
+|-
+| [[GraphHopper]] || 10 || Apache 2 || Routing engine for car, bike and more
+|-
+| [https://github.com/mapbox/mapbox-java/ Mapbox Android Services] || 15 || MIT || Connects to Mapbox’s Directions API for route data
+|-
+| [[mapsforge]] || 9 || LGPLv3 || Route planning and navigation
+|-
+| [http://navmii.com/sdk/ Navmii Mobile SDK] || {{unknown}} || Proprietary || 
+|-
+| [https://github.com/mapzen/on-the-road_android/ On The Road] || 15 || Apache || Connects to Mapzen Turn-by-Turn (powered by [[Valhalla]])
+|-
+| [https://github.com/kodapan/osm-common/ osm-common] || {{unknown}} || Apache 2 || Nominatim
+|}
+
+== See also ==
+* [[Android/Troubleshooting]]
+* [[Software]] - root page for all OSM applications
+* Accessibility resources for developers:
+** [[Talkback]], a free Google speech synthesizer is available from the Android Market
+** [https://code.google.com/p/eyes-free/ "Eyes free"] - How to make programs accessible for the blind
+** [http://blind.wikia.com/wiki/Open_Letter_Initiative#Android_Accessibility Android accessibility]
+* [[iOS]] apps
+{{Linux}}
+[[Category:Android| ]]</seg>
       </tuv>
     </tu>
     <tu>
@@ -76638,6 +76943,22 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The track will be removed automatically from the map after the time interval will expire (1 hour by default).''
+* [https://www.geopaparazzi.org/smash/ SMASH]
+
+==== GPS accuracy ====
+If you are recording GPS tracks with an Android phone, it can be useful to have an application to help you troubleshoot your GPS data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T104115Z" creationid="miurahr" creationdate="20210116T104115Z">
+        <seg>このトラックは、指定した時間(デフォルトは1時間)が経過すると、自動的にマップから削除されます。''
+* [https://www.geopaparazzi.org/smash/SMASH]
+
+====GPSの精度=====
+Android端末でGPSトラックを記録している場合、GPSデータのトラブルシューティングに役立つアプリケーションを利用すると便利です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The turnrestrictions plugin allows to enter maintain information about turn restrictions in the OpenStreetMap database.</seg>
       </tuv>
       <tuv lang="ja">
@@ -76922,6 +77243,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200813T125328Z" creationid="miurahr" creationdate="20200813T125328Z">
         <seg> OpenStreetMap には[https://www.openstreetmap.org/stats/data_stats.html {{:Contributors/count}}の登録ユーザー]がいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are also a number of projects on [https://github.com/search?utf8=%E2%9C%93&amp;q=android+openstreetmap GitHub] and [http://code.google.com/hosting/search?q=label%3Aopenstreetmap+label%3Aandroid&amp;projectsearch=Search+projects Google Code] with both 'android' and 'openstreetmap' tags.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T105214Z" creationid="miurahr" creationdate="20210116T105214Z">
+        <seg> [https://github.com/search?utf8=%E2%9C%93&amp;q=android+openstreetmap GitHub] and [http://code.google.com/hosting/search?q=label%3Aopenstreetmap+label%3Aandroid&amp;projectsearch=Search+projects Google Code]  にも、'android'と'OpenStreetMap'の両方のタグを持つプロジェクトをみつけることができます。</seg>
       </tuv>
     </tu>
     <tu>
