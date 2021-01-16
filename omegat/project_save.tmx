@@ -1882,6 +1882,14 @@ Ordnance Survey Maps sued the Automobile Association for copying their maps and 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* For most/all slippy maps (like the one on [https://www.openstreetmap.org/ osm.org]) you can just use your browser's zoom feature (e.g., of Firefox) to enlarge everything.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T131909Z" creationid="miurahr" creationdate="20210116T131909Z">
+        <seg>* ほとんどのスクロール地図([http://www.openstreetmap.org/ osm.org]など)では、ブラウザのズーム機能を使えば何でも大きく表示できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Help in one of the listed projects.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210116T130613Z" creationid="miurahr" creationdate="20210116T130613Z">
@@ -1954,6 +1962,24 @@ Ordnance Survey Maps sued the Automobile Association for copying their maps and 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* Relief maps {{tag|information|tactile_map}}
+* Tactile writing:
+** {{tag|information|braille}} (e.g., used on {{tag|highway|steps}} with Braille writing on handrails)
+** {{tag|information|tactile_letters}} (e.g., used in elevators, where the buttons have imprinted numbers in ordinary writing)
+* Voice interfaces {{tag|acoustic|voice_description}}; e.g., {{tag|voice_description|rfid}} in [[Bern]] for public transportation
+* Cinema / Theatre: additional narrator {{tag|acoustic|voice_description}} ?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T131707Z" creationid="miurahr" creationdate="20210116T131608Z">
+        <seg>* 点字地図 {{tag|information|tactile_map}}
+* 点字表記:
+** {{tag|information|braille}} (例. {{tag|highway|steps}} で使われる手すり上の点字)
+** {{tag|information|tactile_letters}} (例.エレベータで使われ、ボタンに普通の記述内に数字が刻まれている)
+* 音声インタフェース{{tag|acoustic|voice_description}} 例.[[Bern]]の公共輸送用{{tag|voice_description|rfid}}
+* 映画 / 劇場: 補足ナレータ {{tag|acoustic|voice_description}} ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Sometimes a neutral party may arbitrate.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200817T231810Z" creationid="miurahr" creationdate="20200817T231810Z">
@@ -2018,6 +2044,20 @@ You can find a lot of tags concerning accessibility in these categories:
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* Traffic lights with sound {{tag|traffic_signals:sound|yes/no}} 
+* {{tag|description:en:blind|The city of Weingarten offers tactile paper maps at the tourist information office for a small fee.}} 
+* {{tag|lit}} to identify well-lit routes for people affected by night-blindness
+*...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T131758Z" creationid="miurahr" creationdate="20210116T131758Z">
+        <seg>* 音楽つき信号機 {{tag|traffic_signals:sound|yes/no}} 
+* {{tag|description:ja:blind|Weingarten市は観光案内所で、安価な点字地図を提供しています。}} 
+* {{tag|lit}} to identify well-lit routes for people affected by night-blindness
+*...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Translate this page to other languages.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210116T130525Z" creationid="miurahr" creationdate="20210116T130525Z">
@@ -2040,6 +2080,23 @@ You can find a lot of tags concerning accessibility in these categories:
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170522T000058Z" creationid="miurahr" creationdate="20170522T000058Z">
         <seg>* 言語間ナビゲーションバーを表示するために、翻訳の先頭に&lt;code&gt; &lt;nowiki&gt;{{languages|ns=Category:|元の英語の題名}}&lt;/nowiki&gt;&lt;/code&gt; を使ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* Use the zoom function of your operating system (as the font size problem does not only affects you on maps).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T131942Z" creationid="miurahr" creationdate="20210116T131942Z">
+        <seg>* OSのズーム機能を使ってください。(フォントサイズ表示に問題が発生する場合もあります。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* Using [[List of OSM based Services|another]] [[Tiles#Servers|map style]] with bigger text and better contrast is another option: for example [//opentopomap.org/#map=13/50/10 OpenTopoMap] (no street names) or even more contrast with [http://maps.stamen.com/toner-lite/#13/50/10 toner-lite by stamen] / [http://maps.stamen.com/toner/#13/50/10 toner by stamen] (few names).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T132000Z" creationid="miurahr" creationdate="20210116T132000Z">
+        <seg>* 文字が大きく表示され、コントラストが高い[[List of OSM based Services|他の]] [[Tiles#Servers|地図スタイル]]を使ってみるオプションもあります。[//opentopomap.org/#map=13/50/10 OpenTopoMap](ストリート名表示がない)や、 コントラストの高い[http://maps.stamen.com/toner-lite/#13/50/10 toner-lite by stamen] / [http://maps.stamen.com/toner/#13/50/10 toner by stamen] (名前表示数が少ない)などがあります。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -2086,8 +2143,38 @@ You can find a lot of tags concerning accessibility in these categories:
       <tuv lang="en-US">
         <seg>* [[API.Wikiocity]] Color coded maps for handicap accessible ramps, transportation, restrooms, and data for all points of interest.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210116T131400Z" creationid="miurahr" creationdate="20210116T131400Z">
-        <seg>* [[API.Wikiocity]] Color coded maps for handicap accessible ramps, transportation, restrooms, and data for all points of interest.</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T133256Z" creationid="miurahr" creationdate="20210116T131400Z">
+        <seg>* [[API.Wikiocity]] 障碍者が利用できる乗り場、交通機関、トイレなどのすべてのPOIのデータ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* [[Loadstone]] OpenStreetMap POI transfer to navigation tool for the blind
+* [[OSM VIwGoA]] Open Street Maps for Visually Impaired with GPS on Android
+* [[OSM_Direction_tool_for_Visually_Impaired]]
+* [[Look and Listen Map]] Online routing service
+* [[AmauroMap]]
+
+==== Routing for visual impairment/blindness ====
+* [[Loadstone]] GPS is a free non-graphics satellite navigation software developed for Symbian Mobile/phones using the Series60 platform.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T132213Z" creationid="miurahr" creationdate="20210116T132213Z">
+        <seg>* [[JA:Loadstone|Loadstone]] OpenStreetMap の POI を視覚障碍者向けのナビゲーションツールに変換します
+* [[OSM VIwGoA]] GPS付アンドロイド機で使用する視覚障碍者向けOSM地図
+* [[OSM_Direction_tool_for_Visually_Impaired]]
+* [[Look and Listen Map]] オンラインルート検索サービス
+* [[AmauroMap]]
+
+==== 視覚障碍者向けルート検索 ====
+* "[[JA:Loadstone|Loadstone]] GPS"は、Series60プラットフォームを使い、シンビアン携帯機向けに開発された無料の非グラフィックナビゲーションソフトです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* [[LoroDux]] is  a OSM and Java ME based multi platform navigation software for mobile devices for blind and visually impaired persons.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T132031Z" creationid="miurahr" creationdate="20210116T132031Z">
+        <seg>* [[JA:LoroDux|LoroDux]]は視覚障碍者向けの携帯機ナビゲーションソフトです。OSMとJava MEをベースとしたマルチプラットフォームソフトです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2134,7 +2221,7 @@ You can find a lot of tags concerning accessibility in these categories:
 * [[LoroDux]] Pedestrian Navigation for the blind (+ OSM editor integration planned)
 * [[HaptoRender]] German project for tactile maps for the visually impaired / blind.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210116T130241Z" creationid="miurahr" creationdate="20210116T130021Z">
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T132248Z" creationid="miurahr" creationdate="20210116T130021Z">
         <seg>* [http://www.behindertenfuehrer-stade.de/html/piktogram.html アクセシビリティ向けのピクトグラム]
 
 == 全般的な障碍者向けのタグ付け ==
@@ -2147,9 +2234,9 @@ You can find a lot of tags concerning accessibility in these categories:
 
 {{Main|JA:視覚障碍者のためのOSM}}
 
-* Also see [[List of OSM based Services#Accessibility for persons with disabilities|section “Accessibility for persons with disabilities” in the “List of OSM based Services”]]
-* [[LoroDux]] Pedestrian Navigation for the blind (+ OSM editor integration planned)
-* [[HaptoRender]] German project for tactile maps for the visually impaired / blind.</seg>
+* [[List of OSM based Services#Accessibility for persons with disabilities|「OSM使用サービス一覧」ページの「障碍者アクセシビリティ」セクション]]も参照のこと
+* [[JA:LoroDux|LoroDux]] 視覚障碍者向け歩行者ナビ(OSM編集機能の追加を予定)
+* [[JA:HaptoRender|HaptoRender]] 視覚障碍者向け点字ブロック地図を作成するドイツのプロジェクト</seg>
       </tuv>
     </tu>
     <tu>
@@ -6150,6 +6237,26 @@ Overpass QL のコードは''ステートメント'' からなっており、そ
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>==== Maps for visual impairment/blindness ====
+* [[HaptoRender]]
+* [[Look and Listen Map]]
+* [[Mapbox iOS SDK]]&amp;nbsp;– compatible with Apple’s built-in [[w:VoiceOver|VoiceOver]] screenreader
+
+===== Using ordinary online maps with visual impairment =====
+… or: how to make the words on the map bigger?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T131847Z" creationid="miurahr" creationdate="20210116T131847Z">
+        <seg>==== 視覚障碍者向け地図 ====
+* [[JA:HaptoRender|HaptoRender]]
+* [[Look and Listen Map]]
+* [[Mapbox iOS SDK]]&amp;nbsp;– compatible with Apple’s built-in [[w:VoiceOver|VoiceOver]] screenreader
+
+===== 視覚障碍者による通常のオンラインマップの使用 =====
+…つまり、地図上の文字をどうやって大きくすればよいか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>==== Naming ====
 According to the "On the Ground Rule" whatever people are using on the ground at that location will win the non-localized tags.</seg>
       </tuv>
@@ -6176,6 +6283,16 @@ According to the "On the Ground Rule" whatever people are using on the ground at
       <tuv lang="ja" changeid="miurahr" changedate="20210116T130850Z" creationid="miurahr" creationdate="20210116T130850Z">
         <seg>==== 聴覚障碍者向けルート検索 ====
 * 一般的には聴覚障碍者は通常のルート検索ソフトを使用可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>==== Tagging for visual impairment/blindness  ====
+* Structure in the pavement to be felt with a long cane (White blindmans's stick): {{tag|tactile_paving|yes/no/incorrect}}; e.g., used on {{tag|highway|steps}} or on {{tag|highway|bus_stop}} or platforms.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T131644Z" creationid="miurahr" creationdate="20210116T131644Z">
+        <seg>==== 視覚障碍者向けタグ付け ====
+* 全盲者の杖に感知されるための歩道にある構築物: {{tag|tactile_paving|yes/no/incorrect}} 例えば {{tag|highway|steps}} や {{tag|highway|bus_stop}} やプラットフォームで使用される。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6558,6 +6675,14 @@ There is a need to control and manage the negative affects of invasive non-nativ
       </tuv>
       <tuv lang="ja">
         <seg>{1}による{0}ノードの非推奨の位置合わせ座標</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A downside is that the map image usually gets blurry.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T131922Z" creationid="miurahr" creationdate="20210116T131922Z">
+        <seg>地図画像がぼやけてしまうのは欠点です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12497,6 +12622,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201107T162017Z" creationid="miurahr" creationdate="20201107T162017Z">
         <seg>[[Overpass_API]#Public_Overpass_API_instances[上書き API サーバー ( Overpass API server ) ] ] には、使用する機能をサポートするために十分な API バージョンが含まれていることを確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Be sure to ''not'' set "zoom only text" in your browser's settings/view/zoom menu options.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T131916Z" creationid="miurahr" creationdate="20210116T131916Z">
+        <seg>ブラウザの設定-表示-ズームメニューで、"テキストだけズーム"に設定''しない''ように注意ください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38414,6 +38547,14 @@ If tagging an [[area]], [[way]] or [[node]] there may be reasons to record the {
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T042000Z" creationid="miurahr" creationdate="20201120T042000Z">
         <seg>go バージョン1.12以降を使用している場合: ここでは何もしません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you view a slippy map which uses [[High-resolution tiles|"retina" tiles]], you can magnify much more until the image get blurry ([[:File:Retina zoom comparison.gif|comparison example]]).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T131932Z" creationid="miurahr" creationdate="20210116T131932Z">
+        <seg> [[JA:高解像度タイル|"retina" タイル]]の地図では、あまりぼやけずに地図画像を拡大することができます（[[:File:Retina zoom comparison.gif|比較例]]）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65365,6 +65506,14 @@ The ways selected must form a simple branchless path</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right now just Seattle, Mount Vernon and Bellingham in Washington State, US.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T132325Z" creationid="miurahr" creationdate="20210116T132325Z">
+        <seg>現在、米国ワシントン州のシアトル、マウントバーノン、ベイリンジャム村だけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rijksdriehoekscoördinaten (Netherlands)</seg>
       </tuv>
       <tuv lang="ja">
@@ -67709,6 +67858,14 @@ TODO:
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170522T000004Z" creationid="miurahr" creationdate="20170522T000004Z">
         <seg>[[Ja:Wiki Help|ウィキのヘルプ]]も参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See also the interface [[Nuance Talks]].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T132101Z" creationid="miurahr" creationdate="20210116T132101Z">
+        <seg>インターフェースについては[[Nuance Talks]]を参照のこと。</seg>
       </tuv>
     </tu>
     <tu>
