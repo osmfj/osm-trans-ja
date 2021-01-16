@@ -2104,6 +2104,14 @@ Ordnance Survey Maps sued the Automobile Association for copying their maps and 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*: {{Tag|species}} tag has been used thousands of times and {{Tag|taxon}} much less often.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T115739Z" creationid="miurahr" creationdate="20210116T115739Z">
+        <seg>*: {{Tag|species}} タグは、数千回使用されていますが、 {{Tag|taxon}} ははるかに少ない利用頻度です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>,</seg>
       </tuv>
       <tuv lang="ja">
@@ -5885,6 +5893,14 @@ If you need further help on mapping an area see:
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T124021Z" creationid="miurahr" creationdate="20201106T124021Z">
         <seg>たとえば、"paper street" と呼ばれる誤りがちょうど良い例でしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A heatmap of [[Edinburgh]] showing access to leisure facilities, using OpenStreetMap data (red = far away from greenspace/leisure).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T115503Z" creationid="miurahr" creationdate="20210116T115503Z">
+        <seg>OpenStreetMapを用いて、 [[Edinburgh]] のヒートマップにより、レジャー施設へのアクセスが示されています。 (赤 = 緑地やレジャーから離れた場所)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34014,6 +34030,28 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>URLから</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From an idea by {{osmUser|Hawkeye}} created by [http://www.flickr.com/people/stevefaeembra/photosof/ stevefaeembra]|thumb|right]]
+
+*[http://toolserver.org/~timsc/locateservices/greenspaces/ Medway greenspaces]
+*[https://wiki.openstreetmap.org/wiki/MassGis_Layer_Openspace MassGis Layer Openspace]
+
+== Environmental Features in Development ==
+
+* Species/Genus names have been proposed in {{Tag|natural|tree}} but {{Tag|taxon}} has also been proposed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T115706Z" creationid="miurahr" creationdate="20210116T115706Z">
+        <seg> {{osmUser|Hawkeye}} が [http://www.flickr.com/people/stevefaeembra/photosof/ stevefaeembra]|thumb|right]]で提案したアイディアから、
+
+*[http://toolserver.org/~timsc/locateservices/greenspaces/ Medway greenspaces]
+*[https://wiki.openstreetmap.org/wiki/MassGis_Layer_Openspace MassGis Layer Openspace]
+
+== 検討中の環境地物 ==
+
+* {{Tag|natural|tree}} で樹木の種や属が提案されていますが、 {{Tag|taxon}} も提案されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66834,6 +66872,26 @@ The ways selected must form a simple branchless path</seg>
 ==関連項目==
 * [[Ja:Legal FAQ|Legal FAQ]] - OpenStreetMap の法的な様々な側面についてのよくある質問です。
 * [[Lacking_proper_attribution]] - 製品がある OSM データを使用するか、まだ適切な属性がない状態です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See [[Tree]] discussion page
+* Vegetation coverage values for areas have been proposed at the bottom of {{tag|taxon}}
+* Plant communities (National Vegetation Classification) proposal outlined in {{tag|plant_community}}
+* Habitat mapping proposal based on the Phase One Habitat survey in the {{tag|habitat}} page
+
+TODO:
+* Tagging the regulation of ''living modified organisms (LMO)'' including ''genetically modified organisms (GMO)'' — in French ''organismes génétiquement modifiés (OGM)''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T115954Z" creationid="miurahr" creationdate="20210116T115954Z">
+        <seg> [[Tree]] 議論ページを参照
+* 地域の植生被度の値は 、 {{tag|taxon}}の下で提案されています。
+* 植物コミュニティ (National Vegetation Classification) は、 {{tag|plant_community}}に提案の概要があります。
+* Habitat mapping proposal based on the Phase One Habitat survey in the {{tag|habitat}} page
+
+やること:
+* Tagging the regulation of ''living modified organisms (LMO)'' including ''genetically modified organisms (GMO)'' — in French ''organismes génétiquement modifiés (OGM)''.</seg>
       </tuv>
     </tu>
     <tu>
