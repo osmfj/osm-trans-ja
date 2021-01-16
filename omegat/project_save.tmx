@@ -4715,6 +4715,32 @@ The [[Foundation|OpenStreetMap Foundation]] has provided a document for governme
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>== OpenStreetMap applications ==
+{{main|Comparison of Android applications}}
+
+The following applications rely on OpenStreetMap for core functionality, so they’re good ways to use OpenStreetMap on your Android device.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T102539Z" creationid="miurahr" creationdate="20210116T102539Z">
+        <seg>== OpenStreetMap アプリケーション  ==
+{{main|Comparison of Android applications}}
+
+次のアプリケーションは、主な機能をOpenStreetMapを基にしているので、AndroidデバイスでOpenStreetMapを使用する良い方法になります。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>== OpenStreetMap.org ==
+The most basic way to use OpenStreetMap on your Android device is to open https://www.openstreetmap.org/ in a Web browser such as Chrome.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T102139Z" creationid="miurahr" creationdate="20210116T102139Z">
+        <seg>== OpenStreetMap.org ==
+AndroidデバイスでOpenStreetMapを使用する最も基本的な方法は、ChromeなどのWebブラウザでhttps://www.openstreetmap.org/を開くことです
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>== Operational installations of the Tasking Manager ==
 
 * Projects worldwide:
@@ -4994,6 +5020,166 @@ Moderators will adhere to the following guidelines when enacting the above polic
       <tuv lang="ja" changeid="miurahr" changedate="20200817T233009Z" creationid="miurahr" creationdate="20200817T233009Z">
         <seg>===モデレータのガイドライン===
 モデレータは、上記のポリシーを実行する際に、次のガイドラインに従います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>=== Navigation ===
+These applications provide turn-by-turn navigation and, in many cases, voice guidance:
+
+===== Open Source =====
+&lt;gallery heights="200"&gt;
+File:Android-osmand-routing.png|link=OsmAnd|[[OsmAnd]]
+File:Maps.me android screenshot 2015-10.png|link=MAPS.ME|[[MAPS.ME]]
+File:0606 osd screenshot portrait.png|link=Navit|[[Navit]]
+&lt;/gallery&gt;
+
+===== Proprietary / Closed Source =====
+&lt;gallery heights="200"&gt;
+File:Be-on-road Nov2013 3D view.png|[[be-on-road]]
+File:Turn-by-turn-bike-navigation.jpg|[[Bike Citizens]]
+File:Gr talent cruiser-android.png|[[Cruiser]]
+File:Galileo Offline Maps main.png|[[Guru Maps]]&lt;br/&gt;(Galileo Offline Maps)
+File:GPS-Tracks.png|[[GPS-Tracks]]
+File:INRIX iOS.png|[[INRIX|INRIX Traffic]]
+File:Kurviger-navigation.png|[[Kurviger|Kurviger Pro]]
+File:Locus with recorded track.png|[[Locus|Locus Map]]
+File:2 iPhone 6 Navigation imperial uk.PNG|[[Magic Earth]]
+File:MapFactor Navigator screenshot.png|[[MapFactor Navigator Free]]
+File:Blank1x1.svg|[[Mapy.cz]]
+File:Naviki app screenshot.jpg|[[Naviki]]
+File:Navfree screenshot.jpg|[[Navmii]]
+File:Qvm-screenshot.png|[[QVM|QuoVadis Mobile]]
+File:Skobbler Navigation Android Screenshot.png|[[GPS Navigation &amp; Maps|Scout GPS Navigation &amp; Maps]]
+File:Wisepilot map screenshot.png|[[Wisepilot]]
+File:ZANavi screen1.png|[[ZANavi]]
+&lt;/gallery&gt;
+
+* [https://play.google.com/store/apps/details?id=org.aph.avigenie Nearby Explorer] and [https://play.google.com/store/apps/details?id=org.aph.nearbyonline Nearby Explorer Online]
+
+It is also possible to load OpenStreetMap-based maps into the following applications:
+
+* [[Navitel]]
+
+=== Editing the map ===
+
+These advanced editor applications allow you to contribute to OpenStreetMap by editing the map directly:
+
+&lt;gallery heights="200"&gt;
+File:Vespucci screenshot.png|link=Vespucci|[[Vespucci]]
+&lt;/gallery&gt;
+
+These applications are specialized OSM editors not allowing direct editing of data:
+&lt;gallery heights="200"&gt;
+File:Streetcomplete screenshot v3.4.png|link=StreetComplete|[[StreetComplete]]
+File:OSMBugs.0.2.5.map.png|link=OSMBugs|[[OSMBugs]]
+File:Osm-contributor-menu.png|link=OSM Contributor|[[OSM Contributor]]
+&lt;/gallery&gt;
+
+These applications also contain some limited editing functionality:
+
+&lt;gallery heights="200"&gt;
+File:Climb the World ARView.jpg|[[Climb The World]]
+File:Locus Map Pro screenshot with geocaches.png|[[Locus|Locus Map]]
+File:Maps.me android screenshot 2015-10.png|[[MAPS.ME]]
+File:Android-osmand-routing.png|[[OsmAnd]]
+&lt;/gallery&gt;
+
+These applications allow you to contribute imagery for armchair mappers to use:
+
+* [[Mapillary]]
+* [[OpenStreetCam]]
+
+=== Augmented reality ===
+These applications overlay OpenStreetMap data atop a real-time view of the device’s back camera:
+
+&lt;gallery heights="200"&gt;
+File:Climb the World ARView.jpg|[[Climb The World]]
+File:Blank1x1.svg|[[Layar|Layar Reality Browser]]
+File:OpenSeaMap auf Locus - Hafenplan 200m.png|[[Locus|Locus Map]]
+&lt;/gallery&gt;
+
+=== Track recording ===
+These applications allow you to [[Recording GPS tracks|record your movement]] as GPS tracks.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T103507Z" creationid="miurahr" creationdate="20210116T102640Z">
+        <seg>=== ナビゲーション  ===
+次のアプリケーションは、多くの場合に、音声ガイダンスつきのナビを提供します。
+
+===== オープンソース =====
+&lt;gallery heights="200"&gt;
+File:Android-osmand-routing.png|link=OsmAnd|[[OsmAnd]]
+File:Maps.me android screenshot 2015-10.png|link=MAPS.ME|[[MAPS.ME]]
+File:0606 osd screenshot portrait.png|link=Navit|[[Navit]]
+&lt;/gallery&gt;
+
+===== プロプラエタリ / 非公開 =====
+&lt;gallery heights="200"&gt;
+File:Be-on-road Nov2013 3D view.png|[[be-on-road]]
+File:Turn-by-turn-bike-navigation.jpg|[[Bike Citizens]]
+File:Gr talent cruiser-android.png|[[Cruiser]]
+File:Galileo Offline Maps main.png|[[Guru Maps]]&lt;br/&gt;(Galileo Offline Maps)
+File:GPS-Tracks.png|[[GPS-Tracks]]
+File:INRIX iOS.png|[[INRIX|INRIX Traffic]]
+File:Kurviger-navigation.png|[[Kurviger|Kurviger Pro]]
+File:Locus with recorded track.png|[[Locus|Locus Map]]
+File:2 iPhone 6 Navigation imperial uk.PNG|[[Magic Earth]]
+File:MapFactor Navigator screenshot.png|[[MapFactor Navigator Free]]
+File:Blank1x1.svg|[[Mapy.cz]]
+File:Naviki app screenshot.jpg|[[Naviki]]
+File:Navfree screenshot.jpg|[[Navmii]]
+File:Qvm-screenshot.png|[[QVM|QuoVadis Mobile]]
+File:Skobbler Navigation Android Screenshot.png|[[GPS Navigation &amp; Maps|Scout GPS Navigation &amp; Maps]]
+File:Wisepilot map screenshot.png|[[Wisepilot]]
+File:ZANavi screen1.png|[[ZANavi]]
+&lt;/gallery&gt;
+
+* [https://play.google.com/store/apps/details?id=org.aph.avigenie Nearby Explorer] and [https://play.google.com/store/apps/details?id=org.aph.nearbyonline Nearby Explorer Online]
+
+OpenStreetMapベースの地図を次のアプリケーションにロードすることもできます。
+
+* [[Navitel]]
+
+=== マップの編集 ===
+
+これらの高度なエディタアプリケーションを使用すると、OpenStreetMapを直接編集して、マップに貢献することができます。
+
+&lt;gallery heights="200"&gt;
+File:Vespucci screenshot.png|link=Vespucci|[[Vespucci]]
+&lt;/gallery&gt;
+
+これらのアプリケーションは、データを直接編集できない特殊なOSMエディタです:
+&lt;gallery heights="200"&gt;
+File:Streetcomplete screenshot v3.4.png|link=StreetComplete|[[StreetComplete]]
+File:OSMBugs.0.2.5.map.png|link=OSMBugs|[[OSMBugs]]
+File:Osm-contributor-menu.png|link=OSM Contributor|[[OSM Contributor]]
+&lt;/gallery&gt;
+
+これらのアプリケーションには、いくつかの制限された編集機能も含まれています:
+
+&lt;gallery heights="200"&gt;
+File:Climb the World ARView.jpg|[[Climb The World]]
+File:Locus Map Pro screenshot with geocaches.png|[[Locus|Locus Map]]
+File:Maps.me android screenshot 2015-10.png|[[MAPS.ME]]
+File:Android-osmand-routing.png|[[OsmAnd]]
+&lt;/gallery&gt;
+
+次のアプリケーションを使用すると、アームチェアマッパーが使用できる画像を提供できます:
+
+* [[Mapillary]]
+* [[OpenStreetCam]]
+
+=== 拡張現実 ===
+次のアプリケーションは、スマホのメインカメラの映像の上にOpenStreetMapのデータをリアルタイムに重畳します。
+
+&lt;gallery heights="200"&gt;
+File:Climb the World ARView.jpg|[[Climb The World]]
+File:Blank1x1.svg|[[Layar|Layar Reality Browser]]
+File:OpenSeaMap auf Locus - Hafenplan 200m.png|[[Locus|Locus Map]]
+&lt;/gallery&gt;
+
+=== GPSトラックの記録 ===
+次のアプリケーションは、 [[Recording GPS tracks|record your movement]] を GPS トラックとして記録できるようにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9195,6 +9381,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T041857Z" creationid="miurahr" creationdate="20201120T041857Z">
         <seg>そしてもちろん、あなたが選択したIDE環境(&lt;x1/&gt;GoLand&lt;x2/&gt;をファンシーパンツとして、&lt;x3/&gt;LiteIDE&lt;x4/&gt;を純粋なオープンソースとして、そしてもちろん&lt;x5/&gt;vim&lt;x6/&gt;をハードコアIDEとしてお勧めできます)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Android devices can be used to view and edit OpenStreetMap-based maps as well as to record GPS tracks that can be uploaded to OSM to aid in editing.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T102009Z" creationid="miurahr" creationdate="20210116T102009Z">
+        <seg>Androidデバイスは、ビューやOpenStreetMapベースの地図を編集したり、OSMにアップロードして編集できるGPSトラックを記録したりするために使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27433,6 +27627,14 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each of these applications is actively maintained, with a new release within the last 18 months, as of 11:02, 26 June 2016 (UTC).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T102604Z" creationid="miurahr" creationdate="20210116T102604Z">
+        <seg>これらの各アプリケーションは積極的に維持されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each polygon will result in a single task.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201112T010020Z" creationid="miurahr" creationdate="20201112T010020Z">
@@ -32917,6 +33119,22 @@ or just retry</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For a comprehensive comparison of all available Android applications, see [[Comparison of Android applications]].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T102623Z" creationid="miurahr" creationdate="20210116T102623Z">
+        <seg>利用可能なすべてのAndroidアプリケーションの包括的な比較については、[[Comparison of Android applications]]]を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For a map-viewing experience similar to that of the Google Maps application, check out the [[#OpenStreetMap applications|applications]] below.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T102314Z" creationid="miurahr" creationdate="20210116T102314Z">
+        <seg>Google Mapsアプリケーションと同様の地図表示の利用については、以下の[[#OpenStreetMap applications applications]]を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For areas of solid visible rock that is sparsely vegetated or not vegetated at all.</seg>
       </tuv>
       <tuv lang="ja">
@@ -33081,6 +33299,14 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T062507Z" creationid="miurahr" creationdate="20201120T062507Z">
         <seg>詳細は {link} を参照ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more information about Android and OpenStreetMap, see also [[:Category:Android|the Android category]].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T102020Z" creationid="miurahr" creationdate="20210116T102020Z">
+        <seg>AndroidとOpenStreetMapの詳細については、[[:Category:Android the Android category]]も参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70022,6 +70248,14 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Similarly, for contributing to OpenStreetMap, the [[iD]] editor embedded on the website supports basic interaction on tablets, but you may find an [[#Editing the map|Android editor application]] to be much more convenient.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T102405Z" creationid="miurahr" creationdate="20210116T101921Z">
+        <seg>同様に、OpenStreetMapに貢献するために、Webサイトに埋め込まれた[[iD]]エディタはタブレット上での基本的な操作をサポートしていますが、[[#Editing the map|Android editor application]]  の方がはるかに便利です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Similarly, this statement:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200813T124503Z" creationid="miurahr" creationdate="20200813T124503Z">
@@ -76504,6 +76738,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
       </tuv>
       <tuv lang="ja">
         <seg>ウェイがダウンロード範囲に完全に含まれていなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The website is optimized for small screens such as those found on many Android phones; however, the [[Slippy Map|slippy map]] is limited to basic gestures such as drag-to-pan and pinch-to-zoom.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T102151Z" creationid="miurahr" creationdate="20210116T102151Z">
+        <seg>Webサイトは多くのAndroid端末のような小さな画面向けに最適化されていますが、[[Slippyマップslippyマップ]]は、ドラッグでパンやピンチでズームといった基本的なジェスチャに制限されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -87431,6 +87673,14 @@ The tasking manager was designed and built for the [[Humanitarian OpenStreetMap 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can [[Upload GPS tracks|upload your GPS tracks to OpenStreetMap]] to help you add features to the map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T102642Z" creationid="miurahr" creationdate="20210116T102642Z">
+        <seg>You can [[Upload GPS tracks|upload your GPS tracks to OpenStreetMap]] to help you add features to the map.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can adjust the sliders to manually match the photos.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201110T232950Z" creationid="miurahr" creationdate="20201110T232950Z">
@@ -88717,6 +88967,14 @@ Lye Close isn't in the index either.</seg>
         <seg>[[File:Lyebuildings.jpg|right]]
 
 ライ路地は索引にも載っていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[OpenTouchMap]] has slightly better multitouch support.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T102245Z" creationid="miurahr" creationdate="20210116T102245Z">
+        <seg>[[OpenTouchMap]]を利用すれば、より良くマルチタッチをサポートしています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -104700,6 +104958,18 @@ OpenStreetMap では、データベース内でタグ付けや地物の存在が
         <seg>{{Languages}}
 
 '''Android'''は、携帯電話やモバイル機器の[[Linux]]ベースの操作環境です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{Languages}}
+
+'''[[w:Android (operating system)|Android]]''' is a [[Linux]]-based operating system for mobile phones and other mobile devices.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T102002Z" creationid="miurahr" creationdate="20210116T101904Z">
+        <seg>{{Languages}}
+
+'''[[w:Android (operating system)|Android]]'''は、携帯電話やモバイル機器の[[Linux]]ベースの操作環境です。</seg>
       </tuv>
     </tu>
     <tu>
