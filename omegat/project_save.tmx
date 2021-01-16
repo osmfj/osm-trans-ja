@@ -2034,6 +2034,34 @@ Ordnance Survey Maps sued the Automobile Association for copying their maps and 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* [http://www.eea.europa.eu/data-and-maps European Environment Agency data and maps]
+* [http://www.nature.org/multimedia/maps/ The Nature Conservancy Atlas of Global Conservation]
+* [http://www.mappingforchange.org.uk/ Mapping for change]
+* [http://sandbag.org.uk/carbondata/cers Carbon Offset Map]
+* [http://farmingconcrete.org/ Farming Concrete]
+* [http://www.forestcarbonportal.com/ Forest Carbon Portal]
+* [http://www.renewables-map.co.uk/ Renewables Map UK]
+*[https://sig-gis.com/environmental-mapping/ Spatial Informatics Group: Environmental Mapping]
+*[https://ecologicaldata.org/ EcologicalData.org]
+*[https://data.footprintnetwork.org/#/ Open Data Platform] by [https://www.footprintnetwork.org/ Footprint Network]
+*[https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Environment WikiProject Environment] - a Wikipedia Project where we might be able to find other netizens willing to help this project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T120026Z" creationid="miurahr" creationdate="20210116T120026Z">
+        <seg>* [http://www.eea.europa.eu/data-and-maps European Environment Agency data and maps]
+* [http://www.nature.org/multimedia/maps/ The Nature Conservancy Atlas of Global Conservation]
+* [http://www.mappingforchange.org.uk/ Mapping for change]
+* [http://sandbag.org.uk/carbondata/cers Carbon Offset Map]
+* [http://farmingconcrete.org/ Farming Concrete]
+* [http://www.forestcarbonportal.com/ Forest Carbon Portal]
+* [http://www.renewables-map.co.uk/ Renewables Map UK]
+*[https://sig-gis.com/environmental-mapping/ Spatial Informatics Group: Environmental Mapping]
+*[https://ecologicaldata.org/ EcologicalData.org]
+*[https://data.footprintnetwork.org/#/ Open Data Platform] by [https://www.footprintnetwork.org/ Footprint Network]
+*[https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Environment WikiProject Environment] - a Wikipedia Project where we might be able to find other netizens willing to help this project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* several 'more advanced' subjects relating to editing &amp; using the data, and
 * resources for teachers, lecturers and those organizing a workshop.</seg>
       </tuv>
@@ -2108,6 +2136,26 @@ Ordnance Survey Maps sued the Automobile Association for copying their maps and 
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210116T115739Z" creationid="miurahr" creationdate="20210116T115739Z">
         <seg>*: {{Tag|species}} タグは、数千回使用されていますが、 {{Tag|taxon}} ははるかに少ない利用頻度です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*[[OpenHazardMap]]
+
+==  Related Initiatives ==
+* [http://www.wdpa.org/ World Database On Protected Areas] and the [http://www.protectedplanet.net/ Protected Planet] interface by UNEP
+* [http://www.unep-wcmc.org/ UNEP World Conservation Monitoring Centre]
+* [http://www.iucnredlist.org/technical-documents/spatial-data IUCN Red List of Threatened Species]
+* [http://bch.cbd.int/protocol The Cartagena Protocol on Biosafety], for regulating the usage of ''living modified organisms (LMO)'' including ''genetically modified organisms (GMO)'', and of other biotechnologies, and for developing the sustainable agriculture and food security for health and preservation of resources and biodiversity.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T120024Z" creationid="miurahr" creationdate="20210116T120024Z">
+        <seg>*[[OpenHazardMap]]
+
+== 関連する取り組み ==
+* [http://www.wdpa.org/ World Database On Protected Areas] and the [http://www.protectedplanet.net/ Protected Planet] interface by UNEP
+* [http://www.unep-wcmc.org/ UNEP World Conservation Monitoring Centre]
+* [http://www.iucnredlist.org/technical-documents/spatial-data IUCN Red List of Threatened Species]
+* [http://bch.cbd.int/protocol The Cartagena Protocol on Biosafety], for regulating the usage of ''living modified organisms (LMO)'' including ''genetically modified organisms (GMO)'', and of other biotechnologies, and for developing the sustainable agriculture and food security for health and preservation of resources and biodiversity.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4844,6 +4892,40 @@ This script will remove your &lt;x3/&gt;postgres-data&lt;x4/&gt; folder created 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>==  Related OSM Initiatives ==
+* [[Ramsar_site|Ramsar Wetland data source imports]]
+* [[London/Datastore_allotments|London allotments "import"]]
+* [[OpenEcoMaps]] e.g. [http://www.openecomaps.co.uk/map.php?pack=FSW&amp;zoom=2&amp;lon=-0.0721&amp;lat=51.4752&amp;layers=B000 Foraging for food map]
+* [[Invasive_Non-Native__Species]] 
+* [[Environmental OSM: what can trees tell us about climate change?]]
+* [[WikiProject_Corine_Land_Cover| Corine Land Cover Import]]
+* [http://www.cs.nuim.ie/~pmooney/ Environmental OSM academic research at the National University of Maynooth]
+* [http://www.openhabitatmap.org OpenHabitatMap] Edinburgh, Scotland (beta)
+* [[MassGIS|Massachusetts State GIS import]]
+* [[EEA:Nationally designated areas import]]
+* [[WikiProject African National Parks and Reserves]]
+* [[Environmental-OSM: What can trees tell us about climate change?]]
+* [[Proposed_features/Biological|OSM &gt; DWC &gt; GBIF]] : Volunteered OSM - biodiversity data compatible with [http://www.gbif.org/ GBIF] - Please verify contributions from “People Interested” (in the present page, below).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T120009Z" creationid="miurahr" creationdate="20210116T120009Z">
+        <seg>==  関連する OSM の取り組み ==
+* [[Ramsar_site|Ramsar Wetland data source imports]]
+* [[London/Datastore_allotments|London allotments "import"]]
+* [[OpenEcoMaps]] e.g. [http://www.openecomaps.co.uk/map.php?pack=FSW&amp;zoom=2&amp;lon=-0.0721&amp;lat=51.4752&amp;layers=B000 Foraging for food map]
+* [[Invasive_Non-Native__Species]] 
+* [[Environmental OSM: what can trees tell us about climate change?]]
+* [[WikiProject_Corine_Land_Cover| Corine Land Cover Import]]
+* [http://www.cs.nuim.ie/~pmooney/ Environmental OSM academic research at the National University of Maynooth]
+* [http://www.openhabitatmap.org OpenHabitatMap] Edinburgh, Scotland (beta)
+* [[MassGIS|Massachusetts State GIS import]]
+* [[EEA:Nationally designated areas import]]
+* [[WikiProject African National Parks and Reserves]]
+* [[Environmental-OSM: What can trees tell us about climate change?]]
+* [[Proposed_features/Biological|OSM &gt; DWC &gt; GBIF]] : Volunteered OSM - biodiversity data compatible with [http://www.gbif.org/ GBIF] - Please verify contributions from “People Interested” (in the present page, below).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>== Android software supporting OpenStreetMap ==
 {{cleaned}}
 
@@ -5132,6 +5214,256 @@ AndroidデバイスでOpenStreetMapを使用する最も基本的な方法は、
 ** http://tasks.openhistoricalmap.org – for [[OpenHistoricalMap]]
 
 [[Category:OSM Tasking Manager| ]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>== People Interested ==
+{| class="wikitable sortable"
+|+People Interested in Environmental OSM
+!User page
+!Languages
+!Location
+(feel free to remove)
+!Skills / Interests
+|-
+|[[User:Samlarsen1|Sam Larsen]]
+|English
+|New Zealand 
+|
+|-
+|[[User:TomChance|TomChance]]
+|
+|UK
+|
+|-
+|[[User:Maning|Maning Sambale]]
+|English
+|Philippines
+|
+|-
+|[[User:Hawkeyes|Hawkeyes]]
+|English
+|Scotland
+|
+|-
+|[[User:Marscot|Marscot]]
+|English
+|Scotland
+|
+|-
+|[[User:brylie|Brylie Oxley]]
+|
+|
+|
+|-
+|[[User:Growbradford|Grow Bradford]]
+|
+|
+|
+|-
+|[[User:WernerLeyh|Werner Leyh]]
+|
+|
+|
+|-
+|[[User:MarkusGastauer|Markus Gastauer]]
+|
+|
+|
+|-
+|[[User:Ana Lucia  Zandomeneghi|Ana Lucia  Zandomeneghi]]
+|
+|
+|
+|-
+|[[User:pmackay|Paul Mackay]]
+|
+|
+|
+|-
+|[[User:Ariostonpacheco|Ariosto Pacheco]]
+|
+|
+|
+|-
+|[[User:Pm5|Pomin Wu]]
+|
+|
+|
+|-
+|[[User:RosangelaSantos|Rosangela Ferreira dos Santos]]
+|
+|
+|
+|-
+|[[User:Planemad|Arun Ganesh]]
+|
+|
+|
+|-
+|[[User:Aline Gomes Zaffani|Aline Gomes Zaffani]]
+|
+|
+|
+|-
+|[[User:Johna Rupire|Johnattan Rupire]]
+|Spanish
+|
+|
+|-
+|[[User:Sandra Cavalcante|Sandra Cavalcante]]
+|Portuguese, English
+|Brazil
+|IT analyst, lawyer, environmental law specialist and PHD in Public Health
+|-
+|[[User:Angela Mzk|Angela Miazaki]]
+|
+|
+|
+|-
+|[[User:Jamiegray#Environment|Jamie Gray § Environment]]
+|English
+|USA
+|UI / UX Design, Project Management 
+|-
+|Sergey Golubev
+|Russian, English
+|Russia
+|Naturalist, cartographer, specialist in the study of the environment and vegetation
+|}
+
+==Contact==
+* [[Talk:Environmental OSM]]
+* [https://lists.openstreetmap.org/listinfo/outdoor-natural mailing list] docused on mapping of natural features and outdoor sports
+
+[[Category:Environment]]
+[[Category:Natural]]
+[[Category:Tagging guidelines]]</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210116T120122Z" creationid="miurahr" creationdate="20210116T120122Z">
+        <seg>== 興味をもつ人々 ==
+{| class="wikitable sortable"
+|+People Interested in Environmental OSM
+!User page
+!Languages
+!Location
+(feel free to remove)
+!Skills / Interests
+|-
+|[[User:Samlarsen1|Sam Larsen]]
+|English
+|New Zealand 
+|
+|-
+|[[User:TomChance|TomChance]]
+|
+|UK
+|
+|-
+|[[User:Maning|Maning Sambale]]
+|English
+|Philippines
+|
+|-
+|[[User:Hawkeyes|Hawkeyes]]
+|English
+|Scotland
+|
+|-
+|[[User:Marscot|Marscot]]
+|English
+|Scotland
+|
+|-
+|[[User:brylie|Brylie Oxley]]
+|
+|
+|
+|-
+|[[User:Growbradford|Grow Bradford]]
+|
+|
+|
+|-
+|[[User:WernerLeyh|Werner Leyh]]
+|
+|
+|
+|-
+|[[User:MarkusGastauer|Markus Gastauer]]
+|
+|
+|
+|-
+|[[User:Ana Lucia  Zandomeneghi|Ana Lucia  Zandomeneghi]]
+|
+|
+|
+|-
+|[[User:pmackay|Paul Mackay]]
+|
+|
+|
+|-
+|[[User:Ariostonpacheco|Ariosto Pacheco]]
+|
+|
+|
+|-
+|[[User:Pm5|Pomin Wu]]
+|
+|
+|
+|-
+|[[User:RosangelaSantos|Rosangela Ferreira dos Santos]]
+|
+|
+|
+|-
+|[[User:Planemad|Arun Ganesh]]
+|
+|
+|
+|-
+|[[User:Aline Gomes Zaffani|Aline Gomes Zaffani]]
+|
+|
+|
+|-
+|[[User:Johna Rupire|Johnattan Rupire]]
+|Spanish
+|
+|
+|-
+|[[User:Sandra Cavalcante|Sandra Cavalcante]]
+|Portuguese, English
+|Brazil
+|IT analyst, lawyer, environmental law specialist and PHD in Public Health
+|-
+|[[User:Angela Mzk|Angela Miazaki]]
+|
+|
+|
+|-
+|[[User:Jamiegray#Environment|Jamie Gray § Environment]]
+|English
+|USA
+|UI / UX Design, Project Management 
+|-
+|Sergey Golubev
+|Russian, English
+|Russia
+|Naturalist, cartographer, specialist in the study of the environment and vegetation
+|}
+
+== 連絡先 ==
+* [[Talk:Environmental OSM]]
+* [https://lists.openstreetmap.org/listinfo/outdoor-natural mailing list] docused on mapping of natural features and outdoor sports
+
+[[Category:Environment]]
+[[Category:Natural]]
+[[Category:Tagging guidelines]]</seg>
       </tuv>
     </tu>
     <tu>
