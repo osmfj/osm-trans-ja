@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>"We shall first look back at OSMF and LC and remind ourselves of the early ages of the OSM project when its ecosystem was nascent and review some of the strengths that lead to its current affirmation.&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210204T143737Z" creationid="miurahr" creationdate="20210204T143737Z">
+        <seg>"わたしたちは、OSMFと地域支部と、OSMプロジェクトの初期の自分自身をふりかえるべきです。そのころ、エコシステムがうまれようとしており、現在の肯定をみちびいた強みをみることができました。&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>"from" way equals "to" way</seg>
       </tuv>
       <tuv lang="ja">
@@ -34788,6 +34796,14 @@ If tagging an [[area]], [[way]] or [[node]] there may be reasons to record the {
       </tuv>
       <tuv lang="ja">
         <seg>額縁店</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Frederik’s question brings us with the non written rule or the jurisprudence behind the practices under which OSMF and LC from “developed” countries have been functioning resources-wise so far: banning paid services from their resources.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210204T144242Z" creationid="miurahr" creationdate="20210204T144242Z">
+        <seg>Frederikさんによる疑問提示により、OSMFと発展国の地域支部における実践の背景にある不文律ないしはルールは、いずれにせよリソースを必要として機能しており、そのリソースからの有償サービスをはじきだしています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -76366,8 +76382,8 @@ to control the autoloading of calibration files.</seg>
       <tuv lang="en-US">
         <seg>Thanks Rory for opening the community discussion about OSM Japan LC application.&lt;br2/&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210204T140731Z" creationid="miurahr" creationdate="20210204T140629Z">
-        <seg>OSM Japanのローカルチャプター申請についての議論を開始してくれて、Roryさん、ありがとう。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210204T143303Z" creationid="miurahr" creationdate="20210204T140629Z">
+        <seg>OSM Japanの地域支部申請についての議論を開始してくれて、Roryさん、ありがとう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77633,8 +77649,8 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
       <tuv lang="en-US">
         <seg>The part of discussion which relates to paid services within OSMF and given OSMF LCs, reads below:&lt;br2/&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210204T143248Z" creationid="miurahr" creationdate="20210204T143248Z">
-        <seg>OSMFとOSMF地域支部The part of discussion which relates to paid services within OSMF and given OSMF LCs, reads below:&lt;br2/&gt;</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210204T143351Z" creationid="miurahr" creationdate="20210204T143248Z">
+        <seg>OSMFとOSMF地域支部による有償サービスに関連する議論の一部は次のとおりです。&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -79215,6 +79231,14 @@ This makes use of a very simple &lt;x1/&gt;OAuth-Dummy server&lt;x2/&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is equally true in given LC like OSMFR where this banning of “paid services” from the actual resources of the association is collectively restated year after year at its AGM. This choice in terms of OSMF resources as well as the choice of keeping the Foundation small (in its resources, staffing, perimeter of actions) has the benefit to leave the provision of paid services provision in the hands of “business” entities of all types (freelancers, associations, cooperatives, NGOs, business firms…) outside of the OSMF which largely remains a volunteer-based organization.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210204T145023Z" creationid="miurahr" creationdate="20210204T145023Z">
+        <seg>これは、フランスのOSMFRのような既存の地域支部でも同様で、 組織の実際のリソースによる有償サービスへのこの禁止は、AGMごとに組織をあげて年々いいなおされている。このOSMF資源の規約での選択は、財団を小さく維持する選択と同義で ( その資源、スタッフ、活動量において) 、有償サービスの設定によるベネフィットを、OSMF以外のすべてのタイプの「ビジネス」セクター(フリーランス、社団、企業、NGO, ビジネスファーム etc)へ余地をのこすことになります。これにより、ボランティアベースの組織であることに多大に貢献しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is just a local installation into the &lt;x1/&gt;node_modules&lt;x2/&gt; folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T035707Z" creationid="miurahr" creationdate="20201120T035707Z">
@@ -79275,6 +79299,14 @@ This makes use of a very simple &lt;x1/&gt;OAuth-Dummy server&lt;x2/&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T035515Z" creationid="miurahr" creationdate="20201120T035515Z">
         <seg>これは単純なタスクマネージャのWebアプリケーションです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is true at OSMF.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210204T144250Z" creationid="miurahr" creationdate="20210204T144250Z">
+        <seg>これは、OSMFの真実です。</seg>
       </tuv>
     </tu>
     <tu>
