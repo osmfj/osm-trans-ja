@@ -3080,6 +3080,22 @@ You can find a lot of tags concerning accessibility in these categories:
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210204T140630Z" creationid="miurahr" creationdate="20210204T140630Z">
+        <seg>&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210204T140912Z" creationid="miurahr" creationdate="20210204T140912Z">
+        <seg>&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;br&gt;
 ===Setting up your editor===
 
@@ -38098,6 +38114,14 @@ If tagging an [[area]], [[way]] or [[node]] there may be reasons to record the {
       </tuv>
       <tuv lang="ja">
         <seg>準備完了！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I'd like to take advantage of this application to bring forth a discussion topic I think we need to consider within OSMF and LCs which is  about the status of "paid services" within the resources of a LC.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210204T143014Z" creationid="miurahr" creationdate="20210204T143014Z">
+        <seg>わたしは、さらなる議論ポイントを提供することで、この申請を有益にしたいとおもっています。それは、地域支部のなかの"有償サービス"の状況についてOSMFと地域支部が考えるべきだとおもう、ということです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -76332,6 +76356,22 @@ to control the autoloading of calibration files.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Thanks to all the folks from Japan for the engagement and the work that goes into it.&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210204T143254Z" creationid="miurahr" creationdate="20210204T140643Z">
+        <seg>そして、この申請にむけて繋がりをつくり、作業された、日本のみなさんにも感謝します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thanks Rory for opening the community discussion about OSM Japan LC application.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210204T140731Z" creationid="miurahr" creationdate="20210204T140629Z">
+        <seg>OSM Japanのローカルチャプター申請についての議論を開始してくれて、Roryさん、ありがとう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Thanks Rory for opening the community discussion about OSM Japan LC&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210204T140608Z" creationid="miurahr" creationdate="20210204T140608Z">
@@ -77587,6 +77627,14 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T041124Z" creationid="miurahr" creationdate="20201120T041124Z">
         <seg>プロジェクトの所有者は、他のユーザをプロジェクトに招待することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The part of discussion which relates to paid services within OSMF and given OSMF LCs, reads below:&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210204T143248Z" creationid="miurahr" creationdate="20210204T143248Z">
+        <seg>OSMFとOSMF地域支部The part of discussion which relates to paid services within OSMF and given OSMF LCs, reads below:&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -79107,6 +79155,14 @@ This makes use of a very simple &lt;x1/&gt;OAuth-Dummy server&lt;x2/&gt;.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>この画像は他の編集者からこの地域の最良の画像とマークされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is a point I made during the community discussion of the MapUganda LC application (it reads fully as a diary note [1] in the Ugandan and Haitian/African context).&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210204T143225Z" creationid="miurahr" creationdate="20210204T143225Z">
+        <seg>現在、私は、MapUgandaの地域支部申請のコミュニティ議論の真っ最中です。(詳細は、Ugandan と Haitian/Africanのコンテキストでの日記のエントリー [1]参照)。&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
