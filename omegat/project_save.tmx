@@ -78983,6 +78983,14 @@ This makes use of a very simple &lt;x1/&gt;OAuth-Dummy server&lt;x2/&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This allows OSMF neutrality vis a vis business entities.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210204T145058Z" creationid="miurahr" creationdate="20210204T145058Z">
+        <seg>これは、ビジネスの立場の組織から、OSMFが中立につながっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This approach allows the distribution of tasks to many individual mappers.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T063816Z" creationid="miurahr" creationdate="20201120T063816Z">
@@ -79307,6 +79315,14 @@ This makes use of a very simple &lt;x1/&gt;OAuth-Dummy server&lt;x2/&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210204T144250Z" creationid="miurahr" creationdate="20210204T144250Z">
         <seg>これは、OSMFの真実です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This limits the room for business logics as well as conflict of interests in the OSMF which has to handle the influence of business and business logics without having to operate with business logics.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210204T145332Z" creationid="miurahr" creationdate="20210204T145332Z">
+        <seg>これは、ビジネスロジックの余地を制限するとともに、OSMF内の興味の衝突を招いています。 それは、ビジネスロジックの運営をせずに、ビジネスとビジネスの論理の影響をコントロールしたいということです。</seg>
       </tuv>
     </tu>
     <tu>
