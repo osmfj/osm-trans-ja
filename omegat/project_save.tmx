@@ -3072,6 +3072,14 @@ You can find a lot of tags concerning accessibility in these categories:
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210204T140314Z" creationid="miurahr" creationdate="20210204T140314Z">
+        <seg>&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;br&gt;
 ===Setting up your editor===
 
@@ -37074,6 +37082,14 @@ If tagging an [[area]], [[way]] or [[node]] there may be reasons to record the {
       </tuv>
       <tuv lang="ja">
         <seg>ヘリパッド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hello all,&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210204T140304Z" creationid="miurahr" creationdate="20210204T140304Z">
+        <seg>Hello all,&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -76312,6 +76328,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T062724Z" creationid="miurahr" creationdate="20201120T062724Z">
         <seg>メールアドレスを登録いただきありがとうございます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thanks Rory for opening the community discussion about OSM Japan LC&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210204T140608Z" creationid="miurahr" creationdate="20210204T140608Z">
+        <seg>Thanks Rory for opening the community discussion about OSM Japan LC&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
