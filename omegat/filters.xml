@@ -20,7 +20,7 @@
         <files sourceFilenameMask="*.utf8" targetFilenamePattern="${filename}" sourceEncoding="UTF-8" targetEncoding="UTF-8"/>
         <option name="lineLength" value="0"/>
         <option name="maxLineLength" value="0"/>
-        <option name="segmentOn" value="NEVER"/>
+        <option name="segmentOn" value="EMPTYLINES"/>
     </filter>
     <filter className="org.omegat.filters2.subtitles.WebVttFilter" enabled="true">
         <files sourceFilenameMask="*.vtt" targetFilenamePattern="${filename}"/>
