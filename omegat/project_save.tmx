@@ -979,6 +979,15 @@ This would fix the double redirect problem and you have done a clean fresh title
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>'''''This is the placeholder for 3D description of tagging of 3D buildings.'''''</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T222251Z" creationid="Hiroshi Miura" creationdate="20231227T222251Z">
+        <seg>'''''これは、建物の 3D タグ付けの 3D 記述のプレースホルダーです'''''</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>'''Additional steps:'''
 * Some templates transcluded in your translated page may need to be adapted: in some cases these are different templates rewritten in your language (also named with a language code prefix), but many templates now can autodetect the language they should display by internally using {{Tl|Langcode}} which returns the lowercase language code of the current page transcluding it, provided that this current page uses the correct language code prefix.</seg>
@@ -6616,6 +6625,15 @@ Apply to a [[node]], [[way]] or [[area]].</seg>
 *{{tag|taxon:fr|Berce du Caucase}}
 
  [[node]]、 [[way]] 、 [[area]]に適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>==Building definition==</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T222333Z" creationid="Hiroshi Miura" creationdate="20231227T222333Z">
+        <seg>==建物の定義==</seg>
       </tuv>
     </tu>
     <tu>
@@ -58656,6 +58674,15 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>Please note: This tagging scheme differs from "[[Simple 3D Buildings]]".</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T222320Z" creationid="Hiroshi Miura" creationdate="20231227T222320Z">
+        <seg>注意: このタグ付け方式は「[[Simple 3D Buildings]]」とは異なります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Please open or create data layer before importing</seg>
       </tuv>
@@ -79491,6 +79518,14 @@ This makes use of a very simple &lt;x1/>OAuth-Dummy server&lt;x2/>.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This description is part of [https://wiki.openstreetmap.org/wiki/DE:OSM-4D OSM-4D] definition.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T222442Z" creationid="Hiroshi Miura" creationdate="20231227T222306Z">
+        <seg>この記述は [https://wiki.openstreetmap.org/wiki/JA:OSM-4D OSM-4D] 定義の一部です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This divides the last drawn polygon into the selected shape.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201112T010022Z" creationid="miurahr" creationdate="20201112T010022Z">
@@ -79824,6 +79859,14 @@ This makes use of a very simple &lt;x1/>OAuth-Dummy server&lt;x2/>.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T104447Z" creationid="miurahr" creationdate="20201106T104447Z">
         <seg>このページでは、著作権に関する情報の一部を、他のページへのリンクとしてグループ化しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This page is recently under construction.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T222343Z" creationid="Hiroshi Miura" creationdate="20231227T222328Z">
+        <seg>このページは作成中のステータスです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -107222,6 +107265,14 @@ This guide explains how to map plants that adversely affect the habitats and bio
 {{Software
 |name=Merkaartor
 |author=Bart Vanhauwaert, Chris Browet, Ladislav Láska and others.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{Languages|OSM-4D/3D building}}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T222236Z" creationid="Hiroshi Miura" creationdate="20231227T222236Z">
+        <seg>{{Languages|OSM-4D/3D building}}</seg>
       </tuv>
     </tu>
     <tu>
