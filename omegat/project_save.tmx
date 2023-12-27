@@ -2286,6 +2286,16 @@ You can find a lot of tags concerning accessibility in these categories:
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* colorized by altitude (as seen in example on top right) 
+* shaded relief (levels of gray), just to indicate relative slopes, mountain ridges, not absolute height.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T074124Z" creationid="Hiroshi Miura" creationdate="20231227T074124Z">
+        <seg>*高度によって色付けされています(右上の例に見られるように) 
+*陰影付きの起伏(灰色のレベル)、相対的な斜面、山の尾根を示すためではなく、絶対的な高さ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* proposing needed tags and keys here on this page
 * adding headlines for other handicaps here on this page
 * adding lines for objects of interest here on this page
@@ -5334,6 +5344,15 @@ There's a fine line between easter eggs and errata.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>== Existing software ==</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T074217Z" creationid="Hiroshi Miura" creationdate="20231227T074217Z">
+        <seg>== 既存のソフトウェア ==</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>== Future ==
 Map styles with different focus, using different languages are [[Featured tile layers/Guidelines for new tile layers|welcomed]] as a new layer on the OpenStreetMap website.</seg>
@@ -5417,6 +5436,15 @@ OpenStreetMapのWebサイトでは、異なる言語を使用した異なる焦�
         <seg>== Languages テンプレートの説明 == 
 
 [[Template:Languages]]は、利用可能な言語すべてを一覧表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>== Interesting articles and examples ==</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T074233Z" creationid="Hiroshi Miura" creationdate="20231227T074233Z">
+        <seg>==興味深い記事と例==</seg>
       </tuv>
     </tu>
     <tu>
@@ -5886,6 +5914,16 @@ There are also cases where the street signs are incorrect, but the maps are corr
       <tuv lang="ja" changeid="miurahr" changedate="20201123T120828Z" creationid="miurahr" creationdate="20201123T120828Z">
         <seg>==嘘の道路標識===
 道路標識は間違っていますが、地図は正しい場合もあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>== See also ==
+* Maybe you were looking for [[Tactile map]] and [[OSM for the blind]]?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T074243Z" creationid="Hiroshi Miura" creationdate="20231227T074243Z">
+        <seg>== See also ==
+* Maybe you were looking for [[Tactile map]] and [[OSM for the blind]]?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6573,6 +6611,15 @@ Apply to a [[node]], [[way]] or [[area]].</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>==Colour coding and shading==</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T074023Z" creationid="Hiroshi Miura" creationdate="20231227T074023Z">
+        <seg>==色分けと陰影==</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>==Colour coding and shading==
 
@@ -6584,6 +6631,16 @@ Apply to a [[node]], [[way]] or [[area]].</seg>
 
 *陰影付きの起伏(灰色のレベル)、相対的な斜面、山の尾根を示すためではなく、絶対的な高さ。* colorized by altitude (as seen in example on top right) 
 * shaded relief (levels of gray), just to indicate relative slopes, mountain ridges, not absolute height.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>==Elevation contour lines==
+See [[Srtm2Osm]]; e.g.:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T074151Z" creationid="Hiroshi Miura" creationdate="20231227T074151Z">
+        <seg>==立面図等高線==
+ [[Srtm2Osm]]参照</seg>
       </tuv>
     </tu>
     <tu>
@@ -6600,6 +6657,15 @@ Apply to a [[node]], [[way]] or [[area]].</seg>
 
 ==Notes==
 * '''Needs to be corrected''': Most part of the Spanish mapped way is from the [[EV3]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>==OSM maps showing relief ==</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T074230Z" creationid="Hiroshi Miura" creationdate="20231227T074230Z">
+        <seg>==起伏を示すOSMマップ ==</seg>
       </tuv>
     </tu>
     <tu>
@@ -63492,6 +63558,15 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>Relief maps are maps with each pixel colour-coded according to the ground height and/or slope at that location.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T074211Z" creationid="Hiroshi Miura" creationdate="20231227T074211Z">
+        <seg>起伏図は、各ピクセルがその場所の地表の高さや傾斜に応じて色分けされた地図です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Religion</seg>
       </tuv>
@@ -64385,6 +64460,15 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T121543Z" creationid="miurahr" creationdate="20201123T121543Z">
         <seg>レンダリングエンジンは、線ではなく、シミュレートされた位置エラーを持つ点を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>Rendering code is available in SVN.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T074221Z" creationid="Hiroshi Miura" creationdate="20231227T074221Z">
+        <seg>レンダリングのソースコードはSVNから入手できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68133,6 +68217,16 @@ TODO:
 
 やること:
 * Tagging the regulation of ''living modified organisms (LMO)'' including ''genetically modified organisms (GMO)'' — in French ''organismes génétiquement modifiés (OGM)''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See also 
+* [[wikipedia:Cartographic relief depiction]].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T074202Z" creationid="Hiroshi Miura" creationdate="20231227T074202Z">
+        <seg>See also 
+* [[wikipedia:Cartographic relief depiction]].</seg>
       </tuv>
     </tu>
     <tu>
@@ -76175,6 +76269,15 @@ to control the autoloading of calibration files.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en-US">
+        <seg>Technical set-up is described on the [[Contours]] page.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T074225Z" creationid="Hiroshi Miura" creationdate="20231227T074225Z">
+        <seg>技術的なセットアップは[[Contours]]のページで説明されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Tee</seg>
       </tuv>
@@ -76796,6 +76899,14 @@ to control the autoloading of calibration files.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T061107Z" creationid="miurahr" creationdate="20201120T061107Z">
         <seg>Area of Interestやタスク、優先エリアはコピーされませんので、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The English translation will be available soon!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T074423Z" creationid="Hiroshi Miura" creationdate="20231227T074423Z">
+        <seg>The English translation will be available soon!</seg>
       </tuv>
     </tu>
     <tu>
@@ -91040,6 +91151,22 @@ Lye Close isn't in the index either.</seg>
         <seg>[[File:Lyebuildings.jpg|right]]
 
 ライ路地は索引にも載っていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[Image:Etna_Contours.jpg|500px]]</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T074151Z" creationid="Hiroshi Miura" creationdate="20231227T074151Z">
+        <seg>[[Image:Etna_Contours.jpg|500px]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[Image:relief-height.png]]+[[Image:relief-shade.png]]=[[Image:relief-shade-height.png]]</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T074126Z" creationid="Hiroshi Miura" creationdate="20231227T074126Z">
+        <seg>[[Image:relief-height.png]]+[[Image:relief-shade.png]]=[[Image:relief-shade-height.png]]</seg>
       </tuv>
     </tu>
     <tu>
@@ -107091,6 +107218,16 @@ This guide explains how to map plants that adversely affect the habitats and bio
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{Languages|OSM-4D}}
+This is a draft for a project to associate 3D models of buildings, terrain, other parts of visible reality and time-based aspects of reality with OpenStreetMap data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T074306Z" creationid="Hiroshi Miura" creationdate="20231227T074243Z">
+        <seg>{{Languages|OSM-4D}}
+これは、建物、地形、目に見える現実の他の部分、現実の時間ベースの側面の3DモデルをOpenStreetMapデータに関連付けるプロジェクトの草案です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{Languages|OpenStreetBugs}}
 {{Ambox
 | type  = danger
@@ -107101,6 +107238,16 @@ This guide explains how to map plants that adversely affect the habitats and bio
 {{Ambox
 | type  = danger
 | text  =OpenStreetBugsは非推奨です。&lt;br>OpenStreetMap[[Notes Notes]]システムに新しいバグレポートを追加してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{Languages|Relief maps}}
+&lt;div style="float:right; margin: 5px;">[[Image:Relief map example tile2.jpg]]&lt;br>[[Image:Relief map example tile.jpg]]&lt;br>Example tiles &lt;small>([http://www.maps-for-free.com/ source])&lt;/small>&lt;/div></seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T074016Z" creationid="Hiroshi Miura" creationdate="20231227T074016Z">
+        <seg>{{Languages|Relief maps}}
+&lt;div style="float:right; margin: 5px;">[[Image:Relief map example tile2.jpg]]&lt;br>[[Image:Relief map example tile.jpg]]&lt;br>Example tiles &lt;small>([http://www.maps-for-free.com/ source])&lt;/small>&lt;/div></seg>
       </tuv>
     </tu>
     <tu>
@@ -107136,6 +107283,14 @@ Relief maps are maps with each pixel colour-coded according to the ground height
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170521T221856Z" creationid="miurahr" creationdate="20170521T221856Z">
         <seg>{{Languages|Wiki Translation}} {{JA:Wiki/Tabs}} {{Translation not complete|art=Wiki Translation}} [[File:Chart_of_world_writing_systems.svg|250px|right]] '''ウィキの翻訳'''は、世界をまたぐプロジェクトの開発を助ける良い方法になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{Languages}}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T074016Z" creationid="Hiroshi Miura" creationdate="20231227T074016Z">
+        <seg>{{Languages}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -107188,6 +107343,16 @@ A '''Copyright Easter Egg''', in terms of mapping, is a feature that is drawn in
 [[File:Bachalpseeflowers.jpg|300px|Natural Environment Features|thumb|right]]
 
 「環境OSM」は、環境に影響を与える様々なシステムを地図に可視化し、環境問題の解決に貢献することを目的としたプロジェクトです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{warning
+|The actual OSM-4D specification only exists in the '''German''' version.&lt;br>Refer to the German version for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T074308Z" creationid="Hiroshi Miura" creationdate="20231227T074308Z">
+        <seg>{{warning
+|The actual OSM-4D specification only exists in the '''German''' version.&lt;br>Refer to the German version for details.</seg>
       </tuv>
     </tu>
     <tu>
