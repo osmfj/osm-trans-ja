@@ -244,6 +244,14 @@ This would fix the double redirect problem and you have done a clean fresh title
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#REDIRECT [[OSM-3D.org]]</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T222142Z" creationid="Hiroshi Miura" creationdate="20231227T222142Z">
+        <seg>#REDIRECT [[OSM-3D.org]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>%1</seg>
       </tuv>
       <tuv lang="ja">
