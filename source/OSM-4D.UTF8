@@ -1,0 +1,134 @@
+{{Languages|OSM-4D}}
+This is a draft for a project to associate 3D models of buildings, terrain, other parts of visible reality and time-based aspects of reality with OpenStreetMap data.
+
+{{warning
+|The actual OSM-4D specification only exists in the '''German''' version.<br>Refer to the German version for details. The English translation will be available soon!
+}}
+
+{{Note_3d_tags}}
+
+== Basic idea == 
+Collect crowd-sourced 3D models of buildings and other structures as well as natural features and link them to OSM data. Aside from the actual geometry there will also be parametric descriptions of features (e.g. trees: height, species, age, crown height, etc.), a terrain model and a texture database to link against.
+
+== Why 4D? ==
+The "fourth" dimension is a reference to time. When a building or part of a building is modelled there will be a way to describe when this appearance is valid. This allows in the case of restructuring and extension of buildings that the already available information will not be discarded but kept for historic interest. It also allows for existing historic 3D-models to be inserted into the database.
+
+== Concepts ==
+=== Hybrid data structure ===
+* simple and repeatable structures will be mapped as parameterizable library elements
+* complex 3D models will be build of discrete elements (wall, floor, roof etc.)
+====Compatibility and complementarity of the approach====
+There is no simple concept for the design of the reality in 3D. Many existing approaches complement one another with this proposal. Examples:
+
+[[Indoor Mapping]] - The outlines of the rooms will be additionally tagged as "walls".
+
+[[ProposedRoofLines|Roof lines]] - This technique adds the approach with a library of roofs. Both concepts make the modeling of roof sceneries more easy.
+
+=== 4D editor ===
+The editor is development. The first steps of 4D editor are recently developed on [http://www.kis.p.lodz.pl/about_kis.html?lang=en Computer Engineering Department] of Technical University Lodz.
+
+[[File:OSMKomponenten4Dde.JPG]] 
+
+Red components in the picture above will have to be realized.
+
+Support for the implementation of this concept is always needed.
+
+==== Features ====
+* allows to create and manipulate geometry and link materials to it.
+* links the 3D data to OSM data. The current version of OSM will have to be the version to link against in the case, that several states (representations of different historic versions) do exist in the database
+
+=== Level of Detail (LOD) for 3D city models ===
+
+== Basic 3D elements ==
+=== Point as 3D symbol ===
+=== Relief ===
+=== Wall ===
+See [[Wall]].
+=== Ceiling ===
+=== Roof ===
+=== Profiler ===
+== Parametric Features ==
+=== Building ===
+See [[3D building]]
+=== Bridge ===
+=== Stairs ===
+=== Tree ===
+see:[https://wiki.openstreetmap.org/wiki/Tree_table tree table]
+
+=== City ===
+=== Landscape ===
+=== 3D-Profile ===
+=== Artificial lines in 3D terrain models ===
+
+== Example: 3D building ==
+=== Tagging ===
+=== Result: Wire frame model ===
+=== Result: Volume model ===
+
+== Workflow ==
+Will offer a workflow similar to the OSM 2D workflow:
+* download a portion of data
+* modify the data
+* upload data (and resolve eventual conflicts). Instead of conflict resolution there could also be a blocking mode.
+=== Tips for workflow ===
+
+== Library elements ==
+=== Geometry database ===
+This database is the main database of the OSM 4D project. It stores the individual objects as well as the DEM (terrain model).
+* Will be linked against OSM data at ground elevation.
+* Stores the geometry and the following material parameters
+** material reference (ID from the material database)
+** material mapping (plane, cylindrical, spherical,...)
+** origin
+** scale
+** orientation / rotation
+
+=== Building parts database and modular system ===
+To maximize the reusability of the models the will ideally be built of modular parts. Typical building parts like facades, windows, doors, chimneys are stored in a building parts database together with other elements of urban furniture like benches, trees, waste bins, post boxes, telephone booths, street lamps and whatever else that helps to make the indidual aspect of a certain area recognizable. These parts are modelled parametrically so that they can be easily reused in different context. This also reduces the storage requirements in the database as it requires to only store the different aspects (like width, height, profile distance or profile width, etc.) and inherit the rest of it from the main model (versioning and inheritance).
+
+Despite the name this is actually not a separate database. All objects that are in the geometry database can be reused (e.g. with different parameters and materials).
+
+=== Material database ===
+* defines Materials which can be used to be mapped on the geometry.
+* links textures and algorithmic patterns (shaders) and combines them with information like reflection properties and transparency.
+* allows to combine several textures and shaders.
+=== Texture database ===
+Textures are bitmap representations (photos). They are linked from the material database. The texture database consists of 2 main texture types:
+* textures for individual buildings (whole facade or parts of it)
+* standard textures, e.g.
+** roofings
+** walls
+** windows / glass facades
+** pavings
+** photos of basic materials like metal, stones, sand, ...
+* all textures can be tagged for easy retrieval
+* is multilanguage (tags will / can be translated to various languages)
+
+=== Shader database ===
+The shader database is similar to the texture database with the main difference that shaders are algorithmic expressions instead of photographic representations. Shaders can like textures be tagged in different languages.
+
+== Time ==
+OSM-4D plans support of tags:
+
+* [[Comparison of life cycle concepts]]
+* [[date namespace]]
+
+and growth curves for [https://wiki.openstreetmap.org/wiki/Tree_table trees]
+
+for visualization of time based changes in the map.
+
+== What is already there? ==
+These are subpages with further descriptions and element catalogues:
+* [[Bridge_table]]
+* [[Roof_table]]
+* [[Tree_table]]
+
+Also have a look at these projects and pages:
+* [[OSM-3D]]
+* [[X-Plane]]
+* [[Indoor]]
+* [[Google_Sketchup_Plugin]] (Image matching, ...)
+* http://www.flightx.de/index.php?page=Thread&threadID=36849 XHT (Xhouse Tool): create 3D buildings from Openstreetmap data for X-Plane
+* [[osm2x3d]] <small>(partial support)</small> see [http://web.osm2x3d.net]) and [https://github.com/clement-igonet/osm2x3d]
+
+[[Category:OSM-4D]]

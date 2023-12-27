@@ -1,0 +1,34 @@
+{{Languages}}
+{{HelpMenu}}
+{{Beginners Guide Header}}
+
+This '''Beginners' Guide''' will show you how to add data to OpenStreetMap. Translations are available in many languages which you can select from the table at the top of this page.
+
+You need a computer connected to the Internet and some time to gather information and then enter it. A GPS unit and connecting cable are purely optional, but will be required if you want to collect data that way. Given the excellent (but sometimes outdated!) aerial photography available in the editors these days, a GPS is less important than in the early days of the project.
+
+=== In a hurry? ===
+
+If you just want to edit as soon as possible, visit https://www.openstreetmap.org, zoom to an area, and click "edit". (You'll need an account first). The editor has a built-in guide that will explain the basics. You can also click the built-in "help" button at any time.
+
+Once you're comfortable with the map, it's recommended you come back here and learn more details.
+
+=== Navigate this guide ===
+* Use the table of content on the right to navigate the guide.
+* Use "Next step" section or a panel on the right. The page you are on will be '''bold'''.
+* You can safely skip "See also" sections, they are to show you where to seek for additional help
+* No need to hurry, you can return to this guide at any second with your questions
+
+=== Alternative guides ===
+* [http://learnosm.org/en/beginner/ learnOSM.org] - The learnOSM beginner guide provides very thorough step-by-step instructions (down to how to scroll a map). This is great for some, but others may find it too detailed and prefer this guide.
+* [[JOSM/Guide]] - If you already know the basic concepts and want to learn how to use JOSM.
+* [[Potlatch_2/Primer]] - If you already know the basic concepts and want to learn how to use Potlatch 2.
+* [https://welcome.openstreetmap.org/ Welcome Mat] - Are you with an organization making plans for OSM? Find what you need to know!
+
+
+=== Next step ===
+* [[Join the community]]
+
+__NOTOC__
+__NOEDITSECTION__
+
+[[Category:Beginners' guide| ]]

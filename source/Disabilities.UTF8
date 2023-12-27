@@ -1,0 +1,179 @@
+{{Languages|Disabilities}}
+
+{{Feature
+| image       = 4-handicaps-couleur.jpg
+| description = Tags and features that will be relevant for disabled users
+| tags        = 
+{{Tag|information|tactile_map}}<br>
+{{Tag|information|tactile_model}}<br>
+{{Tag|ramp||''yes/no''}}<br>
+{{Tag|tactile_paving||''yes/no/...''}}<br>
+{{tag|traffic_signals:arrow||''yes/no''}}<br>
+{{tag|traffic_signals:minimap||''yes/no''}}<br>
+{{Tag|traffic_signals:sound||''yes/no/...''}}<br>
+{{Tag|traffic_signals:vibration||''yes/no''}}<br>
+{{tag|traffic_signals:floor_vibration||''yes/no''}}<br>
+{{Tag|wheelchair||''yes/no/...''}}<br>
+{{Tag|wheelchair:description:en}}<br>
+{{Tag|blind:description:en}}<br>
+{{Tag|deaf:description:en}}<br>
+and many others...
+}}
+
+'''For a quick howto mapping guide see the page [[How to map for the needs of people with disabilities]]'''
+
+==Why this page?==
+It would be optimal if all relevant information on accessibility would be in the map.  This is not the case.  For many objects there are no tags, for others are no keys that specify the accessibility.  Any wiki page that contains information for disabled users shall be added to this category.  When we are finished all pages will contain such information (and the category becomes useless...! )
+
+OpenStreetMap aims to be the best world map for disabled users - by keeping track of important tags like wheelchair accessibility with [[Wheelmap]], and by creating accessible versions of the map. It's important that OpenStreetMap's data is open in full because it makes these things possible - to process a world map into a direction finder for the blind, or a map of only wheelchair-accessible places.
+
+This page is supposed to collect features, tags and information relevant for disabled persons.
+
+Please add links to the related topics.
+
+== General information sources ==
+* Please see [http://www.handicaching.com handicaching.com] for an already used system of categorizing ways for disabled persons.
+* [http://www.behindertenfuehrer-stade.de/html/piktogram.html Pictograms for accessibility]
+
+== Tagging for Disabilities in general==
+* Tourism: Lower [[Key:fee]] for disabled person
+* Free [[Key:fee]] for assistants of disabled people
+* [[Proposed features/DisabilityDescription]]
+
+== Different accessibility challenge types ==
+=== Visual impairment/blindness ===
+
+{{Main|OSM for the blind}}
+
+* Also see [[List of OSM based Services#Accessibility for persons with disabilities|section “Accessibility for persons with disabilities” in the “List of OSM based Services”]]
+* [[LoroDux]] Pedestrian Navigation for the blind (+ OSM editor integration planned)
+* [[HaptoRender]] German project for tactile maps for the visually impaired / blind.
+* [[Loadstone]] OpenStreetMap POI transfer to navigation tool for the blind
+* [[OSM VIwGoA]] Open Street Maps for Visually Impaired with GPS on Android
+* [[OSM_Direction_tool_for_Visually_Impaired]]
+* [[Look and Listen Map]] Online routing service
+* [[AmauroMap]]
+
+==== Routing for visual impairment/blindness ====
+* [[Loadstone]] GPS is a free non-graphics satellite navigation software developed for Symbian Mobile/phones using the Series60 platform. See also the interface [[Nuance Talks]].
+* [[LoroDux]] is  a OSM and Java ME based multi platform navigation software for mobile devices for blind and visually impaired persons.
+
+==== Maps for visual impairment/blindness ====
+* [[HaptoRender]]
+* [[Look and Listen Map]]
+* [[Mapbox iOS SDK]]&nbsp;– compatible with Apple’s built-in [[w:VoiceOver|VoiceOver]] screenreader
+
+===== Using ordinary online maps with visual impairment =====
+… or: how to make the words on the map bigger?
+
+* For most/all slippy maps (like the one on [https://www.openstreetmap.org/ osm.org]) you can just use your browser's zoom feature (e.g., of Firefox) to enlarge everything. Be sure to ''not'' set "zoom only text" in your browser's settings/view/zoom menu options. A downside is that the map image usually gets blurry. If you view a slippy map which uses [[High-resolution tiles|"retina" tiles]], you can magnify much more until the image get blurry ([[:File:Retina zoom comparison.gif|comparison example]]).
+* Use the zoom function of your operating system (as the font size problem does not only affects you on maps).
+* Using [[List of OSM based Services|another]] [[Tiles#Servers|map style]] with bigger text and better contrast is another option: for example [//opentopomap.org/#map=13/50/10 OpenTopoMap] (no street names) or even more contrast with [http://maps.stamen.com/toner-lite/#13/50/10 toner-lite by stamen] / [http://maps.stamen.com/toner/#13/50/10 toner by stamen] (few names).
+
+==== Tagging for visual impairment/blindness  ====
+* Structure in the pavement to be felt with a long cane (White blindmans's stick): {{tag|tactile_paving|yes/no/incorrect}}; e.g., used on {{tag|highway|steps}} or on {{tag|highway|bus_stop}} or platforms.
+* Relief maps {{tag|information|tactile_map}}
+* Tactile writing:
+** {{tag|information|braille}} (e.g., used on {{tag|highway|steps}} with Braille writing on handrails)
+** {{tag|information|tactile_letters}} (e.g., used in elevators, where the buttons have imprinted numbers in ordinary writing)
+* Voice interfaces {{tag|acoustic|voice_description}}; e.g., {{tag|voice_description|rfid}} in [[Bern]] for public transportation
+* Cinema / Theatre: additional narrator {{tag|acoustic|voice_description}} ?
+* Traffic lights with sound {{tag|traffic_signals:sound|yes/no}} 
+* {{tag|description:en:blind|The city of Weingarten offers tactile paper maps at the tourist information office for a small fee.}} 
+* {{tag|lit}} to identify well-lit routes for people affected by night-blindness
+*...
+You can find a lot of tags concerning accessibility in these categories:
+* [[:Category:Visual Impairment|Visual Impairment]]
+
+=== Walking impairment/wheelchair drivers/stroller ===
+* [[Accessible Play]] Location of play equipment for disabled children
+* [[Wheelmap]]
+* [[Libero Accesso...Accesso Libera Tutti!]] Mapping the accessibility for persons with reduced mobility in Castelfiorentino (Tuscany) ITALY
+* [[Augsburg/Datenspende Stadtplan für barrierefreie Mobilität]] data for wheelchair users and people with reduced mobility about accessibility of footways and buildings/amenities in Augsburg, Germany
+* [https://AccessMap.io AccessMap.io] Routing for person with limited mobility. Right now just Seattle, Mount Vernon and Bellingham in Washington State, US.
+* [[API.Wikiocity]] Color coded maps for handicap accessible ramps, transportation, restrooms, and data for all points of interest.
+
+==== Tagging for walking impairment/wheelchair drivers/stroller ====
+* [[Tag:highway%3Dsteps]], [[Key:ramp]], [[Key:incline]]
+** with [[Key:handrail]]
+* [[fuel station]]s with service (not only self-service)
+* [[Elevator]]
+* {{tag|wheelchair|yes/no/limited}}
+** [[Key:wheelchair]]
+** for (public) [[toilets]]
+** for [[door]] width
+** [[Parking]] 
+** Public transportation
+*** Buses
+*** Trams
+*** Railway
+*** Taxi
+** [[Shop]]s
+*** Extra wide cash desk in {{tag|amenity|shop}}
+*** Special [[shopping cart]] available
+** [[Car repairs]]: Modifies cars to be used by or for disabled persons.
+* Special seats / empty spaces for wheelchairs
+*…
+
+You can find a lot of tags concerning accessibility in these categories:
+* [[:Category:Walking Disability|Walking Disability]]
+
+==== Routing for walking impairment/wheelchair drivers/stroller ====
+* [[OpenRouteService]] Wheelchair Online Routing
+* [[DE:Rollstuhlfahrer-Routing]] German project for wheelchair routing.
+
+=== Hearing impaired/deafness ===
+* Visual map with icons for objects of special interest to deaf persons (Project does not exist yet)
+* Tags for deaf persons or persons with hearing impairment: See [[:category:Hearing Impairment]]
+* (Add your project here)
+
+==== Tagging for hearing impaired/deafness ====
+* Sign language translation
+* {{tag|amenity|cinema}}: Movies with subtitles shown
+* {{tag|amenity|theatre}}: Special headphones available
+
+You can find a lot of tags concerning accessibility in these categories:
+* [[:Category:Hearing Impairment|Hearing Impairment]]
+
+==== Maps for hearing impaired/deafness ====
+* Want to  start this project? Just go ahead and link your map here.
+
+==== Routing for hearing impaired/deafness ====
+* Deaf persons can usually handle ordinary visual routing software. 
+
+==== Routing for deafblind/hearing impaired and visually impaired ====
+* [[LoroDux]] is a routing software for blind users. It has a vibration mode for navigation, but is not fully accessible for deafblind users.
+* Want to  start this project? Just go ahead and link your router here.
+
+== How can I help? ==
+You can support this project for example by working on the following tasks:
+
+* Identify objects of special interest in your surrounding and map them if tags exist. If there are no tags documented, ask for them here.
+* Help in one of the listed projects.
+* Tell your disabled friends about OSM and ask them to tell their needs here.
+* Organize micro mapping parties that collect very accurate data.
+* Translate this page to other languages.
+* proposing needed tags and keys here on this page
+* adding headlines for other handicaps here on this page
+* adding lines for objects of interest here on this page
+* reminding mappers on object pages to enter additional keys helpful for disabled persons
+* creating icons for the tags and keys and request their rendering
+* programming routing software or renderers that do not rely on visual output.
+
+== More information ==
+You can find a lot of tags concerning accessibility in these categories:
+* [[:Category:Disabilities|Disabilities]]
+
+Join the [https://lists.openstreetmap.org/listinfo/accessibility accessibility mailing list] by sending an email to [mailto:accessibility-subscribe@openstreetmap.org accessibility-subscribe@openstreetmap.org].
+
+See this page in other languages for local language mailing lists.
+
+== Information sources ==
+* [https://www.un.org/development/desa/disabilities-fr/ ONU - Disability]
+* <s>[http://www.schulemachtzukunft2006-039.de/data/vorbildliche_projekte.pdf Vorbildliche Projekte]</s> {{german}} (dead link)
+* [http://www.anderssehen.at/bilder/stadtpla.shtml Tastbarer Stadtplan Graz] {{german}}
+* [http://www.nullbarriere.de Nullbarriere.de] {{german}}
+
+<!-- Categories -->
+[[Category:Disabilities| ]]
+[[Category:Page translation requested]]

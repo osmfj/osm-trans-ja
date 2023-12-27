@@ -1,0 +1,241 @@
+{{languages|Environmental OSM}}
+
+[[File:Bachalpseeflowers.jpg|300px|Natural Environment Features|thumb|right]]
+
+'''Environmental OSM''' is a project to map out various systems that have an impact on the environment in hopes of helping to solve environmental problems.
+
+'''Please use the [[{{TALKPAGENAME}}|discussion page]] to suggest and discuss other data we might survey and other uses for the data.'''
+
+== Project Objectives  ==
+The following are some objectives of the Environmental OSM project: 
+
+* Improve the tagging schema for environmental data
+* Define a strategy for surveying and providing this data throughout the wide environmental sector 
+* Create specific maps for specialist environmental uses 
+
+== Tags ==
+
+=== Energy ===
+
+* Energy generators: {{Tag|power|generator}} (using {{Key|generator:source|*}}, {{Key|generator:method|*}} and {{Key|generator:output|*}} to specify environmentally friendly technologies)
+* Dirty energy / fossil fuels: {{Tag|man_made|petroleum_well}}
+
+[[File:Windmills D1-D4 (Thornton Bank).jpg|250px|Built Environment Features|thumb|right]]
+
+=== Environmental Monitoring ===
+
+* Environmental monitoring stations: {{Tag|man_made|monitoring_station}}
+
+=== Waste/Recycling ===
+
+* Recycling bins: {{Tag|amenity|recycling}}
+* Recycling centres: {{Tag|amenity|waste_transfer_station}}
+* Reuse: {{Tag|amenity|public_bookcase}}
+
+=== Food ===
+
+* Allotments: {{Tag|landuse|allotments}}
+* Farms: {{Tag|landuse|farm}}
+* Food markets: {{Tag|amenity|marketplace}} using sub-tags such as vegetables=yes
+
+See [[Food_security|Food security]] for related guidelines and ideas
+
+=== Transport ===
+
+*[[Cycle routes|Cycling]]
+** Cycle paths/lanes: {{Tag|highway|cycleway}} and {{Key|cycleway|*}}
+**{{Tag|amenity|bicycle_parking}} and {{Key|bicycle_parking|*}}
+**{{Tag|amenity|bicycle_rental}}
+**{{Tag|shop|bicycle}}
+
+* Car sharing/clubs: {{Tag|amenity|car_sharing}}
+
+*[[Railways]] (including underground, overground, tram, light rail, etc.)
+** Rail lines, stations, etc.: {{Key|railway|*}}
+** [[Relation:route#Railway_routes_.28light_rail.2C_metro.2C_mainline.2C_monorail.2C_etc..29|Routes]]
+
+*[[Buses]]
+**[[Relation:route#Bus_Routes_.28also_trolley_bus.29|Routes]]
+See also: [https://en.wikipedia.org/wiki/Sustainable_transport Sustainable Transport]
+
+=== Natural habitats / land use ===
+
+* Recommendations for tagging of protected areas is outlined here: [[Protected_Area_Rendering]]
+* Trees {{Tag|natural|tree}}
+*Unmanaged forests {{Tag|natural|wood}}
+*Managed forests {{Tag|landuse|forest}}
+* Page for approved {{Tag|natural}} and {{Tag|landuse}} tags: [https://wiki.openstreetmap.org/wiki/Vegetation Vegetation]
+
+=== Green space ===
+
+[[Image:Edinburgh_leisure_heatmap.png|300px|Green Space access heatmap. A heatmap of [[Edinburgh]] showing access to leisure facilities, using OpenStreetMap data (red = far away from greenspace/leisure). From an idea by {{osmUser|Hawkeye}} created by [http://www.flickr.com/people/stevefaeembra/photosof/ stevefaeembra]|thumb|right]]
+
+*[http://toolserver.org/~timsc/locateservices/greenspaces/ Medway greenspaces]
+*[https://wiki.openstreetmap.org/wiki/MassGis_Layer_Openspace MassGis Layer Openspace]
+
+== Environmental Features in Development ==
+
+* Species/Genus names have been proposed in {{Tag|natural|tree}} but {{Tag|taxon}} has also been proposed.
+*: {{Tag|species}} tag has been used thousands of times and {{Tag|taxon}} much less often. See [[Tree]] discussion page
+* Vegetation coverage values for areas have been proposed at the bottom of {{tag|taxon}}
+* Plant communities (National Vegetation Classification) proposal outlined in {{tag|plant_community}}
+* Habitat mapping proposal based on the Phase One Habitat survey in the {{tag|habitat}} page
+
+TODO:
+* Tagging the regulation of ''living modified organisms (LMO)'' including ''genetically modified organisms (GMO)'' — in French ''organismes génétiquement modifiés (OGM)''.
+
+==  Related OSM Initiatives ==
+* [[Ramsar_site|Ramsar Wetland data source imports]]
+* [[London/Datastore_allotments|London allotments "import"]]
+* [[OpenEcoMaps]] e.g. [http://www.openecomaps.co.uk/map.php?pack=FSW&zoom=2&lon=-0.0721&lat=51.4752&layers=B000 Foraging for food map]
+* [[Invasive_Non-Native__Species]] 
+* [[Environmental OSM: what can trees tell us about climate change?]]
+* [[WikiProject_Corine_Land_Cover| Corine Land Cover Import]]
+* [http://www.cs.nuim.ie/~pmooney/ Environmental OSM academic research at the National University of Maynooth]
+* [http://www.openhabitatmap.org OpenHabitatMap] Edinburgh, Scotland (beta)
+* [[MassGIS|Massachusetts State GIS import]]
+* [[EEA:Nationally designated areas import]]
+* [[WikiProject African National Parks and Reserves]]
+* [[Environmental-OSM: What can trees tell us about climate change?]]
+* [[Proposed_features/Biological|OSM > DWC > GBIF]] : Volunteered OSM - biodiversity data compatible with [http://www.gbif.org/ GBIF] - Please verify contributions from “People Interested” (in the present page, below).
+*[[OpenHazardMap]]
+
+==  Related Initiatives ==
+* [http://www.wdpa.org/ World Database On Protected Areas] and the [http://www.protectedplanet.net/ Protected Planet] interface by UNEP
+* [http://www.unep-wcmc.org/ UNEP World Conservation Monitoring Centre]
+* [http://www.iucnredlist.org/technical-documents/spatial-data IUCN Red List of Threatened Species]
+* [http://bch.cbd.int/protocol The Cartagena Protocol on Biosafety], for regulating the usage of ''living modified organisms (LMO)'' including ''genetically modified organisms (GMO)'', and of other biotechnologies, and for developing the sustainable agriculture and food security for health and preservation of resources and biodiversity.
+* [http://www.eea.europa.eu/data-and-maps European Environment Agency data and maps]
+* [http://www.nature.org/multimedia/maps/ The Nature Conservancy Atlas of Global Conservation]
+* [http://www.mappingforchange.org.uk/ Mapping for change]
+* [http://sandbag.org.uk/carbondata/cers Carbon Offset Map]
+* [http://farmingconcrete.org/ Farming Concrete]
+* [http://www.forestcarbonportal.com/ Forest Carbon Portal]
+* [http://www.renewables-map.co.uk/ Renewables Map UK]
+*[https://sig-gis.com/environmental-mapping/ Spatial Informatics Group: Environmental Mapping]
+*[https://ecologicaldata.org/ EcologicalData.org]
+*[https://data.footprintnetwork.org/#/ Open Data Platform] by [https://www.footprintnetwork.org/ Footprint Network]
+*[https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Environment WikiProject Environment] - a Wikipedia Project where we might be able to find other netizens willing to help this project. 
+
+== People Interested ==
+{| class="wikitable sortable"
+|+People Interested in Environmental OSM
+!User page
+!Languages
+!Location
+(feel free to remove)
+!Skills / Interests
+|-
+|[[User:Samlarsen1|Sam Larsen]]
+|English
+|New Zealand 
+|
+|-
+|[[User:TomChance|TomChance]]
+|
+|UK
+|
+|-
+|[[User:Maning|Maning Sambale]]
+|English
+|Philippines
+|
+|-
+|[[User:Hawkeyes|Hawkeyes]]
+|English
+|Scotland
+|
+|-
+|[[User:Marscot|Marscot]]
+|English
+|Scotland
+|
+|-
+|[[User:brylie|Brylie Oxley]]
+|
+|
+|
+|-
+|[[User:Growbradford|Grow Bradford]]
+|
+|
+|
+|-
+|[[User:WernerLeyh|Werner Leyh]]
+|
+|
+|
+|-
+|[[User:MarkusGastauer|Markus Gastauer]]
+|
+|
+|
+|-
+|[[User:Ana Lucia  Zandomeneghi|Ana Lucia  Zandomeneghi]]
+|
+|
+|
+|-
+|[[User:pmackay|Paul Mackay]]
+|
+|
+|
+|-
+|[[User:Ariostonpacheco|Ariosto Pacheco]]
+|
+|
+|
+|-
+|[[User:Pm5|Pomin Wu]]
+|
+|
+|
+|-
+|[[User:RosangelaSantos|Rosangela Ferreira dos Santos]]
+|
+|
+|
+|-
+|[[User:Planemad|Arun Ganesh]]
+|
+|
+|
+|-
+|[[User:Aline Gomes Zaffani|Aline Gomes Zaffani]]
+|
+|
+|
+|-
+|[[User:Johna Rupire|Johnattan Rupire]]
+|Spanish
+|
+|
+|-
+|[[User:Sandra Cavalcante|Sandra Cavalcante]]
+|Portuguese, English
+|Brazil
+|IT analyst, lawyer, environmental law specialist and PHD in Public Health
+|-
+|[[User:Angela Mzk|Angela Miazaki]]
+|
+|
+|
+|-
+|[[User:Jamiegray#Environment|Jamie Gray § Environment]]
+|English
+|USA
+|UI / UX Design, Project Management 
+|-
+|Sergey Golubev
+|Russian, English
+|Russia
+|Naturalist, cartographer, specialist in the study of the environment and vegetation
+|}
+
+==Contact==
+* [[Talk:Environmental OSM]]
+* [https://lists.openstreetmap.org/listinfo/outdoor-natural mailing list] docused on mapping of natural features and outdoor sports
+
+[[Category:Environment]]
+[[Category:Natural]]
+[[Category:Tagging guidelines]]

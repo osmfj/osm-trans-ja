@@ -1,0 +1,57 @@
+{{Languages|Relief maps}}
+<div style="float:right; margin: 5px;">[[Image:Relief map example tile2.jpg]]<br>[[Image:Relief map example tile.jpg]]<br>Example tiles <small>([http://www.maps-for-free.com/ source])</small></div>
+
+Relief maps are maps with each pixel colour-coded according to the ground height and/or slope at that location. Generally height is shown in a combination of three concepts: contours, colouring and shading.
+
+There is not much height data available from OSM, due to the poor vertical accuracy of GPS units compared to both their horizontal accuracy and the better height data available from other sources. Accurate spot heights, for example mountain summits, are often available from other sources, but wide-scale height data sufficient for making profiles of mountains are simply infeasible to gather by volunteers wandering around! For such data, existing OSM projects normally rely on [[SRTM]] data, a near-globally available height dataset from NASA that has been released into the public domain.
+
+Since there are many algorithms to interpret the height data sets (DEMs), and different purposes have different algorithms, data from such sets should NOT be uploaded to OSM (e.g. no {{tag|ele}} tagging of nodes from SRTM data, or adding contours as ways)!
+
+==Colour coding and shading==
+
+* colorized by altitude (as seen in example on top right) 
+* shaded relief (levels of gray), just to indicate relative slopes, mountain ridges, not absolute height.
+
+[[Image:relief-height.png]]+[[Image:relief-shade.png]]=[[Image:relief-shade-height.png]]
+
+==Elevation contour lines==
+See [[Srtm2Osm]]; e.g.:
+
+[[Image:Etna_Contours.jpg|500px]]
+
+See also 
+* [[wikipedia:Cartographic relief depiction]].
+* [[Isohypse Binary File]] - a description of a new binary format for storing [https://en.wiktionary.org/wiki/isohypse isohypses] (contour lines) in files
+
+==OSM maps showing relief ==
+
+* [[TopOSM]], available in the states of Massachusetts and Colorado, shows both contour lines and hill shading.
+* [http://www.opencyclemap.org/?zoom=12&lat=52.9151050025&lon=-4.10991579681&layers=B00 The cycle map] shows contour lines on slippy map tiles, re-rendered at regular intervals. Technical set-up is described on the [[Contours]] page.
+* [[FreeMap]] ([http://www.free-map.org.uk/]) (of England) shows contour lines together with OSM data on a slippy map. Rendering code is available in SVN.
+* [http://francetopo.fr FranceTopo] Topographic map of France with contour lines and hill shading.
+* A [[DE:OSMC_Reitkarte#Reit-_und_Wanderkarte|Hiking map (german page)]] (of Europe) shows contour lines and hillshading.
+* [[OpenTopoMap]] (worldwide). Available as a background layer in [[iD]]
+* [http://alpenkarte.eu/ Alpenkarte] - Topographic map of the alps
+* [http://mapbox.com/blog/mapbox-streets-terrain/ MapBox terrain maps] also [http://mapbox.com/tilemill/docs/guides/terrain-data/ available within TileMill]
+* [[DirectU]] app for [[iOS]] comes with bundled offline data for large areas e.g. all of Europe, including OSM data and some relief information (contours)
+* [https://reliefmaps.io Relief Maps] - Worldwide 3D topographic maps
+* [https://www.topotresc.com  Topotresc] Hiking map of the Pyrenees and Catalonia with contour lines and hillshading.
+* [https://www.maptiler.com/maps/outdoor/ MapTiler Outdoor] - Global hiking map with contour lines and hillshading.
+
+== Existing software ==
+
+* [[Mapnik]] based maps usually import contours using various tools, see [[Contours]]
+* [[Srtm2Osm]] converts SRTM data to OSM xml, which can be rendered using [[Osmarender]], [[Tiles@home]], [[Maperitive]] and [[Mkgmap]]
+* [[Maperitive]] in itself has relief map capabilities (shading, elevation coloring, and contours generation)
+* [[OsmAnd]] can display relief maps on [[Android]] devices via a [https://play.google.com/store/apps/details?id=net.osmand.srtmPlugin.paid paid plugin]
+* [[Mapbox GL]] libraries have built-in support for the [https://www.mapbox.com/maps/outdoors/ Mapbox Outdoors] style, which combines OSM data with hillshading and contours, and support for custom styles with dynamically lit hillshading
+
+== Interesting articles and examples ==
+
+* http://www.shadedrelief.com/realism/
+* https://cosmobird.github.io/content/category/hackwork/try-terrain/try-terrain.html Tutorial to create shaded relief maps using SRTM and QGIS
+
+== See also ==
+* Maybe you were looking for [[Tactile map]] and [[OSM for the blind]]?
+
+[[Category:Relief maps| ]]

@@ -1,0 +1,506 @@
+{{Languages|Camino de Santiago}}
+[[Image:Ways of St. James in Europe.png|300px|right|thumb|Ways to Santiago through Europe]]
+[[Image:Routes de St jacques de Compostelle.png|300px|right|thumb|Main ways to Santiago]]
+
+The '''Camiño de Santiago'''(galician) or '''Camino de Santiago'''(spanish) (known also as the '''Way of Saint James''' among other names) is a network of pilgrims' ways or pilgrimages leading to Santiago de Compostela in  Spain. It popular for hikers, pilgrims and bicyclists. This page gathers information about mapping the whole network of hikers trails (for bicycle route see [[EV3]]) and is part of  the [[WikiProject Europe/Long-distance paths|European long-distance paths]] project (see path E3 in particular).
+
+You can see the map here : http://hiking.waymarkedtrails.org/#?map=6!47.3584!4.1638
+
+=== Relations structure ===
+Because the network is very large, it is not practical to put all its ways to one relation. Instead it is separated to smaller parts, which contain individual ways. All these parts should be added into the [[Relation:network|network relation]] {{Relation|153968}}. In some countries there is another national network-relation introduced, which makes hierarchy with two levels:  {{Relation|153968}} includes national level relation which includes relations for individual parts of route.
+
+== Overview of network parts ==
+
+The following is overwiew of parts of the whole trails network. Following convenstions are used
+
+* '''Quality of mapping''' is marked with colours: {{MappedRoute|unknown quality|full|}} {{MappedRoute|very bad quality|full|1}} {{MappedRoute|bad quality|full|2}} {{MappedRoute|medium quality|full|3}}{{MappedRoute|good quality|full|4}} {{MappedRoute|very good quality|full|5}}
+
+* '''Completness of mapping''' is marked with various line styles: {{MappedRoute|fully mapped|full|5}} {{MappedRoute|quite '''all''' mapped|all|5}} {{MappedRoute|'''partially''' mapped - |part|5}} {{MappedRoute|'''few''' parts mapped - |few|5}} {{MappedRoute|''empty'' - ||5}}
+
+<br />
+{| style="border-bottom:1px solid #EEEEEE; "
+|- style="background-color:#BBBBBB"
+!
+===Main Ways===
+! 
+! 
+! 
+! 
+!
+|- style="background-color:#EEEEEE"
+! way
+! from
+! to
+! relation
+! mapped
+! state
+|-
+| style="border-bottom:1px solid gray;" | 
+
+====[[Via Podiensis]]====
+<br />the oldest way
+| style="border-bottom:1px solid gray;" | {{way|34506783|Le Puy-en-Velay}} 
+| style="border-bottom:1px solid gray;" | [[Camino navarro]]<br />at {{node|352786305|Roncesvalles}}
+| style="border-bottom:1px solid gray;" | {{BrowseRelation|138227}}
+| style="border-bottom:1px solid gray;" | 444.60/756km<br />partial, segmented
+| style="border-bottom:1px solid gray;" | {{MappedRoute|Le Puy - Saugues - Aubrac - St Côme-d'Olt|full|4}} - Espalion - Estaing - Golinhac - {{MappedRoute|Conques - Figeac - Salvagnac-Cajarc|full|5}} {{MappedRoute|- Cahors|part|4}} - Montcuq - Lauzerte {{MappedRoute|- Moissac|part|3}} - Lectoure - La Romieu - Condom - Larressingle - Eauze - Nogaro - {{MappedRoute|Aires-sur-l'Adour - Navarrenx - Ostabat, Stèle de Gibraltar - Saint-Jean-Pied-de-Port|full|3}} - Puerto de Ibañeta - Roncesvalles.
+|-
+| style="border-bottom:1px solid gray;" |
+
+====<bdi>Voie de Vézelay</bdi>====
+| style="border-bottom:1px solid gray;" | {{way|38537280|Vézelay}}
+| style="border-bottom:1px solid gray;" | [[Via Podiensis]]<br />at {{node|837626092|Ostabat, Stèle de Gibraltar}}
+| style="border-bottom:1px solid gray;" | {{BrowseRelation|1106898}}
+| style="border-bottom:1px solid gray;" | 56.40/925km
+| style="border-bottom:1px solid gray;" | {{MappedRoute|Vézelay - Bazoches - Nevers - St Pierre-le-Moûtier - St Amand-Montrond - Neuvy-St-Sépulcre - Eguzon - La Souterraine - Bénévent-l'Abbaye - St Léonard de Noblat - Limoges - Châlus - Thiviers - Périgueux - Bergerac - Duras - Monségur - La Réole - Bazas - Roquefort - Saint-Pierre-du-Mont - Saint-Sever - Hagetmau -|all|3}} {{MappedRoute|Sault-de-Navailles - Orthez - Sauveterre-de-Béarn -|all|3}}{{MappedRoute|Saint-Palais - Ostabat, Stèle de Gibraltar|full|3}}
+|-
+| style="border-bottom:1px solid gray;" |
+
+====[[Via Turonensis]]====
+| style="border-bottom:1px solid gray;" | Paris 
+| style="border-bottom:1px solid gray;" | [[Via Lemovicensis]]<br />at Saint-Palais
+| style="border-bottom:1px solid gray;" | {{BrowseRelation|187781}}
+| style="border-bottom:1px solid gray;" | 170.29/925km<br />started
+| style="border-bottom:1px solid gray;" | Paris - Orléans - Cléry St André - Tours - Châtellerault - Poitiers - Melle - Aulnay - St Jean d'Angeli - Saintes - Pons - Blaye - Bordeaux - Belin-Belier - Saugnacq-et-Muret - Vieux-Richet - {{MappedRoute|St Paul-les-Dax - Sorde-l'Abbaye - Sauveterre-de-Béarn - Saint-Palais|part|3}}
+|-
+| style="border-bottom:1px solid gray;" |
+
+====[[Via Tolosane]] ====
+| style="border-bottom:1px solid gray;" | Arles 
+| style="border-bottom:1px solid gray;" | [[Camino aragonés]]<br />at ''Col du Somport''
+| style="border-bottom:1px solid gray;" | {{BrowseRelation|389715}}
+| style="border-bottom:1px solid gray;" | 253.24/830km
+| style="border-bottom:1px solid gray;" | Arles - St Gilles - Montpellier - {{MappedRoute|St Guilhem le Désert - Lodève - Le Bousquet d'Orb|part|4}} - Castres - Toulouse - Gimont - Auch - Barran - Montesquiou - St Christaud - {{MappedRoute|Maubourguet - Morlaàs - Lescar - Oloron-Sainte-Marie - Sarrance - Lescun - Borce - Col du Somport|all|3}}
+|-
+| style="border-bottom:1px solid gray;" |
+
+====[[Camino Navarro]] ====
+| style="border-bottom:1px solid gray;" | [[Via Podiensis]]<br />at ''Roncesvalles''
+| style="border-bottom:1px solid gray;" | [[Camino Francés]]<br />at ''Puente la Reina''
+| style="border-bottom:1px solid gray;" | no own relation
+| style="border-bottom:1px solid gray;" |
+| style="border-bottom:1px solid gray;" | at the moment mapped as Camino francés, I think the "navarro" is artificial.
+|-
+| style="border-bottom:1px solid gray;" |
+
+====[[Camino Aragonés]]====
+| style="border-bottom:1px solid gray;" | [[Via Tolosane]]<br />at ''Col du Somport''
+| style="border-bottom:1px solid gray;" | [[Camino Francés]]<br />at ''Puente la Reina''
+| style="border-bottom:1px solid gray;" | {{BrowseRelation|226725}}
+| style="border-bottom:1px solid gray;" | 174.03/200km
+| style="border-bottom:1px solid gray;" | Col du Somport - Canfranc - Jaca - Sangüesa - Monreal - Eunate - Obanos - Puente la Reina
+|-
+| style="border-bottom:1px solid gray;" |
+
+====[[Camiño Francés]]====
+| style="border-bottom:1px solid gray;" | Puente la Reina 
+| style="border-bottom:1px solid gray;" | Santiago
+| style="border-bottom:1px solid gray;" | {{BrowseRelation|66261}}
+| style="border-bottom:1px solid gray;" | 829/703km<br/>segmented, some bugs
+| style="border-bottom:1px solid gray;" | {{MappedRoute|Puente la Reina - Estella - Los Arcos - Torres del Río - Logroño - Navarrete - Nájera - Santo Domingo de la Calzada - San Juan de Ortega - Burgos - Castrojeriz - Frómista - Villalcazar de Sirga - Carrión de los Condes - Sahagún - Mansilla de las Mulas - León - Hospital de Órbigo - Astorga - }}{{MappedRoute|Rabanal del Camino - Foncebadón - Ponferrada|all|4}}{{MappedRoute| - Villafranca del Bierzo - O Cebreiro - Triacastela - Samos - |part|3}}{{MappedRoute|Sarria - Portomarín - Palas de Rei - Arzúa - Santiago de Compostela|full|5}}
+|-
+| style="border-bottom:1px solid gray;" |
+
+====[[Camiño Primitivo]]====
+| style="border-bottom:1px solid gray;" | [[Oviedo]]
+| style="border-bottom:1px solid gray;" | [[Camino Francés]]<br />at ''Melide''
+| style="border-bottom:1px solid gray;" | {{BrowseRelation|1029959}}
+| style="border-bottom:1px solid gray;" | 268/350km
+| style="border-bottom:1px solid gray;" | Oviedo - Grado - Salas - Tineo - Pola de Allande - La Mesa - Grandas de Salime - Fonsagrada - Cadavo Baleira - Lugo - San Román de Retorta - Melide
+|-
+| style="border-bottom:1px solid gray;" |
+
+====[[Camiño Inglés]]====
+| style="border-bottom:1px solid gray;" | [[A Coruña]] / [[Ferrol]]
+| style="border-bottom:1px solid gray;" | [[Santiago]]
+| style="border-bottom:1px solid gray;" | {{BrowseRelation|1102966}}
+| style="border-bottom:1px solid gray;" | total 144km  of 85 / 120km
+| style="border-bottom:1px solid gray;" | A Coruña / Ferrol - Bruma - Santiago
+
+|-
+| style="border-bottom:1px solid gray;" |
+
+====[[Camiño Portugués]] ====
+| style="border-bottom:1px solid gray;" | [[Lisboa]]
+| style="border-bottom:1px solid gray;" | [[Santiago]]
+| style="border-bottom:1px solid gray;" | {{BrowseRelation|385135}}
+| style="border-bottom:1px solid gray;" | 129/800km?
+| style="border-bottom:1px solid gray;" | Lisboa - Coimbra - Oporto - Valenca do Minho - Tui - Pontevedra - Padrón - Santiago
+
+|- style="background-color:#BBBBBB"
+!
+
+===Secondary Ways===
+! 
+! 
+! 
+! 
+!
+
+|- style="background-color:#EEEEEE"
+! way
+! from
+! to
+! relation
+! mapped
+! state
+|-
+|Czech Camino de Santiago
+|superrelation containg all branches in Czechia
+|
+|{{BrowseRelation|254280}}
+|
+|
+|-
+| style="border-bottom:1px solid gray;" |
+====[[Voie de Soulac]]====
+| style="border-bottom:1px solid gray;" | Soulac-sur-Mer 
+| style="border-bottom:1px solid gray;" | [[Camino de la Costa]]
+| style="border-bottom:1px solid gray;" |
+| style="border-bottom:1px solid gray;" |
+| style="border-bottom:1px solid gray;" |
+|-
+| style="border-bottom:1px solid gray;" |
+
+====[[Via Francigena]]====
+| style="border-bottom:1px solid gray;" | Italy 
+| style="border-bottom:1px solid gray;" | [[Via Tolosane]]
+| style="border-bottom:1px solid gray;" |
+| style="border-bottom:1px solid gray;" |
+| style="border-bottom:1px solid gray;" |
+|-
+| style="border-bottom:1px solid gray;" |
+
+====[[Via Gebennensis]]====
+| style="border-bottom:1px solid gray;" | Geneva 
+| style="border-bottom:1px solid gray;" | [[Via Podiensis]]<br />at {{way|34506783|Le Puy-en-Velay}} 
+| style="border-bottom:1px solid gray;" | {{BrowseRelation|961610}}
+| style="border-bottom:1px solid gray;" |
+| style="border-bottom:1px solid gray;" |
+|-
+| style="border-bottom:1px solid gray;" |
+
+====[[Camino de la Costa]]====
+| style="border-bottom:1px solid gray;" | [[Voie de Soulac]] 
+| style="border-bottom:1px solid gray;" | Santiago''
+| style="border-bottom:1px solid gray;" | {{BrowseRelation|360167}}
+| style="border-bottom:1px solid gray;" | 371 km partial, segmented
+| style="border-bottom:1px solid gray;" |
+|-
+| style="border-bottom:1px solid gray;" |
+====[[Vía de la Plata]]====
+| style="border-bottom:1px solid gray;" | Sevilla
+| style="border-bottom:1px solid gray;" | Astorga
+| style="border-bottom:1px solid gray;" | {{BrowseRelation|241329}}
+| style="border-bottom:1px solid gray;" | 615/700km segmented
+| style="border-bottom:1px solid gray;" |
+|-
+| style="border-bottom:1px solid gray;" |
+
+====[[Camino Sanabrés]]====
+| style="border-bottom:1px solid gray;" | Granja de Moreruela 
+| style="border-bottom:1px solid gray;" | Santiago''
+| style="border-bottom:1px solid gray;" | {{BrowseRelation|6895237}}
+| style="border-bottom:1px solid gray;" | 341km partial, segmented
+| style="border-bottom:1px solid gray;" |
+|-
+| style="border-bottom:1px solid gray;" |
+
+====[[Camino de Madrid]]====
+| style="border-bottom:1px solid gray;" | Madrid 
+| style="border-bottom:1px solid gray;" | Sahagún''
+| style="border-bottom:1px solid gray;" | {{BrowseRelation|112925}}
+| style="border-bottom:1px solid gray;" | 265km partial, segmented
+| style="border-bottom:1px solid gray;" |
+|-
+| style="border-bottom:1px solid gray;" |
+
+====[[Camino Mozárabe]]====
+| style="border-bottom:1px solid gray;" | [[Granada]]
+| style="border-bottom:1px solid gray;" | [[Mérida]]
+| style="border-bottom:1px solid gray;" | {{BrowseRelation|1211396}}
+| style="border-bottom:1px solid gray;" | 
+| style="border-bottom:1px solid gray;" |
+|-
+| style="border-bottom:1px solid gray;" |
+
+
+====[[Camino de Santiago de Levante]]====
+| style="border-bottom:1px solid gray;" | Valencia
+| style="border-bottom:1px solid gray;" | Chinchilla de Montearagón''
+| style="border-bottom:1px solid gray;" | {{BrowseRelation|3624753}}
+| style="border-bottom:1px solid gray;" | 
+| style="border-bottom:1px solid gray;" |
+|-
+| style="border-bottom:1px solid gray;" |
+
+====[[Camino de Santiago del Sureste]]====
+| style="border-bottom:1px solid gray;" | Alicante
+| style="border-bottom:1px solid gray;" | Benavente
+| style="border-bottom:1px solid gray;" | {{BrowseRelation|2401811}}
+| style="border-bottom:1px solid gray;" | 942/753 Km. full.
+| style="border-bottom:1px solid gray;" | {{MappedRoute|Alicante - Orito - Petrer - Villena - Yecla|full|5}}{{MappedRoute|- Montealegre del Castillo - Pétrola|part|4}}{{MappedRoute|- Albacete - La Roda - Minaya|full|5}}{{MappedRoute|- El Toboso - La Puebla de Almoradiel|full|4}}{{MappedRoute|- Tembleque|part|4}}{{MappedRoute|- Almonacid de Toledo|full|4}}{{MappedRoute|- Burguillos de Toledo - Toledo - Novés|part|3}}{{MappedRoute|- Escalona|full|5}}{{MappedRoute|- Cadalso de los Vidrios|part|4}}{{MappedRoute|- Cebreros|full|5}}{{MappedRoute|- San Bartolomé de Pinares - Ávila - Gotarrendura - Arévalo|part|3}}{{MappedRoute|- Medina del Campo - Tordesillas|full|5}}{{MappedRoute|- Mota del Marqués|part|4}}{{MappedRoute|- Villalpando - Benavente.|full|5}}
+|-
+| style="border-bottom:1px solid gray;" |
+
+====[[Camino de Santiago del Azahar (por Jumilla)]]====
+| style="border-bottom:1px solid gray;" | Cartagena
+| style="border-bottom:1px solid gray;" | Chinchilla (Albacete)''
+| style="border-bottom:1px solid gray;" | {{BrowseRelation|2625037}}
+| style="border-bottom:1px solid gray;" | 
+| style="border-bottom:1px solid gray;" |
+|-
+| style="border-bottom:1px solid gray;" |
+
+====[[Camiño a Fisterra - Muxía]]====
+| style="border-bottom:1px solid gray;" | Santiago
+| style="border-bottom:1px solid gray;" | Fisterra / Muxía''
+| style="border-bottom:1px solid gray;" | {{BrowseRelation|385098}}
+| style="border-bottom:1px solid gray;" | 124km partial, segmented
+|-
+| style="border-bottom:1px solid gray;" |
+
+====[[Camino del Ebro]]====
+| style="border-bottom:1px solid gray;" | 
+| style="border-bottom:1px solid gray;" | Logroño
+| style="border-bottom:1px solid gray;" | {{BrowseRelation|62932}}
+| style="border-bottom:1px solid gray;" |
+| style="border-bottom:1px solid gray;" |
+|-
+| style="border-bottom:1px solid gray;" |
+
+====[[Camino Catalán por Lleida]]====
+| style="border-bottom:1px solid gray;" | Barcelona/L'Hospitalet
+| style="border-bottom:1px solid gray;" | Logroño
+| style="border-bottom:1px solid gray;" | {{BrowseRelation|382741}}
+| style="border-bottom:1px solid gray;" | 300km partial, segmented
+| style="border-bottom:1px solid gray;" |
+|-
+| style="border-bottom:1px solid gray;" |
+
+====[[Camí de Sant Jaume per Huesca]]====
+| style="border-bottom:1px solid gray;" | Tàrrega
+| style="border-bottom:1px solid gray;" | San Juan de la Peña / Sta. Cilia de Jaca
+| style="border-bottom:1px solid gray;" | {{BrowseRelation|380796}}
+| style="border-bottom:1px solid gray;" | 235km almost complete, segmented
+| style="border-bottom:1px solid gray;" |
+|-
+| style="border-bottom:1px solid gray;" |
+
+==== [[Camino Olvidado]] ====
+| style="border-bottom:1px solid gray;" | Bilbao
+| style="border-bottom:1px solid gray;" | Villafranca del Bierzo
+| style="border-bottom:1px solid gray;" | {{BrowseRelation|9077125}}
+| style="border-bottom:1px solid gray;" | Desde Bilbao hasta Quisicedo.
+|-
+| style="border-bottom:1px solid gray;" |
+
+====[[Via Mosana]]====
+(Meuse River's way) via Belgium ([[Liège]], [[Huy]], [[Namur]])
+| style="border-bottom:1px solid gray;" | [[Aachen]], Germany
+| style="border-bottom:1px solid gray;" | [[Via Lemovicensis]],<br />at [[Vézelay]], France
+| style="border-bottom:1px solid gray;" | {{BrowseRelation|151765}}
+| style="border-bottom:1px solid gray;" | 145 km partial, segmented
+| style="border-bottom:1px solid gray;" | {{MappedRoute|[[Aachen]] - [[Liège]] - [[Huy]] - [[Namur]] |part|3}}  - Reims - Vézelay
+|-
+| style="border-bottom:1px solid gray;" |
+
+====[[Via Gallia Belgica]]====
+| style="border-bottom:1px solid gray;" | Hélécine, Belgium 
+| style="border-bottom:1px solid gray;" | [[Via Turonensis]],<br />at [[Paris]], France
+| style="border-bottom:1px solid gray;" |
+| style="border-bottom:1px solid gray;" | 
+| style="border-bottom:1px solid gray;" |
+|-
+| style="border-bottom:1px solid gray;" |
+
+====[[Via Baltica]]====
+Cross the Baltic States. Ancient pilgrim way to Santiago de Compostela. Not related information of the cities where is crossing. Please update this page with more info. a small group of people from Vidzemes University (Latvia) is interested to walk this Camino in Latvia country ans signpost with traditional yellow arrows.
+
+| style="border-bottom:1px solid gray;" |  Tallin, Estonia
+| style="border-bottom:1px solid gray;" | Riga, Latvia
+| style="border-bottom:1px solid gray;" | Kaunas, Estonia
+| style="border-bottom:1px solid gray;" | 
+| style="border-bottom:1px solid gray;" | waiting for a super-relation, [[Projekt_Jakobsweg]]
+|-
+| style="border-bottom:1px solid gray;" |
+
+====[[Via Regia]]====
+| style="border-bottom:1px solid gray;" | Görlitz, Germany
+| style="border-bottom:1px solid gray;" | Vacha, Germany
+| style="border-bottom:1px solid gray;" | 6 relations
+| style="border-bottom:1px solid gray;" | 
+| style="border-bottom:1px solid gray;" | waiting for a super-relation, [[Projekt_Jakobsweg]] see also [http://www.tappenbeck.net/osm/maps/deu/maps4osm.php?id=22]
+|-
+| style="border-bottom:1px solid gray;" |
+
+====[[Via Garona]]====
+| style="border-bottom:1px solid gray;" | [[Via Tolosane]], at Toulouse
+| style="border-bottom:1px solid gray;" | [[Chemin du Piémont]], at Saint-Bertrand-de-Comminges
+| style="border-bottom:1px solid gray;" | {{BrowseRelation|7235528}}
+| style="border-bottom:1px solid gray;" | 147km, complete
+| style="border-bottom:1px solid gray;" | 
+|- 
+| style="border-bottom:1px solid gray;" |
+
+====[[Chemin de Conques à Toulouse]]====
+| style="border-bottom:1px solid gray;" | [[Via Podiensis]]
+| style="border-bottom:1px solid gray;" | [[Via Tolosane]], at Toulouse
+| style="border-bottom:1px solid gray;" | {{BrowseRelation|8306554}}
+| style="border-bottom:1px solid gray;" | 209km, complete
+| style="border-bottom:1px solid gray;" | 
+|- 
+| style="border-bottom:1px solid gray;" |
+
+====[[Chemin du Piémont]]====
+via Foix 
+| style="border-bottom:1px solid gray;" | Narbonne
+| style="border-bottom:1px solid gray;" | Oloron
+| style="border-bottom:1px solid gray;" | {{BrowseRelation|368453}}
+| style="border-bottom:1px solid gray;" | partial
+| style="border-bottom:1px solid gray;" | 
+|- 
+| style="border-bottom:1px solid gray;" |
+
+====[[Camino de Santiago del Estrecho]]====
+| style="border-bottom:1px solid gray;" | Algeciras
+| style="border-bottom:1px solid gray;" | Puerto Real (-> Camino de Cadiz)
+| style="border-bottom:1px solid gray;" | {{BrowseRelation|3421730}}
+| style="border-bottom:1px solid gray;" | partial
+| style="border-bottom:1px solid gray;" | 
+|- style="background-color:#BBBBBB"
+!
+
+===Tertiary Ways===
+! 
+! 
+! 
+! 
+!
+|- style="background-color:#EEEEEE"
+! way
+! from
+! to
+! relation
+! mapped
+! state
+|-
+| style="border-bottom:1px solid gray;" | [[JW Köln-Aachen]]
+| style="border-bottom:1px solid gray;" | [[Köln]], Germany
+| style="border-bottom:1px solid gray;" | [[Via Mosana]],<br />at [[Aachen]], Germany
+| style="border-bottom:1px solid gray;" | {{BrowseRelation|35121}}
+| style="border-bottom:1px solid gray;" | 78 km
+|-
+| style="border-bottom:1px solid gray;" | Fränkisch-Schwäbischer Jakobsweg (FSJ)
+| style="border-bottom:1px solid gray;" | [[Würzburg]], Germany
+| style="border-bottom:1px solid gray;" | [[Ulm]], Germany
+| style="border-bottom:1px solid gray;" | {{BrowseRelation|86644}}
+| style="border-bottom:1px solid gray;" | 
+|-
+| style="border-bottom:1px solid gray;" | Jakobswanderweg Odenwald, Main- und Taubertal (JMT)
+| style="border-bottom:1px solid gray;" | [[Miltenberg am Main]], Germany
+| style="border-bottom:1px solid gray;" | [[Rothenburg ob der Tauber]], Germany
+| style="border-bottom:1px solid gray;" | {{BrowseRelation|181038}}
+| style="border-bottom:1px solid gray;" | 
+|-
+| style="border-bottom:1px solid gray;" | Jakobsweg Rothenburg o.d.T. - Rottenburg (JRR)
+| style="border-bottom:1px solid gray;" | [[Rothenburg ob der Tauber]], Germany
+| style="border-bottom:1px solid gray;" | [[Rottenburg am Neckar]], Germany
+| style="border-bottom:1px solid gray;" | {{BrowseRelation|96761}}
+| style="border-bottom:1px solid gray;" | 
+|-
+| style="border-bottom:1px solid gray;" | Access from Colomiers
+| style="border-bottom:1px solid gray;" | Colomiers, France
+| style="border-bottom:1px solid gray;" | Via Tolosana, France
+| style="border-bottom:1px solid gray;" | {{BrowseRelation|536104}}
+| style="border-bottom:1px solid gray;" | 3 km, complete
+|-
+| style="border-bottom:1px solid gray;" | Mittelfränkischer Jakobsweg  (MFJ)
+| style="border-bottom:1px solid gray;" | [[Nürnberg]], Germany
+| style="border-bottom:1px solid gray;" | [[Rothenburg ob der Tauber]], Germany
+| style="border-bottom:1px solid gray;" | {{BrowseRelation|154579}}
+| style="border-bottom:1px solid gray;" | 
+
+|
+|- style="background-color:#BBBBBB"
+!
+
+===Variant Ways===
+! 
+! 
+! 
+! 
+!
+|- style="background-color:#EEEEEE"
+! way
+! from
+! to
+! relation
+! mapped
+! state
+|-
+| style="border-bottom:1px solid gray;" | [[Via Podiensis by Rocamadour]]
+| style="border-bottom:1px solid gray;" | 
+| style="border-bottom:1px solid gray;" | 
+| style="border-bottom:1px solid gray;" | 
+| style="border-bottom:1px solid gray;" | 
+|}
+
+== Mapping: the Relations==
+
+=== Tags ===
+Each way must be a relation according to the following example :
+
+{| class="wikitable" border="1" cellspacing="0" cellpadding="2" width="100%"
+|- style="background-color:#F8F4C2"
+! | Tag || Note
+|-
+| {{tag|type||route}}
+|-
+| {{tag|route|hiking}}
+|-
+| {{tag|pilgrimage||[[Camino de Santiago]]}}
+|-
+| {{tag|osmc:symbol||blue:blue:shell_modern}}
+|-
+| {{tag|ref|}}
+|-
+| {{tag|name|}} e.g. ''Via Podiensis, Le Puy-en-Velay - Conques''
+|-
+| {{tag|int_name|Camino de Santiago}} ||
+|-
+| {{tag|network|iwn}} ||
+|-
+| ''{{tag|symbol||''NNN''}}
+|-
+| {{tag|religion||christian}}
+|}
+
+=== Members ===
+{| class="wikitable" border="1" cellspacing="0" cellpadding="2" width="100%"
+|- style="background-color:#F8F4C2"
+! | Type
+! | Role
+! | Discussion
+|-
+| {{IconWay}} || (blank) or 'forward' or 'backward' <ref>The destination is Santiago. If the way is leading to Santiago, chose ''forward'' or left blank, otherwise chose ''backward''</ref> || the ways making up the route. 
+|-
+| {{IconArea}} {{IconNode}} || place_of_worship || Main churches along the way or at stages where are services for pilgrims.
+|-
+| {{IconArea}} {{IconNode}} || information || Information resource for pilgrims see {{tag|information}}
+|}
+
+===Other===
+Don't forget mapping the amenities ({{tagValue|amenity||shelter}}, {{tagValue|amenity||fountain}}, {{tagValue|amenity||drinking water}}, {{tagValue|amenity||bench}}, {{tagValue|amenity||toilets}}, {{tagValue|amenity||pharmacy}}... {{tag|amenity}}), shops ({{tag|shop}}) and other touristic features ({{tagValue|tourism||hostel}}, {{tagValue|tourism||camp}}, {{tagValue|tourism||picnic_site}}, {{tagValue|tourism||viewpoint}}... {{tag|tourism}}) along the way that could have interest for the pilgrims, but '''WITHOUT''' including them into the relation.
+
+==Links==
+{{:Camino de Santiago/links}}
+
+==Notes==
+* '''Needs to be corrected''': Most part of the Spanish mapped way is from the [[EV3]].
+* '''French part legislation problem''': According to the French Legistation, the GR (''Chemins de Grande Randonnée'') can't be mapped as they are intellectual property of the Fédération Française de Randonnée Pédestre. but pluri-secular ways like the ways to Santiago de Compostella should be in OpenStreetMap. For this purpose, for distinguishing the Camino, as pilgrimage, from the GR, as hiking, main churches (as Vézelay, Le Puy-en-Velay, Conques, Moissac...) must be added to the relation as ''role=place_of_worship'' (see below).
+
+==References==
+<references/>
+
+[[Category:Camino de Santiago]]

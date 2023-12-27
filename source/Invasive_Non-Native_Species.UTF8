@@ -1,0 +1,81 @@
+{{Languages|Invasive Non-Native Species}}
+[[File:Reuzenbereklauw.JPG|350px|Invasive Non-Native Species - [http://en.wikipedia.org/wiki/Giant_Hogweed Giant Hogweed] (''Heracleum mantegazzianum'') (non-native in the UK)|thumb|right]]
+[[Invasive Non-Native Species]] or [[Invasive Alien Species]] (IAS) are animals and plants that are introduced accidently or deliberately into a natural environment where they are not normally found, with serious negative consequences for their new environment.<ref>European Commission, Environment, Nature & Biodiversity, [http://ec.europa.eu/environment/nature/invasivealien/index_en.htm Invasive Alien Species], last retrieved on 27 April 2015.</ref>
+
+== Summary ==
+
+This guide explains how to map plants that adversely affect the habitats and bioregions they invade economically, environmentally, and/or ecologically. See the Wikipedia entry on [http://en.wikipedia.org/wiki/Invasive_species invasive non-native species] for more information.
+
+==Reasons for mapping==
+
+There is a need to control and manage the negative affects of invasive non-native species. It is hoped that OpenStreetMap offers an easy-to-use method for volunteers to map the location of non-native species and allow fast dissemination of this information. Further development of a custom rendered map and/or the use of more advanced GIS tools will lower the barrier for accessing and utilising geo-spatial tools for the effective management of invasive species over a large area.
+
+==Basic Tagging==
+
+===Name===
+
+Use {{tag|taxon}} to tag identified non-native species in 'latin' bi-nominal scientific name
+
+*{{tag|taxon|Heracleum mantegazzianum}}
+
+For 'common' names in a particular language use a colon followed by a two letter suffix for example in English:
+
+*{{tag|taxon:en|Giant Hogweed}} 
+
+Or in French:
+
+*{{tag|taxon:fr|Berce du Caucase}}
+
+Apply to a [[node]], [[way]] or [[area]]. Examples:
+*{{node|1317708316}}
+*{{area|116985996}}
+
+==Further Tagging==
+
+====Recording Vegetation Cover Values====
+
+If tagging an [[area]], [[way]] or [[node]] there may be reasons to record the {{tag|cover}} value of different species within an area. Presented here is a method for recording plant cover within a given area e.g. a wood or marsh. 
+
+* Percentage cover {{tag|cover:Fallopia japonica}}=51%, {{tag|cover:Heracleum mantegazzianum}}=8% 
+
+Percentage cover is usually recorded by using a [http://en.wikipedia.org/wiki/Quadrat quadrat] or measuring out a specific area and then estimating by eye the coverage of different species within that area. Note: Remember that percentage cover can add up to over 100% because there are multiple layers/canopies within a habitat.
+
+====Estimating Species Abundance====
+
+* DAFOR standing for Dominant, Abundant, Frequent, Occasional, Rare is a quick way of measuring coverage or frequency of a plant {{tag|taxon}} within a given area. The {{tag|dafor}} tag may require measuring an area or use of a quadrat but is generally a rough estimation of plant coverage. For instance {{tag|dafor:Ganzia rigens}} Dominant or {{tag|dafor:Fagus sylvatica}}Occasional.
+
+====Recording Number of Plants====
+
+The number of individual plants associated with a point, line or area may need to be recorded. This information maybe used for quantifying the amount of resource needed to manage this species in terms of pesticide application or cutting time.
+
+Use tag {{tag|plant_count}}
+
+*{{tag|plant_count:Japanese Knotweed|10}}
+
+====Recording Herbicide/Manual Treatment====
+
+*{{tag|treated}} yes/no
+*{{tag|treated:date}} date
+*{{tag|treated:method}} injection/cutting/uprooting/spray (other)
+
+==Related Projects==
+
+*[[Environmental_OSM]]
+
+==External Links==
+* [http://www.nonnativespecies.org GB non-native species secretariat]
+* European Commission, Environment, Nature & Biodiversity, [http://ec.europa.eu/environment/nature/invasivealien/index_en.htm Invasive Alien Species]
+* Belgium, [http://ias.biodiversity.be/ Invasive Species in Belgium]
+
+==Examples of Invasive Species (to the UK)==
+
+There are thousands of invasive species, please see links for further information. It would be appropriate to use OpenStreetMap to record the most prevalent and damaging plant species. Here follows a few examples of the plants in question for the UK. Please add further sections for other countries or regions. 
+
+[[File:Reuzenbereklauw.JPG|300px|Invasive Non-Native Species - [http://en.wikipedia.org/wiki/Giant_Hogweed Giant Hogweed] (''Heracleum mantegazzianum'') (in the UK)|thumb|left]] [[File:Fallopia_japonica_MdE_2.jpg|300px|Invasive Non-Native Species - [http://en.wikipedia.org/wiki/Japanese_knotweed Japanese Knotweed] (''Fallopia japonica'') (in the UK)|thumb|right]]
+
+[[File:Rhododendron-by-eiffel-public-domain-20040617.jpg|300px|Invasive Non-Native Species - [http://en.wikipedia.org/wiki/Rhododendron Rhododendron] (''Rhododendron sp'') (in the UK)|thumb|left]] [[File:Impatiens Glandulifera.jpg|300px|Invasive Non-Native Species - [http://en.wikipedia.org/wiki/Himalayan_Balsam Himalayan Balsam] (''Impatiens glandulifera'') (in the UK)|thumb|right]]
+
+[[Category:Environment]]
+[[Category:Natural]]
+[[Category:Landcover]]
+[[Category:Nature_conservation]]

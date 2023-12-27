@@ -1,0 +1,107 @@
+{{Languages}}
+[[File:SOTM 2019 Group Photo.jpg|thumb|350px|New ways to use OpenStreetMap were discussed during the [[State of the Map 2019]].]]
+Here we present you some instructions on how ''you'' can use OpenStreetMap. It's an open project, so feel free to discover new ways which are not yet documented here!
+
+If you search for a specific ready-to-use service based on OpenStreetMap, or you want to see an overview of what people already did with OpenStreetMap, please visit [[Applications of OpenStreetMap]].
+
+There is a special page on how to [[Using OpenStreetMap offline|use OpenStreetMap without internet connection]].
+
+== License and safety disclaimer ==
+
+You can use OpenStreetMap mapping and data without charge subject to two conditions; firstly that you [https://www.openstreetmap.org/copyright attribute your use of OpenStreetMap] appropriately and secondly that you [[Beginners' guide|share any corrections or improvements]] back with the project as appropriate.
+
+OpenStreetMap is not a complete or accurate map of the world and should not be used in such a manner that deficiencies, omissions, inaccuracies or errors could result in death, loss or injury. See here: [[Disclaimer]].
+
+It is particularly important to realize that '''the maps might not be reliable'''. The maps are an iterative ongoing work-in-progress. We are aiming to produce maps which ''can'' be relied upon, equally well, or better than other maps. The openly-editable wiki nature of this mapping system may help us towards this goal, however it may also mean that there will always be some inaccuracies. You should make your own judgement about the accuracy of our maps. Always use our maps in conjunction with your senses, official sources and your common sense.
+
+== Maps ==
+=== Ready-made online maps ===
+There are many specialized online-maps which use OpenStreetMap as data source. Some examples:
+<gallery>
+File:|Main OpenStreetMap homepage [https://www.openstreetmap.org]
+File:CycleLayer2.png|Bicycle map [http://opencyclemap.org/ OpenCycleMap.org]
+File:Wheelmap screenshot.png| Wheelchair user map [http://wheelmap.org/ Wheelmap.org]
+File:Komoot-outdoor-karte.PNG|Outdoor and Leisure Map [http://www.komoot.de/ www.komoot.de]
+File:OpenStreetBrowser - gastronomy - 2018.png|Allround map with thematic Overlays [https://www.openstreetbrowser.org OpenStreetBrowser]
+File:BerlinÖPNV.png|Public transport map [http://öpnvkarte.de ÖPNVkarte.de]
+File:OpenSeaMap-Warnemünde.png|Sea map [http://openseamap.org OpenSeaMap.org]
+File:Osmc riding map screen1.png|Horseriding and hiking map [http://www.wanderreitkarte.de/ wanderreitkarte.de]
+File:Wanderkarte.png|Hiking map with symbols [https://hiking.waymarkedtrails.org waymarkedtrails.org]
+File:Openfiremap wiki.jpg|Fire map (Fire departments, hydrants) [http://www.openfiremap.org/ OpenFireMap.org]
+File:Xctrails.png|Mountainbike and cross country skiing map including routing and elevation profiles [http://www.xctrails.org/ XCTrails.org]
+File:4umaps.png|Outdoor map [https://www.4umaps.com/online-freizeit-wander-fahrrad-karte.aspx/ 4UMaps]
+File:Orm-frankfurt-2013-09-21.png|[[OpenRailwayMap]]
+</gallery>
+Others may be listed on the [[List of OSM based Services|OSM Services]] page, or under the [[:Category:Slippy map|Slippy Map]] and [[:Category:Web_software|Web Software]] categories.
+
+=== Export images from OpenStreetMap ===
+[[File:Export and sharing sidebars.png|thumb|Using the [[export#Image|export function]] of our world map you can easily get snapshots.]]
+To get a snapshot from the OpenStreetMap [https://www.openstreetmap.org/ world map] as an image file, use the [[export#Image|export function]].
+
+=== Maps on your website ===
+[[File:Snapshot embedded slippy map.PNG|thumb|Example of a [http://www.fluechtlingsinitiative-bremen.de/?q=contact_en&language=en website] embedding the OpenStreetMap world map.]]
+You can use the OpenStreetMap world map on your website, either as a [[Static map images|static map image]] or with [[Export#Embeddable HTML|embedded HTML]]. If you [[Deploying your own Slippy Map|deploy your own slippy map]], things can get much more customized.
+
+=== Maps on your GPS device ===
+If you want to have a map based on OpenStreetMap on your GPS device, visit [[GPS Maps From OSM Data]] or [[OSM Map On Garmin]] for [[Garmin]] device.
+
+=== Maps on your computer or mobile phone ===
+
+See the [[Software#Mobile Devices|Mobile Device]] and [[Software#Desktop software|Desktop]] software pages.
+
+=== Offline ===
+See [[Offline Openstreetmap]].
+
+=== Create your own map ===
+To create your own map, you need to get much more technical. The [[#Web_applications|Software development]] section below gives you more details.
+
+=== 3D maps ===
+You can [[3D#Exporting|get three dimensional city models]] from OpenStreetMap.
+
+=== Usage examples ===
+See subpage [[Using_OpenStreetMap/Map_examples|map examples]].
+
+== GIS software ==
+{{Main|GIS software}}
+
+We try to document any special interoperability with OpenStreetMap for each GIS software. Try a search with the form on the top right of this page for your particular GIS software, or browse our [[:Category:GIS software]]. There is also [[GIS software#Open Source GIS software|open source GIS software]] working together with OpenStreetMap.
+
+There is also a whole bunch of [[Converting map data between formats|tools converting map data from/ to OpenStreetMap data]], including support for the popular [[Shapefiles|ESRI Shapefiles]] and [[PostGIS]] format. 
+
+It is possible to [[Downloading data|download portions of OpenStreetMap's raw data]] (in .osm) that be can exported to a wide variety of formats (including SHP, POSTGIS, geojson) for many purposes, including use in professional GIS software.
+
+== Software ==
+There is a wide variety of software available using OSM data and services. See [[Software]] page.
+
+== Software development ==
+[[File:OSM Components.svg|thumb|[[Component overview]] of the OpenStreetMap software.]]
+{{Main|Develop}}
+
+There are general help pages for software developers using OpenStreetMap:
+* [http://switch2osm.org switch2osm.org] explains how to make the switch from other data services than OpenStreetMap.
+* It may be helpful to learn [[Develop#How_the_pieces_fit_together|how the OpenStreetMap software works]].
+* Also, OpenStreetMap runs on a relatively small server deployment for its size - see our notes on [[Server Hardware|server hardware]] for details. There are also [[API v0.6]] mirrors and [https://apis.dev.openstreetmap.org Dev and Test APIs] which help with testing code that interacts with the OSM API.
+* [[Research#Software_.28routing.2C_visualization.2C_infrastructure.2C_etc..29|list of research about software]].
+
+If you have questions, ideas or just want to meet fellow developers, [[Development#Get_In_Touch|contact]] the OpenStreetMap development community. We also listed some [[books]] related to software development with OpenStreetMap.
+
+You may also wish to see the [[Related Projects|list of other projects collecting free geodata]].
+
+=== Web applications ===
+It's easy to use data sources that use OpenStreetMap data within a web application. From Javascript, common ways to do this include using [[Leaflet]] or [[OpenLayers]]. Lots of other options exist for other frameworks too, including commercial ones that work in a similar way to commercial offerings that work with non-free data. See [https://switch2osm.org/serving-tiles/ switch2osm.org] for more details.
+
+Libraries such as Leaflet and Openlayers will need data sources that use OpenStreetMap data (e.g., a source of tiles to display). If you want create your own data source that uses OpenStreetMap data see [https://switch2osm.org/serving-tiles/manually-building-a-tile-server-20-04-lts/ switch2osm.org]. Other options also exist, for example for [[vector tiles]] rather than raster.
+
+== Education ==
+[[File:UCL_mapping_party_1.jpg|thumb|Students learning the OpenStreetMap editing process, giving an introduction to GIS during a course at a [http://www.cege.ucl.ac.uk/ university in London].]]
+{{Main|Education}}
+
+OpenStreetMap has created a unique [[Education#The_OpenStreetMap_Curriculum|curriculum]] that is focused on introducing the topics that OSM addresses: mapping, open source technologies, crowd sourcing and community efforts. It is geared towards university level students. Further, OpenStreetMap has several [[Research/Ideas|open problems]] which would make good student projects. These are items that need researching and "longer-term" issues which could be worked on by students as a project separate from the core open source development progress happening within the community.
+
+== Research ==
+{{Main|Research}}
+
+At the conference SotM-EU 2011, Muki Haklay gave a talk with [https://2011.sotm-eu.org/talk@41 advice to academics interested in OSM] and the video is available online. See our [[Research]] page for details of academic research work. 
+
+[[Category:Outputs]]
+[[Category:Portals]]
