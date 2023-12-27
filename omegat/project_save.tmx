@@ -1867,6 +1867,17 @@ Ordnance Survey Maps sued the Automobile Association for copying their maps and 
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>* Attend a mapping party
+* Create your own mini mapping party</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T223805Z" creationid="Hiroshi Miura" creationdate="20231227T223805Z">
+        <seg>*マッピングパーティーに参加する
+*独自のミニマッピングパーティーを作成します</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>* Calmly adding to the discussion can help keep things tame on the mailing list.</seg>
       </tuv>
@@ -5217,6 +5228,14 @@ This script will remove your &lt;x3/>postgres-data&lt;x4/> folder created by the
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>==</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T223206Z" creationid="Hiroshi Miura" creationdate="20231227T223206Z">
+        <seg>==</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>==
 You can support this project for example by working on the following tasks:
 
@@ -5396,6 +5415,15 @@ OpenStreetMapのWebサイトでは、異なる言語を使用した異なる焦�
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210116T130650Z" creationid="miurahr" creationdate="20210116T130650Z">
         <seg>== 支援方法 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>== How do I get Involved?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T223758Z" creationid="Hiroshi Miura" creationdate="20231227T223758Z">
+        <seg>== 参加するにはどうすればいいですか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5984,6 +6012,15 @@ In the event of a disputed tagging, users are first encouraged to communicate di
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>== Tell us How You Got On ==</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T223807Z" creationid="Hiroshi Miura" creationdate="20231227T223807Z">
+        <seg>== どうやって乗ったのか教えてください ==</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>== Translated pages with a title in a non-English language ==
 If you want that a page translated to a national language have the title translated also, it is necessary to maintain anyway a page with English title preceded by language code and colon.</seg>
@@ -5991,6 +6028,15 @@ If you want that a page translated to a national language have the title transla
       <tuv lang="ja" changeid="miurahr" changedate="20170522T121556Z" creationid="miurahr" creationdate="20170522T121556Z">
         <seg>== 英語以外の言語による題名を持つ翻訳ページ == 
 各言語のページに翻訳された題名を付ける場合は、言語コードとコロンで始まる英語の題名のページを修正する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>== What's in it for Home Educators?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T223204Z" creationid="Hiroshi Miura" creationdate="20231227T223204Z">
+        <seg>==ホームエデュケーターにとってのメリットは何ですか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6053,6 +6099,16 @@ A class of Easter Eggs can be implemented by digital map providers who do not wa
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>=== Elementary School Lessons Plans ===
+[[Elementary School Lessons Plans]]</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T223756Z" creationid="Hiroshi Miura" creationdate="20231227T223756Z">
+        <seg>=== 小学校の授業計画 ===
+[[Elementary School Lessons Plans]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>=== Examples from Google Maps ===
 
 (These are examples from Google Maps gathered back when google used Tele Atlas for European data coverage)
@@ -6065,6 +6121,15 @@ A class of Easter Eggs can be implemented by digital map providers who do not wa
 （これらは Google がヨーロッパのデータを網羅するために Tele Atlas を使った時に、 Google マップに収録されたものです）
 
 * [http://maps.google.co.uk/?q=Moat+Lane,+Finchley,+London+N3&amp;ie=UTF8&amp;ll=51.591223,-0.19122&amp;spn=0.006066,0.01251&amp;z=17&amp;layer=c&amp;cbll=51.591153,-0.191742&amp;panoid=BAXZH3K-fq6Ye3VArtVN6A&amp;cbp=12,110.84892024397425,,0,-2.487135506003425 Moat Lane, Finchley, London N3].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>=== Excuse to Meet Up with Other Home Educators ===</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T223629Z" creationid="Hiroshi Miura" creationdate="20231227T223629Z">
+        <seg>===他のホームエデュケーターと会う言い訳===</seg>
       </tuv>
     </tu>
     <tu>
@@ -6085,6 +6150,15 @@ Overpass QL の実行状態には下記のものがあります。
 *[https://en.wikipedia.org/wiki/Stack_(abstract_data_type)  スタック]： Overpass QLの''ブロックステートメント''の実行中
 === 集合（set） ===
 Overpass QLは集合を操作します。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>=== Experiencing GPS Technology ===</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T223302Z" creationid="Hiroshi Miura" creationdate="20231227T223302Z">
+        <seg>=== GPS技術を体験する===</seg>
       </tuv>
     </tu>
     <tu>
@@ -6357,6 +6431,32 @@ Overpass QL source code is divided into ''statements,'' and every statement ends
       <tuv lang="ja" changeid="miurahr" changedate="20200813T122201Z" creationid="miurahr" creationdate="20200813T122201Z">
         <seg>=== ステートメント（文） ===
 Overpass QL のコードは''ステートメント'' からなっており、それぞれのステートメントはセミコロン &lt;code>;&lt;/code> で終わります。ステートメントは逐次処理され、実行状態がそれに応じて変化していきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>=== Understanding Maps ===</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T223239Z" creationid="Hiroshi Miura" creationdate="20231227T223222Z">
+        <seg>=== 地図を理解する ===</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>=== Understanding the Local Area ===</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T223546Z" creationid="Hiroshi Miura" creationdate="20231227T223546Z">
+        <seg>=== 地域を理解する ===</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>=== Using Computers ===</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T223427Z" creationid="Hiroshi Miura" creationdate="20231227T223427Z">
+        <seg>=== コンピュータの使用 ===</seg>
       </tuv>
     </tu>
     <tu>
@@ -6992,6 +7092,14 @@ There is a need to control and manage the negative affects of invasive non-nativ
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T112233Z" creationid="miurahr" creationdate="20190107T112233Z">
         <seg>そのための仕組みが別途提供されます。現在はこちらの http://wiki.openstreetmap.org/wiki/Attribution ウェブページです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A mini mapping party is a great reason to get a few families together to tackle mapping an area as a team.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T223739Z" creationid="Hiroshi Miura" creationdate="20231227T223739Z">
+        <seg>ミニマッピングパーティーは、家族を複数集めてチームとしてエリアのマッピングに取り組むチャンスです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7930,6 +8038,15 @@ There is a need to control and manage the negative affects of invasive non-nativ
       </tuv>
       <tuv lang="ja">
         <seg>有効なスタイル:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>Actively participating in the OpenStreetMap project can spark children's interest in learning about many different topics.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T223218Z" creationid="Hiroshi Miura" creationdate="20231227T223218Z">
+        <seg>OpenStreetMapプロジェクトに積極的に参加することで、子どもたちはさまざまなトピックについて学ぶことに興味を持つようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9941,6 +10058,14 @@ There is a need to control and manage the negative affects of invasive non-nativ
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>All the software used in OpenStreetMap is open source and so the enthusiastic can get involved with understanding the programs and the IT plumbing needed to make a complex system like OpenStreetMap work.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T223615Z" creationid="Hiroshi Miura" creationdate="20231227T223543Z">
+        <seg>OpenStreetMapで使われているソフトウェアはすべてオープンソースなので、熱心な人はOpenStreetMapのような複雑なシステムを動作させるために必要なプログラムやIT技術の組み合わせを理解することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en-US">
         <seg>All these parts should be added into the [[Relation:network|network relation]] {{Relation|153968}}.</seg>
@@ -10929,6 +11054,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Any parents and children can get involved with OpenStreetMap, but given the time and flexibility available to home educated families, they may particularly enjoy taking an active part in the OpenStreetMap effort.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T223156Z" creationid="Hiroshi Miura" creationdate="20231227T223156Z">
+        <seg>どんな親子でもOpenStreetMapに関わることができます。家族で過ごす時間と柔軟性を考えると、特に家庭での教育を重視する家族にとっては、OpenStreetMapに積極的に参加することにメリットが多いと感じるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Any subsequent edits, whether minor formatting or content issue, or substantial changes, are part of community efforts within the wiki and not yet officially adopted by the OSMF for use on communication channels.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200817T224522Z" creationid="miurahr" creationdate="20200817T224522Z">
@@ -11653,6 +11786,15 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T115553Z" creationid="miurahr" creationdate="20201123T115553Z">
         <seg>住居番号が示すように、この「Grünewaldstraße」は実際には「Grünewald」とも呼ばれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>As you progress in experience you can move on to more sophisticated programs with more options to add richer details to the maps.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T223538Z" creationid="Hiroshi Miura" creationdate="20231227T223538Z">
+        <seg>経験を積むにつれて、マップに豊富な詳細を追加するためのより多くのオプションを備えた、より洗練されたプログラムに進むことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29474,6 +29616,15 @@ or just retry</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>Edit the page to describe what you did and what others might like to copy or avoid</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T223811Z" creationid="Hiroshi Miura" creationdate="20231227T223811Z">
+        <seg>ページを編集して、自分が何をしたか、他の人が何をコピーまたは回避したいかを説明してください</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Edit the raw tags and members of this turn restriction</seg>
       </tuv>
@@ -29599,6 +29750,15 @@ or just retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>編集者:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>Editing OpenStreetMap pages shows a very direct correlation between the lines on the map and the physical geography of the world.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T223252Z" creationid="Hiroshi Miura" creationdate="20231227T223252Z">
+        <seg>OpenStreetMapのページを編集すると、地図上の線と世界の物理的な地理との間に非常に直接的な相関関係があることが分かります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35536,6 +35696,15 @@ If tagging an [[area]], [[way]] or [[node]] there may be reasons to record the {
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>GPS technology is a key way for contributors to collect data to build the maps.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T223305Z" creationid="Hiroshi Miura" creationdate="20231227T223305Z">
+        <seg>GPS テクノロジは、寄稿者がデータを収集してマップを作成するための重要な方法です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>GPS time: {0}</seg>
       </tuv>
@@ -36230,6 +36399,15 @@ If tagging an [[area]], [[way]] or [[node]] there may be reasons to record the {
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T063013Z" creationid="miurahr" creationdate="20201120T063013Z">
         <seg>二度三度、そしてさらに多くの目でマッピングされた地物の確認を行うことは、世界中から利用されるOpenStreetMapのデータ品質を確認する上でたいへん重要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>Getting started with this is really easy.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T223524Z" creationid="Hiroshi Miura" creationdate="20231227T223524Z">
+        <seg>これを始めるのは本当に簡単です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37457,6 +37635,15 @@ If tagging an [[area]], [[way]] or [[node]] there may be reasons to record the {
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>Here are some possibilities:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T223221Z" creationid="Hiroshi Miura" creationdate="20231227T223221Z">
+        <seg>いくつかの可能性を次に示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Here is a [[OSB Reports|final statistic]] of the OSB usage.</seg>
       </tuv>
@@ -37934,6 +38121,15 @@ If tagging an [[area]], [[way]] or [[node]] there may be reasons to record the {
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200906T105816Z" creationid="miurahr" creationdate="20200906T105816Z">
         <seg>待機位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>Holding the devices in your hand and seeing them in action leads to lots more questions as to how they are working, what satellites are and so on.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T223314Z" creationid="Hiroshi Miura" creationdate="20231227T223314Z">
+        <seg>デバイスを手に持って動作しているのを見ると、デバイスがどのように機能しているか、衛星とは何かなど、さらに多くの疑問が湧いてきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38810,6 +39006,15 @@ If tagging an [[area]], [[way]] or [[node]] there may be reasons to record the {
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>If you attend a [[mapping party]] you will have the chance to borrow a GPS receiver and use it to gather data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T223309Z" creationid="Hiroshi Miura" creationdate="20231227T223309Z">
+        <seg>[[マッピングパーティー]]に参加すると、GPS受信機を借りてデータを集めることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>If you believe that you can improve something, then do it.</seg>
       </tuv>
@@ -38855,6 +39060,14 @@ If tagging an [[area]], [[way]] or [[node]] there may be reasons to record the {
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T111929Z" creationid="miurahr" creationdate="20190107T111929Z">
         <seg>あなたがデータを投稿することは、あなたが知る限りにおいて、OSMFにそのコンテンツを我々の現在のライセンス条項の下に利用、配布することを認める権利を持っているということを示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you get really carried away you can look at the maths of how it knows where you are (good luck!).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T223424Z" creationid="Hiroshi Miura" creationdate="20231227T223424Z">
+        <seg>本当に夢中になったら、GPSで現在地を算出するための数学に辿りつくこともできるでしょう(幸運を祈ります!</seg>
       </tuv>
     </tu>
     <tu>
@@ -41781,6 +41994,15 @@ File:GPSTest screenshot.png|GPSTest [https://play.google.com/store/apps/details?
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T111746Z" creationid="miurahr" creationdate="20190107T111653Z">
         <seg>これは投稿が行われる際の唯一の規約である必要は無く、我々の全般的な原理原則、特にODbLとの大きな齟齬が無い場合にはこの規約の下でなくとも同意することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>It goes without saying that playing with OpenStreetMap teaches you about maps.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T223226Z" creationid="Hiroshi Miura" creationdate="20231227T223226Z">
+        <seg>言うまでもなく、OpenStreetMapで遊ぶことで地図について学ぶことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54340,6 +54562,14 @@ nodes and the new nodes will be selected.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Once hooked you will find yourself being nagged to take detours down unmapped streets in order to find their name and update the database on your return.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T223704Z" creationid="Hiroshi Miura" creationdate="20231227T223623Z">
+        <seg>一度夢中になると、地図に載っていない道をわざわざ通って、通りの名前を見つけてデータベースを更新するようにしつこく言われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Once the region is fully mapped, the user finishes it by setting the process points to the maximum value and maybe starts working on the next task.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T041119Z" creationid="miurahr" creationdate="20201120T041119Z">
@@ -54352,6 +54582,15 @@ nodes and the new nodes will be selected.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T062031Z" creationid="miurahr" creationdate="20201120T062031Z">
         <seg>マッピングが完了したら、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>Once you have your GPS traces and scribbled notes about places of interest, you use the OpenStreetMap software to draw the map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T223521Z" creationid="Hiroshi Miura" creationdate="20231227T223508Z">
+        <seg>GPSトレースと興味のある場所に関する走り書きのメモを入手したら、OpenStreetMapソフトウェアを使用して地図を描画します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55529,6 +55768,15 @@ was open.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>OpenStreetMapフォーマット(*.osm)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>OpenStreetMap is a great excuse to investigate your local area.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T223618Z" creationid="Hiroshi Miura" creationdate="20231227T223618Z">
+        <seg>OpenStreetMapは、あなたの地域を調査するための素晴らしい口実です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77469,6 +77717,15 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>The excitement of finding a simple typo in a street name and then fixing it is infectious for both children and parents a like.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T223529Z" creationid="Hiroshi Miura" creationdate="20231227T223529Z">
+        <seg>通りの名前の単純なタイプミスを見つけて修正する興奮は、子供と親の両方に伝染します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The file must begin with a polygon name</seg>
       </tuv>
@@ -78011,6 +78268,15 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>The openness of the project means that it is a great tool to help children learn about mapping, geography, computers and their local area.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T222807Z" creationid="Hiroshi Miura" creationdate="20231227T222807Z">
+        <seg>このプロジェクトのオープン性は、子供たちが地図、地理、コンピューター、そして自分の地域について学ぶのに役立つ素晴らしいツールであることを意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The original copyright holder has, what is called, [[wikipedia:Copyright#Exclusive_rights|exclusive rights]] over the work and is thus the only authority that has the ability to alter permissions and use.</seg>
       </tuv>
@@ -78089,6 +78355,15 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
       </tuv>
       <tuv lang="ja">
         <seg>プリセット &lt;i>{0}&lt;/i> は適切ではないのため適用できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>The process of collecting data and then editing it on a computer lends itself nicely to splitting into small groups and sharing knowledge and equipment.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T223743Z" creationid="Hiroshi Miura" creationdate="20231227T223743Z">
+        <seg>データを収集し、コンピューターで編集するプロセスは、小さなグループに分かれて知識と機器を共有するのに適しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78441,6 +78716,15 @@ A dev/testing instance of the task manager is running here: http://tasks-dev.hot
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T045912Z" creationid="miurahr" creationdate="20201120T045912Z">
         <seg>サーバはポート&lt;x1/>8080&lt;x2/>で起動し、動作しているかどうかをチェックする情報ページがあります:&lt;x3/>localhost:8080/info&lt;x4/></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>The simplest editing software runs straight from your web browser and is a doddle to use.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T223526Z" creationid="Hiroshi Miura" creationdate="20231227T223526Z">
+        <seg>最もシンプルな編集ソフトウェアは、Webブラウザから直接実行され、使用するのは簡単です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -85614,6 +85898,15 @@ Create a new one.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>Use of [[Walking Papers]] will allow students to see a map as a diagram that can be directly written on, interpreted and incorporated into a new version.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T223300Z" creationid="Hiroshi Miura" creationdate="20231227T223300Z">
+        <seg>[[Walking Papers]]を使用すると、生徒は地図を図として見ることができ、直接書き込んだり、解釈したり、新しいバージョンに組み込んだりすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Use only the article title instead of a URL for wikipedia:‹language› tags</seg>
       </tuv>
@@ -88853,6 +89146,14 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>While capturing the data is one half of the OpenStreetMap equation, using a computer to translate the raw data into OpenStreetMap pictures is the other.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T223506Z" creationid="Hiroshi Miura" creationdate="20231227T223506Z">
+        <seg>データ取得はOpenStreetMapの方程式の半分ですが、コンピュータを使って生データをOpenStreetMapの画像に変換するのはもう半分です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>While this may be due to the fact that the Beesley's Point Bridge (the span to the left of the Garden State Parkway) is closed indefinitely, the fact is that US 9 has not been officially rerouted off of the closed bridge.&lt;/s> Google has since moved the US 9 markings to the Garden State Parkway, which is an alternative to the closed Beesley's Point Bridge but is not the official route.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T115955Z" creationid="miurahr" creationdate="20201123T115955Z">
@@ -90251,6 +90552,15 @@ Because the network is very large, it is not practical to put all its ways to on
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>You have great motivation to read a map if you are doing so with the purpose of finding the errors and omissions so that you can fix them.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T223245Z" creationid="Hiroshi Miura" creationdate="20231227T223227Z">
+        <seg>地図を読むのは、誤りや脱落を見つけて修正できるようにするという目的であれば、大きなモチベーションになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>You have some unsaved map changes</seg>
       </tuv>
@@ -91190,6 +91500,14 @@ Because the network is very large, it is not practical to put all its ways to on
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200817T220457Z" creationid="miurahr" creationdate="20200817T220457Z">
         <seg>OpenStreetBugsの[[/Phase Out]]が開始され、ユーザは[[Notes]]の使用を推奨されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[Category:Education]]</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T223812Z" creationid="Hiroshi Miura" creationdate="20231227T223812Z">
+        <seg>[[Category:Education]]</seg>
       </tuv>
     </tu>
     <tu>
@@ -107297,6 +107615,16 @@ This is a draft for a project to associate 3D models of buildings, terrain, othe
 {{Ambox
 | type  = danger
 | text  =OpenStreetBugsは非推奨です。&lt;br>OpenStreetMap[[Notes Notes]]システムに新しいバグレポートを追加してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{Languages|OpenStreetMap and Home Education}}
+The OpenStreetMap project allows anyone to get involved with making maps.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T222835Z" creationid="Hiroshi Miura" creationdate="20231227T222753Z">
+        <seg>{{Languages|OpenStreetMap and Home Education}}
+OpenStreetMapプロジェクトでは、誰でも地図作成に参加できます。</seg>
       </tuv>
     </tu>
     <tu>
