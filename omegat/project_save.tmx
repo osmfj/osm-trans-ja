@@ -6424,6 +6424,17 @@ The [[Mailing lists|moderators]] for the mailing lists will follow the guideline
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>=== Publications about OSM ===
+If you are aware of a publication about OSM, feel free to add it to the list below, if it is missing.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T225840Z" creationid="Hiroshi Miura" creationdate="20231227T225840Z">
+        <seg>=== OSMに関する出版物 ===
+OSMに関する出版物をご存知の方は、以下のリストにご自由に追加してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>=== Statements ===
 Overpass QL source code is divided into ''statements,'' and every statement ends with a semicolon &lt;code>;&lt;/code>.</seg>
@@ -6623,12 +6634,51 @@ The task bounding box should display automatically in iD.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>===Austria [[Image:Flag of Austria.svg|border|20px]]===</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T230346Z" creationid="Hiroshi Miura" creationdate="20231227T230346Z">
+        <seg>===オーストリア [[Image:Flag of Austria.svg|border|20px]]===</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>===Brasil [[File:Flag of Brazil (1960–1968).svg|border|20x|20x20px]]===
+{{Research publication</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T230448Z" creationid="Hiroshi Miura" creationdate="20231227T225953Z">
+        <seg>===ブラジルl [[File:Flag of Brazil (1960–1968).svg|border|20x|20x20px]]===
+{{Research publication</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>===Extra considerations===
 OpenStreetMap is not a forum for politics, but a means for understanding.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T001528Z" creationid="miurahr" creationdate="20200818T001528Z">
         <seg>===その他の考慮事項===
 OpenStreetMap は政治のためのフォーラムではなく、理解のための手段です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>===Greetings from our community===
+OpenStreetMap has a vibrant and open community, and we are happy about everyone who takes an interest in us.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T225550Z" creationid="Hiroshi Miura" creationdate="20231227T225550Z">
+        <seg>===コミュニティからのご挨拶===
+OpenStreetMapには活気に満ちたオープンなコミュニティがあり、私たちに興味を持ってくださるすべての人を嬉しく思います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>===Ideas for students===
+{{main|/Ideas}}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T225825Z" creationid="Hiroshi Miura" creationdate="20231227T225825Z">
+        <seg>===学生のためのアイデア===
+{{main|/Ideas}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -6737,6 +6787,17 @@ Apply to a [[node]], [[way]] or [[area]].</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>==By geography==
+Below a list of universities and scientific institutions that are involved by different projects.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T225945Z" creationid="Hiroshi Miura" creationdate="20231227T225945Z">
+        <seg>==地域別==
+以下は、さまざまなプロジェクトに関与している大学や科学機関のリストです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en-US">
         <seg>==Colour coding and shading==</seg>
@@ -6767,6 +6828,15 @@ See [[Srtm2Osm]]; e.g.:</seg>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T074151Z" creationid="Hiroshi Miura" creationdate="20231227T074151Z">
         <seg>==立面図等高線==
  [[Srtm2Osm]]参照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>==Introduction==</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T225247Z" creationid="Hiroshi Miura" creationdate="20231227T225247Z">
+        <seg>==はじめに==</seg>
       </tuv>
     </tu>
     <tu>
@@ -6828,6 +6898,15 @@ There is a need to control and manage the negative affects of invasive non-nativ
 &lt;references/>
 
 [[Category:Camino de Santiago]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>==See also==</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T230013Z" creationid="Hiroshi Miura" creationdate="20231227T230013Z">
+        <seg>==関連項目==</seg>
       </tuv>
     </tu>
     <tu>
@@ -6916,6 +6995,14 @@ There is a need to control and manage the negative affects of invasive non-nativ
       </tuv>
       <tuv lang="ja">
         <seg>複数の行き先の方向を示す標識や道標です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A [https://www.cs.nuim.ie/~pmooney/eurosdr2017/Rob_Lemmens_VGI_Knowledge_Portal_Leuven.pdf VGI Knowledge Portal] was developed to collect research on the broader subject of volunteered geodata.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T225536Z" creationid="Hiroshi Miura" creationdate="20231227T225536Z">
+        <seg>[https://www.cs.nuim.ie/~pmooney/eurosdr2017/Rob_Lemmens_VGI_Knowledge_Portal_Leuven.pdf VGI知識ポータル]は、ボランタリー地理データのより広いテーマの研究を収集するために開発されました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10435,6 +10522,15 @@ There is a need to control and manage the negative affects of invasive non-nativ
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>Alternatively you can drop a note on [[Talk:Research]].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T225900Z" creationid="Hiroshi Miura" creationdate="20231227T225900Z">
+        <seg>あるいは、[[Talk:Research]]にメモを投下することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Alternatively you can use &lt;x1/>Omega-T&lt;x2/> with the
 &lt;x3/>Okapi filters plugin&lt;x4/> for translation.</seg>
@@ -10676,6 +10772,15 @@ There is a need to control and manage the negative affects of invasive non-nativ
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>An easy way to get involved in the community is to [https://lists.openstreetmap.org/listinfo/science join the OSM science mailing list], where mappers interested in science and scientists interested in OSM meet.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T225811Z" creationid="Hiroshi Miura" creationdate="20231227T225811Z">
+        <seg>コミュニティに参加する簡単な方法は、科学に興味のあるマッパーとOSMに関心のある科学者が出会う[https://lists.openstreetmap.org/listinfo/science OSMサイエンスメーリングリストに参加する]ことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>An empty value deletes the tag.</seg>
       </tuv>
@@ -10841,6 +10946,14 @@ There is a need to control and manage the negative affects of invasive non-nativ
       </tuv>
       <tuv lang="ja">
         <seg>街や地域の情報を得られる場所です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An overview of OSM related reserch by [http://www.mdpi.com/2220-9964/6/7/195/htm Sukhjit Singh Sehra (Using Latent Semantic Analysis to Identify Research Trends in OpenStreetMap)].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T225519Z" creationid="Hiroshi Miura" creationdate="20231227T225519Z">
+        <seg>[https://www.mdpi.com/2220-9964/6/7/195/htm Sukhjit Singh Sehra（OpenStreetMapの研究トレンドを見究める潜在的意味の分析活用）]によるOSM研究の概要。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11782,6 +11895,14 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As a community, we're sometimes a little sad if the '''first we hear of an academic project is when the paper is graded or published''' - maybe we could have offered some advice, or put you in touch with someone else who does similar work.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T225755Z" creationid="Hiroshi Miura" creationdate="20231227T225755Z">
+        <seg>コミュニティとして、「学術プロジェクトについて最初に聞くタイミングが、論文が採点または出版されたとき」だと、少し悲しくなることがあります - アドバイスを提供したり、同様の仕事をしている他の人と連絡を取ったりすることもできたかもしれないからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As the housenumbers suggest, this "Grünewaldstraße" is in fact named "Grünewald", too.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T115553Z" creationid="miurahr" creationdate="20201123T115553Z">
@@ -11947,6 +12068,15 @@ http://www.freemap.sk/ などに基づく自分自身のバージョンを自由
       </tuv>
       <tuv lang="ja">
         <seg>削除するオブジェクトが1つ以上必要です、空のコレクションを受け取りました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>At the conference SotM-EU 2011, Muki Haklay gave a talk with [https://www.youtube.com/watch?v=s-6ssb7zflI advice to academics interested in OSM] and the video is available online.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T225804Z" creationid="Hiroshi Miura" creationdate="20231227T225804Z">
+        <seg>SotM-EU 2011カンファレンスでMuki Haklay氏が[OSMに興味のある研究者への https://www.youtube.com/watch?v=s-6ssb7zflI アドバイス]と題した講演を行い、その動画はオンラインで公開されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14461,6 +14591,14 @@ After: wikipedia={0}:{2}</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T062914Z" creationid="miurahr" creationdate="20201120T062914Z">
         <seg>ただし、強い力には強い責任が伴うことを忘れないでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But most of all, we are a fascinating and vast community.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T225230Z" creationid="Hiroshi Miura" creationdate="20231227T225230Z">
+        <seg>しかしなんといっても、私たちは大規模で魅力的なコミュニティです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23787,6 +23925,14 @@ Do you want to keep it?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>D. work that hopes to examine the means by which some data are privileged for collection over others, and how this might be leveraged to correct data with poor accuracy.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T230204Z" creationid="Hiroshi Miura" creationdate="20231227T230204Z">
+        <seg>D. work that hopes to examine the means by which some data are privileged for collection over others, and how this might be leveraged to correct data with poor accuracy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DC</seg>
       </tuv>
       <tuv lang="ja">
@@ -26223,6 +26369,14 @@ Do you want to keep it?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200906T110103Z" creationid="miurahr" creationdate="20200906T110103Z">
         <seg>ダイブセンター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dive into some technical details of current [[Development]] or if you prefer, take a look at some [[Books]] about OpenStreetMap.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T225421Z" creationid="Hiroshi Miura" creationdate="20231227T225258Z">
+        <seg>現行の[[JA:開発|開発]]を技術的に深堀りするか、もしよろしければ、OpenStreetMapに関する[[JA:Books|書籍]]をご覧ください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35568,6 +35722,15 @@ If tagging an [[area]], [[way]] or [[node]] there may be reasons to record the {
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>Further projects might be on the [[Google Summer of Code]].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T225834Z" creationid="Hiroshi Miura" creationdate="20231227T225834Z">
+        <seg>[[Google Summer of Code]] には、さらに多くのプロジェクトがあるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>G&amp;eoImage</seg>
       </tuv>
@@ -36351,6 +36514,14 @@ If tagging an [[area]], [[way]] or [[node]] there may be reasons to record the {
       </tuv>
       <tuv lang="ja">
         <seg>新しい cookie を入手してください(セッションがタイムアウトしました)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Get a quick overview at [[About]].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T225409Z" creationid="Hiroshi Miura" creationdate="20231227T225254Z">
+        <seg>[[JA:OpenStreetMap_について|「OpenStreetMapについて」]]で簡単な概要を手に入れましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39079,6 +39250,15 @@ If tagging an [[area]], [[way]] or [[node]] there may be reasons to record the {
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>If you know of a paper about OSM that is not yet included in Wikidata, feel free to also add it there or drop a note (or a list!) on the talk page of this page: [[Talk:Research]].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T225935Z" creationid="Hiroshi Miura" creationdate="20231227T225935Z">
+        <seg>もし、ウィキデータにまだ含まれていないOSMに関する論文をご存知でしたら、遠慮なくそちらに追加するか、このページのトークページにメモ(またはリスト)をドロップしてください: [[Talk:Research]]。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>If you live in one of these countries, then your taxes pay for the mapping and then you have to pay again to get a copy of it.</seg>
       </tuv>
@@ -40140,6 +40320,14 @@ If tagging an [[area]], [[way]] or [[node]] there may be reasons to record the {
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201110T234719Z" creationid="miurahr" creationdate="20201110T234719Z">
         <seg>.osmデータファイル''{0}'' -</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition the [https://meta.wikimedia.org/wiki/WikiCite WikiCite] project inside [[Wikidata]] holds offers the possibility for a more structured collection of publication metadata.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T225924Z" creationid="Hiroshi Miura" creationdate="20231227T225916Z">
+        <seg>さらに、[[Wikidata]]内の[https://meta.wikimedia.org/wiki/WikiCite WikiCite]プロジェクトは、出版メタデータのより構造化されたコレクションの可能性を提供しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55773,6 +55961,15 @@ was open.</seg>
     <tu>
       <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
       <tuv lang="en-US">
+        <seg>OpenStreetMap has several open problems which would make good '''student projects'''.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T225827Z" creationid="Hiroshi Miura" creationdate="20231227T225827Z">
+        <seg>OpenStreetMapには、良い「学生プロジェクト」を作るための未解決の問題がいくつかあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
         <seg>OpenStreetMap is a great excuse to investigate your local area.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T223618Z" creationid="Hiroshi Miura" creationdate="20231227T223618Z">
@@ -55793,6 +55990,14 @@ was open.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T013054Z" creationid="miurahr" creationdate="20200818T013054Z">
         <seg>OpenStreetMap は[[Trademark|商標]]でもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenStreetMap is fascinating and vast in terms of scale and variety of the data we offer, the technology we build, and uses we find for the data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T225222Z" creationid="Hiroshi Miura" creationdate="20231227T225222Z">
+        <seg>OpenStreetMapは、提供される膨大で多様なデータ、構築されたテクノロジー、データの活用アイデアが、大規模で魅力的です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59468,6 +59673,15 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20190107T214430Z" creationid="miurahr" creationdate="20190107T214430Z">
         <seg>もう一度試してみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en-US">
+        <seg>Please use the [[Template:Research publication]] to do so.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T225855Z" creationid="Hiroshi Miura" creationdate="20231227T225855Z">
+        <seg>[[Template:Research publication]]を使用してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65568,6 +65782,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja">
         <seg>資源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Resources for scientific processing and analysis of OSM data are reviewed at [[OSM_Scientific_Tools|OSM Scientific Tools]].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T225501Z" creationid="Hiroshi Miura" creationdate="20231227T225301Z">
+        <seg>OSMデータの科学的処理と分析のためのツールは、[[OSM_Scientific_Tools|OSM Scientific Tools]]で概説されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -79537,6 +79759,24 @@ This makes use of a very simple &lt;x1/>OAuth-Dummy server&lt;x2/>.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>There's no reason to study OSM from inside an ivory tower like you would study a colony of ants.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T225556Z" creationid="Hiroshi Miura" creationdate="20231227T225556Z">
+        <seg>アリのコロニーを研究するように、象牙の塔の中からOSMを研究する理由はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>These are items that need researching and "longer-term" issues which could be worked on by students as a project separate from the core open source [[develop]]ment progress happening within the community.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T225829Z" creationid="Hiroshi Miura" creationdate="20231227T225829Z">
+        <seg>これらは、研究が必要な項目であり、コミュニティ内で起こっているコアオープンソースの[[開発]]の進捗状況とは別のプロジェクトとして学生が取り組むことができる「長期的な」問題です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>These designations were removed in the late 1980s when the oyster industry collapsed, but the signs remain and the roads are mapped as such.</seg>
       </tuv>
@@ -79953,6 +80193,15 @@ This makes use of a very simple &lt;x1/>OAuth-Dummy server&lt;x2/>.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>This is for OSM related GIS projects only!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T225950Z" creationid="Hiroshi Miura" creationdate="20231227T225950Z">
+        <seg>これはOSM関連のGISプロジェクト専用です!</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>This is just a local installation into the &lt;x1/>node_modules&lt;x2/> folder.</seg>
       </tuv>
@@ -80030,6 +80279,15 @@ This makes use of a very simple &lt;x1/>OAuth-Dummy server&lt;x2/>.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210204T145332Z" creationid="miurahr" creationdate="20210204T145332Z">
         <seg>これは、ビジネスロジックの余地を制限するとともに、OSMF内の興味の衝突を招いています。 それは、ビジネスロジックの運営をせずに、ビジネスとビジネスの論理の影響をコントロールしたいということです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>This list is on scientific work only, please paste project specific content on a separate page to keep it short and readable.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T225947Z" creationid="Hiroshi Miura" creationdate="20231227T225947Z">
+        <seg>このリストは科学的な研究のみに関するものですので、プロジェクト固有のコンテンツを別のページに貼り付けて、短く読みやすくしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80674,6 +80932,15 @@ This makes use of a very simple &lt;x1/>OAuth-Dummy server&lt;x2/>.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>Those with "OpenStreetMap" as a main subject may be [https://tools.wmflabs.org/scholia/topic/Q936 visualised in Scholia], a WikiCite tool.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T225930Z" creationid="Hiroshi Miura" creationdate="20231227T225917Z">
+        <seg>「OpenStreetMap」を主な主題としているものは、WikiCiteツールである[https://tools.wmflabs.org/scholia/topic/Q936 Visualization in Scholia]かもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Threshold:</seg>
       </tuv>
@@ -81077,6 +81344,14 @@ projections and retry</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T114535Z" creationid="miurahr" creationdate="20200818T114535Z">
         <seg>これを修正するには、欠落しているリレーションメンバーを先にダウンロードする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To learn more about the project itself, the wiki offers a wealth of (sometimes a little disorganised) information.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T225346Z" creationid="Hiroshi Miura" creationdate="20231227T225249Z">
+        <seg>プロジェクト自体をもっと学ぶために、Wikiは豊富な（時々少しまとまりのない）情報を提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -84078,6 +84353,14 @@ Server message is '%2'</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200819T112954Z" creationid="miurahr" creationdate="20200819T112954Z">
         <seg>パラメータ''index''に予期しない値があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unfortunately, as of June 2021 it seems not available.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T225540Z" creationid="Hiroshi Miura" creationdate="20231227T225540Z">
+        <seg>しかし残念ながら、2021年6月現在利用はできないようです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -89098,6 +89381,15 @@ Do you want to continue without validating the file ?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Whether you're interested in studying the community itself, or working with the datasets, we hope you'll become a part of it and share your knowledge, extend the map, improve existing technologies, and explore new horizons.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T225245Z" creationid="Hiroshi Miura" creationdate="20231227T225245Z">
+        <seg>あなたがコミュニティ自体を学ぶことに興味がある場合でも、データセットを取り扱うことに興味がある場合でも、あなたがコミュニティの一員となって知識を共有し、マップを拡張し、既存のテクノロジーを改良し、新しい領域を探求することを私たちは願います。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Which gradually become more direct up to the point where members may be blocked.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200817T232842Z" creationid="miurahr" creationdate="20200817T232842Z">
@@ -90230,6 +90522,14 @@ The tasking manager was designed and built for the [[Humanitarian OpenStreetMap 
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201110T231818Z" creationid="miurahr" creationdate="20201110T231818Z">
         <seg>ローカル言語({1})の&lt;a href="{2}">ヘルプトピック&lt;/a>と英語の&lt;a href="{3}">ヘルプトピック&lt;/a>の両方を編集できます。&lt;/p>&lt;/html></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can come out and talk to us, tell us what you're up to, even discuss your methods or preliminary results, and you will generally have full cooperation from the community.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T225719Z" creationid="Hiroshi Miura" creationdate="20231227T225719Z">
+        <seg>参加して取り組みを私たちと議論したり、その方法や予備的な結果について話し合ったりすることで、コミュニティから大きな協力を得られるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -91674,6 +91974,14 @@ Click on the heading for one of the projects you have completed a square(s) for 
       </tuv>
       <tuv lang="ja">
         <seg>[v{0}]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>__TOC__</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T225937Z" creationid="Hiroshi Miura" creationdate="20231227T225937Z">
+        <seg>__TOC__</seg>
       </tuv>
     </tu>
     <tu>
@@ -107653,6 +107961,25 @@ Relief maps are maps with each pixel colour-coded according to the ground height
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{Languages|Research}}
+{{otheruses|OSM school activities|link=Education}}
+{{otheruses|tagging research campus|link=Tag:amenity%3Dresearch_institute}}
+{{otheruses|tagging research office|link=Tag:office%3Dresearch}}
+From a '''research''' perspective, OpenStreetMap is deservedly attracting a lot of attention from universities and similar institutions, and from academic scholars in 'geomatics', 'neogeography', 'volunteered geo-information' (VGI), 'digital cartography', 'participatory geoinformatics' etc.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T225208Z" creationid="Hiroshi Miura" creationdate="20231227T225025Z">
+        <seg>{{Languages|Research}}
+{{Translation not complete}}
+
+{{otheruses|OSMの学校での活動|link=JA:教育}}
+{{otheruses|研究所のタグ付け|link=JA:Tag:amenity%3Dresearch_institute}}
+{{otheruses|研究開発事務所のタグ付け|link=JA:Tag:office%3Dresearch}}
+
+OpenStreetMapは'''研究'''の観点から、大学や大学と同様の組織から当然のこととして注目を集めています。地理情報学、ネオ地理学、VGI（ボランタリー地理情報）、デジタル地図作成、参加型の地球情報学の学者達からも注目されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{Languages|Tasking Manager}}
 [[File:HOT Tasking Server Job.png|200px|thumb|right|Project progress overview of the Tasking Manager]]The [https://github.com/hotosm/tasking-manager/ Tasking Manager] is the tool for coordination of volunteers and organization of groups to map on OpenStreetMap.</seg>
       </tuv>
@@ -107718,6 +108045,30 @@ A '''Copyright Easter Egg''', in terms of mapping, is a feature that is drawn in
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{Research publication
+|title=
+|title_en=Design of a new GIS for ADAS oriented applications
+|ref=[http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5548016&amp;tag=1]
+|author=Samer Ammoun, Fawzi Nashashibi, Alexandre Brageton
+|date=2010
+|description=IEEE Intelligent Vehicles Symposium, San Diego, CA, USA
+|dedicated=
+}}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T230015Z" creationid="Hiroshi Miura" creationdate="20231227T230015Z">
+        <seg>{{Research publication
+|title=
+|title_en=Design of a new GIS for ADAS oriented applications
+|ref=[http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5548016&amp;tag=1]
+|author=Samer Ammoun, Fawzi Nashashibi, Alexandre Brageton
+|date=2010
+|description=IEEE Intelligent Vehicles Symposium, San Diego, CA, USA
+|dedicated=
+}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{languages|Environmental OSM}}
 
 [[File:Bachalpseeflowers.jpg|300px|Natural Environment Features|thumb|right]]
@@ -107740,6 +108091,57 @@ A '''Copyright Easter Egg''', in terms of mapping, is a feature that is drawn in
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T074308Z" creationid="Hiroshi Miura" creationdate="20231227T074308Z">
         <seg>{{warning
 |The actual OSM-4D specification only exists in the '''German''' version.&lt;br>Refer to the German version for details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|author=Antônio Heleno Caldas Laranjeira</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T230348Z" creationid="Hiroshi Miura" creationdate="20231227T230348Z">
+        <seg>|author=Antônio Heleno Caldas Laranjeira</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|date=2019-02-25</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T230348Z" creationid="Hiroshi Miura" creationdate="20231227T230348Z">
+        <seg>|date=2019-02-25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|description=
+}}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T230348Z" creationid="Hiroshi Miura" creationdate="20231227T230348Z">
+        <seg>|description=
+}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|ref=[https://ri.ufs.br/jspui/handle/riufs/11386]</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T230353Z" creationid="Hiroshi Miura" creationdate="20231227T230353Z">
+        <seg>|ref=[https://ri.ufs.br/jspui/handle/riufs/11386]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|title=A comunicação dos mapas : estudo comparado das plataformas Google Maps e OpenStreetMap</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T225954Z" creationid="Hiroshi Miura" creationdate="20231227T225954Z">
+        <seg>|title=A comunicação dos mapas : estudo comparado das plataformas Google Maps e OpenStreetMap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|title_en=Maps communication: comparative study of Google Maps and OpenStreetMap platforms</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T230438Z" creationid="Hiroshi Miura" creationdate="20231227T230011Z">
+        <seg>|title_ja=地図通信:GoogleマップとOpenStreetMapプラットフォームの比較研究
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -107798,6 +108200,14 @@ A '''Copyright Easter Egg''', in terms of mapping, is a feature that is drawn in
 }}
 
 '''Merkaartor''' is an OpenStreetMap editor for Linux, macOS and Windows, distributed under the [[Wikipedia:GNU General Public License|GNU General Public License]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>}}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T230022Z" creationid="Hiroshi Miura" creationdate="20231227T230022Z">
+        <seg>}}</seg>
       </tuv>
     </tu>
     <tu>
