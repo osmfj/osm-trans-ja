@@ -1214,6 +1214,22 @@ See also: [https://en.wikipedia.org/wiki/Sustainable_transport Sustainable Trans
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>'''Renderer'''
+* [[User:Bitsteller]] extends the [[osm2pov]] script and does city large isometric renderings [http://bitsteller.bplaced.net/osm/]
+* [[User:Komяpa]] working on isometric rendering embedded 3D models ([[Kothic]]) and created an Mapnik isometric layer (see openstreetmap.ru, source at [https://github.com/Komzpa/Mapnik-Sheets/tree/master/3d-buildings]
+* [[User:Runge]] created the isometric [[MapSurfer]] renderer, that is now [[OpenMapSurfer]] (both projects gone/discontinued)
+* SakirSoft working on [[ShugenDoMap]]</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231228T000441Z" creationid="Hiroshi Miura" creationdate="20231228T000308Z">
+        <seg>'''レンダラー'''
+* [[User:Bitsteller]] は [[osm2pov]] スクリプトを拡張し、都市の大きなアイソメトリックレンダリングを行います [http://bitsteller.bplaced.net/osm/]
+* [[User:Komяpa]] 埋め込み 3D モデル ([[Kothic]]) のアイソメトリックレンダリングに取り組んでおり、Mapnik アイソメトリックレイヤーを作成しました (openstreetmap.ru を参照、[https://github.com/Komzpa/Mapnik-Sheets/tree/master/3d-buildings] でソースにアクセス]
+* [[User:Runge]] がアイソメトリック [[MapSurfer]] レンダラーを作成し、現在は [[OpenMapSurfer]] となっています (両プロジェクトが廃止されました)
+* SakirSoft が [[ShugenDoMap]] で作業中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>'''Short answer:'''</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T014448Z" creationid="miurahr" creationdate="20200818T014448Z">
@@ -2220,6 +2236,14 @@ You can find a lot of tags concerning accessibility in these categories:
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210116T132031Z" creationid="miurahr" creationdate="20210116T132031Z">
         <seg>* [[JA:LoroDux|LoroDux]]は視覚障碍者向けの携帯機ナビゲーションソフトです。OSMとJava MEをベースとしたマルチプラットフォームソフトです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* [[OSM-3D.org|OSM-3D]]: show case by the [[University of Heidelberg GIScience (Geoinformatics) Research Group|University of Heidelberg]]</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231228T000254Z" creationid="Hiroshi Miura" creationdate="20231228T000239Z">
+        <seg>* [[OSM-3D.org|OSM-3D]]:  [[ハイデルベルグ大学GIScience (Geoinformatics) 研究グループ|ハイデルベルグ大学]]によるショーケース</seg>
       </tuv>
     </tu>
     <tu>
@@ -5360,6 +5384,15 @@ Usually copyright in maps (and anything else) will expire over a certain length 
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>== Defunct applications ==</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231228T000200Z" creationid="Hiroshi Miura" creationdate="20231228T000200Z">
+        <seg>== 廃止されたアプリケーション ==</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>== Developer tools ==
 * There are a number of projects on Google Code with both 'android' and 'openstreetmap' tags: [http://code.google.com/hosting/search?q=label%3Aopenstreetmap+label%3Aandroid&amp;projectsearch=Search+projects Search Google Code].</seg>
@@ -5922,6 +5955,17 @@ The following is overwiew of parts of the whole trails network.</seg>
 [[Category:Environment]]
 [[Category:Natural]]
 [[Category:Tagging guidelines]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>== People and additional projects ==
+The following users worked on 3D related topics:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231228T000312Z" creationid="Hiroshi Miura" creationdate="20231228T000241Z">
+        <seg>== 人と追加プロジェクト ==
+次のユーザーが 3D 関連のトピックに取り組みました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6841,6 +6885,66 @@ See [[Srtm2Osm]]; e.g.:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>==Libraries that display 3D data==
+{| class="wikitable sortable sticky" border="1"
+|-
+!Name
+!Platform
+!Language
+!Website
+!Source code
+!License
+!Description
+!Last updated
+|-
+| rowspan="2" | [[Cesium]]
+|Web
+|Javascript
+|[https://cesium.com/platform/cesiumjs/]
+|[https://github.com/CesiumGS/cesium cesium]
+| {{yes|free}} - Apache License, Version 2.0
+|Open-source 3D geospatial library
+|
+|-
+| Native
+|C++
+|
+|[https://github.com/CesiumGS/cesium-native cesium-native]
+| {{yes|free}} - Apache License, Version 2.0
+|Cesium native C++ libraries that help power the Cesium for Unreal plugin.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T235734Z" creationid="Hiroshi Miura" creationdate="20231227T234131Z">
+        <seg>==3Dデータを表示するライブラリ==
+{| class="wikitable sortable sticky" border="1"
+|-
+!名前
+!プラットホーム
+!言語
+!ウェブサイト
+!ソースコード
+!ライセンス
+!説明: __________
+!最後の更新
+|-
+|rowspan="2" |[[セシウム]]
+|ウェブ
+|Javascript(英語)
+|[https://cesium.com/platform/cesiumjs/]
+|[https://github.com/CesiumGS/cesium セシウム]
+|{{yes|free}} - Apache ライセンス、バージョン 2.0
+|オープンソースの3D地理空間ライブラリ
+|
+|-
+|ネイティブ
+|C++
+|
+|[https://github.com/CesiumGS/cesium-native セシウムネイティブ]
+|{{yes|free}} - Apache ライセンス、バージョン 2.0
+|Cesium for Unrealプラグインの強化に役立つCesiumネイティブC++ライブラリ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>==Links==
 {{:Camino de Santiago/links}}
 
@@ -6907,6 +7011,18 @@ There is a need to control and manage the negative affects of invasive non-nativ
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T230013Z" creationid="Hiroshi Miura" creationdate="20231227T230013Z">
         <seg>==関連項目==</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>==Services that provide 3D data==
+{| class="wikitable"
+!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T234543Z" creationid="Hiroshi Miura" creationdate="20231227T234543Z">
+        <seg>==3Dデータを提供するサービス==
+{| class="wikitable"
+!</seg>
       </tuv>
     </tu>
     <tu>
@@ -15042,6 +15158,15 @@ After: wikipedia={0}:{2}</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>Can display information in 3D or 2D.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T234432Z" creationid="Hiroshi Miura" creationdate="20231227T234432Z">
+        <seg>情報を 3D または 2D で表示できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Can not align a polygon.</seg>
       </tuv>
@@ -15063,6 +15188,15 @@ After: wikipedia={0}:{2}</seg>
       </tuv>
       <tuv lang="ja">
         <seg>設定が読み込めません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>Can take geographic information from different sources.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T234459Z" creationid="Hiroshi Miura" creationdate="20231227T234459Z">
+        <seg>さまざまなソースから地理情報を取得できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21443,6 +21577,20 @@ After: wikipedia={0}:{2}</seg>
       </tuv>
       <tuv lang="ja">
         <seg>化粧品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cost
+!Accessible through
+!Format
+!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T234611Z" creationid="Hiroshi Miura" creationdate="20231227T234611Z">
+        <seg>費用
+!アクセス先
+!形式
+!</seg>
       </tuv>
     </tu>
     <tu>
@@ -45198,6 +45346,60 @@ note: Some instances are with [https://github.com/hotosm/osm-tasking-manager2 Ta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Link 
+!Input
+!Output
+|-
+|[[OSM2World#Command line interface|OSM2World CLI]]
+|[[.osm]], .osm.gz, .osm.bz2 or .osm.pbf 
+|.gltf, .obj, .pov
+|-
+|[https://github.com/romanshuvalov/rsgeotools rsgeotools CLI] 
+|OSM Planet, waterpoly
+|
+|-
+|[https://github.com/karimnaaji/vectiler Vectiler]
+| Mapzen vector tiles
+|.obj
+|-
+|[[Osm2pov]]
+|.osm
+|.pov
+|}
+==Applications that generate images of 3D data==
+*[[OSM2World#Command line interface|OSM2World]]
+*[https://halfmaps.github.io/ Phototiler]
+*[https://github.com/AMDmi3/glosm Glosm-tiler]</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231228T000154Z" creationid="Hiroshi Miura" creationdate="20231228T000154Z">
+        <seg>リンク 
+!入力
+!出力
+|-
+|[[OSM2World#Command line interface|OSM2World CLI]]
+|[[.osm]], .osm.gz, .osm.bz2 or .osm.pbf 
+|.gltf, .obj, .pov
+|-
+|[https://github.com/romanshuvalov/rsgeotools rsgeotools CLI] 
+|OSMプラネット, waterpoly
+|
+|-
+|[https://github.com/karimnaaji/vectiler Vectiler]
+| Mapzen ベクタータイル
+|.obj
+|-
+|[[Osm2pov]]
+|.osm
+|.pov
+|}
+==3Dデータから画像を生成するアプリケーション==
+*[[OSM2World#Command line interface|OSM2World]]
+*[https://halfmaps.github.io/ Phototiler]
+*[https://github.com/AMDmi3/glosm Glosm-tiler]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Link offset for overlapping links</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200827T112341Z" creationid="miurahr" creationdate="20200827T112341Z">
@@ -50572,6 +50774,21 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>Name
+!Provides
+!Coverage
+!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T234554Z" creationid="Hiroshi Miura" creationdate="20231227T234554Z">
+        <seg>名前
+!提供物
+!カバレッジ
+!</seg>
       </tuv>
     </tu>
     <tu>
@@ -75388,6 +75605,15 @@ to control the autoloading of calibration files.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>Supports the same 3D features Mapbox SDKs do.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T234230Z" creationid="Hiroshi Miura" creationdate="20231227T234230Z">
+        <seg>Mapbox SDKと同じ3D機能をサポートします。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Suppress further error dialogs for this session.</seg>
       </tuv>
@@ -85266,6 +85492,60 @@ Create a new one.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>更新しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Updated
+|-
+|[https://cesium.com/platform/cesium-ion/ Cesium Ion]
+|[https://cesium.com/platform/cesium-ion/content/cesium-osm-buildings/ Cesium OSM 3D Buildings] 
+| Global 
+| Free for non-comercial use
+|
+*CesiumJS
+*Cesium for Unreal
+*Cesium for O3DE
+*[https://cesium.com/learn/ion/rest-api/ Cesium Ion REST API]
+|3DTiles
+|
+|-
+|Esri
+|[https://www.arcgis.com/home/group.html?id=337346d491064d7aa7d455cfba5e6a44#overview OpenStreetMap 3D Scene Layers]
+|Global
+|Paid 
+|ArcGIS Pro 
+|
+|
+|-
+|[https://3dbuildings.com/ 3D Buildings]
+|3D buildings from OSM and [https://3dbuildings.medium.com/how-we-clean-map-data-source-matching-cd7eca17e383 other sources].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T234911Z" creationid="Hiroshi Miura" creationdate="20231227T234720Z">
+        <seg>更新
+|-
+|[https://cesium.com/platform/cesium-ion/ Cesium Ion]
+|[https://cesium.com/platform/cesium-ion/content/cesium-osm-buildings/ Cesium OSM 333D建物]
+|グローバル
+|非商用利用は無料
+|
+*セシウムJS
+*Unrealのセシウム
+*O3DE用セシウム
+*[https://cesium.com/learn/ion/rest-api/ Cesium Ion REST API]
+|3Dタイル
+|
+|-
+|Esri (英語)
+|[https://www.arcgis.com/home/group.html?id=337346d491064d7aa7d455cfba5e6a44#overview OpenStreetMap 3Dシーンレイヤー]
+|グローバル
+|有料
+|ArcGIS Pro
+|
+|
+|-
+|[https://3dbuildings.com/ 3D建物]
+|OSMと[https://3dbuildings.medium.com/how-we-clean-map-data-source-matching-cd7eca17383e38 他のソース]からの3D建物。</seg>
       </tuv>
     </tu>
     <tu>
@@ -107746,6 +108026,20 @@ Click on the heading for one of the projects you have completed a square(s) for 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{{Languages|3D development}} {{communication channels
+| forum tag = 3d
+}}
+This page describes development projects that  create [[3D]] data using OpenStreetMap Data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T234109Z" creationid="Hiroshi Miura" creationdate="20231227T234006Z">
+        <seg>{{Languages|3D development}} {{communication channels
+| forum tag = 3d
+}}
+このページでは、OpenStreetMapデータを使って、 [[3D]] データを作成する開発プロジェクトについて説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{{Languages|Camino de Santiago}}
 [[Image:Ways of St. James in Europe.png|300px|right|thumb|Ways to Santiago through Europe]]
 [[Image:Routes de St jacques de Compostelle.png|300px|right|thumb|Main ways to Santiago]]
@@ -108091,6 +108385,350 @@ A '''Copyright Easter Egg''', in terms of mapping, is a feature that is drawn in
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T074308Z" creationid="Hiroshi Miura" creationdate="20231227T074308Z">
         <seg>{{warning
 |The actual OSM-4D specification only exists in the '''German''' version.&lt;br>Refer to the German version for details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|
+|-
+| rowspan="2" | [[MapLibre]]
+|Web
+|Typescript
+|[https://maplibre.org/projects/maplibre-gl-js/]
+|[https://github.com/maplibre/maplibre-gl-js maplibre-gl-js] 
+| {{yes|free}} 
+| rowspan="2" | Open-source alternative started after Mapbox switched to non-free licenses.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T235655Z" creationid="Hiroshi Miura" creationdate="20231227T234224Z">
+        <seg>|
+|-
+|rowspan="2" |[[MapLibre]]
+|ウェブ
+|Typescript
+|[https://maplibre.org/projects/maplibre-gl-js/]
+|[https://github.com/maplibre/maplibre-gl-js maplibre-gl-js]
+|{{yes|free}}
+|rowspan="2" |オープンソースの代替は、Mapboxがnon-freeライセンスに切り替えた後に始まりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|
+|-
+|Vizicities 
+|Web
+|Javascript
+|
+|[https://github.com/robhawkes/vizicities vizicities]
+| {{yes|free}} - BSD-3-Clause license
+|
+|2019
+|-
+|[[MapSurfer.NET]]
+|Web
+|C#
+|
+|[https://github.com/MapSurferNET MapSurferNET]
+| {{yes|free}} - Apache License, Version 2.0
+|
+|2018
+|-
+|XML3D
+|Web
+|Javascript
+|
+|[https://github.com/xml3d xml3d]
+|
+|
+|2016
+|-
+|osmtride
+|Web
+|
+|
+|[https://code.google.com/p/osmtride/ osmtride]
+| {{yes|free}} - BSD-3-Clause license
+|Displays OSM data in browser using Flash.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T235546Z" creationid="Hiroshi Miura" creationdate="20231227T234515Z">
+        <seg>|
+|-
+|Vizicities
+|ウェブ
+|Javascript
+|
+|[https://github.com/robhawkes/vizicities vizicities]
+|{{yes|free}} - BSD-3条項ライセンス
+|
+|2019年度
+|-
+|[[MapSurfer.NET]]
+|ウェブ
+|C#
+|
+|[https://github.com/MapSurferNET MapSurferNET]
+|{{yes|free}} - Apache ライセンス、バージョン 2.0
+|
+|2018年度
+|-
+|XML3Dの
+|ウェブ
+|Javascript
+|
+|[https://github.com/xml3d XML3D]
+|
+|
+|2016年度
+|-
+|オスムトライド
+|ウェブ
+|
+|
+|〔https://code.google.com/p/osmtride/ オスムライド〕
+|{{yes|free}} - BSD-3条項ライセンス
+|Flashを使ってOSMデータをブラウザに表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|
+|-
+|iOS
+|Swift
+|[https://docs.mapbox.com/ios/maps/guides/]
+|[https://github.com/mapbox/mapbox-maps-ios/ mapbox-maps-ios]
+| {{No|nonfree}} - Non-free license
+|
+|-
+|Android
+| Kotlin
+|[https://docs.mapbox.com/android/maps/guides/]
+|[https://github.com/mapbox/mapbox-maps-android/ mapbox-maps-android]
+| {{No|nonfree}} - Non-free license
+|
+|-
+|WorldWindKotlin
+|Android, Web, Java
+|Kotlin
+|[https://worldwind.earth/]
+|[https://github.com/WorldWindEarth/WorldWindKotlin WorldWindKotlin]
+| {{yes|free}} - Apache License, Version 2.0
+|3D virtual globe.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T235613Z" creationid="Hiroshi Miura" creationdate="20231227T234427Z">
+        <seg>|
+|-
+|iOSの場合
+|Swift
+|[https://docs.mapbox.com/ios/maps/guides/]
+|[https://github.com/mapbox/mapbox-maps-ios/ mapbox-maps-ios]
+|{{No|nonfree}} - フリーでないライセンス
+|
+|-
+|アンドロイド
+|Kotlin
+|[https://docs.mapbox.com/android/maps/guides/]
+|[https://github.com/mapbox/mapbox-maps-android/ mapbox-maps-android]
+|{{No|nonfree}} - フリーでないライセンス
+|
+|-
+|WorldWindKotlin
+|Android、Web、Java
+|Kotlin
+|[https://worldwind.earth/]
+|[https://github.com/WorldWindEarth/WorldWindKotlin WorldWindKotlin]
+|{{yes|free}} - Apache ライセンス、バージョン 2.0
+|3D仮想地球儀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|
+|-
+|iOS, Android, Native
+|C++
+| [https://maplibre.org/projects/maplibre-native/]
+|[https://maplibre.org/projects/maplibre-native/ maplibre-native]
+| {{yes|free}}
+|
+|-
+| rowspan="3" |[[Mapbox GL|Mapbox]]
+|Web
+|Javascript 
+|[https://docs.mapbox.com/mapbox-gl-js/guides/]
+|[https://github.com/mapbox/mapbox-gl-js mapbox-gl-js]
+| {{No|nonfree}} - Non-free license
+| rowspan="3" |Mapbox supports 3D features through their extrusion layer type and has tutorials on how use it to show buildings.They also provide a terrain layer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T235635Z" creationid="Hiroshi Miura" creationdate="20231227T234414Z">
+        <seg>|
+|-
+|iOS, Android, ネイティブ
+|C++
+|[https://maplibre.org/projects/maplibre-native/]
+|[https://maplibre.org/projects/maplibre-native/ maplibre-native]
+|{{yes|free}}
+|
+|-
+|rowspan="3" |[[Mapbox GL|Mapbox]]
+|ウェブ
+|Javascript
+|[https://docs.mapbox.com/mapbox-gl-js/guides/]
+|[https://github.com/mapbox/mapbox-gl-js mapbox-gl-js]
+|{{No|nonfree}} - フリーでないライセンス
+|rowspan="3" |Mapboxは、押し出しレイヤータイプで3D機能をサポートしており、それを使用して建物を表示する方法に関するチュートリアルがあります。また、地形レイヤーも提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|
+|[https://github.com/osrf/gazebo_osm gazebo-osm] 
+|-
+|[[blender-osm]] 
+|A [[Blender]] plugin
+|[https://prochitecture.gumroad.com/l/blender-osm Plugin on Gumroad]
+|[https://github.com/vvoovv/blender-osm blender-osm]
+|-
+|osm2maya
+|A Maya plugin
+|
+|[https://github.com/mkagenius/osm2maya osm2maya]
+|-
+|[[Osm2xp]]
+|[[X-Plane]] plugin to show data from OSM.
+|
+|[http://code.google.com/p/osm2xp/ osm2xp]
+|-
+|[[Kendzi3d]]
+|3D Renderer part of [[JOSM]] Map editor
+|
+|[https://github.com/kendzi/kendzi3d kendzi3d]
+|}
+==Applications that generate 3D data==
+{| class="wikitable"
+!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231228T000047Z" creationid="Hiroshi Miura" creationdate="20231227T235824Z">
+        <seg>|
+|[https://github.com/osrf/gazebo_osm gazebo-osm] 
+|-
+|[[blender-osm]] 
+| [[Blender]]プラグイン
+|[https://prochitecture.gumroad.com/l/blender-osm Gumroadのプラグイン]
+|[https://github.com/vvoovv/blender-osm blender-osm]
+|-
+|osm2maya
+|Mayaプラグイン
+|
+|[https://github.com/mkagenius/osm2maya osm2maya]
+|-
+|[[Osm2xp]]
+|OSMからのデータを表示する[[X-Plane]] プラグイン
+|
+|[http://code.google.com/p/osm2xp/ osm2xp]
+|-
+|[[Kendzi3d]]
+|[[JOSM]] マップエディタの3D レンダラー部分
+|
+|[https://github.com/kendzi/kendzi3d kendzi3d]
+|}
+==3Dデータを生成するアプリケーション==
+{| class="wikitable"
+!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|
+|[https://github.com/ue4plugins/StreetMap StreetMap]
+|-
+|Cesium for O3DE
+|Brings data from Cesium Ion into the open-source 3D engine O3DE
+|[https://cesium.com/platform/cesium-for-o3de/ Cesium for O3DE]
+| [https://github.com/CesiumGS/cesium-o3de cesium-o3de] 
+|-
+|gazebo-osm
+|Shows 3D data in the open-source robotics simulator Gazebo.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T235822Z" creationid="Hiroshi Miura" creationdate="20231227T235822Z">
+        <seg>|
+|[https://github.com/ue4plugins/StreetMap ストリートマップ]
+|-
+|O3DE用セシウム
+|Cesium Ion のデータをオープンソースの 3D エンジン O3DE に取り込む
+|[https://cesium.com/platform/cesium-for-o3de/ O3DE用セシウム ]
+|[https://github.com/CesiumGS/cesium-o3de セシウム-O3de]
+|-
+|gazebo-osm
+|オープンソースのロボティクスシミュレータ「Gazebo」の3Dデータを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|2011
+|}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T234517Z" creationid="Hiroshi Miura" creationdate="20231227T234517Z">
+        <seg>|2011
+|}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Global
+|Paid
+|
+*[https://3dbuildings.com/data/ Download]
+* [https://3dbuildings.com/api/ API]
+*[https://3dbuildings.com/maps/ Tile Layers API]
+**Leaflet layer
+**OSM Buildings
+**[[Mapbox GL]]  
+|
+|Monthly
+|}
+==Plugins that show 3D data in other applications==
+{| class="wikitable"
+!Name
+!Description
+!Website
+!GitHub
+|-
+|Cesium for Unreal
+|[[Unreal Engine]] plugin that shows data from Cesium Ion
+|[https://cesium.com/platform/cesium-for-unreal/ Cesium for Unreal]
+|[https://github.com/CesiumGS/cesium-unreal cesium-unreal]
+|-
+|StreetMap
+|Unreal Engine plugin that import OSM data and generates buildings.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T234724Z" creationid="Hiroshi Miura" creationdate="20231227T234724Z">
+        <seg>|Global
+|Paid
+|
+*[https://3dbuildings.com/data/ Download]
+* [https://3dbuildings.com/api/ API]
+*[https://3dbuildings.com/maps/ Tile Layers API]
+**Leaflet layer
+**OSM Buildings
+**[[Mapbox GL]]  
+|
+|Monthly
+|}
+==Plugins that show 3D data in other applications==
+{| class="wikitable"
+!Name
+!Description
+!Website
+!GitHub
+|-
+|Cesium for Unreal
+|[[Unreal Engine]] plugin that shows data from Cesium Ion
+|[https://cesium.com/platform/cesium-for-unreal/ Cesium for Unreal]
+|[https://github.com/CesiumGS/cesium-unreal cesium-unreal]
+|-
+|StreetMap
+|Unreal Engine plugin that import OSM data and generates buildings.</seg>
       </tuv>
     </tu>
     <tu>
