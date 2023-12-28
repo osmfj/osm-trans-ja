@@ -1014,6 +1014,35 @@ This would fix the double redirect problem and you have done a clean fresh title
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>'''Exporter'''
+* [[User:h4ck3rm1k3]] worked on a Blender3D export script [https://www.openstreetmap.org/user/h4ck3rm1k3/diary/8068]
+* [[User:Jon]] made a 3D landscape export to [[FlightGear]]
+* [[Supertuxkart]] can get levels from OSM as well</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231228T000456Z" creationid="Hiroshi Miura" creationdate="20231228T000456Z">
+        <seg>'''エクスポータ'''
+* [[User:h4ck3rm1k3]] が Blender3D エクスポートスクリプトに取り組みました [https://www.openstreetmap.org/user/h4ck3rm1k3/diary/8068]
+* [[User:Jon]] が [[FlightGear]] に 3D ランドスケープをエクスポートしました。
+* [[Supertuxkart]]はOSMからもレベルを取得できます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>'''General'''
+* Skye Book doing some 2D vis in 3D OpenGL space [http://www.skyebook.net/blog/2011/11/more-on-openstreetmap-data-in-jme/]
+* [[User:Viw/OSM3D]] about 3D tagging and editing
+* [[User:Marek_kleciak]] working as a professional on a automotive centered 3D environment/service.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231228T000530Z" creationid="Hiroshi Miura" creationdate="20231228T000530Z">
+        <seg>「全般」
+*Skye Bookは、3D OpenGL空白で2D表示を行っています[http://www.skyebook.net/blog/2011/11/more-on-openstreetmap-data-in-jme/]
+*[[ユーザー:Viw/OSM 3D]]3Dタグ付けと編集について
+*[[ユーザー:Marek_kleciak]]自動車を中心とした3D環境/サービスの専門家として働いています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>'''If unsure, do not use'''.</seg>
       </tuv>
@@ -2244,6 +2273,64 @@ You can find a lot of tags concerning accessibility in these categories:
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231228T000254Z" creationid="Hiroshi Miura" creationdate="20231228T000239Z">
         <seg>* [[OSM-3D.org|OSM-3D]]:  [[ハイデルベルグ大学GIScience (Geoinformatics) 研究グループ|ハイデルベルグ大学]]によるショーケース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* [[User:Balrog]] maintains the [https://github.com/balrog-kun/OSMapa-Topo OSMapa-Topo] mapnik stylesheet with 2.5D buildings, rooves, etc. originally based on Komяpa's work, also created a [http://globe.imagery.aero/ WebGL-based 3D globe slippymap] library.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231228T001932Z" creationid="Hiroshi Miura" creationdate="20231228T001756Z">
+        <seg>* [[User:Balrog]] は 、元々は Komяpa の著作に基づく2.5D建物の[https://github.com/balrog-kun/OSMapa-Topo OSMapa-Topo] mapnik スタイルシートを保守しており、[http://globe.imagery.aero/ WebGL ベースの 3D 地球儀スリッピーマップ] ライブラリも作成しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* [[User:Jongleur]] thinking about more complex 3D box modells within the OSM DB [https://wiki.openstreetmap.org/wiki/User:Jongleur/MultiLevel_Building_Shapes]
+* [[User:Anatolie]] had some thoughts about a Collada 3D scenery sharing for [[Moldava]] [https://wiki.openstreetmap.org/wiki/Collada_3D_Building]
+* [[User:!i!]] made some improvements to the [[Rostocker Gebäudehöhen import 2009]] and [[micromapping]] in [[Rostock]] and shared the experience at [[Geoforum MV 2013]] including Blender rendering and games export
+* [[User:nickw]] has developed a demo OSM viewer with SRTM data using WebGL [http://www.free-map.org.uk/3d] and early work on a standalone OSM/SRTM OpenGL viewer [http://www.free-map.org.uk/downloads/footnav]
+* [[User:stefan_zst80]] Project page: osm3d.org [http://www.osm3d.org], did some tests with WebGL
+* [[OpenDEM]] is working on a more accurate elevation model than [[SRTM]]
+* [[User:vvoovv]] working on a Google Sketchup interexchange [https://www.openstreetmap.org/user/vvoovv/diary/13069]
+* [[User:Aschilli]] thinking about roof line tracing [https://wiki.openstreetmap.org/wiki/User:Aschilli/ProposedRoofLines]
+* [[User:bvbmatze]] works on improving [[OSM-3D]] at the University of Heidelberg, current focus on external building repository [[OpenBuildingModels]]
+* [[User:Lulu-Ann]] is planning to produce 2.5D tactile maps for blind persons, see project [[HaptoRender]]
+* Using Kinect as 3D radar [http://blog.decoratorpattern.com/2011/01/23/real-world-mapping-with-the-kinect/]
+* in modern browsers: http://www.webglearth.org/
+* Lorenz Laucher added [[TMS]] OSM support to [http://eat-a-bug.blogspot.com/2011/06/openstreetmaps-for-rhino.html Rhino]] 3D
+* Microsoft created a [http://www.engadget.com/2011/08/09/microsofts-kinectfusion-research-project-offers-real-time-3d-re/ Kinect based 3D scanner], [http://research.microsoft.com/en-us/projects/surfacerecon/]
+* [http://vterrain.org/ Virtual Terrain project] big portal
+* [[User:rajo]] Is working on OSM in 3D using [http://www.xml3d.org/ Declarative 3D for the Web]
+* [https://bugs.kde.org/show_bug.cgi?id=313230 Marble community asked for joining]
+* [http://osm3d.cs.technion.ac.il/ osm3d.cs.technion.ac.il] Showing off 3D interchanges and improvements to [[SRTM]] based on (3D) GPS traces.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231228T001810Z" creationid="Hiroshi Miura" creationdate="20231228T001754Z">
+        <seg>* [[User:Jongleur]] OSM DB内でより複雑な3Dボックスモデルについて考える [https://wiki.openstreetmap.org/wiki/User:Jongleur/MultiLevel_Building_Shapes]
+* [[User:Anatolie]]は[[モルダヴァ]] [https://wiki.openstreetmap.org/wiki/Collada_3D_Building] のCollada 3D風景共有についていくつかの考えを持っていました。
+* [[User:!i!]][[Rostocker Gebäudehöhen import 2009]] と [[Rostock]] の [[マイクロマッピング]] にいくつかの改善を加え、[[Geoforum MV 2013]] で Blender レンダリングやゲームのエクスポートなどの経験を共有しました
+* [[User:nickw]]は、WebGLを使ったSRTMデータを使ったデモOSMビューアを開発し[http://www.free-map.org.uk/3d]、スタンドアロンのOSM/SRTM OpenGLビューアの初期作業を行いました [http://www.free-map.org.uk/downloads/footnav]
+* [[User:stefan_zst80]] プロジェクトページ: osm3d.org [http://www.osm3d.org], WebGLでいくつかのテストを行いました
+* [[OpenDEM]]は[[SRTM]]よりも正確な標高モデルに取り組んでいます
+* [[User:vvoovv]] が Google Sketchup のインターエクスチェンジに取り組んでいる [https://www.openstreetmap.org/user/vvoovv/diary/13069]
+* [[User:Aschilli]] ルーフライントレースについて考える [https://wiki.openstreetmap.org/wiki/User:Aschilli/ProposedRoofLines]
+* [[User:bvbmatze]]はハイデルベルク大学の[[OSM-3D]]の改善に取り組んでおり、現在は外部の建物リポジトリ[[OpenBuildingModels]]に焦点を当てています。
+* [[User:Lulu-Ann]]は視覚障害者のための2.5D触覚地図の作成を計画しています。
+* Kinect を 3D レーダーとして使用する [http://blog.decoratorpattern.com/2011/01/23/real-world-mapping-with-the-kinect/]
+* 最新のブラウザの場合: http://www.webglearth.org/
+* Lorenz Laucher が [http://eat-a-bug.blogspot.com/2011/06/openstreetmaps-for-rhino.html Rhino]] 3D に [[TMS]] OSM サポートを追加
+* Microsoftは[http://www.engadget.com/2011/08/09/microsofts-kinectfusion-research-project-offers-real-time-3d-re/ Kinectベースの3Dスキャナー]、[http://research.microsoft.com/en-us/projects/surfacerecon/]を作成しました
+* [http://vterrain.org/ Virtual Terrain project] 大きなポータル
+* [[User:rajo]] [http://www.xml3d.org/ Declarative 3D for the Web] を使って OSM を 3D で作業中
+* [https://bugs.kde.org/show_bug.cgi?id=313230 Marble コミュニティが参加を要請しました]
+* [http://osm3d.cs.technion.ac.il/ osm3d.cs.technion.ac.il] (3D)GPSトレースに基づく[[SRTM]]の3Dインターチェンジと改良を披露しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* [[User:Klokan Petr Přidal]] working on a WebGL 3D globe for the browsers: Try it [http://www.webglearth.com].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231228T000648Z" creationid="Hiroshi Miura" creationdate="20231228T000648Z">
+        <seg>* [[User:Klokan Petr Přidal]] がブラウザ用の WebGL 3D 地球儀に取り組んでいます: 試してみてください [http://www.webglearth.com]。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5357,6 +5444,16 @@ Unlike Wikipedia, we are not aiming to capture vast amounts of knowledge in the 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>== Coordinated tasks ==
+Even with most people working on their own projects, there are some shared resources and standards that could be used across projects or need support by the community to contribute data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231228T001950Z" creationid="Hiroshi Miura" creationdate="20231228T001832Z">
+        <seg>== 統率されているタスク ==
+ほとんどの人が自分のプロジェクトに取り組んでいる場合でも、プロジェクト全体で使用できる共有リソースや標準、またはデータを提供するためにコミュニティによるサポートが必要なリソースや標準がいくつかあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>== Copyright Law in detail ==
 We have a number of wiki pages going into details of copyright law and how it applies to maps and OpenStreetMap:
 * [[Statute law]]
@@ -6030,6 +6127,16 @@ There are also cases where the street signs are incorrect, but the maps are corr
     <tu>
       <tuv lang="en-US">
         <seg>== See also ==
+* [[Indoor]]</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231228T002842Z" creationid="Hiroshi Miura" creationdate="20231228T002842Z">
+        <seg>== 関連項目 ==
+* [[JA:Key:Indoor]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>== See also ==
 * [http://blog.emacsen.net/blog/2014/01/17/edit-wars-in-openstreetmap/ Serge Wroclawski's writeup about edit wars from the POV of a DWG member]
 * [[Disputed_territories]]
 * [https://en.wikipedia.org/wiki/List_of_territorial_disputes List of territorial disputes (Wikipedia)]
@@ -6101,6 +6208,17 @@ Wiki translation is taking place on a somewhat ad-hoc basis, and you are encoura
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>=== 3D model repository ===
+The [[3D Model Repository]] (3DMR) offers a shared collection of 3D models which can be linked with OSM. This allows rendering software to go beyond the limited features of a LOD1 building model.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231228T002023Z" creationid="Hiroshi Miura" creationdate="20231228T001953Z">
+        <seg>=== 3Dモデルリポジトリ ===
+[[3Dモデルリポジトリ]](3DMR)は、OSMとリンクできる3Dモデルの共有コレクションを提供します。これにより、レンダリング ソフトウェアは LOD1 建物モデルの限られた機能を超えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>=== Anachronisms ===
 A stretch of road in northern New Jersey is known and mapped as New Jersey Route 24 along County Routes 517, 513, and 510, although a freeway was built with that designation between I-78 and I-287, and in 1993 the old Route 24 ceased to exist, although resident resistance has kept the old Route 24 signs standing since they know the road as such.</seg>
@@ -6129,6 +6247,16 @@ Vertices trick（記号）。</seg>
       <tuv lang="ja" changeid="miurahr" changedate="20170522T000032Z" creationid="miurahr" creationdate="20170522T000023Z">
         <seg>=== カテゴリ === 
 * "Category:&lt;言語コード>:&lt;翻訳した題名>" の命名規則を使ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>=== Common tagging features ===
+[[Image:Minlevel.svg|thumb|Describing low level models by tags]]</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231228T002116Z" creationid="Hiroshi Miura" creationdate="20231228T002116Z">
+        <seg>=== 一般的なタグ付け機能 ===
+[[Image:Minlevel.svg|thumb|低水準モデルをタグで記述する]]</seg>
       </tuv>
     </tu>
     <tu>
@@ -10571,6 +10699,14 @@ There is a need to control and manage the negative affects of invasive non-nativ
       </tuv>
       <tuv lang="ja">
         <seg>プリミティブ ''{0}'' には既に競合が登録されています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Also [[Roof modelling]], [[DE:Roof_table|3d roof and dormer modelling]], 3D terrain and bridges modelling, [[Tree_table|tree modelling]], [[DE:3D-building/Durchfahrt|3D Tunnels]], [[DE:Stairs_modelling]].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231228T000637Z" creationid="Hiroshi Miura" creationdate="20231228T000637Z">
+        <seg>[[屋根のモデリング]]、[[DE:Roof_table|3Dの屋根とドーマーのモデリング]]、3D地形と橋のモデリング、[[Tree_table|樹木のモデリング]]、[[DE:3D-building/Durchfahrt|3Dトンネル]]、[[DE:階段のモデリング]]も実施しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25608,6 +25744,15 @@ Do you want to keep it?</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>Developer of [[OSM-4D]] definition.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231228T000541Z" creationid="Hiroshi Miura" creationdate="20231228T000532Z">
+        <seg>[[OSM-4D]]定義の開発者。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Development</seg>
       </tuv>
@@ -40488,6 +40633,34 @@ If tagging an [[area]], [[way]] or [[node]] there may be reasons to record the {
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition, most tools use one or several of the following tagging schemes to create 3D scenes:
+* [[Buildings]]
+* [[Layer]]
+* [[Simple 3D Buildings]]
+* [[OSM-4D]]
+* [[Proposed features/Building attributes]]
+* [[Relations/Proposed/Level]]
+* [[ProposedRoofLines]]
+* [[Relations/Proposed/Multipart]]
+* [[DE:Dachmodellierungstechniken]]
+* [[Proposed_features/lamp]]</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231228T004404Z" creationid="Hiroshi Miura" creationdate="20231228T002207Z">
+        <seg>さらに、ほとんどのツールでは、次のタグ付けスキーマの 1 つまたは複数を使用して 3D シーンを作成します。
+* [[JA:建物]]
+* [[JA:Layer]]
+* [[JA:Simple 3D Buildings]]
+* [[OSM-4D]]
+* [[Proposed_features/JA:Building attributes]]
+* [[Relations/Proposed/JA:Level]]
+* [[ProposedRoofLines]]
+* [[Relations/Proposed/JA:Multipart]]
+* [[DE:Dachmodellierungstechniken]]
+* [[Proposed_features/JA:lamp]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition, the German postal code lookup server does not recognise a "Grünewaldstraße" in Hilden.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201123T115604Z" creationid="miurahr" creationdate="20201123T115604Z">
@@ -42232,6 +42405,15 @@ Cannot continue.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200905T052632Z" creationid="miurahr" creationdate="20200905T052625Z">
         <seg>また、作業の進捗や均一性を制御することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>It also supports models that exist more than once in the world (e.g. a common bench in New York).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231228T002030Z" creationid="Hiroshi Miura" creationdate="20231228T002005Z">
+        <seg>また、世界に複数回存在するモデル(ニューヨークの一般的なベンチなど)もサポートしています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49574,6 +49756,15 @@ Select one of them first, then retry</seg>
       </tuv>
       <tuv lang="ja">
         <seg>モスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>Most developers agreed to support use this tagging schema as a lowest common denominator: [[Simple 3D Buildings]]</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231228T002128Z" creationid="Hiroshi Miura" creationdate="20231228T002128Z">
+        <seg>ほとんどの開発者は、このタグ付けスキーマを最小公分母として使用することに同意しました: [[Simple 3D Buildings]]</seg>
       </tuv>
     </tu>
     <tu>
@@ -61581,6 +61772,14 @@ The ways selected must form a simple branchless path</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201120T063933Z" creationid="miurahr" creationdate="20201120T063933Z">
         <seg>プロジェクトページ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Project page: [http://www.webglearth.org].</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231228T000656Z" creationid="Hiroshi Miura" creationdate="20231228T000656Z">
+        <seg>プロジェクトページ: [http://www.webglearth.org]</seg>
       </tuv>
     </tu>
     <tu>
@@ -92119,6 +92318,15 @@ Lye Close isn't in the index either.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>[[OSM-3D Screenshots]] gives a nice overview, where 3D objects are already in heavy use.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231228T002330Z" creationid="Hiroshi Miura" creationdate="20231228T002208Z">
+        <seg>[[OSM-3D Screenshots]]は、3Dオブジェクトがすでに多用されている場所の概要を示しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>[[OpenTouchMap]] has slightly better multitouch support.</seg>
       </tuv>
@@ -108702,9 +108910,9 @@ A '''Copyright Easter Egg''', in terms of mapping, is a feature that is drawn in
 |StreetMap
 |Unreal Engine plugin that import OSM data and generates buildings.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231227T234724Z" creationid="Hiroshi Miura" creationdate="20231227T234724Z">
-        <seg>|Global
-|Paid
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231228T001001Z" creationid="Hiroshi Miura" creationdate="20231227T234724Z">
+        <seg>|グローバル
+|有償
 |
 *[https://3dbuildings.com/data/ Download]
 * [https://3dbuildings.com/api/ API]
@@ -108715,20 +108923,20 @@ A '''Copyright Easter Egg''', in terms of mapping, is a feature that is drawn in
 |
 |Monthly
 |}
-==Plugins that show 3D data in other applications==
+==3Dデータを他のアプリに表示するプラグイン==
 {| class="wikitable"
-!Name
-!Description
-!Website
+!名前
+!説明
+!ウェブサイト
 !GitHub
 |-
-|Cesium for Unreal
+|Unreal用セシウム
 |[[Unreal Engine]] plugin that shows data from Cesium Ion
 |[https://cesium.com/platform/cesium-for-unreal/ Cesium for Unreal]
 |[https://github.com/CesiumGS/cesium-unreal cesium-unreal]
 |-
 |StreetMap
-|Unreal Engine plugin that import OSM data and generates buildings.</seg>
+|OSMデータを読みこんで建物を生成するUnreal Engineプラグイン。</seg>
       </tuv>
     </tu>
     <tu>
