@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_35ba0ed" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_f59958c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -38509,6 +38509,14 @@ If tagging an [[area]], [[way]] or [[node]] there may be reasons to record the {
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Historic versions may not be "clean", and have been internally flagged as such by the bot.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20240310T132240Z" creationid="Hiroshi Miura" creationdate="20240310T132240Z">
+        <seg>Historic versions may not be "clean", and have been internally flagged as such by the bot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Historical name</seg>
       </tuv>
       <tuv lang="ja">
@@ -39411,6 +39419,14 @@ If tagging an [[area]], [[way]] or [[node]] there may be reasons to record the {
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20200818T014110Z" creationid="miurahr" creationdate="20200818T014110Z">
         <seg>それでもいいからと利用したところで、せいぜい出来る事は配布しない私用の目的でコピーを取ることぐらいです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you are an editor writer or the author of software that interacts otherwise with the API, you should read this and make sure that your software can cope with these changes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20240310T054111Z" creationid="Hiroshi Miura" creationdate="20240310T054111Z">
+        <seg>If you are an editor writer or the author of software that interacts otherwise with the API, you should read this and make sure that your software can cope with these changes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78690,6 +78706,14 @@ Note: Now the parameter "ns=" is no required to specify a leading namespace such
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The license change has been performed on the live database (i.e. no dump and reload).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20240310T054227Z" creationid="Hiroshi Miura" creationdate="20240310T054227Z">
+        <seg>The license change has been performed on the live database (i.e. no dump and reload).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The links are written in their respective natime names: "Deutsch", "English", "français", etc.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20170523T123058Z" creationid="miurahr" creationdate="20170523T123058Z">
@@ -80809,6 +80833,15 @@ This makes use of a very simple &lt;x1/>OAuth-Dummy server&lt;x2/>.</seg>
       </tuv>
       <tuv lang="ja">
         <seg>このオプションは恒久的に保存されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>This page documents the changes that have been made to the API (more precisely, to the OSM XML data emitted by the API) in conjunction with the license change.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20240310T054103Z" creationid="Hiroshi Miura" creationdate="20240310T054040Z">
+        <seg>このページでは、ライセンスの変更に関連してAPI(より正確には、APIが発行するOSM XMLデータ)に加えられた変更について説明します。</seg>
       </tuv>
     </tu>
     <tu>
