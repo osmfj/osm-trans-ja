@@ -6661,6 +6661,18 @@ Overpass QL のコードは''ステートメント'' からなっており、そ
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>=== Undiscussed automated edits ===
+{{main|Automated Edits code of conduct}}
+Automated edits - using scripts or mass edit function available in some editors, may be very useful and powerful.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20250215T073240Z" creationid="Hiroshi Miura" creationdate="20250215T073240Z">
+        <seg>=== 議論されていない自動編集 ===
+{{main|Automated Edits code of conduct}}
+自動編集 - 一部のエディターで利用可能なスクリプトや一括編集機能を使用すると、非常に便利で強力な場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>=== Undiscussed imports ===
 {{main|Import/Guidelines}}
 Imports can be done to augment OpenStreetMap data, but it is mandatory to follow some rules.</seg>
@@ -40635,6 +40647,15 @@ If tagging an [[area]], [[way]] or [[node]] there may be reasons to record the {
       </tuv>
       <tuv lang="ja">
         <seg>Columbus/Visiontac V-900 GPS ロガーで記録した CSV ファイルを GPX レイヤーにインポートします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en-US">
+        <seg>Imports that were not discussed can be removed by any mapper.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20250215T071816Z" creationid="Hiroshi Miura" creationdate="20250215T071816Z">
+        <seg>議論されていないインポートは、どのマッパーでも削除できます。</seg>
       </tuv>
     </tu>
     <tu>
